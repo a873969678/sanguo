@@ -440,7 +440,9 @@
     "deleted_bytes": 668296224.0,
     "failed_count": 0,
     "retained_files_verified": 114,
-    "retained_bytes_unchanged": true,
-    "record": "剧集/EP001/制作成果/发布后清理记录_20261009.json"
+    "record": "剧集/EP001/制作成果/发布后清理记录_20261009.json",
+    "retained_media_bytes_unchanged": true,
+    "metadata_refresh_count": 1,
+    "empty_directories_removed": false
   }
 }

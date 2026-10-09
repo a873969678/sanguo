@@ -15,572 +15,800 @@
     {
       "path": "公共素材/人物/关羽/关咪_猫脸卡通角色板_定稿.png",
       "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
-      "size_bytes": 2499692
+      "size_bytes": 2499692,
+      "sha256_before_cleanup": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
+      "size_bytes_before_cleanup": 2499692
     },
     {
       "path": "公共素材/人物/刘备/刘咪_猫脸卡通角色板_定稿.png",
       "sha256": "6138d6b7e595d09fe861502b6282041b847bd17d7dacefd79bfc91df6d6b2531",
-      "size_bytes": 2149782
+      "size_bytes": 2149782,
+      "sha256_before_cleanup": "6138d6b7e595d09fe861502b6282041b847bd17d7dacefd79bfc91df6d6b2531",
+      "size_bytes_before_cleanup": 2149782
     },
     {
       "path": "公共素材/人物/张飞/张咪_猫脸卡通角色板_定稿.png",
       "sha256": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
-      "size_bytes": 2156870
+      "size_bytes": 2156870,
+      "sha256_before_cleanup": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
+      "size_bytes_before_cleanup": 2156870
     },
     {
       "path": "公共素材/声音/买肉客咪_独立声线_工作版_v001.wav",
       "sha256": "e088af1266efb1f39aec75c953d4b3c2db552acebacf859e0c7665e40479e9a0",
-      "size_bytes": 80684
+      "size_bytes": 80684,
+      "sha256_before_cleanup": "e088af1266efb1f39aec75c953d4b3c2db552acebacf859e0c7665e40479e9a0",
+      "size_bytes_before_cleanup": 80684
     },
     {
       "path": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
       "sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
-      "size_bytes": 265004
+      "size_bytes": 265004,
+      "sha256_before_cleanup": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "size_bytes_before_cleanup": 265004
     },
     {
       "path": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
       "sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
-      "size_bytes": 84524
+      "size_bytes": 84524,
+      "sha256_before_cleanup": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "size_bytes_before_cleanup": 84524
     },
     {
       "path": "公共素材/声音/声音制作要求.json",
       "sha256": "0820774ebb6009f537a1791466c20420f377dba424f16bddbeb71f2268b04fb9",
-      "size_bytes": 6803
+      "size_bytes": 6803,
+      "sha256_before_cleanup": "0820774ebb6009f537a1791466c20420f377dba424f16bddbeb71f2268b04fb9",
+      "size_bytes_before_cleanup": 6803
     },
     {
       "path": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
       "sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
-      "size_bytes": 111404
+      "size_bytes": 111404,
+      "sha256_before_cleanup": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "size_bytes_before_cleanup": 111404
     },
     {
       "path": "公共素材/声音/肉摊伙计_独立声线_工作版_v001.wav",
       "sha256": "7ba47d6fc4fb3596cf01b2c91c5e507faa8d3099e9cc71a95e44cfc586de7a69",
-      "size_bytes": 169004
+      "size_bytes": 169004,
+      "sha256_before_cleanup": "7ba47d6fc4fb3596cf01b2c91c5e507faa8d3099e9cc71a95e44cfc586de7a69",
+      "size_bytes_before_cleanup": 169004
     },
     {
       "path": "公共素材/声音/角色声线配置.json",
       "sha256": "211d8cace616947d130c55d16308e61f2f086c168a1f09bef890976dff03b818",
-      "size_bytes": 11063
+      "size_bytes": 11063,
+      "sha256_before_cleanup": "211d8cace616947d130c55d16308e61f2f086c168a1f09bef890976dff03b818",
+      "size_bytes_before_cleanup": 11063
     },
     {
       "path": "公共素材/武器/关羽枪械/关咪枪械_卡通道具板_定稿.png",
       "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
-      "size_bytes": 1689972
+      "size_bytes": 1689972,
+      "sha256_before_cleanup": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
+      "size_bytes_before_cleanup": 1689972
     },
     {
       "path": "公共素材/武器/刘备双枪/刘咪双枪_卡通道具板_定稿.png",
       "sha256": "e722470c536504e4db19c61643937342030134f8826c6eb08aa9e58eb48a2401",
-      "size_bytes": 1601660
+      "size_bytes": 1601660,
+      "sha256_before_cleanup": "e722470c536504e4db19c61643937342030134f8826c6eb08aa9e58eb48a2401",
+      "size_bytes_before_cleanup": 1601660
     },
     {
       "path": "公共素材/武器/张飞枪械/张咪枪械_卡通道具板_定稿.png",
       "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
-      "size_bytes": 1603727
+      "size_bytes": 1603727,
+      "sha256_before_cleanup": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
+      "size_bytes_before_cleanup": 1603727
     },
     {
       "path": "公共素材/视觉参考/README.md",
       "sha256": "06143779836ad41716a4d349784f923546343b83f11e719341b9635e30076179",
-      "size_bytes": 1258
+      "size_bytes": 1258,
+      "sha256_before_cleanup": "06143779836ad41716a4d349784f923546343b83f11e719341b9635e30076179",
+      "size_bytes_before_cleanup": 1258
     },
     {
       "path": "公共素材/视觉参考/刘关张_小巧可爱_风格母版_定稿.png",
       "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
-      "size_bytes": 2042421
+      "size_bytes": 2042421,
+      "sha256_before_cleanup": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "size_bytes_before_cleanup": 2042421
     },
     {
       "path": "剧集/EP001/制作成果/audio/修复/EP001_对白音效配乐_最终混音_v006.wav",
       "sha256": "edb093c4ee281f83d0a1d13920870733bc6742fd311a330864c99637d17e993a",
-      "size_bytes": 35688102
+      "size_bytes": 35688102,
+      "sha256_before_cleanup": "edb093c4ee281f83d0a1d13920870733bc6742fd311a330864c99637d17e993a",
+      "size_bytes_before_cleanup": 35688102
     },
     {
       "path": "剧集/EP001/制作成果/audio/修复/EP001_开袋吆喝混合音轨_v005.wav",
       "sha256": "dd81a5efbe7240f2946c019a668a8c31c7fee84b0c7feb2d59176f715ed70de4",
-      "size_bytes": 47587416
+      "size_bytes": 47587416,
+      "sha256_before_cleanup": "dd81a5efbe7240f2946c019a668a8c31c7fee84b0c7feb2d59176f715ed70de4",
+      "size_bytes_before_cleanup": 47587416
     },
     {
       "path": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-01_涿郡市集_试听_v001.wav",
       "sha256": "c0e988827b3af7ea54feb6d54d4bd3bf41a5aac7d527a586abdbf6df10baa079",
-      "size_bytes": 8640044
+      "size_bytes": 8640044,
+      "sha256_before_cleanup": "c0e988827b3af7ea54feb6d54d4bd3bf41a5aac7d527a586abdbf6df10baa079",
+      "size_bytes_before_cleanup": 8640044
     },
     {
       "path": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-02_搬盘分肉_v001.wav",
       "sha256": "e851213195d4ec6d62516d5e77484d99e2433957a2a381b07639fd9abf0100ca",
-      "size_bytes": 12960044
+      "size_bytes": 12960044,
+      "sha256_before_cleanup": "e851213195d4ec6d62516d5e77484d99e2433957a2a381b07639fd9abf0100ca",
+      "size_bytes_before_cleanup": 12960044
     },
     {
       "path": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-03_关张对峙_v001.wav",
       "sha256": "d1cc46160b1c3407902ad12e51cf7de04abcd2b2f06bb00a261e01c9fe3c6c24",
-      "size_bytes": 17280044
+      "size_bytes": 17280044,
+      "sha256_before_cleanup": "d1cc46160b1c3407902ad12e51cf7de04abcd2b2f06bb00a261e01c9fe3c6c24",
+      "size_bytes_before_cleanup": 17280044
     },
     {
       "path": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-04_徒手较量与制止_v001.wav",
       "sha256": "d86444ba3d6e9aac5533d12702ed43e6c8b264bcfe8f12e6c782013ee9a25c01",
-      "size_bytes": 11520044
+      "size_bytes": 11520044,
+      "sha256_before_cleanup": "d86444ba3d6e9aac5533d12702ed43e6c8b264bcfe8f12e6c782013ee9a25c01",
+      "size_bytes_before_cleanup": 11520044
     },
     {
       "path": "剧集/EP001/制作成果/audio/配乐/EP001_完整配乐_时间线混音_v001.wav",
       "sha256": "d8bf7a6939c9fb76b11a4b9654d8d53d227d37303a44534a843eb4e183a92943",
-      "size_bytes": 35688044
+      "size_bytes": 35688044,
+      "sha256_before_cleanup": "d8bf7a6939c9fb76b11a4b9654d8d53d227d37303a44534a843eb4e183a92943",
+      "size_bytes_before_cleanup": 35688044
     },
     {
       "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-004_关咪_吆喝_Qwen_v001.wav",
       "sha256": "a78461e788434ec3bbeac01bac990513ed58ebf8e9429704844e7eb5ea94a31f",
-      "size_bytes": 130604
+      "size_bytes": 130604,
+      "sha256_before_cleanup": "a78461e788434ec3bbeac01bac990513ed58ebf8e9429704844e7eb5ea94a31f",
+      "size_bytes_before_cleanup": 130604
     },
     {
       "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-007_买肉客咪_Qwen_v001.wav",
       "sha256": "e088af1266efb1f39aec75c953d4b3c2db552acebacf859e0c7665e40479e9a0",
-      "size_bytes": 80684
+      "size_bytes": 80684,
+      "sha256_before_cleanup": "e088af1266efb1f39aec75c953d4b3c2db552acebacf859e0c7665e40479e9a0",
+      "size_bytes_before_cleanup": 80684
     },
     {
       "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-008_肉摊伙计_Qwen_v001.wav",
       "sha256": "7ba47d6fc4fb3596cf01b2c91c5e507faa8d3099e9cc71a95e44cfc586de7a69",
-      "size_bytes": 169004
+      "size_bytes": 169004,
+      "sha256_before_cleanup": "7ba47d6fc4fb3596cf01b2c91c5e507faa8d3099e9cc71a95e44cfc586de7a69",
+      "size_bytes_before_cleanup": 169004
     },
     {
       "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-013_关咪_Qwen_v001.wav",
       "sha256": "8162adc96cb26d4da98424c5ee3c9961bec0bab9b82c3bc54fe60aba85e8460e",
-      "size_bytes": 76844
+      "size_bytes": 76844,
+      "sha256_before_cleanup": "8162adc96cb26d4da98424c5ee3c9961bec0bab9b82c3bc54fe60aba85e8460e",
+      "size_bytes_before_cleanup": 76844
     },
     {
       "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-016_肉摊伙计_Qwen_v001.wav",
       "sha256": "6cb214721d7439c40dbbb8ab373f75e47121f48de487583407783f8d2fada8ac",
-      "size_bytes": 86954
+      "size_bytes": 86954,
+      "sha256_before_cleanup": "6cb214721d7439c40dbbb8ab373f75e47121f48de487583407783f8d2fada8ac",
+      "size_bytes_before_cleanup": 86954
     },
     {
       "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-018_张咪_Qwen_v001.wav",
       "sha256": "345f063de139df1b46ed2ea3a772aae96d7724bde782e8ee2f0e9bf7474e7462",
-      "size_bytes": 107564
+      "size_bytes": 107564,
+      "sha256_before_cleanup": "345f063de139df1b46ed2ea3a772aae96d7724bde782e8ee2f0e9bf7474e7462",
+      "size_bytes_before_cleanup": 107564
     },
     {
       "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-019_关咪_Qwen_v001.wav",
       "sha256": "83f119667f57af02c58acb86dd37616085ae745ffe3f7d0e29b63520ed9bdd71",
-      "size_bytes": 119084
+      "size_bytes": 119084,
+      "sha256_before_cleanup": "83f119667f57af02c58acb86dd37616085ae745ffe3f7d0e29b63520ed9bdd71",
+      "size_bytes_before_cleanup": 119084
     },
     {
       "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-020_张咪_Qwen_v001.wav",
       "sha256": "af9b51159b26e9455a358975c23d028e1457950b562dcee4327c07c79e0ccdfd",
-      "size_bytes": 134444
+      "size_bytes": 134444,
+      "sha256_before_cleanup": "af9b51159b26e9455a358975c23d028e1457950b562dcee4327c07c79e0ccdfd",
+      "size_bytes_before_cleanup": 134444
     },
     {
       "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-021_关咪_Qwen_v001.wav",
       "sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
-      "size_bytes": 265004
+      "size_bytes": 265004,
+      "sha256_before_cleanup": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "size_bytes_before_cleanup": 265004
     },
     {
       "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-022_张咪_Qwen_v001.wav",
       "sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
-      "size_bytes": 111404
+      "size_bytes": 111404,
+      "sha256_before_cleanup": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "size_bytes_before_cleanup": 111404
     },
     {
       "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v002.wav",
       "sha256": "ea1ac6c73b82d84f3398b32cd08d69d2eff29db8626ed610f925f9a033a37b22",
-      "size_bytes": 130604
+      "size_bytes": 130604,
+      "sha256_before_cleanup": "ea1ac6c73b82d84f3398b32cd08d69d2eff29db8626ed610f925f9a033a37b22",
+      "size_bytes_before_cleanup": 130604
     },
     {
       "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-037_刘咪_Qwen_v001.wav",
       "sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
-      "size_bytes": 84524
+      "size_bytes": 84524,
+      "sha256_before_cleanup": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "size_bytes_before_cleanup": 84524
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/买肉客咪_猫脸卡通角色板_v001.png",
       "sha256": "03751789925cd96c93c82d9e1edb4fe2a9d18bea3542ea087ff9de830f3b91ab",
-      "size_bytes": 2017182
+      "size_bytes": 2017182,
+      "sha256_before_cleanup": "03751789925cd96c93c82d9e1edb4fe2a9d18bea3542ea087ff9de830f3b91ab",
+      "size_bytes_before_cleanup": 2017182
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/买肉客咪_空篮与装肉拎篮组合_v001.png",
       "sha256": "d2b4ed0aafbc6b93cb56ff7d21a2b28d31e2d7f0001fd1b038b8d244e8524c69",
-      "size_bytes": 1937486
+      "size_bytes": 1937486,
+      "sha256_before_cleanup": "d2b4ed0aafbc6b93cb56ff7d21a2b28d31e2d7f0001fd1b038b8d244e8524c69",
+      "size_bytes_before_cleanup": 1937486
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/关咪_卸右袋双爪承托接触_v003.png",
       "sha256": "5b486dbad4b7763740a99bea2079e3014e929e1507d57ec3f6084ab9a7a13db7",
-      "size_bytes": 2326255
+      "size_bytes": 2326255,
+      "sha256_before_cleanup": "5b486dbad4b7763740a99bea2079e3014e929e1507d57ec3f6084ab9a7a13db7",
+      "size_bytes_before_cleanup": 2326255
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/关咪_双爪托盘接触近景_v001.png",
       "sha256": "a6708522c48c06b472d915e5432cd21185ed05fae03b87317b9bf4938fd9fd9f",
-      "size_bytes": 2146867
+      "size_bytes": 2146867,
+      "sha256_before_cleanup": "a6708522c48c06b472d915e5432cd21185ed05fae03b87317b9bf4938fd9fd9f",
+      "size_bytes_before_cleanup": 2146867
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/关咪_抓盘与举盘组合_v001.png",
       "sha256": "f52b6afe5cf0c41377822225ba826a1301e1bc2c27531f19ff0df97c711f1ba6",
-      "size_bytes": 2083571
+      "size_bytes": 2083571,
+      "sha256_before_cleanup": "f52b6afe5cf0c41377822225ba826a1301e1bc2c27531f19ff0df97c711f1ba6",
+      "size_bytes_before_cleanup": 2083571
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/关咪_提肉与入篮接触双状态_v001.png",
       "sha256": "0cef6b01abcd5632607cc978464365f692d3f40394f926f9c60eb95d9de2fcad",
-      "size_bytes": 2103171
+      "size_bytes": 2103171,
+      "sha256_before_cleanup": "0cef6b01abcd5632607cc978464365f692d3f40394f926f9c60eb95d9de2fcad",
+      "size_bytes_before_cleanup": 2103171
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/关咪_猫脸卡通角色板_v001.png",
       "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
-      "size_bytes": 2499692
+      "size_bytes": 2499692,
+      "sha256_before_cleanup": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
+      "size_bytes_before_cleanup": 2499692
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/关咪_车左取放枪接触_v005.png",
       "sha256": "4d9300c8f3f8fcfb25c0bd5c773c86a0d72e81a2a953a3c3d615aa2c7418af4b",
-      "size_bytes": 2042517
+      "size_bytes": 2042517,
+      "sha256_before_cleanup": "4d9300c8f3f8fcfb25c0bd5c773c86a0d72e81a2a953a3c3d615aa2c7418af4b",
+      "size_bytes_before_cleanup": 2042517
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/刘关张_猫脸卡通同框_v002.png",
       "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
-      "size_bytes": 2042421
+      "size_bytes": 2042421,
+      "sha256_before_cleanup": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "size_bytes_before_cleanup": 2042421
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/刘咪_双腰套与持双枪接触_v001.png",
       "sha256": "08dbbfc8927318c0476abe7e866e74f0e2dd86267922ea186ef43afacac1d6ff",
-      "size_bytes": 2001343
+      "size_bytes": 2001343,
+      "sha256_before_cleanup": "08dbbfc8927318c0476abe7e866e74f0e2dd86267922ea186ef43afacac1d6ff",
+      "size_bytes_before_cleanup": 2001343
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/刘咪_猫脸卡通角色板_v001.png",
       "sha256": "6138d6b7e595d09fe861502b6282041b847bd17d7dacefd79bfc91df6d6b2531",
-      "size_bytes": 2149782
+      "size_bytes": 2149782,
+      "sha256_before_cleanup": "6138d6b7e595d09fe861502b6282041b847bd17d7dacefd79bfc91df6d6b2531",
+      "size_bytes_before_cleanup": 2149782
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/张咪_猫脸卡通角色板_v001.png",
       "sha256": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
-      "size_bytes": 2156870
+      "size_bytes": 2156870,
+      "sha256_before_cleanup": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
+      "size_bytes_before_cleanup": 2156870
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/张咪_背枪与持枪接触双状态_v001.png",
       "sha256": "6156e4247b2c3f2523e73f7fe00eff493d9f86799986b0f1ca4eb81b385c4baa",
-      "size_bytes": 2108589
+      "size_bytes": 2108589,
+      "sha256_before_cleanup": "6156e4247b2c3f2523e73f7fe00eff493d9f86799986b0f1ca4eb81b385c4baa",
+      "size_bytes_before_cleanup": 2108589
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/肉摊伙计_猫脸卡通角色板_v001.png",
       "sha256": "0c57eda7ac511636601df61a5f145bccc2bd276afb9c353ce07e54c902f61c46",
-      "size_bytes": 2140758
+      "size_bytes": 2140758,
+      "sha256_before_cleanup": "0c57eda7ac511636601df61a5f145bccc2bd276afb9c353ce07e54c902f61c46",
+      "size_bytes_before_cleanup": 2140758
     },
     {
       "path": "剧集/EP001/制作成果/images/人物/集市群众_四咪角色板_v001.png",
       "sha256": "7aee6cec60853d3fc4dde32e3d63eaf1c862fb9a853acb405e5f1f8b0af17bee",
-      "size_bytes": 2138885
+      "size_bytes": 2138885,
+      "sha256_before_cleanup": "7aee6cec60853d3fc4dde32e3d63eaf1c862fb9a853acb405e5f1f8b0af17bee",
+      "size_bytes_before_cleanup": 2138885
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-001_v001.png",
       "sha256": "a9b0766cea7913a0e8356fe54fee41e489ea0e130aa66ad0340086f76a287790",
-      "size_bytes": 2341810
+      "size_bytes": 2341810,
+      "sha256_before_cleanup": "a9b0766cea7913a0e8356fe54fee41e489ea0e130aa66ad0340086f76a287790",
+      "size_bytes_before_cleanup": 2341810
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-002_v004.png",
       "sha256": "70e09ac72c9c0d5bc94043b8e0a08c86fd0a7d142aac6e5d91b523a18cc89cfb",
-      "size_bytes": 2340601
+      "size_bytes": 2340601,
+      "sha256_before_cleanup": "70e09ac72c9c0d5bc94043b8e0a08c86fd0a7d142aac6e5d91b523a18cc89cfb",
+      "size_bytes_before_cleanup": 2340601
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-003_v004.png",
       "sha256": "aee35d6a4e2ddb5b58b7e552dc27e3c7f9c32887714a71e970a9fcd1aa3a2817",
-      "size_bytes": 2288696
+      "size_bytes": 2288696,
+      "sha256_before_cleanup": "aee35d6a4e2ddb5b58b7e552dc27e3c7f9c32887714a71e970a9fcd1aa3a2817",
+      "size_bytes_before_cleanup": 2288696
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-004_v001.png",
       "sha256": "c0e8ca548945f5418905feeaae2be8f63b6892c4f3991cea165d0ce27314c1ea",
-      "size_bytes": 2536698
+      "size_bytes": 2536698,
+      "sha256_before_cleanup": "c0e8ca548945f5418905feeaae2be8f63b6892c4f3991cea165d0ce27314c1ea",
+      "size_bytes_before_cleanup": 2536698
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-005_v002.png",
       "sha256": "dbd0f3f1fbd3412960090f1c928b6d6fe7b1feaac1e5a963f555e77a1daad134",
-      "size_bytes": 2326223
+      "size_bytes": 2326223,
+      "sha256_before_cleanup": "dbd0f3f1fbd3412960090f1c928b6d6fe7b1feaac1e5a963f555e77a1daad134",
+      "size_bytes_before_cleanup": 2326223
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-006_v001.png",
       "sha256": "ba2a8ac92d30359a5c64c11c659f6fd7beca64cd6a2d6612daff81795f4fff35",
-      "size_bytes": 2368654
+      "size_bytes": 2368654,
+      "sha256_before_cleanup": "ba2a8ac92d30359a5c64c11c659f6fd7beca64cd6a2d6612daff81795f4fff35",
+      "size_bytes_before_cleanup": 2368654
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-007_v001.png",
       "sha256": "14b73eaebe6a0541d3bd0484591395ce59dfa131a02e4ebe1903219f77cf30d2",
-      "size_bytes": 2082755
+      "size_bytes": 2082755,
+      "sha256_before_cleanup": "14b73eaebe6a0541d3bd0484591395ce59dfa131a02e4ebe1903219f77cf30d2",
+      "size_bytes_before_cleanup": 2082755
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-008_v001.png",
       "sha256": "58ca83b3e49106586fb9a19456c840c24004b72b8d56452032ccc91e9603e714",
-      "size_bytes": 2384706
+      "size_bytes": 2384706,
+      "sha256_before_cleanup": "58ca83b3e49106586fb9a19456c840c24004b72b8d56452032ccc91e9603e714",
+      "size_bytes_before_cleanup": 2384706
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-009_v001.png",
       "sha256": "016449da6e10ab91a65757979ad71f3e4b676d6f3fbb3f13afa2d5f3356a208f",
-      "size_bytes": 2434017
+      "size_bytes": 2434017,
+      "sha256_before_cleanup": "016449da6e10ab91a65757979ad71f3e4b676d6f3fbb3f13afa2d5f3356a208f",
+      "size_bytes_before_cleanup": 2434017
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-010_v001.png",
       "sha256": "01b2ddf9c870c848b79b6cdd637490fed93f4f7b249591efa155bacd19b2d071",
-      "size_bytes": 2518865
+      "size_bytes": 2518865,
+      "sha256_before_cleanup": "01b2ddf9c870c848b79b6cdd637490fed93f4f7b249591efa155bacd19b2d071",
+      "size_bytes_before_cleanup": 2518865
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-011_v001.png",
       "sha256": "7059f56152ad5b304a89a509b92af0edb08818019946adcbd1ef115fe3de6e91",
-      "size_bytes": 2352070
+      "size_bytes": 2352070,
+      "sha256_before_cleanup": "7059f56152ad5b304a89a509b92af0edb08818019946adcbd1ef115fe3de6e91",
+      "size_bytes_before_cleanup": 2352070
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-012_v001.png",
       "sha256": "e2361424ce7d907a15e78f950d8565a127ceaa96558b04f4d51b5ea480d4905e",
-      "size_bytes": 2378994
+      "size_bytes": 2378994,
+      "sha256_before_cleanup": "e2361424ce7d907a15e78f950d8565a127ceaa96558b04f4d51b5ea480d4905e",
+      "size_bytes_before_cleanup": 2378994
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-013_v003.png",
       "sha256": "241eb871432a67d9fb25ac8aaa15e0cde8981ac3e925dbd3c2572688cb4d2869",
-      "size_bytes": 2409699
+      "size_bytes": 2409699,
+      "sha256_before_cleanup": "241eb871432a67d9fb25ac8aaa15e0cde8981ac3e925dbd3c2572688cb4d2869",
+      "size_bytes_before_cleanup": 2409699
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-014_v001.png",
       "sha256": "269712119a9776d28c88fcffb5c9398d7d2d8dee90badf42d30fab12f5dafdf8",
-      "size_bytes": 2462107
+      "size_bytes": 2462107,
+      "sha256_before_cleanup": "269712119a9776d28c88fcffb5c9398d7d2d8dee90badf42d30fab12f5dafdf8",
+      "size_bytes_before_cleanup": 2462107
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-015_v001.png",
       "sha256": "3747c4943d8207b5a155e5361290154155492999a0f9b8c81870cc98ab92de87",
-      "size_bytes": 2468768
+      "size_bytes": 2468768,
+      "sha256_before_cleanup": "3747c4943d8207b5a155e5361290154155492999a0f9b8c81870cc98ab92de87",
+      "size_bytes_before_cleanup": 2468768
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-016_v001.png",
       "sha256": "72f5f98860b1ae21f0a6eaa8689ca512c26a89f178a5831e24829363a969a0d5",
-      "size_bytes": 2373419
+      "size_bytes": 2373419,
+      "sha256_before_cleanup": "72f5f98860b1ae21f0a6eaa8689ca512c26a89f178a5831e24829363a969a0d5",
+      "size_bytes_before_cleanup": 2373419
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-017_v001.png",
       "sha256": "285ff4ed2d519bd12f56fb454d2ac67f37cec19182118331cd8e73052e65dc6b",
-      "size_bytes": 2308323
+      "size_bytes": 2308323,
+      "sha256_before_cleanup": "285ff4ed2d519bd12f56fb454d2ac67f37cec19182118331cd8e73052e65dc6b",
+      "size_bytes_before_cleanup": 2308323
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-018_v001.png",
       "sha256": "7fcf75cb75911229cadda6c471e20b29cc175ad4e5fa0f4e54e18683ca7eb34b",
-      "size_bytes": 2128690
+      "size_bytes": 2128690,
+      "sha256_before_cleanup": "7fcf75cb75911229cadda6c471e20b29cc175ad4e5fa0f4e54e18683ca7eb34b",
+      "size_bytes_before_cleanup": 2128690
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-019_v001.png",
       "sha256": "f369c9b39ab868583b265b071905199620eba704883ff0d773f40d6e8cb536f5",
-      "size_bytes": 2652382
+      "size_bytes": 2652382,
+      "sha256_before_cleanup": "f369c9b39ab868583b265b071905199620eba704883ff0d773f40d6e8cb536f5",
+      "size_bytes_before_cleanup": 2652382
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-020_v001.png",
       "sha256": "51f509a79f7ef2c3ff6c1fba13c3bfd291572d7a5d39b6841af94832b5504e06",
-      "size_bytes": 2191798
+      "size_bytes": 2191798,
+      "sha256_before_cleanup": "51f509a79f7ef2c3ff6c1fba13c3bfd291572d7a5d39b6841af94832b5504e06",
+      "size_bytes_before_cleanup": 2191798
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-021_v001.png",
       "sha256": "d0d7aaf79fe3be242c287f74920b69c0413ff28ed4e318533e19ac196c08b2ed",
-      "size_bytes": 2388307
+      "size_bytes": 2388307,
+      "sha256_before_cleanup": "d0d7aaf79fe3be242c287f74920b69c0413ff28ed4e318533e19ac196c08b2ed",
+      "size_bytes_before_cleanup": 2388307
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-022_v003.png",
       "sha256": "8d3ae7c72a4add9f5d5ddbed2c04053288ff7302357b9bc8e81f1e99e3117673",
-      "size_bytes": 2348039
+      "size_bytes": 2348039,
+      "sha256_before_cleanup": "8d3ae7c72a4add9f5d5ddbed2c04053288ff7302357b9bc8e81f1e99e3117673",
+      "size_bytes_before_cleanup": 2348039
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-023_v001.png",
       "sha256": "246bafa335b0609e03880534e6aba4147b0e98d37b6691aff8364f44f9b54538",
-      "size_bytes": 2423827
+      "size_bytes": 2423827,
+      "sha256_before_cleanup": "246bafa335b0609e03880534e6aba4147b0e98d37b6691aff8364f44f9b54538",
+      "size_bytes_before_cleanup": 2423827
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-024_v002.png",
       "sha256": "38900d7c618b5758b24c1cbb82703fcb704f815affbc9617b0541722197ec098",
-      "size_bytes": 2394335
+      "size_bytes": 2394335,
+      "sha256_before_cleanup": "38900d7c618b5758b24c1cbb82703fcb704f815affbc9617b0541722197ec098",
+      "size_bytes_before_cleanup": 2394335
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v006.png",
       "sha256": "2c972774c63a6754021a0cf8fc75c3338a29645084999ee244635c701ad8d0c9",
-      "size_bytes": 2448103
+      "size_bytes": 2448103,
+      "sha256_before_cleanup": "2c972774c63a6754021a0cf8fc75c3338a29645084999ee244635c701ad8d0c9",
+      "size_bytes_before_cleanup": 2448103
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-026_v002.png",
       "sha256": "769074dc6821d2200503541403f1f283e16e68921fd595ef6478346d87126ef2",
-      "size_bytes": 2385506
+      "size_bytes": 2385506,
+      "sha256_before_cleanup": "769074dc6821d2200503541403f1f283e16e68921fd595ef6478346d87126ef2",
+      "size_bytes_before_cleanup": 2385506
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-027_v003.png",
       "sha256": "853a64aa4e0ce51f521d22f02a734a0cf50996de151c688efe8f5144b6be3b5a",
-      "size_bytes": 2484651
+      "size_bytes": 2484651,
+      "sha256_before_cleanup": "853a64aa4e0ce51f521d22f02a734a0cf50996de151c688efe8f5144b6be3b5a",
+      "size_bytes_before_cleanup": 2484651
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-028_v004.png",
       "sha256": "ad95b6aa804d10756acecd4f0e5da4a66930ad6072b9858ab0c39fafe22871bb",
-      "size_bytes": 2413392
+      "size_bytes": 2413392,
+      "sha256_before_cleanup": "ad95b6aa804d10756acecd4f0e5da4a66930ad6072b9858ab0c39fafe22871bb",
+      "size_bytes_before_cleanup": 2413392
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-029_v001.png",
       "sha256": "d08b648703d33159d5f9267edcfe5433e40f2b1ac4639fb1036f4b5888d5c5b1",
-      "size_bytes": 2267848
+      "size_bytes": 2267848,
+      "sha256_before_cleanup": "d08b648703d33159d5f9267edcfe5433e40f2b1ac4639fb1036f4b5888d5c5b1",
+      "size_bytes_before_cleanup": 2267848
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-030_v002.png",
       "sha256": "d2010564b98ad162e87d10cb4a6b4578e3c21ce4cd23c8efbab9219077333197",
-      "size_bytes": 2511724
+      "size_bytes": 2511724,
+      "sha256_before_cleanup": "d2010564b98ad162e87d10cb4a6b4578e3c21ce4cd23c8efbab9219077333197",
+      "size_bytes_before_cleanup": 2511724
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-031_v003.png",
       "sha256": "a1bdcb48ee9f16bb48a01ab4a99139beded48036f8ff7b52fdbe3e7588b9c921",
-      "size_bytes": 2465904
+      "size_bytes": 2465904,
+      "sha256_before_cleanup": "a1bdcb48ee9f16bb48a01ab4a99139beded48036f8ff7b52fdbe3e7588b9c921",
+      "size_bytes_before_cleanup": 2465904
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-032_v001.png",
       "sha256": "8c881cc78ea3c4119ee98f535a2f3bc6de84b10924d03582a77e0e5dcc52c561",
-      "size_bytes": 2341639
+      "size_bytes": 2341639,
+      "sha256_before_cleanup": "8c881cc78ea3c4119ee98f535a2f3bc6de84b10924d03582a77e0e5dcc52c561",
+      "size_bytes_before_cleanup": 2341639
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-033_v001.png",
       "sha256": "254118906e5a144fef2ffe6365683101a861365858abafd83579269ba768448e",
-      "size_bytes": 2392488
+      "size_bytes": 2392488,
+      "sha256_before_cleanup": "254118906e5a144fef2ffe6365683101a861365858abafd83579269ba768448e",
+      "size_bytes_before_cleanup": 2392488
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-034_v001.png",
       "sha256": "49bc79fecaffe16ff209a5c29d142c7d877a4499027634175648378dd75822c0",
-      "size_bytes": 2371820
+      "size_bytes": 2371820,
+      "sha256_before_cleanup": "49bc79fecaffe16ff209a5c29d142c7d877a4499027634175648378dd75822c0",
+      "size_bytes_before_cleanup": 2371820
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-035_v001.png",
       "sha256": "206c30f0a86c84a222acc64b0fbacce444eb5fac47a149ea04dd4e08e43efde8",
-      "size_bytes": 2463368
+      "size_bytes": 2463368,
+      "sha256_before_cleanup": "206c30f0a86c84a222acc64b0fbacce444eb5fac47a149ea04dd4e08e43efde8",
+      "size_bytes_before_cleanup": 2463368
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-036_v001.png",
       "sha256": "c37185cd319b65b081d5bdc6f488a833765a69fb01cc201bb60e198b57631b9f",
-      "size_bytes": 2332056
+      "size_bytes": 2332056,
+      "sha256_before_cleanup": "c37185cd319b65b081d5bdc6f488a833765a69fb01cc201bb60e198b57631b9f",
+      "size_bytes_before_cleanup": 2332056
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-037_v001.png",
       "sha256": "81fce7b0895d8c5159e13524761bad061930b4566449998ab8aaac61c10af12f",
-      "size_bytes": 2439874
+      "size_bytes": 2439874,
+      "sha256_before_cleanup": "81fce7b0895d8c5159e13524761bad061930b4566449998ab8aaac61c10af12f",
+      "size_bytes_before_cleanup": 2439874
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-038_v001.png",
       "sha256": "b21697113d6da3cc4abb7b5623f65778aad1b3f9b3d0d42ab1baffa2a3c6a9db",
-      "size_bytes": 2473119
+      "size_bytes": 2473119,
+      "sha256_before_cleanup": "b21697113d6da3cc4abb7b5623f65778aad1b3f9b3d0d42ab1baffa2a3c6a9db",
+      "size_bytes_before_cleanup": 2473119
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-039_v002.png",
       "sha256": "2ad91af3d66da9995189ece34aad57e79824786cfd257faafc63f5a275990cd9",
-      "size_bytes": 2270529
+      "size_bytes": 2270529,
+      "sha256_before_cleanup": "2ad91af3d66da9995189ece34aad57e79824786cfd257faafc63f5a275990cd9",
+      "size_bytes_before_cleanup": 2270529
     },
     {
       "path": "剧集/EP001/制作成果/images/关键帧/关张_持枪宽站位首帧_v001.png",
       "sha256": "eb9af345d879149d27b58b6f6be211c692faacb4d6fd9e0367041f727019aa09",
-      "size_bytes": 2176671
+      "size_bytes": 2176671,
+      "sha256_before_cleanup": "eb9af345d879149d27b58b6f6be211c692faacb4d6fd9e0367041f727019aa09",
+      "size_bytes_before_cleanup": 2176671
     },
     {
       "path": "剧集/EP001/制作成果/images/场景/关咪_停车摆摊组合图_v004.png",
       "sha256": "1fb3eb51ccb275ba53acb205cd49f6af193fec0329385ac727854ce60b818a1b",
-      "size_bytes": 2126248
+      "size_bytes": 2126248,
+      "sha256_before_cleanup": "1fb3eb51ccb275ba53acb205cd49f6af193fec0329385ac727854ce60b818a1b",
+      "size_bytes_before_cleanup": 2126248
     },
     {
       "path": "剧集/EP001/制作成果/images/场景/涿郡集市_入口全景空场_v002.png",
       "sha256": "29d0f4f30c72fe4f06c0d1d983f58b482c8b3f706b185fd43c0ae460e5e6261a",
-      "size_bytes": 2065365
+      "size_bytes": 2065365,
+      "sha256_before_cleanup": "29d0f4f30c72fe4f06c0d1d983f58b482c8b3f706b185fd43c0ae460e5e6261a",
+      "size_bytes_before_cleanup": 2065365
     },
     {
       "path": "剧集/EP001/制作成果/images/武器/关咪枪械_卡通道具板_v001.png",
       "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
-      "size_bytes": 1689972
+      "size_bytes": 1689972,
+      "sha256_before_cleanup": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
+      "size_bytes_before_cleanup": 1689972
     },
     {
       "path": "剧集/EP001/制作成果/images/武器/刘咪双枪_卡通道具板_v001.png",
       "sha256": "e722470c536504e4db19c61643937342030134f8826c6eb08aa9e58eb48a2401",
-      "size_bytes": 1601660
+      "size_bytes": 1601660,
+      "sha256_before_cleanup": "e722470c536504e4db19c61643937342030134f8826c6eb08aa9e58eb48a2401",
+      "size_bytes_before_cleanup": 1601660
     },
     {
       "path": "剧集/EP001/制作成果/images/武器/张咪枪械_卡通道具板_v001.png",
       "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
-      "size_bytes": 1603727
+      "size_bytes": 1603727,
+      "sha256_before_cleanup": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
+      "size_bytes_before_cleanup": 1603727
     },
     {
       "path": "剧集/EP001/制作成果/images/载具/关咪_骑车组合图_v003.png",
       "sha256": "0f6ce389d47f2de1f01cd41d3da43306879337428d6bc3fa9efe538588d666d8",
-      "size_bytes": 1944639
+      "size_bytes": 1944639,
+      "sha256_before_cleanup": "0f6ce389d47f2de1f01cd41d3da43306879337428d6bc3fa9efe538588d666d8",
+      "size_bytes_before_cleanup": 1944639
     },
     {
       "path": "剧集/EP001/制作成果/images/载具/关咪自行车_挂枪道具板_v003.png",
       "sha256": "526004d33430ae63b5905238ec4aeb3ee4b0575e3a87ff9cf3ff29395d6b270c",
-      "size_bytes": 2011287
+      "size_bytes": 2011287,
+      "sha256_before_cleanup": "526004d33430ae63b5905238ec4aeb3ee4b0575e3a87ff9cf3ff29395d6b270c",
+      "size_bytes_before_cleanup": 2011287
     },
     {
       "path": "剧集/EP001/制作成果/images/载具/关咪自行车_空挂架松带状态_v002.png",
       "sha256": "2109f3f8b6b999869b0ba249ce19cd698f60e55876ad15711d73150203ea439f",
-      "size_bytes": 1932862
+      "size_bytes": 1932862,
+      "sha256_before_cleanup": "2109f3f8b6b999869b0ba249ce19cd698f60e55876ad15711d73150203ea439f",
+      "size_bytes_before_cleanup": 1932862
     },
     {
       "path": "剧集/EP001/制作成果/images/道具/买肉篮_空篮与装肉状态道具板_v001.png",
       "sha256": "d0d0a65e2c082b4c0e89669963db1ca2b5175dd4fec0b875f916db8302271652",
-      "size_bytes": 1855637
+      "size_bytes": 1855637,
+      "sha256_before_cleanup": "d0d0a65e2c082b4c0e89669963db1ca2b5175dd4fec0b875f916db8302271652",
+      "size_bytes_before_cleanup": 1855637
     },
     {
       "path": "剧集/EP001/制作成果/images/道具/井口磨盘与石台_双状态参考_v001.png",
       "sha256": "cf63925a3e4de17e391ccc4dee3ab925129aca7421eff66e75051ac2b9ac1314",
-      "size_bytes": 1750007
+      "size_bytes": 1750007,
+      "sha256_before_cleanup": "cf63925a3e4de17e391ccc4dee3ab925129aca7421eff66e75051ac2b9ac1314",
+      "size_bytes_before_cleanup": 1750007
     },
     {
       "path": "剧集/EP001/制作成果/images/道具/猪肉_浅井井沿与入篮状态_v001.png",
       "sha256": "890e7742c867d9bfc27b001a27e8fd9ee6f358e06e150dbaf7c168fc51471cb4",
-      "size_bytes": 1911976
+      "size_bytes": 1911976,
+      "sha256_before_cleanup": "890e7742c867d9bfc27b001a27e8fd9ee6f358e06e150dbaf7c168fc51471cb4",
+      "size_bytes_before_cleanup": 1911976
     },
     {
       "path": "剧集/EP001/制作成果/subtitles/EP001_字幕与名字卡_实际套剪_v005.ass",
       "sha256": "4b1b198b9a8255ee17e78eae60f176c476b50bb487a57f07b692816410d17ba3",
-      "size_bytes": 3316
+      "size_bytes": 3316,
+      "sha256_before_cleanup": "4b1b198b9a8255ee17e78eae60f176c476b50bb487a57f07b692816410d17ba3",
+      "size_bytes_before_cleanup": 3316
     },
     {
       "path": "剧集/EP001/制作成果/subtitles/EP001_字幕与名字卡_实际套剪_v005.json",
-      "sha256": "4fc098ed363f209322d3c7c256d03c49b8dde63a204d968dc32a4b396a232858",
-      "size_bytes": 13774
+      "sha256": "a2533a2d6d1f6f28afb2530eb926da1fb146260902b601a0dec11b5b07d3b8c2",
+      "size_bytes": 14036,
+      "sha256_before_cleanup": "4fc098ed363f209322d3c7c256d03c49b8dde63a204d968dc32a4b396a232858",
+      "size_bytes_before_cleanup": 13774
     },
     {
       "path": "剧集/EP001/制作成果/subtitles/EP001_对白字幕_实际套剪_v005.srt",
       "sha256": "dcfce35829aa874d1d15c260c1da46c5dbebe798d0e0a497372decbc7c9110f1",
-      "size_bytes": 1378
+      "size_bytes": 1378,
+      "sha256_before_cleanup": "dcfce35829aa874d1d15c260c1da46c5dbebe798d0e0a497372decbc7c9110f1",
+      "size_bytes_before_cleanup": 1378
     },
     {
       "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG001_v001.mp4",
       "sha256": "6c060dd864ec8ec1e1492dc0cc0ee0734c9462d52ce1132f30fa5b03cce2aa63",
-      "size_bytes": 22060550
+      "size_bytes": 22060550,
+      "sha256_before_cleanup": "6c060dd864ec8ec1e1492dc0cc0ee0734c9462d52ce1132f30fa5b03cce2aa63",
+      "size_bytes_before_cleanup": 22060550
     },
     {
       "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG002_v001.mp4",
       "sha256": "34096608607e88008f32e8dd12839ce988aeee4dab55862ee1b32b221a9e8be2",
-      "size_bytes": 23410571
+      "size_bytes": 23410571,
+      "sha256_before_cleanup": "34096608607e88008f32e8dd12839ce988aeee4dab55862ee1b32b221a9e8be2",
+      "size_bytes_before_cleanup": 23410571
     },
     {
       "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG003_v001.mp4",
       "sha256": "a4f1036147d4760abdc3018fa633f361e760ee3201dc2b2c9c460dd581d8949e",
-      "size_bytes": 19453744
+      "size_bytes": 19453744,
+      "sha256_before_cleanup": "a4f1036147d4760abdc3018fa633f361e760ee3201dc2b2c9c460dd581d8949e",
+      "size_bytes_before_cleanup": 19453744
     },
     {
       "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_对白修正_v003.mp4",
       "sha256": "1bf6a23eacebb7a10ab12abb1f1f011ce50d41864c5626fb56dc7b52826c42a8",
-      "size_bytes": 16890565
+      "size_bytes": 16890565,
+      "sha256_before_cleanup": "1bf6a23eacebb7a10ab12abb1f1f011ce50d41864c5626fb56dc7b52826c42a8",
+      "size_bytes_before_cleanup": 16890565
     },
     {
       "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005_v001.mp4",
       "sha256": "69484f2219f89a6780514d363c4fc40485e2a2a54a4b083cf4a459e51600ae4d",
-      "size_bytes": 13658072
+      "size_bytes": 13658072,
+      "sha256_before_cleanup": "69484f2219f89a6780514d363c4fc40485e2a2a54a4b083cf4a459e51600ae4d",
+      "size_bytes_before_cleanup": 13658072
     },
     {
       "path": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_v001.mp4",
       "sha256": "b9a607a9f116517ad83a187db0cdabb1e2f0164d4ef9929915a2e158ed6e1267",
-      "size_bytes": 3559734
+      "size_bytes": 3559734,
+      "sha256_before_cleanup": "b9a607a9f116517ad83a187db0cdabb1e2f0164d4ef9929915a2e158ed6e1267",
+      "size_bytes_before_cleanup": 3559734
     },
     {
       "path": "剧集/EP001/制作成果/发布/三国群萌传_EP001_关张初遇_封面_v001.png",
       "sha256": "991eabbff61ec247fe8f39851e68edce1d67d7f647a06866c406659da733e864",
-      "size_bytes": 2476851
+      "size_bytes": 2476851,
+      "sha256_before_cleanup": "991eabbff61ec247fe8f39851e68edce1d67d7f647a06866c406659da733e864",
+      "size_bytes_before_cleanup": 2476851
     },
     {
       "path": "剧集/EP001/制作成果/发布/发布资料.md",
       "sha256": "55f8ba9338854cd021b488ca0a3423a556b46a8b546c5415634d059d6fa8e42c",
-      "size_bytes": 1527
+      "size_bytes": 1527,
+      "sha256_before_cleanup": "55f8ba9338854cd021b488ca0a3423a556b46a8b546c5415634d059d6fa8e42c",
+      "size_bytes_before_cleanup": 1527
     },
     {
       "path": "剧集/EP001/制作成果/发布/封面生成记录_v001.json",
       "sha256": "38ccf3fbe14d39ee693ee5045f9e6a683ee474ae4701d2672d5cb313ff0a544a",
-      "size_bytes": 1874
+      "size_bytes": 1874,
+      "sha256_before_cleanup": "38ccf3fbe14d39ee693ee5045f9e6a683ee474ae4701d2672d5cb313ff0a544a",
+      "size_bytes_before_cleanup": 1874
     },
     {
       "path": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_1080P完整配乐_v006.mp4",
       "sha256": "aed3818b1a6b02dfecdfa69fa71779ec09aed836f74142d53391b53d393b83fc",
-      "size_bytes": 107831800
+      "size_bytes": 107831800,
+      "sha256_before_cleanup": "aed3818b1a6b02dfecdfa69fa71779ec09aed836f74142d53391b53d393b83fc",
+      "size_bytes_before_cleanup": 107831800
     },
     {
       "path": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
       "sha256": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
-      "size_bytes": 28990430
+      "size_bytes": 28990430,
+      "sha256_before_cleanup": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
+      "size_bytes_before_cleanup": 28990430
     }
   ],
   "items": [
@@ -2626,7 +2854,6 @@
   "failed_count": 0,
   "deleted_bytes": 668296224.0,
   "retained_files_verified": 114,
-  "retained_bytes_unchanged": true,
   "deleted_extension_counts": {
     ".pyc": 3,
     ".json": 1,
@@ -2639,5 +2866,15 @@
     ".wav": 23,
     ".txt": 14,
     ".ps1": 10
-  }
+  },
+  "retained_bytes_unchanged_before_metadata_refresh": true,
+  "retained_media_bytes_unchanged": true,
+  "metadata_refreshed_after_cleanup": [
+    {
+      "file": "剧集/EP001/制作成果/subtitles/EP001_字幕与名字卡_实际套剪_v005.json",
+      "reason": "字幕文字/时标未改，更新当前发布视频路径并登记旧视频已清理"
+    }
+  ],
+  "empty_directories_cleanup_status": "not_executed_tool_policy_blocked",
+  "empty_directories_removed": []
 }
