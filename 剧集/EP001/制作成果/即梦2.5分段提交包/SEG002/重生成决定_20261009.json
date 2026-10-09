@@ -1,0 +1,9 @@
+{
+  "creator_message": "缺点意思，还是第二段让即梦重新生成",
+  "download_target": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG002_v002.mp4",
+  "submitted": false,
+  "video_reference": "剧集/EP001/制作成果/video/Seedance2.5分段/续接参考_无原声/SEG001_续接无原声_v001.mp4",
+  "reference_audio": "本段两句同声线干净Qwen音频，仅供音色与台词内容参考，最终由即梦生成",
+  "sound": "恢复分镜已有短动作音效，背景安静，不复述旧段台词",
+  "repaired_audio": "试听保留，当前不采用"
+}

@@ -1,0 +1,83 @@
+{
+  "job_id": "EP001-BGM01-local-trial-v001",
+  "modality": "music",
+  "count": 1,
+  "source": "剧集/EP001/视频提示词.md",
+  "section": "BGM-EP001-01 · 涿郡市集",
+  "prompt": "古风轻喜剧纯器乐配乐，温暖晴日市集，可爱小动物角色的轻快日常。琵琶和古筝清楚短促的拨弦，少量柔和竹笛，轻巧木质打击乐，节奏有弹性但不急躁。旋律简洁、留白充足、自然连贯，便于剪辑衔接，不用密集独奏。无歌词、演唱、哼唱、喵叫、环境人声、动作音效或持续噪声。",
+  "references": [],
+  "reference_bindings": [],
+  "model": "ACE-Step 1.5 acestep-v15-turbo",
+  "parameters": {
+    "duration": 30,
+    "instrumental": true,
+    "lyrics": "",
+    "bpm": 96,
+    "inference_steps": 8,
+    "seed": 100901,
+    "thinking": false,
+    "use_cot_metas": false,
+    "use_cot_caption": false,
+    "use_cot_language": false,
+    "batch_size": 1,
+    "audio_format": "wav",
+    "backend": "cpu",
+    "quantization": "int8_weight_only"
+  },
+  "outputs": [
+    "剧集/EP001/制作成果/audio/配乐/BGM-EP001-01_涿郡市集_试听_v001.wav"
+  ],
+  "overwrite": false,
+  "cost": "本地运行，无按次API费用；耗用本机资源",
+  "authorization": {
+    "quote": "采用古风轻喜剧（推荐）",
+    "question_included": "先做30秒市集试听，再制作其余三段。",
+    "scope": "style and first bounded local audition"
+  },
+  "status": "generated_technical_check_passed_listening_pending",
+  "engine_revision": "ca1e85fe9430179831e6bc6be790c332190a3866",
+  "actual_backend": "cpu",
+  "torch_version": "2.14.0+cpu",
+  "paid_external_api": false,
+  "creator_accepted": false,
+  "runtime_parameters": {
+    "compile_model": false,
+    "quantization": "int8_weight_only",
+    "threads": 6,
+    "no_optional_lm_download": true,
+    "dcw_enabled": false
+  },
+  "initialization_seconds": 26.205607414245605,
+  "model_quantization": "int8_weight_only",
+  "sample_rate": 48000,
+  "duration_seconds": 30.0,
+  "channels": 2,
+  "peak": 0.7079457640647888,
+  "sha256": "c0e988827b3af7ea54feb6d54d4bd3bf41a5aac7d527a586abdbf6df10baa079",
+  "generation_seconds": 125.17408323287964,
+  "time_costs": {
+    "dit_encoder_time_cost": 2.0185983180999756,
+    "dit_diffusion_time_cost": 36.80733394622803,
+    "dit_diffusion_per_step_time_cost": 4.600916743278503,
+    "dit_total_time_cost": 94.62145376205444,
+    "dit_offload_time_cost": 0.06605792045593262,
+    "dit_vae_decode_time_cost": 55.79552149772644,
+    "pipeline_total_time": 94.62145376205444
+  },
+  "result_status": "Generation completed successfully!",
+  "music_mixed_into_video": true,
+  "decoded_verification": {
+    "sample_rate": 48000,
+    "duration_seconds": 30.0,
+    "channels": 2,
+    "peak": 0.707945704460144,
+    "rms": 0.10055609047412872,
+    "dc_offset": 0.00015762400289531797,
+    "sample_clipping_at_full_scale": false,
+    "quality_verdict": "待创作者试听，技术成功不代表器乐与风格已通过"
+  },
+  "source_sha256_at_collection": "d44b7fb0f442d2a52302343026f8825d7fe4610a1527331b128b85fc780b4b9b",
+  "failed_environment_attempt": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-01_环境初始化尝试01.json",
+  "mixed_delivery": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_1080P完整配乐_v006.mp4",
+  "mixed_record": "剧集/EP001/制作成果/audio/配乐/EP001_完整配乐混音记录_v001.json"
+}

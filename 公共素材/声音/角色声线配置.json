@@ -1,0 +1,188 @@
+{
+  "project": "三国群萌传",
+  "version": "v001",
+  "effective_date": "2026-10-09",
+  "scope": "全剧刘咪、关咪、张咪，跨镜跨集复用",
+  "status": "creator_accepted",
+  "acceptance_quote": "可以，就用这种，然后写入公共配置要求",
+  "method": "独立声音设计，参考古装台词表演风格",
+  "actor_voice_cloning": false,
+  "tv_reference_audio_used": false,
+  "reuse_requirements": [
+    "每个角色绑定本配置对应的实际WAV和SHA256，固定声音身份。",
+    "后续新台词优先通过支持参考音频的语音模型复用本项目生成声线，例如Qwen3-TTS Base；此复用能力尚待实际验证。",
+    "不逐句仅靠相同文字描述重新随机设计声音；不把VoiceDesign随机种子当作供应商固定音色ID。",
+    "句内语速、停顿、情绪、重音和音量按本集剧本配音说明处理；表演变化不更换声音身份。",
+    "新台词生成后回听核对音色一致性、字音和实际时长；参考音频不能代替不同台词的成品。",
+    "变更正式声音需创作者明确选择，新建版本并同步本配置、项目设定与当集视觉设定。"
+  ],
+  "pronunciation": {
+    "language": "普通话",
+    "咪": "mī，第一声",
+    "壮咪": "按原字读",
+    "住爪": "按原字读",
+    "extra_meows": "不插入未写入剧本的喵叫"
+  },
+  "profiles": [
+    {
+      "character": "刘咪",
+      "voice_id": "VOICE-LIUMI-QWEN-v001",
+      "voice_id_kind": "project_reference_id_not_provider_speaker_id",
+      "status": "creator_accepted",
+      "accepted_date": "2026-10-09",
+      "acceptance_quote": "可以，就用这种，然后写入公共配置要求",
+      "reference": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
+      "reference_role": "timbre",
+      "source_sample": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
+      "sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "sample_rate": 24000,
+      "duration_seconds": 1.76,
+      "reference_text": "二位壮咪，住爪。",
+      "identity": "成熟男性普通话，中低音，温润厚实、清楚柔和，沉着有分量。",
+      "may_control": [
+        "音色质感",
+        "共鸣与音区",
+        "听感年龄与体量"
+      ],
+      "must_not_control": [
+        "逐句台词",
+        "样音中的情绪、语速、重音与音量",
+        "录音空间与混响",
+        "底噪、伴奏与其他说话人"
+      ],
+      "admission_status": "creator_described",
+      "evidence": "创作者在三条样音展示后明确接受此方案；助手仅完成技术检查，未声称独立听感审查。",
+      "original_design_model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "original_design_instruct": "成熟男性的普通话声音，中低音，温润厚实，沉着有分量，吐字清晰，语速适中，古装剧的庄重台词感。说话克制，前半句平稳称呼，逗号处自然短暂停顿，后半句坚定制止，声音不大却有威严。不尖细、不喊叫。",
+      "original_design_seed": 2026100937,
+      "original_source_sample": "剧集/EP001/制作成果/audio/配音/试听/刘咪_QwenVoiceDesign_v001.wav",
+      "original_source_sample_status": "duplicate_removed_by_user_cleanup"
+    },
+    {
+      "character": "关咪",
+      "voice_id": "VOICE-GUANMI-QWEN-v001",
+      "voice_id_kind": "project_reference_id_not_provider_speaker_id",
+      "status": "creator_accepted",
+      "accepted_date": "2026-10-09",
+      "acceptance_quote": "可以，就用这种，然后写入公共配置要求",
+      "reference": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "reference_role": "timbre",
+      "source_sample": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "sample_rate": 24000,
+      "duration_seconds": 5.52,
+      "reference_text": "磨盘是我搬的。你自己定的规矩，认不认？",
+      "identity": "成年男性普通话，低音浑厚、胸腔共鸣稳，声线紧实清晰、平顺坚定。",
+      "may_control": [
+        "音色质感",
+        "共鸣与音区",
+        "听感年龄与体量"
+      ],
+      "must_not_control": [
+        "逐句台词",
+        "样音中的情绪、语速、重音与音量",
+        "录音空间与混响",
+        "底噪、伴奏与其他说话人"
+      ],
+      "admission_status": "creator_described",
+      "evidence": "创作者在三条样音展示后明确接受此方案；助手仅完成技术检查，未声称独立听感审查。",
+      "original_design_model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "original_design_instruct": "成年男性的低沉普通话声音，低音浑厚，胸腔共鸣明显，声线紧实平稳，吐字清楚，语速稍慢，古装武将的庄重台词感。语气冷静坚定，第一句平稳陈述，后一句带质问的力度，最后三个字紧凑有力。自然停顿，不拖腔、不吼叫。",
+      "original_design_seed": 2026100921,
+      "original_source_sample": "剧集/EP001/制作成果/audio/配音/试听/关咪_QwenVoiceDesign_v001.wav",
+      "original_source_sample_status": "duplicate_removed_by_user_cleanup"
+    },
+    {
+      "character": "张咪",
+      "voice_id": "VOICE-ZHANGMI-QWEN-v001",
+      "voice_id_kind": "project_reference_id_not_provider_speaker_id",
+      "status": "creator_accepted",
+      "accepted_date": "2026-10-09",
+      "acceptance_quote": "可以，就用这种，然后写入公共配置要求",
+      "reference": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "reference_role": "timbre",
+      "source_sample": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "sample_rate": 24000,
+      "duration_seconds": 2.32,
+      "reference_text": "先让我看看，你有多大本事！",
+      "identity": "成年男性普通话，中低音宽厚、粗犷洪亮，略有沙哑颗粒感，字头有力。",
+      "may_control": [
+        "音色质感",
+        "共鸣与音区",
+        "听感年龄与体量"
+      ],
+      "must_not_control": [
+        "逐句台词",
+        "样音中的情绪、语速、重音与音量",
+        "录音空间与混响",
+        "底噪、伴奏与其他说话人"
+      ],
+      "admission_status": "creator_described",
+      "evidence": "创作者在三条样音展示后明确接受此方案；助手仅完成技术检查，未声称独立听感审查。",
+      "original_design_model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "original_design_instruct": "成年男性的浑厚普通话声音，中低音，粗犷洪亮，略带沙哑颗粒感，宽厚有力，古装武将的台词感。语气急躁好胜，短促有冲劲，前半句挑衅，后半句加重力度，重音落在多大本事。吐字清晰，保持自然说话，不持续尖叫。",
+      "original_design_seed": 2026100922,
+      "original_source_sample": "剧集/EP001/制作成果/audio/配音/试听/张咪_QwenVoiceDesign_v001.wav",
+      "original_source_sample_status": "duplicate_removed_by_user_cleanup"
+    }
+  ],
+  "supporting_roles": {
+    "肉摊伙计": {
+      "character": "肉摊伙计",
+      "reference": "公共素材/声音/肉摊伙计_独立声线_工作版_v001.wav",
+      "sha256": "7ba47d6fc4fb3596cf01b2c91c5e507faa8d3099e9cc71a95e44cfc586de7a69",
+      "reference_text": "肉在井里。掌柜说了，谁搬得开，就让谁取。",
+      "voice_id": "VOICE-HELPER-QWEN-v001",
+      "status": "working_voice_pending_creator_listening",
+      "identity": "年轻成年男性普通话，音色比三咪轻，清楚利落，稍轻快但不幼童化。",
+      "original_design_model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "original_design_instruct": "年轻成年男性的普通话声音，清楚利落，音色较轻，稍轻快，比浑厚武将男声轻一些，但不是幼童声音。用市井伙计的日常口吻对顾客解释规矩，语速稍快且连贯，第一句说完短停，提掌柜时稍加强，后半句顺着自然说完，停顿短，句尾利落，不念成宣誓，不持续喊叫，不插入额外语气词。",
+      "duration_seconds": 3.52,
+      "sample_rate": 24000,
+      "may_control": [
+        "音色质感",
+        "共鸣与音区",
+        "听感年龄与体量"
+      ],
+      "must_not_control": [
+        "逐句台词",
+        "情绪、语速、重音与音量",
+        "录音空间与混响",
+        "底噪、伴奏与其他说话人"
+      ],
+      "admission_status": "unverified",
+      "decision_evidence": "用户要求替换两个配角；声音性别及表演方向沿用已确认方案，新音色为实际生成工作版，尚无用户试听接受记录。"
+    },
+    "买肉客咪": {
+      "character": "买肉客咪",
+      "reference": "公共素材/声音/买肉客咪_独立声线_工作版_v001.wav",
+      "sha256": "e088af1266efb1f39aec75c953d4b3c2db552acebacf859e0c7665e40479e9a0",
+      "reference_text": "有肉，怎么不卖？",
+      "voice_id": "VOICE-BUYER-QWEN-v001",
+      "status": "working_voice_pending_creator_listening",
+      "identity": "成年女性普通话，日常自然，清亮而不尖细，清楚短收，与三咪低沉男声区分。",
+      "original_design_model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "original_design_instruct": "成年女性的普通话声音，日常自然，清亮清楚但不尖细，普通市井顾客的说话方式，语速适中略利落。用日常问价口吻，稍着急，前半句确认有货，后半句提高一点疑问语调，句末短收，不唱腔、不拖字、不用播音腔、不插入笑声。",
+      "duration_seconds": 1.68,
+      "sample_rate": 24000,
+      "may_control": [
+        "音色质感",
+        "共鸣与音区",
+        "听感年龄与体量"
+      ],
+      "must_not_control": [
+        "逐句台词",
+        "情绪、语速、重音与音量",
+        "录音空间与混响",
+        "底噪、伴奏与其他说话人"
+      ],
+      "admission_status": "unverified",
+      "decision_evidence": "用户要求替换两个配角；声音性别及表演方向沿用已确认方案，新音色为实际生成工作版，尚无用户试听接受记录。"
+    }
+  },
+  "crowd": "四只群众保持无台词",
+  "production_state": "本集11句新对白及11个视频音色绑定已完成；三咪正式定稿，两个配角为待回听工作版。",
+  "original_run_record": "剧集/EP001/制作成果/audio/配音/试听/QwenVoiceDesign_三咪样音_v001.json",
+  "reuse_validation": "已用Base 0.6B复用项目生成声线，6句新合成通过技术检查；跨句听感一致性仍待回听。"
+}

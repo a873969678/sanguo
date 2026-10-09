@@ -1,0 +1,19 @@
+{
+  "user_report": "本次生成说成二位壮咪，住拳",
+  "expected": "二位壮咪，住爪。",
+  "source_text_verified": true,
+  "reference_audio_auditory_verification": "not_performed_in_this_turn",
+  "correction": "提示词加逐字朗读与爪zhǎo第三声说明；等待用户选择单句替换或重生成",
+  "local_video_available": true,
+  "repair_verified": true,
+  "selected_repair": "replace_only_Liu_dialogue_keep_visual_and_other_original_effects",
+  "creator_choice": "只替换这一句对白（推荐）",
+  "replacement_source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-037_刘咪_Qwen_v001.wav",
+  "replacement_source_sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+  "pending": null,
+  "repair_rendered": true,
+  "repair_output": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005_对白修正_v002.mp4",
+  "creator_accepted": true,
+  "selected_video": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005_v001.mp4",
+  "acceptance_evidence": "可以了，覆盖原视频"
+}

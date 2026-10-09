@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-09",
+  "source": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_v001.mp4",
+  "source_sha256": "b9a607a9f116517ad83a187db0cdabb1e2f0164d4ef9929915a2e158ed6e1267",
+  "output": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_去飞线_v001.mp4",
+  "output_sha256": "8d45caa6acba85ce557fec369da673a4d5c20033c0596e5ce7d2bd27a4499599",
+  "status": "not_selected_creator_allows_original_orange_streaks",
+  "fix_frame_mapping": {
+    "63": 65,
+    "64": 65,
+    "101": 103,
+    "102": 103
+  },
+  "fixed_seconds": [
+    [
+      2.625,
+      2.7083333333333335
+    ],
+    [
+      4.208333333333333,
+      4.291666666666667
+    ]
+  ],
+  "method": "两次枪口短闪之后，各2帧飞线画面用紧邻的第一帧干净收后坐画面替代；每处约83ms，完整时长不变。",
+  "pixel_retouch": false,
+  "muzzle_flash_frames_preserved": [
+    60,
+    61,
+    62,
+    99,
+    100
+  ],
+  "audio_packets_identical": true,
+  "audio_stream_sha256": "be8ad6a083aab4325778cddf2c672d46015c706fc31da08da3045deb5aa41ccc",
+  "frames": 145,
+  "duration_seconds": 6.048,
+  "source_preserved": true,
+  "creator_accepted": false,
+  "limitations": "枪口抬起约45度，未达到提示词80—90度；无前端弯刃，后段纹饰被爪遮挡，未宣称完整道具严格复现；原平台角落标记保留。",
+  "creator_quote": "橙色飞线保留可以"
+}

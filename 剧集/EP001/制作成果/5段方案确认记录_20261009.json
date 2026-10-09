@@ -1,0 +1,46 @@
+{
+  "creator_message": "等等，还是用5段操作卡和参考文件",
+  "current_pack": "剧集/EP001/制作成果/即梦2.5分段提交包",
+  "model": "即梦 Seedance 2.5",
+  "segments": [
+    {
+      "segment": "SEG001",
+      "seconds": 25,
+      "images": 23,
+      "audio": 2
+    },
+    {
+      "segment": "SEG002",
+      "seconds": 27,
+      "images": 28,
+      "audio": 2
+    },
+    {
+      "segment": "SEG003",
+      "seconds": 23,
+      "images": 12,
+      "audio": 2
+    },
+    {
+      "segment": "SEG004",
+      "seconds": 27,
+      "images": 28,
+      "audio": 1
+    },
+    {
+      "segment": "SEG005",
+      "seconds": 25,
+      "images": 17,
+      "audio": 1
+    }
+  ],
+  "checks": {
+    "source_hashes_match": true,
+    "reference_hashes_match": true,
+    "39_shots_once": true,
+    "11_script_lines_once": true,
+    "upload_links_exist": true
+  },
+  "media_submitted": false,
+  "note": "后四段仍需上一新段实际视频与尾帧；未把计划输入标记为已生成。"
+}

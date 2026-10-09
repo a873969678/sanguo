@@ -1,0 +1,45 @@
+﻿[Script Info]
+Title: 三国群萌传 EP001 实际字幕与名字卡
+ScriptType: v4.00+
+PlayResX: 480
+PlayResY: 854
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Dialogue,Microsoft YaHei,34,&H00FFFFFF,&H00FFFFFF,&H00101010,&H90000000,0,0,0,0,100,100,0,0,1,2.5,0,2,40,40,204,1
+Style: NameCard,Microsoft YaHei,26,&H00E1F5FF,&H00E1F5FF,&H0019283C,&H90000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,12,12,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.08,0:00:09.97,Dialogue,,0,0,0,,{\pos(240,650)}哈基米，
+Dialogue: 0,0:00:10.37,0:00:11.30,Dialogue,,0,0,0,,{\pos(240,650)}南北绿豆
+Dialogue: 0,0:00:16.87,0:00:17.62,Dialogue,,0,0,0,,{\pos(240,650)}有肉，
+Dialogue: 0,0:00:17.87,0:00:18.68,Dialogue,,0,0,0,,{\pos(240,650)}怎么不卖？
+Dialogue: 0,0:00:19.58,0:00:20.69,Dialogue,,0,0,0,,{\pos(240,650)}肉在井里。
+Dialogue: 0,0:00:21.37,0:00:22.26,Dialogue,,0,0,0,,{\pos(240,650)}掌柜说了，
+Dialogue: 0,0:00:22.75,0:00:23.76,Dialogue,,0,0,0,,{\pos(240,650)}谁搬得开，
+Dialogue: 0,0:00:24.00,0:00:25.01,Dialogue,,0,0,0,,{\pos(240,650)}就让谁取。
+Dialogue: 0,0:00:36.66,0:00:38.04,Dialogue,,0,0,0,,{\pos(240,650)}按你掌柜的话办。
+Dialogue: 0,0:00:44.04,0:00:45.40,Dialogue,,0,0,0,,{\pos(240,650)}掌柜，就是他。
+Dialogue: 0,0:00:51.00,0:00:52.28,Dialogue,,0,0,0,,{\pos(240,650)}你卖的是豆，
+Dialogue: 0,0:00:52.87,0:00:54.04,Dialogue,,0,0,0,,{\pos(240,650)}还是粉？
+Dialogue: 0,0:00:55.37,0:00:56.63,Dialogue,,0,0,0,,{\pos(240,650)}你捏碎我的豆，
+Dialogue: 0,0:00:57.08,0:00:58.04,Dialogue,,0,0,0,,{\pos(240,650)}还问我？
+Dialogue: 0,0:00:58.79,0:01:00.08,Dialogue,,0,0,0,,{\pos(240,650)}你分了我的肉，
+Dialogue: 0,0:01:01.04,0:01:02.13,Dialogue,,0,0,0,,{\pos(240,650)}又怎么说？
+Dialogue: 0,0:01:03.12,0:01:04.53,Dialogue,,0,0,0,,{\pos(240,650)}磨盘是我搬的。
+Dialogue: 0,0:01:05.37,0:01:06.80,Dialogue,,0,0,0,,{\pos(240,650)}你自己定的规矩，
+Dialogue: 0,0:01:07.29,0:01:08.05,Dialogue,,0,0,0,,{\pos(240,650)}认不认？
+Dialogue: 0,0:01:09.25,0:01:10.68,Dialogue,,0,0,0,,{\pos(240,650)}先让我看看，
+Dialogue: 0,0:01:11.33,0:01:13.01,Dialogue,,0,0,0,,{\pos(240,650)}你有多大本事！
+Dialogue: 0,0:01:36.12,0:01:37.33,Dialogue,,0,0,0,,{\pos(240,650)}没必要用枪，
+Dialogue: 0,0:01:37.41,0:01:38.83,Dialogue,,0,0,0,,{\pos(240,650)}也照样分个高下！
+Dialogue: 0,0:01:56.37,0:01:57.36,Dialogue,,0,0,0,,{\pos(240,650)}二位壮咪，
+Dialogue: 0,0:01:57.66,0:01:58.26,Dialogue,,0,0,0,,{\pos(240,650)}住爪。
+Dialogue: 1,0:00:00.00,0:00:02.00,NameCard,,0,0,0,,{\pos(320,190)\fad(120,120)}关咪
+Dialogue: 1,0:00:11.00,0:00:13.00,NameCard,,0,0,0,,{\pos(370,215)\fad(120,120)}刘咪
+Dialogue: 1,0:00:14.00,0:00:16.00,NameCard,,0,0,0,,{\pos(100,220)\fad(120,120)}肉摊伙计
+Dialogue: 1,0:00:14.00,0:00:16.00,NameCard,,0,0,0,,{\pos(340,360)\fad(120,120)}买肉客咪
+Dialogue: 1,0:00:44.00,0:00:46.00,NameCard,,0,0,0,,{\pos(70,240)\fad(120,120)}张咪

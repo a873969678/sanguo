@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-09",
+  "file": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+  "sha256": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
+  "duration_seconds": 123.916667,
+  "frames": 2974,
+  "fps": 24,
+  "resolution": [
+    480,
+    854
+  ],
+  "audio_rate": 48000,
+  "complete_video_decode": true,
+  "constant_frame_pts": true,
+  "source_hashes_preserved": true,
+  "audio_decoded_peak": 0.8915735483169556,
+  "seams": [
+    {
+      "seconds": 25.083333333333332,
+      "max_sample_step_2ms": 2.1470461433636956e-05
+    },
+    {
+      "seconds": 42.0,
+      "max_sample_step_2ms": 0.00023362318461295217
+    },
+    {
+      "seconds": 50.083333333333336,
+      "max_sample_step_2ms": 5.506941569421997e-07
+    },
+    {
+      "seconds": 73.16666666666667,
+      "max_sample_step_2ms": 0.0
+    },
+    {
+      "seconds": 78.16666666666667,
+      "max_sample_step_2ms": 3.181006491104199e-06
+    },
+    {
+      "seconds": 79.66666666666667,
+      "max_sample_step_2ms": 1.994135800487129e-06
+    },
+    {
+      "seconds": 84.66666666666667,
+      "max_sample_step_2ms": 4.084157581019099e-06
+    },
+    {
+      "seconds": 89.20833333333334,
+      "max_sample_step_2ms": 3.839023884211201e-05
+    },
+    {
+      "seconds": 98.83333333333334,
+      "max_sample_step_2ms": 5.020729645366373e-06
+    }
+  ],
+  "patch_source": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_v001.mp4",
+  "patch_sha256": "b9a607a9f116517ad83a187db0cdabb1e2f0164d4ef9929915a2e158ed6e1267",
+  "new_dialogue_source": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_对白修正_v003.mp4",
+  "orange_streaks_retained": true,
+  "creator_authorization": "橙色飞线保留可以",
+  "subtitles_added": false,
+  "name_cards_added": false,
+  "music_added": false,
+  "creator_accepted": false,
+  "command": [
+    "C:/Users/Administrator/.codex/runtimes/drama-edge-tts/Lib/site-packages/imageio_ffmpeg/binaries/ffmpeg-win-x86_64-v7.1.exe",
+    "-hide_banner",
+    "-loglevel",
+    "warning",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\SEG001_v001.mp4",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\SEG002_v001.mp4",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\SEG002_v001.mp4",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\SEG003_v001.mp4",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\SEG004_对白修正_v003.mp4",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\补镜\\PATCH002_朝天开枪_v001.mp4",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\SEG004_对白修正_v003.mp4",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\补镜\\PATCH002_朝天开枪_v001.mp4",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\SEG004_对白修正_v003.mp4",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\SEG005_v001.mp4",
+    "-filter_complex_script",
+    "C:\\Users\\Administrator\\AppData\\Local\\Temp\\EP001_PATCH002套剪\\套剪_filter.txt",
+    "-map",
+    "[vout]",
+    "-map",
+    "[aout]",
+    "-c:v",
+    "libx264",
+    "-preset",
+    "medium",
+    "-crf",
+    "18",
+    "-pix_fmt",
+    "yuv420p",
+    "-r",
+    "24",
+    "-c:a",
+    "aac",
+    "-b:a",
+    "192k",
+    "-ar",
+    "48000",
+    "-map_metadata",
+    "-1",
+    "-movflags",
+    "+faststart",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\成片\\三国群萌传_EP001_关张初遇_粗剪_v003.mp4"
+  ],
+  "warnings": "-filter_complex_script is deprecated, use -/filter_complex C:\\Users\\Administrator\\AppData\\Local\\Temp\\EP001_PATCH002套剪\\套剪_filter.txt instead\n[mov,mp4,m4a,3gp,3g2,mj2 @ 000001cff7939e00] Unknown cover type: 0x1.\n[mov,mp4,m4a,3gp,3g2,mj2 @ 000001cff7919a40] Unknown cover type: 0x1.\n[mov,mp4,m4a,3gp,3g2,mj2 @ 000001cff7918c80] Unknown cover type: 0x1.\n[mov,mp4,m4a,3gp,3g2,mj2 @ 000001cff7919200] Unknown cover type: 0x1.\n"
+}

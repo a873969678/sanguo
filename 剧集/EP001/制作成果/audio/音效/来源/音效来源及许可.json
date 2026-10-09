@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-09",
+  "purpose": "001—006已生成视频的原音轨重建：只补既有动作声音，使用公开CC0试听素材。",
+  "sources": [
+    {
+      "id": "427365",
+      "name": "Man Breathing",
+      "author": "balloonhead",
+      "page": "https://freesound.org/people/balloonhead/sounds/427365/",
+      "url": "https://cdn.freesound.org/previews/427/427365_2188-hq.mp3",
+      "target": "Freesound_427365_呼吸_CC0.mp3",
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_427365_呼吸_CC0.mp3",
+      "sha256": "ab99b3abf20647dd2a45379e1b4a5084bc89a16d0e8ef2352b534c84cb34e7d5",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "667284",
+      "name": "Stone Scrape",
+      "author": "alegemaate",
+      "page": "https://freesound.org/people/alegemaate/sounds/667284/",
+      "url": "https://cdn.freesound.org/previews/667/667284_2531187-hq.mp3",
+      "target": "Freesound_667284_石面摩擦_CC0.mp3",
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_667284_石面摩擦_CC0.mp3",
+      "sha256": "765728cc54a723a64eaf9a3f7465d051930e0a0053fae602ea10645a51f87cce",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "546371",
+      "name": "车铃",
+      "author": "PanosA",
+      "page": "https://freesound.org/people/PanosA/sounds/546371/",
+      "url": "https://cdn.freesound.org/previews/546/546371_12222745-hq.mp3",
+      "target": "Freesound_546371_车铃_CC0.mp3",
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_546371_车铃_CC0.mp3",
+      "sha256": "a22a99b382b9af2a2eb1f563a7f404ebdb5c0aaef1a5058d2544ea32638f91b4",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "719482",
+      "name": "自行车轮踏与刹停",
+      "author": "Rudmer_Rotteveel",
+      "page": "https://freesound.org/people/Rudmer_Rotteveel/sounds/719482/",
+      "url": "https://cdn.freesound.org/previews/719/719482_4921277-hq.mp3",
+      "target": "Freesound_719482_自行车轮踏与刹停_CC0.mp3",
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_719482_自行车轮踏与刹停_CC0.mp3",
+      "sha256": "2e250bf84570b779e2d492f99364ebdc4d4051ecf6c511a11a958d564a79cc6f",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "19291",
+      "name": "布料摩擦",
+      "author": "martian",
+      "page": "https://freesound.org/people/martian/sounds/19291/",
+      "url": "https://cdn.freesound.org/previews/19/19291_84709-hq.mp3",
+      "target": "Freesound_19291_布料摩擦_CC0.mp3",
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_19291_布料摩擦_CC0.mp3",
+      "sha256": "2c603f049ce9ab459515d4bedabb758fbd9d5c39e96cf106b659882157a2f2ae",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "78979",
+      "name": "脚撑",
+      "author": "RoofDog",
+      "page": "https://freesound.org/people/RoofDog/sounds/78979/",
+      "url": "https://cdn.freesound.org/previews/78/78979_1227539-hq.mp3",
+      "target": "Freesound_78979_脚撑_CC0.mp3",
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_78979_脚撑_CC0.mp3",
+      "sha256": "10e6f329cf2f0bcdb930875a110abb4fc95aea5adcfee521147c9bd0f07a14fb",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "369710",
+      "name": "木面轻触",
+      "author": "Mrguff",
+      "page": "https://freesound.org/people/Mrguff/sounds/369710/",
+      "url": "https://cdn.freesound.org/previews/369/369710_2855293-hq.mp3",
+      "target": "Freesound_369710_木面轻触_CC0.mp3",
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_369710_木面轻触_CC0.mp3",
+      "sha256": "e1635813031d126a04d8db80ab8bf95c61299e4891241695aada36d8508910d9",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}

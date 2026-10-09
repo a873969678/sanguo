@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-09",
+  "status": "rendered_technical_checks_passed_creator_review_pending",
+  "file": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_吆喝字幕修正_v005.mp4",
+  "sha256": "cf47165d6fa60e28e56f6850fc96fdf9c1522bec85febe8ef5b452629f950318",
+  "duration_seconds": 123.916667,
+  "frames": 2974,
+  "resolution": [
+    480,
+    854
+  ],
+  "fps": 24,
+  "dialogue_count": 12,
+  "caption_piece_count": 25,
+  "name_card_count": 5,
+  "callout": {
+    "text": "哈基米，南北绿豆",
+    "voice": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-004_关咪_吆喝_Qwen_v001.wav",
+    "voice_sha256": "a78461e788434ec3bbeac01bac990513ed58ebf8e9429704844e7eb5ea94a31f",
+    "insert_seconds": 9.041666666666666,
+    "source_trim": [
+      0.55,
+      2.72
+    ],
+    "gain_db": -2.498774732165999,
+    "mouth_visible": false,
+    "tail_briefly_offscreen": true
+  },
+  "source_video": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+  "original_v004_unchanged": true,
+  "premix_outside_insert_sample_identical": true,
+  "audio_reencoded_aac": true,
+  "native_dialogue_times_unchanged": true,
+  "music_added": false,
+  "creator_accepted": false,
+  "subtitle_plan": "剧集/EP001/制作成果/subtitles/EP001_字幕与名字卡_实际套剪_v005.json",
+  "timing_evidence": "Silero VAD辅助范围、10ms RMS发声波形和针对性ASR，ASR提前的首字时间不作为起点。",
+  "limitation": "技术检查与抽帧不代替完整字音、听感与所有嘴型的独立回看。",
+  "sampled_visual_review": {
+    "sampled_seconds": [
+      9.125,
+      10.5,
+      16.6,
+      16.95,
+      50.5,
+      51.2,
+      64.6,
+      65.5,
+      117.4,
+      117.8
+    ],
+    "opening_callout_captions_visible": true,
+    "formerly_early_sample_frames_caption_free": true,
+    "names_retained_from_accepted_v004": true,
+    "scope": "抽帧检查，不代替完整听感及逐字嘴型验收"
+  }
+}

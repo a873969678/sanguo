@@ -1,0 +1,2643 @@
+{
+  "date": "2026-10-09",
+  "status": "completed",
+  "workspace": "E:\\AIsanguo",
+  "authorization": "第一集已经上了，现在删除没用的视频，图片，脚本等文件",
+  "publication": {
+    "status": "published_by_creator_report",
+    "confirmation": "第一集已经上了",
+    "current_delivery": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_1080P完整配乐_v006.mp4",
+    "platform": "抖音",
+    "url": null,
+    "independently_verified": false
+  },
+  "protected": [
+    {
+      "path": "公共素材/人物/关羽/关咪_猫脸卡通角色板_定稿.png",
+      "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
+      "size_bytes": 2499692
+    },
+    {
+      "path": "公共素材/人物/刘备/刘咪_猫脸卡通角色板_定稿.png",
+      "sha256": "6138d6b7e595d09fe861502b6282041b847bd17d7dacefd79bfc91df6d6b2531",
+      "size_bytes": 2149782
+    },
+    {
+      "path": "公共素材/人物/张飞/张咪_猫脸卡通角色板_定稿.png",
+      "sha256": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
+      "size_bytes": 2156870
+    },
+    {
+      "path": "公共素材/声音/买肉客咪_独立声线_工作版_v001.wav",
+      "sha256": "e088af1266efb1f39aec75c953d4b3c2db552acebacf859e0c7665e40479e9a0",
+      "size_bytes": 80684
+    },
+    {
+      "path": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "size_bytes": 265004
+    },
+    {
+      "path": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
+      "sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "size_bytes": 84524
+    },
+    {
+      "path": "公共素材/声音/声音制作要求.json",
+      "sha256": "0820774ebb6009f537a1791466c20420f377dba424f16bddbeb71f2268b04fb9",
+      "size_bytes": 6803
+    },
+    {
+      "path": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "size_bytes": 111404
+    },
+    {
+      "path": "公共素材/声音/肉摊伙计_独立声线_工作版_v001.wav",
+      "sha256": "7ba47d6fc4fb3596cf01b2c91c5e507faa8d3099e9cc71a95e44cfc586de7a69",
+      "size_bytes": 169004
+    },
+    {
+      "path": "公共素材/声音/角色声线配置.json",
+      "sha256": "211d8cace616947d130c55d16308e61f2f086c168a1f09bef890976dff03b818",
+      "size_bytes": 11063
+    },
+    {
+      "path": "公共素材/武器/关羽枪械/关咪枪械_卡通道具板_定稿.png",
+      "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
+      "size_bytes": 1689972
+    },
+    {
+      "path": "公共素材/武器/刘备双枪/刘咪双枪_卡通道具板_定稿.png",
+      "sha256": "e722470c536504e4db19c61643937342030134f8826c6eb08aa9e58eb48a2401",
+      "size_bytes": 1601660
+    },
+    {
+      "path": "公共素材/武器/张飞枪械/张咪枪械_卡通道具板_定稿.png",
+      "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
+      "size_bytes": 1603727
+    },
+    {
+      "path": "公共素材/视觉参考/README.md",
+      "sha256": "06143779836ad41716a4d349784f923546343b83f11e719341b9635e30076179",
+      "size_bytes": 1258
+    },
+    {
+      "path": "公共素材/视觉参考/刘关张_小巧可爱_风格母版_定稿.png",
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "size_bytes": 2042421
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/修复/EP001_对白音效配乐_最终混音_v006.wav",
+      "sha256": "edb093c4ee281f83d0a1d13920870733bc6742fd311a330864c99637d17e993a",
+      "size_bytes": 35688102
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/修复/EP001_开袋吆喝混合音轨_v005.wav",
+      "sha256": "dd81a5efbe7240f2946c019a668a8c31c7fee84b0c7feb2d59176f715ed70de4",
+      "size_bytes": 47587416
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-01_涿郡市集_试听_v001.wav",
+      "sha256": "c0e988827b3af7ea54feb6d54d4bd3bf41a5aac7d527a586abdbf6df10baa079",
+      "size_bytes": 8640044
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-02_搬盘分肉_v001.wav",
+      "sha256": "e851213195d4ec6d62516d5e77484d99e2433957a2a381b07639fd9abf0100ca",
+      "size_bytes": 12960044
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-03_关张对峙_v001.wav",
+      "sha256": "d1cc46160b1c3407902ad12e51cf7de04abcd2b2f06bb00a261e01c9fe3c6c24",
+      "size_bytes": 17280044
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-04_徒手较量与制止_v001.wav",
+      "sha256": "d86444ba3d6e9aac5533d12702ed43e6c8b264bcfe8f12e6c782013ee9a25c01",
+      "size_bytes": 11520044
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配乐/EP001_完整配乐_时间线混音_v001.wav",
+      "sha256": "d8bf7a6939c9fb76b11a4b9654d8d53d227d37303a44534a843eb4e183a92943",
+      "size_bytes": 35688044
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-004_关咪_吆喝_Qwen_v001.wav",
+      "sha256": "a78461e788434ec3bbeac01bac990513ed58ebf8e9429704844e7eb5ea94a31f",
+      "size_bytes": 130604
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-007_买肉客咪_Qwen_v001.wav",
+      "sha256": "e088af1266efb1f39aec75c953d4b3c2db552acebacf859e0c7665e40479e9a0",
+      "size_bytes": 80684
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-008_肉摊伙计_Qwen_v001.wav",
+      "sha256": "7ba47d6fc4fb3596cf01b2c91c5e507faa8d3099e9cc71a95e44cfc586de7a69",
+      "size_bytes": 169004
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-013_关咪_Qwen_v001.wav",
+      "sha256": "8162adc96cb26d4da98424c5ee3c9961bec0bab9b82c3bc54fe60aba85e8460e",
+      "size_bytes": 76844
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-016_肉摊伙计_Qwen_v001.wav",
+      "sha256": "6cb214721d7439c40dbbb8ab373f75e47121f48de487583407783f8d2fada8ac",
+      "size_bytes": 86954
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-018_张咪_Qwen_v001.wav",
+      "sha256": "345f063de139df1b46ed2ea3a772aae96d7724bde782e8ee2f0e9bf7474e7462",
+      "size_bytes": 107564
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-019_关咪_Qwen_v001.wav",
+      "sha256": "83f119667f57af02c58acb86dd37616085ae745ffe3f7d0e29b63520ed9bdd71",
+      "size_bytes": 119084
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-020_张咪_Qwen_v001.wav",
+      "sha256": "af9b51159b26e9455a358975c23d028e1457950b562dcee4327c07c79e0ccdfd",
+      "size_bytes": 134444
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-021_关咪_Qwen_v001.wav",
+      "sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "size_bytes": 265004
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-022_张咪_Qwen_v001.wav",
+      "sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "size_bytes": 111404
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v002.wav",
+      "sha256": "ea1ac6c73b82d84f3398b32cd08d69d2eff29db8626ed610f925f9a033a37b22",
+      "size_bytes": 130604
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-037_刘咪_Qwen_v001.wav",
+      "sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "size_bytes": 84524
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/买肉客咪_猫脸卡通角色板_v001.png",
+      "sha256": "03751789925cd96c93c82d9e1edb4fe2a9d18bea3542ea087ff9de830f3b91ab",
+      "size_bytes": 2017182
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/买肉客咪_空篮与装肉拎篮组合_v001.png",
+      "sha256": "d2b4ed0aafbc6b93cb56ff7d21a2b28d31e2d7f0001fd1b038b8d244e8524c69",
+      "size_bytes": 1937486
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_卸右袋双爪承托接触_v003.png",
+      "sha256": "5b486dbad4b7763740a99bea2079e3014e929e1507d57ec3f6084ab9a7a13db7",
+      "size_bytes": 2326255
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_双爪托盘接触近景_v001.png",
+      "sha256": "a6708522c48c06b472d915e5432cd21185ed05fae03b87317b9bf4938fd9fd9f",
+      "size_bytes": 2146867
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_抓盘与举盘组合_v001.png",
+      "sha256": "f52b6afe5cf0c41377822225ba826a1301e1bc2c27531f19ff0df97c711f1ba6",
+      "size_bytes": 2083571
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_提肉与入篮接触双状态_v001.png",
+      "sha256": "0cef6b01abcd5632607cc978464365f692d3f40394f926f9c60eb95d9de2fcad",
+      "size_bytes": 2103171
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_猫脸卡通角色板_v001.png",
+      "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
+      "size_bytes": 2499692
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_车左取放枪接触_v005.png",
+      "sha256": "4d9300c8f3f8fcfb25c0bd5c773c86a0d72e81a2a953a3c3d615aa2c7418af4b",
+      "size_bytes": 2042517
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/刘关张_猫脸卡通同框_v002.png",
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "size_bytes": 2042421
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/刘咪_双腰套与持双枪接触_v001.png",
+      "sha256": "08dbbfc8927318c0476abe7e866e74f0e2dd86267922ea186ef43afacac1d6ff",
+      "size_bytes": 2001343
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/刘咪_猫脸卡通角色板_v001.png",
+      "sha256": "6138d6b7e595d09fe861502b6282041b847bd17d7dacefd79bfc91df6d6b2531",
+      "size_bytes": 2149782
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/张咪_猫脸卡通角色板_v001.png",
+      "sha256": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
+      "size_bytes": 2156870
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/张咪_背枪与持枪接触双状态_v001.png",
+      "sha256": "6156e4247b2c3f2523e73f7fe00eff493d9f86799986b0f1ca4eb81b385c4baa",
+      "size_bytes": 2108589
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/肉摊伙计_猫脸卡通角色板_v001.png",
+      "sha256": "0c57eda7ac511636601df61a5f145bccc2bd276afb9c353ce07e54c902f61c46",
+      "size_bytes": 2140758
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/集市群众_四咪角色板_v001.png",
+      "sha256": "7aee6cec60853d3fc4dde32e3d63eaf1c862fb9a853acb405e5f1f8b0af17bee",
+      "size_bytes": 2138885
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-001_v001.png",
+      "sha256": "a9b0766cea7913a0e8356fe54fee41e489ea0e130aa66ad0340086f76a287790",
+      "size_bytes": 2341810
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-002_v004.png",
+      "sha256": "70e09ac72c9c0d5bc94043b8e0a08c86fd0a7d142aac6e5d91b523a18cc89cfb",
+      "size_bytes": 2340601
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-003_v004.png",
+      "sha256": "aee35d6a4e2ddb5b58b7e552dc27e3c7f9c32887714a71e970a9fcd1aa3a2817",
+      "size_bytes": 2288696
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-004_v001.png",
+      "sha256": "c0e8ca548945f5418905feeaae2be8f63b6892c4f3991cea165d0ce27314c1ea",
+      "size_bytes": 2536698
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-005_v002.png",
+      "sha256": "dbd0f3f1fbd3412960090f1c928b6d6fe7b1feaac1e5a963f555e77a1daad134",
+      "size_bytes": 2326223
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-006_v001.png",
+      "sha256": "ba2a8ac92d30359a5c64c11c659f6fd7beca64cd6a2d6612daff81795f4fff35",
+      "size_bytes": 2368654
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-007_v001.png",
+      "sha256": "14b73eaebe6a0541d3bd0484591395ce59dfa131a02e4ebe1903219f77cf30d2",
+      "size_bytes": 2082755
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-008_v001.png",
+      "sha256": "58ca83b3e49106586fb9a19456c840c24004b72b8d56452032ccc91e9603e714",
+      "size_bytes": 2384706
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-009_v001.png",
+      "sha256": "016449da6e10ab91a65757979ad71f3e4b676d6f3fbb3f13afa2d5f3356a208f",
+      "size_bytes": 2434017
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-010_v001.png",
+      "sha256": "01b2ddf9c870c848b79b6cdd637490fed93f4f7b249591efa155bacd19b2d071",
+      "size_bytes": 2518865
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-011_v001.png",
+      "sha256": "7059f56152ad5b304a89a509b92af0edb08818019946adcbd1ef115fe3de6e91",
+      "size_bytes": 2352070
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-012_v001.png",
+      "sha256": "e2361424ce7d907a15e78f950d8565a127ceaa96558b04f4d51b5ea480d4905e",
+      "size_bytes": 2378994
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-013_v003.png",
+      "sha256": "241eb871432a67d9fb25ac8aaa15e0cde8981ac3e925dbd3c2572688cb4d2869",
+      "size_bytes": 2409699
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-014_v001.png",
+      "sha256": "269712119a9776d28c88fcffb5c9398d7d2d8dee90badf42d30fab12f5dafdf8",
+      "size_bytes": 2462107
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-015_v001.png",
+      "sha256": "3747c4943d8207b5a155e5361290154155492999a0f9b8c81870cc98ab92de87",
+      "size_bytes": 2468768
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-016_v001.png",
+      "sha256": "72f5f98860b1ae21f0a6eaa8689ca512c26a89f178a5831e24829363a969a0d5",
+      "size_bytes": 2373419
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-017_v001.png",
+      "sha256": "285ff4ed2d519bd12f56fb454d2ac67f37cec19182118331cd8e73052e65dc6b",
+      "size_bytes": 2308323
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-018_v001.png",
+      "sha256": "7fcf75cb75911229cadda6c471e20b29cc175ad4e5fa0f4e54e18683ca7eb34b",
+      "size_bytes": 2128690
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-019_v001.png",
+      "sha256": "f369c9b39ab868583b265b071905199620eba704883ff0d773f40d6e8cb536f5",
+      "size_bytes": 2652382
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-020_v001.png",
+      "sha256": "51f509a79f7ef2c3ff6c1fba13c3bfd291572d7a5d39b6841af94832b5504e06",
+      "size_bytes": 2191798
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-021_v001.png",
+      "sha256": "d0d7aaf79fe3be242c287f74920b69c0413ff28ed4e318533e19ac196c08b2ed",
+      "size_bytes": 2388307
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-022_v003.png",
+      "sha256": "8d3ae7c72a4add9f5d5ddbed2c04053288ff7302357b9bc8e81f1e99e3117673",
+      "size_bytes": 2348039
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-023_v001.png",
+      "sha256": "246bafa335b0609e03880534e6aba4147b0e98d37b6691aff8364f44f9b54538",
+      "size_bytes": 2423827
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-024_v002.png",
+      "sha256": "38900d7c618b5758b24c1cbb82703fcb704f815affbc9617b0541722197ec098",
+      "size_bytes": 2394335
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v006.png",
+      "sha256": "2c972774c63a6754021a0cf8fc75c3338a29645084999ee244635c701ad8d0c9",
+      "size_bytes": 2448103
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-026_v002.png",
+      "sha256": "769074dc6821d2200503541403f1f283e16e68921fd595ef6478346d87126ef2",
+      "size_bytes": 2385506
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-027_v003.png",
+      "sha256": "853a64aa4e0ce51f521d22f02a734a0cf50996de151c688efe8f5144b6be3b5a",
+      "size_bytes": 2484651
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-028_v004.png",
+      "sha256": "ad95b6aa804d10756acecd4f0e5da4a66930ad6072b9858ab0c39fafe22871bb",
+      "size_bytes": 2413392
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-029_v001.png",
+      "sha256": "d08b648703d33159d5f9267edcfe5433e40f2b1ac4639fb1036f4b5888d5c5b1",
+      "size_bytes": 2267848
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-030_v002.png",
+      "sha256": "d2010564b98ad162e87d10cb4a6b4578e3c21ce4cd23c8efbab9219077333197",
+      "size_bytes": 2511724
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-031_v003.png",
+      "sha256": "a1bdcb48ee9f16bb48a01ab4a99139beded48036f8ff7b52fdbe3e7588b9c921",
+      "size_bytes": 2465904
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-032_v001.png",
+      "sha256": "8c881cc78ea3c4119ee98f535a2f3bc6de84b10924d03582a77e0e5dcc52c561",
+      "size_bytes": 2341639
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-033_v001.png",
+      "sha256": "254118906e5a144fef2ffe6365683101a861365858abafd83579269ba768448e",
+      "size_bytes": 2392488
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-034_v001.png",
+      "sha256": "49bc79fecaffe16ff209a5c29d142c7d877a4499027634175648378dd75822c0",
+      "size_bytes": 2371820
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-035_v001.png",
+      "sha256": "206c30f0a86c84a222acc64b0fbacce444eb5fac47a149ea04dd4e08e43efde8",
+      "size_bytes": 2463368
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-036_v001.png",
+      "sha256": "c37185cd319b65b081d5bdc6f488a833765a69fb01cc201bb60e198b57631b9f",
+      "size_bytes": 2332056
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-037_v001.png",
+      "sha256": "81fce7b0895d8c5159e13524761bad061930b4566449998ab8aaac61c10af12f",
+      "size_bytes": 2439874
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-038_v001.png",
+      "sha256": "b21697113d6da3cc4abb7b5623f65778aad1b3f9b3d0d42ab1baffa2a3c6a9db",
+      "size_bytes": 2473119
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-039_v002.png",
+      "sha256": "2ad91af3d66da9995189ece34aad57e79824786cfd257faafc63f5a275990cd9",
+      "size_bytes": 2270529
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/关张_持枪宽站位首帧_v001.png",
+      "sha256": "eb9af345d879149d27b58b6f6be211c692faacb4d6fd9e0367041f727019aa09",
+      "size_bytes": 2176671
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/场景/关咪_停车摆摊组合图_v004.png",
+      "sha256": "1fb3eb51ccb275ba53acb205cd49f6af193fec0329385ac727854ce60b818a1b",
+      "size_bytes": 2126248
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/场景/涿郡集市_入口全景空场_v002.png",
+      "sha256": "29d0f4f30c72fe4f06c0d1d983f58b482c8b3f706b185fd43c0ae460e5e6261a",
+      "size_bytes": 2065365
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/武器/关咪枪械_卡通道具板_v001.png",
+      "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
+      "size_bytes": 1689972
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/武器/刘咪双枪_卡通道具板_v001.png",
+      "sha256": "e722470c536504e4db19c61643937342030134f8826c6eb08aa9e58eb48a2401",
+      "size_bytes": 1601660
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/武器/张咪枪械_卡通道具板_v001.png",
+      "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
+      "size_bytes": 1603727
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/载具/关咪_骑车组合图_v003.png",
+      "sha256": "0f6ce389d47f2de1f01cd41d3da43306879337428d6bc3fa9efe538588d666d8",
+      "size_bytes": 1944639
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/载具/关咪自行车_挂枪道具板_v003.png",
+      "sha256": "526004d33430ae63b5905238ec4aeb3ee4b0575e3a87ff9cf3ff29395d6b270c",
+      "size_bytes": 2011287
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/载具/关咪自行车_空挂架松带状态_v002.png",
+      "sha256": "2109f3f8b6b999869b0ba249ce19cd698f60e55876ad15711d73150203ea439f",
+      "size_bytes": 1932862
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/道具/买肉篮_空篮与装肉状态道具板_v001.png",
+      "sha256": "d0d0a65e2c082b4c0e89669963db1ca2b5175dd4fec0b875f916db8302271652",
+      "size_bytes": 1855637
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/道具/井口磨盘与石台_双状态参考_v001.png",
+      "sha256": "cf63925a3e4de17e391ccc4dee3ab925129aca7421eff66e75051ac2b9ac1314",
+      "size_bytes": 1750007
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/道具/猪肉_浅井井沿与入篮状态_v001.png",
+      "sha256": "890e7742c867d9bfc27b001a27e8fd9ee6f358e06e150dbaf7c168fc51471cb4",
+      "size_bytes": 1911976
+    },
+    {
+      "path": "剧集/EP001/制作成果/subtitles/EP001_字幕与名字卡_实际套剪_v005.ass",
+      "sha256": "4b1b198b9a8255ee17e78eae60f176c476b50bb487a57f07b692816410d17ba3",
+      "size_bytes": 3316
+    },
+    {
+      "path": "剧集/EP001/制作成果/subtitles/EP001_字幕与名字卡_实际套剪_v005.json",
+      "sha256": "4fc098ed363f209322d3c7c256d03c49b8dde63a204d968dc32a4b396a232858",
+      "size_bytes": 13774
+    },
+    {
+      "path": "剧集/EP001/制作成果/subtitles/EP001_对白字幕_实际套剪_v005.srt",
+      "sha256": "dcfce35829aa874d1d15c260c1da46c5dbebe798d0e0a497372decbc7c9110f1",
+      "size_bytes": 1378
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG001_v001.mp4",
+      "sha256": "6c060dd864ec8ec1e1492dc0cc0ee0734c9462d52ce1132f30fa5b03cce2aa63",
+      "size_bytes": 22060550
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG002_v001.mp4",
+      "sha256": "34096608607e88008f32e8dd12839ce988aeee4dab55862ee1b32b221a9e8be2",
+      "size_bytes": 23410571
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG003_v001.mp4",
+      "sha256": "a4f1036147d4760abdc3018fa633f361e760ee3201dc2b2c9c460dd581d8949e",
+      "size_bytes": 19453744
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_对白修正_v003.mp4",
+      "sha256": "1bf6a23eacebb7a10ab12abb1f1f011ce50d41864c5626fb56dc7b52826c42a8",
+      "size_bytes": 16890565
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005_v001.mp4",
+      "sha256": "69484f2219f89a6780514d363c4fc40485e2a2a54a4b083cf4a459e51600ae4d",
+      "size_bytes": 13658072
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_v001.mp4",
+      "sha256": "b9a607a9f116517ad83a187db0cdabb1e2f0164d4ef9929915a2e158ed6e1267",
+      "size_bytes": 3559734
+    },
+    {
+      "path": "剧集/EP001/制作成果/发布/三国群萌传_EP001_关张初遇_封面_v001.png",
+      "sha256": "991eabbff61ec247fe8f39851e68edce1d67d7f647a06866c406659da733e864",
+      "size_bytes": 2476851
+    },
+    {
+      "path": "剧集/EP001/制作成果/发布/发布资料.md",
+      "sha256": "55f8ba9338854cd021b488ca0a3423a556b46a8b546c5415634d059d6fa8e42c",
+      "size_bytes": 1527
+    },
+    {
+      "path": "剧集/EP001/制作成果/发布/封面生成记录_v001.json",
+      "sha256": "38ccf3fbe14d39ee693ee5045f9e6a683ee474ae4701d2672d5cb313ff0a544a",
+      "size_bytes": 1874
+    },
+    {
+      "path": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_1080P完整配乐_v006.mp4",
+      "sha256": "aed3818b1a6b02dfecdfa69fa71779ec09aed836f74142d53391b53d393b83fc",
+      "size_bytes": 107831800
+    },
+    {
+      "path": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+      "sha256": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
+      "size_bytes": 28990430
+    }
+  ],
+  "items": [
+    {
+      "path": ".agents/skills/short-drama/scripts/__pycache__/creator_markdown_check.cpython-312.pyc",
+      "size_bytes": 86401,
+      "sha256": "9c123a7d8c66dc70efb62db7d1e958ad8a3db7c07bac04f7f0fe2fc6db9c8cb7",
+      "reason": "技能编译缓存，技能源码继续保留",
+      "status": "deleted"
+    },
+    {
+      "path": ".agents/skills/short-drama/scripts/__pycache__/project_tool.cpython-312.pyc",
+      "size_bytes": 126594,
+      "sha256": "ecf7d3d61891dbba9c0327dcce5a2f9d7efbf4c48ccae8b98606603cbbea2647",
+      "reason": "技能编译缓存，技能源码继续保留",
+      "status": "deleted"
+    },
+    {
+      "path": ".agents/skills/short-drama-produce/scripts/__pycache__/production_tool.cpython-312.pyc",
+      "size_bytes": 110945,
+      "sha256": "649355afc338536d73aea325558113ec0f7820b16bfcb293a1385cd9619df1d7",
+      "reason": "技能编译缓存，技能源码继续保留",
+      "status": "deleted"
+    },
+    {
+      "path": ".cache/acestep/progress_estimates.json",
+      "size_bytes": 738,
+      "sha256": "fd825559b0aa53dfbfd7d18c08c447b90e530b938acd6874676c2e66216361e3",
+      "reason": "运行时临时缓存",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/subtitles/EP001_字幕与名字卡_实际套剪_v003.ass",
+      "size_bytes": 3020,
+      "sha256": "e0e18f7abc0dbbbcaaaeebdc6001cd0bbe041322cc7485df4ab690964cbe019b",
+      "reason": "旧片长或旧时标字幕，最终成片采用v005时标",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/subtitles/EP001_对白字幕_125秒计划_v001.srt",
+      "size_bytes": 1005,
+      "sha256": "fdd7045ea105b60ebdeb9dabd5fe9b480af169ee4c2aa000a3e80e23efc1fbe7",
+      "reason": "旧片长或旧时标字幕，最终成片采用v005时标",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/subtitles/EP001_对白字幕_127秒分段计划_v002.srt",
+      "size_bytes": 808,
+      "sha256": "9fe63a98c917327811a0443fbeaa6433dca5812de34fa395365eea57d7a93a14",
+      "reason": "旧片长或旧时标字幕，最终成片采用v005时标",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/subtitles/EP001_对白字幕_实际套剪_v003.srt",
+      "size_bytes": 1198,
+      "sha256": "b6fbce6bb1c8ee26e9f9f00c9e3ea9fc1de2da2d65badc6924d68534e82a4016",
+      "reason": "旧片长或旧时标字幕，最终成片采用v005时标",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/subtitles/SEG005_对白修正_v002.srt",
+      "size_bytes": 60,
+      "sha256": "32c454c86e665def52073c81ca2c04b8a77ec0b520dbe75697d9031387c9150a",
+      "reason": "旧片长或旧时标字幕，最终成片采用v005时标",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/5段上传顺序.md",
+      "size_bytes": 1207,
+      "sha256": "a82eb1b33a26fea4e6f68e819fba56fbd39195e6dba60e61d8708775bb33dba8",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/README.md",
+      "size_bytes": 1959,
+      "sha256": "1ae6de11a3338e34c0ebdc23d4c6d6656e0ad2589d57eda6ed02c97172490380",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/成片/EP001_吆喝字幕修正回看_v005.jpg",
+      "size_bytes": 211153,
+      "sha256": "40123264fd170899b979b87fcfa845094553d8d321e7921dc54be51f256dbd83",
+      "reason": "已由最终发布v006取代的旧成片或旧回看图",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/成片/EP001_字幕名字卡回看_v004.png",
+      "size_bytes": 1153664,
+      "sha256": "b304a4f295318a2f5722ed1195ae1715b72b0717ebc68b1e9a6a5fec3b5996be",
+      "reason": "已由最终发布v006取代的旧成片或旧回看图",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_吆喝字幕修正_v005.mp4",
+      "size_bytes": 27317105,
+      "sha256": "cf47165d6fa60e28e56f6850fc96fdf9c1522bec85febe8ef5b452629f950318",
+      "reason": "已由最终发布v006取代的旧成片或旧回看图",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_字幕名字卡_v004.mp4",
+      "size_bytes": 27306672,
+      "sha256": "e306a67ca3057b1b633bb92f828dc4c28cc46d305001a275022b658ecaace2ae",
+      "reason": "已由最终发布v006取代的旧成片或旧回看图",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v001.mp4",
+      "size_bytes": 29991069,
+      "sha256": "f056e75540913e3ca9e2d026f376017f73749cbbbb2cb1631dff387d86753c66",
+      "reason": "已由最终发布v006取代的旧成片或旧回看图",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v002.mp4",
+      "size_bytes": 29298019,
+      "sha256": "3084f0db6bde815a0b7fdc6fbfebc9bc696ea8a984b91adc74ff2ae3512124b4",
+      "reason": "已由最终发布v006取代的旧成片或旧回看图",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/修复/SEG004_031单句对白替换_v003.wav",
+      "size_bytes": 10395736,
+      "sha256": "deae173b822fc07b7b24145041ab4d7c0329a3e16386262cf6a0f11c82d40b06",
+      "reason": "局部修复中间音轨或已整合的试听",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/修复/SEG005_单句对白替换_v002.wav",
+      "size_bytes": 9621592,
+      "sha256": "601e9abbc0b19e7064ad9ee9d4fa8afce0324b06682df816c147f316c1bb652c",
+      "reason": "局部修复中间音轨或已整合的试听",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/修复/SEG005_正确对白试听_v002.wav",
+      "size_bytes": 480044,
+      "sha256": "1ec395fa66ab0bb7f538c3d1fb1a359d06210092311904baed17354ccdd0dda9",
+      "reason": "局部修复中间音轨或已整合的试听",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/修复/SHOT-EP001-031_新对白对齐试听_v002.wav",
+      "size_bytes": 580268,
+      "sha256": "f61849255f47ac9fcbb649fd4b31c05df8b903db30dba0adb3621a24041c670f",
+      "reason": "局部修复中间音轨或已整合的试听",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/MOTION-EP001-001_重建动作音轨_v001.wav",
+      "size_bytes": 1183706,
+      "sha256": "c079a7a2ab5bf0798c2e34ea30d15a0fe4b2b9dda406f9ffa1537b2ffef2d055",
+      "reason": "旧39镜/第二段重建声音方案，最终5段成片未采用",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/MOTION-EP001-002_重建动作音轨_v001.wav",
+      "size_bytes": 1183706,
+      "sha256": "32575209f747faada484a5b1052d1d9edb8323208e345da0853211b877981769",
+      "reason": "旧39镜/第二段重建声音方案，最终5段成片未采用",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/MOTION-EP001-003_重建动作音轨_v001.wav",
+      "size_bytes": 1183706,
+      "sha256": "1af47feacbac9933150581d1cdfc47cef3833098c1e11539101565a2aee5361b",
+      "reason": "旧39镜/第二段重建声音方案，最终5段成片未采用",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/MOTION-EP001-004_重建动作音轨_v001.wav",
+      "size_bytes": 1183706,
+      "sha256": "c8cce30b2a93a1520cf6d8712b87bedca2070eb170597004436e72dda31f15f0",
+      "reason": "旧39镜/第二段重建声音方案，最终5段成片未采用",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/MOTION-EP001-005_重建动作音轨_v001.wav",
+      "size_bytes": 1183706,
+      "sha256": "ba44d0cb1a42f6bdd1fa35e189a4d0ec3e69d6183cf90e9f45bb83ce7d80e4c6",
+      "reason": "旧39镜/第二段重建声音方案，最终5段成片未采用",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/MOTION-EP001-006_重建动作音轨_v003.wav",
+      "size_bytes": 1183706,
+      "sha256": "f41ffe0b341eb6a0106c9f481a655d76d871d45dbd8d80422363775ece472a7f",
+      "reason": "旧39镜/第二段重建声音方案，最终5段成片未采用",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/SEG002_对白动作重建_v001.wav",
+      "size_bytes": 7796204,
+      "sha256": "b016f22aec237399ddb482df580d3751798eb4966ca897bbacf35c2821e9fa4a",
+      "reason": "旧39镜/第二段重建声音方案，最终5段成片未采用",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/SEG002_对白动作重建_v002.wav",
+      "size_bytes": 7796204,
+      "sha256": "1d6bbf4092512192c1932cc860ffd33e9d770d9b740d02033716c73997723142",
+      "reason": "旧39镜/第二段重建声音方案，最终5段成片未采用",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v001.wav",
+      "size_bytes": 126764,
+      "sha256": "740994f4305bfc46e077e4f92749b1c8f87feff89d063ce35ca9927a0f78826a",
+      "reason": "031旧对白，已换用v002新句",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/试听/EP001_新版对白串听_Qwen_v001.wav",
+      "size_bytes": 1652200,
+      "sha256": "285fbf87f37b05dde1b39664f3cee9ff46350b1480f4429b61b8fd17d77d371a",
+      "reason": "已被逐句定稿与最终混音取代的串听音轨",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_卸右袋双爪承托接触_v001_说明.md",
+      "size_bytes": 3160,
+      "sha256": "2cee57a5033cd6762a1337f5bc78424ed023b53d9c85bd4cd660149c0f80ce58",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_卸右袋双爪承托接触_v002_说明.md",
+      "size_bytes": 2219,
+      "sha256": "25b54d9531d0372cc541ee8b1f1eec81a930dd4b24073b140414f9ae40d639ea",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_车左取放枪接触_v001_说明.md",
+      "size_bytes": 2429,
+      "sha256": "b8feff9c1007cd805094e82fbd2b7bd4080acddb98dcf237527ead758b91c2ce",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_车左取放枪接触_v002_说明.md",
+      "size_bytes": 2365,
+      "sha256": "128a2bbefa4171e7bd1773007794b2b135ee7a70413946e2361b1c866f95946b",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_车左取放枪接触_v003_说明.md",
+      "size_bytes": 1913,
+      "sha256": "7a0ced6be6269370e61fbe5ef4468eecf3c59e0e85052b32625c2335a6e1a771",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_车左取放枪接触_v004_说明.md",
+      "size_bytes": 1752,
+      "sha256": "3fed21162ba3ba25c4262fce93e9c9548b474e5a561c8cd8ee44743a8cfd0ed4",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-002_v001_说明.md",
+      "size_bytes": 3300,
+      "sha256": "a30df23191c0fbe20c06f00ece6a804957a9652e76b6cde198de93853767ed02",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-002_v002_说明.md",
+      "size_bytes": 2208,
+      "sha256": "e153727e6e1c4f03628bca352219d560d5a76c85db0da4185070fa430845644b",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-002_v003_说明.md",
+      "size_bytes": 2384,
+      "sha256": "36060d2811160fbb1ce5e11aad4931bf9e18ef8d48bb495e34230d84eb67edfa",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-003_v001_说明.md",
+      "size_bytes": 5433,
+      "sha256": "2205625150f3374c92067149c2b5d4a4379b806c456b5c2af632b24328e91309",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-003_v002_说明.md",
+      "size_bytes": 2427,
+      "sha256": "8838481224888a6663ffd42a31446f04e241fe9792dba0550d6605fa9a178b7e",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-003_v003_说明.md",
+      "size_bytes": 1857,
+      "sha256": "71c594db185c8d12390ad4aba86201044334203f49483379fdd872539872955b",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-005_v001_说明.md",
+      "size_bytes": 2547,
+      "sha256": "08cac4adbc69cf3926559dd6d5014fd41176b30f84d20f98dfe958e458831d5b",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-013_v001_说明.md",
+      "size_bytes": 1665,
+      "sha256": "1a5cfcd0dc38d625968cd431a65445a57cf6bec6ec64531e7d8b88b10e31c8a1",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-013_v002_说明.md",
+      "size_bytes": 1864,
+      "sha256": "6b6cc0a41b771ca875efdb1412dccb1fc82ac1eeb1c15cd95e900d069eb1ca75",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-022_v001_说明.md",
+      "size_bytes": 1518,
+      "sha256": "fcc418a14fa166f229abe48c25d07013e2f844737dc9781100681758955615a7",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-022_v002_说明.md",
+      "size_bytes": 1788,
+      "sha256": "91cd12eb97fedccfd2515e3ded34239786b2eef45d4e90a59c43b2b1a066f915",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-024_v001_说明.md",
+      "size_bytes": 1892,
+      "sha256": "76c45a1266af5e82ed830af4c0497afad2b5aad25ce587118d8dafab542b3337",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v001_说明.md",
+      "size_bytes": 1928,
+      "sha256": "5d120da4a7ec62e846dc0c7c33193c9513590a772459d0051762e66d87c6cfa3",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v002_说明.md",
+      "size_bytes": 2309,
+      "sha256": "08dc8b960b98ee21cbbf0324fa2d6895b9d9ccc65f83cd3a8ac35a4789263200",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v003_说明.md",
+      "size_bytes": 3756,
+      "sha256": "b8b8fd7e45e03f38796b036379fa1ad36650099f13b333e35fdb6aa81ded8c2c",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v004_说明.md",
+      "size_bytes": 2703,
+      "sha256": "eacd594ce1b4b548672d644767161be82a18727ad58caf0ed419523386b9caa4",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v005_说明.md",
+      "size_bytes": 2240,
+      "sha256": "f9f11fd2bb1e8acbd2be9681e89647fca0d64ce86d5a0d53367a1a0ac9fdf654",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-026_v001_说明.md",
+      "size_bytes": 1620,
+      "sha256": "aa1e74d280733048e1ce4ad19e5606e954064bccc73434e87a70129f4d1a3f6f",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-027_v001_说明.md",
+      "size_bytes": 1565,
+      "sha256": "498a7465e88683348948304be38d9e0af9abe0f7a9a18fd90447e0ea2af96c10",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-027_v002_说明.md",
+      "size_bytes": 3658,
+      "sha256": "70f7a8f4ea9333e10124210a18e79947c3fff777c278379bbcfa377ea43cbcd6",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-028_v001_说明.md",
+      "size_bytes": 2448,
+      "sha256": "ac9c915ceacdf68f41c793d0fc05ffe31b83be91a6979643cd25e9ccffa06bbb",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-028_v002_说明.md",
+      "size_bytes": 2861,
+      "sha256": "1ce7e8aa93690a45271dd0bda88aeb09264e793b966a5e0237bc0b1aa23a2964",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-028_v003_说明.md",
+      "size_bytes": 2143,
+      "sha256": "250e3201837ffe415121ae9b330b30c7150f293790f8d8040028649c007befc1",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-030_v001_说明.md",
+      "size_bytes": 2217,
+      "sha256": "393f38405a6f9ee9b89e02e3128a40e3ec98736d94fe9a30ccd2f78ed1e43fdf",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-031_v001_说明.md",
+      "size_bytes": 1743,
+      "sha256": "280212e4a1d62378eb6fb389d1cefc2824f5486fc34e8f4b556e8cd5e2f0c2ef",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-031_v002_说明.md",
+      "size_bytes": 2304,
+      "sha256": "311d5a3afcef9f35f370939599ffe9a6ef87fa774d5facec1d3c74edfd4f1d41",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-039_v001_说明.md",
+      "size_bytes": 3256,
+      "sha256": "9b9ba1a0237a906071139d6a33c6327b3c720946c8f880536080ba74cf2e123d",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/场景/关咪_停车摆摊组合图_v001_说明.md",
+      "size_bytes": 13132,
+      "sha256": "735189ebed227dc13c4580e5397050498d6da20396684cf88473f6e59ebd5c1e",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/场景/关咪_停车摆摊组合图_v002_说明.md",
+      "size_bytes": 2132,
+      "sha256": "e335d430c4aa3dbe9f16043b1a64161200ee9ba74efaaf891424ca007e38e2ca",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/场景/关咪_停车摆摊组合图_v003_说明.md",
+      "size_bytes": 2018,
+      "sha256": "b987cf8d08fd37cd6d872f7b79c13d8961b2a094efcbd49384bdae0675b915d3",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/场景/涿郡集市_入口全景空场_v001_说明.md",
+      "size_bytes": 6826,
+      "sha256": "1f0a22a0793b22f5e5ee1ffa04c4e66aad780460b45806795b9af07407407e45",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/载具/关咪_骑车组合图_v001_说明.md",
+      "size_bytes": 12842,
+      "sha256": "b27427738d96441fc4ee7a086d3cec115a07dd0bcfbbc517436c930fe9be2757",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/载具/关咪_骑车组合图_v002_说明.md",
+      "size_bytes": 1980,
+      "sha256": "6d8200f56c9792d77c24914d01565fe483736e6bf83aed04781057c830dc6056",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/载具/关咪自行车_挂枪道具板_v001_说明.md",
+      "size_bytes": 11113,
+      "sha256": "b00cf2061c5fbc67644d3b85daaf176163f70e546375f98469f767a8eea1684b",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/载具/关咪自行车_挂枪道具板_v002_说明.md",
+      "size_bytes": 2528,
+      "sha256": "81e6fdfac802f4f17f2d0ccbf216bb2bb67aa0f891d21bc2a7dd09ad2f7a254e",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/载具/关咪自行车_空挂架松带状态_v001_说明.md",
+      "size_bytes": 2934,
+      "sha256": "a9be264694e661f68b1d812a8011163914e4d87dd67a1fd0769ef0fdd7e671ab",
+      "reason": "对应旧图片已于前次清理删除的失效说明",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_v001.mp4",
+      "size_bytes": 16774550,
+      "sha256": "81b6f78fc4dcddd0dd03f657857092e8fb6594652415fef97452764c4e65f3dc",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+      "size_bytes": 16774550,
+      "sha256": "81b6f78fc4dcddd0dd03f657857092e8fb6594652415fef97452764c4e65f3dc",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005_对白修正_v002.mp4",
+      "size_bytes": 13658072,
+      "sha256": "69484f2219f89a6780514d363c4fc40485e2a2a54a4b083cf4a459e51600ae4d",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/声音修复/SEG002_重建音轨_v001.mp4",
+      "size_bytes": 24669568,
+      "sha256": "c1aeab7e5948da59bfe351f1125b4da64654efbba45ceae56cc1cb82678af179",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/声音修复/SEG002_重建音轨_v002.mp4",
+      "size_bytes": 24667557,
+      "sha256": "b92dfd445e9bf82b7005d47fa085b2074cf3b7d54fe4bdc43c79c831ad6aea84",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/备份/SEG005_原声住拳_覆盖前_v001.mp4",
+      "size_bytes": 13551915,
+      "sha256": "746619aa7810a6f0d242f32c54c92133d1250203108a714cd43d28fc6297bcc7",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/尾帧/SEG001_尾帧.png",
+      "size_bytes": 716316,
+      "sha256": "38e603c8ab6ef3e5cf67a386083fc979ec4ebbb3dbb3ae3864ab1b122b1d10c4",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/尾帧/SEG002_尾帧.png",
+      "size_bytes": 764599,
+      "sha256": "2249b3796b2c917635301bd3f5a84b9032f50d29ed873d058a641323f766863a",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/尾帧/SEG003_尾帧.png",
+      "size_bytes": 732740,
+      "sha256": "4e56b87f4fc169e667c53e0e30d2a643c75f3ef57efd55ab1f9c0f0ceaf10331",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/尾帧/SEG004_尾帧.png",
+      "size_bytes": 959951,
+      "sha256": "9356f4edc5b8125804856765775f0b2734a658cd1baad5813bae3a0f54e5a546",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/续接参考_无原声/SEG001_续接无原声_v001.mp4",
+      "size_bytes": 21644271,
+      "sha256": "08c9769af4cf371d6c173c1e05fff59516292dff8fb8fe0c59117b2c8cb42012",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/续接参考_无原声/SEG002_续接无原声_v001.mp4",
+      "size_bytes": 22961305,
+      "sha256": "4cc1812e09d39614022889d29151ee1b76638d997d570afe819ba6cf3cb39110",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/续接参考_无原声/SEG003_续接无原声_v001.mp4",
+      "size_bytes": 19070395,
+      "sha256": "600a0608a09112c17ab8b8897d54c772d8f420230ac8a7cb7a552acffaf97d25",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/续接参考_无原声/SEG004_续接无原声_v002.mp4",
+      "size_bytes": 16298825,
+      "sha256": "e221d7c336c96d40536c2b1ef43e14539f30badfdbe613604388ac0f4ecda2d5",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH001_持枪距离_v001.mp4",
+      "size_bytes": 1252820,
+      "sha256": "4f89532cbe95069cb12d7dcb7b32d5ea40a25ec70b658fe688d252a2883f7a06",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_去飞线_v001.mp4",
+      "size_bytes": 1388138,
+      "sha256": "8d45caa6acba85ce557fec369da673a4d5c20033c0596e5ce7d2bd27a4499599",
+      "reason": "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/上传步骤.md",
+      "size_bytes": 2765,
+      "sha256": "61dfbe35580affd27a268e8049c320ff13689488b6e1dcc5ae43ada8d4492bbd",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/即梦提示词.txt",
+      "size_bytes": 2755,
+      "sha256": "6b7af8526cb5833cb8b1a0202891753964b23950254a4e3b2470f292e5234f3f",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/实际素材检查.md",
+      "size_bytes": 1233,
+      "sha256": "b4af6a507ccd5906e934b0d1212b4f4e5fa85396e81085f51722989824154a55",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/补镜全段_025秒.png",
+      "size_bytes": 2559127,
+      "sha256": "a8c67d9786e81d2314404e522f08b3bfff49dea10a0b0385a42297d93d100fc5",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/补镜声音活动.png",
+      "size_bytes": 3042,
+      "sha256": "060561b7619ef5737e2bb801c466475b04fa4b7a34410598261fdb9b6131b0e6",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_宽站位首帧/朝天开枪_视频草稿.txt",
+      "size_bytes": 1812,
+      "sha256": "3a434bc3c24cc1b030d0838f0ee0e7dee09cc59a8d08ee838a3c6ce55f7285e7",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_宽站位首帧/首帧提示词.txt",
+      "size_bytes": 2721,
+      "sha256": "80a427351370b5465bc73873553d40487c9e3fd7ff0a872c5f8d99c6434236e5",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_宽站位首帧/首帧生成步骤.md",
+      "size_bytes": 698,
+      "sha256": "b69e0d86579ff1f72a92222276a9ad288448c2854b5d21fafec7f3ff9c73b5c8",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_朝天开枪补镜/上传步骤.md",
+      "size_bytes": 2534,
+      "sha256": "4e4dd8c482fbf9269101bc15ed55705c99876a0c9f62599a301c066ad98e6cf0",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_朝天开枪补镜/即梦提示词.txt",
+      "size_bytes": 2316,
+      "sha256": "f67d2537094d0f7654d8283bbf37d99a1369ea01449bde9d4d16eb25ef7d0f4d",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_朝天开枪补镜_v002/上传步骤.md",
+      "size_bytes": 1778,
+      "sha256": "d93bf2c8b5b62fb58af0ae79200d73c9cb33aeb43793cac991db484217f09a95",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_朝天开枪补镜_v002/即梦提示词.txt",
+      "size_bytes": 3028,
+      "sha256": "2c381d5c65f30219dafbab1fda8138c5ca6020a2c602f7e4e83ec7d45a2cd30b",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/上传步骤.md",
+      "size_bytes": 6467,
+      "sha256": "906f194d3156e07da68903833f487d19ce0250e35106cdd4ba9704caaeddcc04",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/制作无原声续接参考.ps1",
+      "size_bytes": 654,
+      "sha256": "04edd5139033d61a1eaeffa53838bc82dd1f3e9753eebc7736fd65fb92112766",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/即梦提示词.txt",
+      "size_bytes": 8290,
+      "sha256": "c56336dbf8aa9d08bf937b736b98f533617d7446112a77bdea096a56718e274e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/后期对白与音效.md",
+      "size_bytes": 2475,
+      "sha256": "e8b374cd5cd645343659d6232ebb35ad0bf5635e0e6edeb1f27c61fff27a70e7",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/导出尾帧.ps1",
+      "size_bytes": 541,
+      "sha256": "343343b5ec2877483d6b848519e34055943228b99799197697e43ab9a7173336",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/上传步骤.md",
+      "size_bytes": 8680,
+      "sha256": "f98e3ee494506001b230753bce0c2cb2676767628ecb3fbbefd53204ddb5af70",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/制作无原声续接参考.ps1",
+      "size_bytes": 654,
+      "sha256": "8deffb82eb257ca414f11aa2234702af782966979752348c764dc32592475ae7",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/即梦提示词.txt",
+      "size_bytes": 11400,
+      "sha256": "151220a1f2b8ba4ea073b377c3974a8f7fef69563f4054c522d348e661c4ab5b",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/后期对白与音效.md",
+      "size_bytes": 2688,
+      "sha256": "61b28c525221e0f94dc4f38f038e1d98afd4ae73ff6c9b02ff5ec4e39d7cbe4f",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/图片28_等待上一新段真实尾帧.txt",
+      "size_bytes": 314,
+      "sha256": "66735773e21cef02aad46dfdeee04603a0df2fc9d56ba6d9acd7fb3485bf208f",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/导出尾帧.ps1",
+      "size_bytes": 541,
+      "sha256": "f744fda94efa164c0c3dd3b5441f98b7f30ee2639abc53e294e823c4bb5cf2bc",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/上传步骤.md",
+      "size_bytes": 4994,
+      "sha256": "9a9f942a7d9e3d216b0e8d77ff255b32833b9000fb8ca5f7bd80874308df6b93",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/制作无原声续接参考.ps1",
+      "size_bytes": 654,
+      "sha256": "90b1bbbe1029cdbc012c7c90112592b465a01bf63e79000a48f15b32820d81aa",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/即梦提示词.txt",
+      "size_bytes": 7631,
+      "sha256": "56282a70a62f892c2eac9a6c8602024dbef32f1eff47be40635d5a4c494f7206",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/后期对白与音效.md",
+      "size_bytes": 1793,
+      "sha256": "278a7290407ce02d177c145cf3d651f90715616f77537555d1362f18892a989d",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/图片12_等待上一新段真实尾帧.txt",
+      "size_bytes": 145,
+      "sha256": "c569ab2a44d50b5a70e8189b39c7452ba54fceefad38e7ceda6c74966bebafbc",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/导出尾帧.ps1",
+      "size_bytes": 541,
+      "sha256": "9d5a9a0f7d680416452f8b1d1e3edfa9d88d41894a448ed6e955ffe96d067c2a",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/上传步骤.md",
+      "size_bytes": 6652,
+      "sha256": "07ca3760ea1cdeea3ddfad46007155db4fa7b79fd263c6dba9f6219c1a48e442",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/制作无原声续接参考.ps1",
+      "size_bytes": 654,
+      "sha256": "c38629fd79c22889f45d67f7b25a0b642b51aa4f150dea26bf42bfe8fb077f47",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/即梦提示词.txt",
+      "size_bytes": 12093,
+      "sha256": "761accd33756343ac40c5e35cb0e7c19527c7483efe64efa5ec58c4ab15c3a26",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/后期对白与音效.md",
+      "size_bytes": 2060,
+      "sha256": "f6ed9141aedf955315c0778013827b53396ac19cc84fb90c1aa84dd95dbc52f2",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/图片28_等待上一新段真实尾帧.txt",
+      "size_bytes": 145,
+      "sha256": "3fe52834a94def6c76ec1aa7de045973cd405e656d323c12df3ed50bca2e3fbf",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/导出尾帧.ps1",
+      "size_bytes": 563,
+      "sha256": "8687f1e6ca505d69dee378a29b2cba4e449dd7b27dc8e059709ea6f48b564322",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/上传步骤.md",
+      "size_bytes": 6345,
+      "sha256": "e285c23f152180750ecdd3f2476c0b57bbed72904616191c8a7f9c8a1e03169b",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/制作无原声续接参考.ps1",
+      "size_bytes": 654,
+      "sha256": "b354e670da37f12a415024aba8d7a250d2743dab5d7568249b8f77fa1e173b82",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/即梦提示词.txt",
+      "size_bytes": 9912,
+      "sha256": "086ed2fbbab1ea18f1b9270ace98160db9000df0aba7eb673a8958454ab036a8",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/后期对白与音效.md",
+      "size_bytes": 2431,
+      "sha256": "a39e45cb5d415d0135908a300238ed1b77f3c47f783dd805086c991c98a798b5",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/图片17_等待上一新段真实尾帧.txt",
+      "size_bytes": 145,
+      "sha256": "8b0c0c7aba88269693543111fe59dbbef01013a24b9ec7487773dba32df88cba",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/导出尾帧.ps1",
+      "size_bytes": 541,
+      "sha256": "39083176fa35bb1816dcce650376ac49e4e2db8297b052f5079f2f629a95eb11",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片1_SEG004取枪完成_真实截帧_v001.png",
+      "size_bytes": 531778,
+      "sha256": "ae536ab9b7e28deed47a4271e8259d8d02b52c3539399822c7c028e886fca77c",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片2_张咪角色_参考.png",
+      "size_bytes": 2156870,
+      "sha256": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片3_关咪角色_参考.png",
+      "size_bytes": 2499692,
+      "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片4_张咪蛇形卡通枪_参考.png",
+      "size_bytes": 1603727,
+      "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片5_关咪青龙偃月卡通枪_参考.png",
+      "size_bytes": 1689972,
+      "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片6_集市地理_参考.png",
+      "size_bytes": 2065365,
+      "sha256": "29d0f4f30c72fe4f06c0d1d983f58b482c8b3f706b185fd43c0ae460e5e6261a",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片7_自行车空挂架_参考.png",
+      "size_bytes": 1932862,
+      "sha256": "2109f3f8b6b999869b0ba249ce19cd698f60e55876ad15711d73150203ea439f",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片8_小巧可爱风格_参考.png",
+      "size_bytes": 2042421,
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考视频_无音轨/视频1_SEG004取枪前段_无音轨_v001.mp4",
+      "size_bytes": 2016102,
+      "sha256": "a7ed5ddcf1650ecc30de1a3fdd17e10c75e817be6fed588155d5beb2388dc19a",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_宽站位首帧/参考图片/图片1_张咪角色_参考.png",
+      "size_bytes": 2156870,
+      "sha256": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_宽站位首帧/参考图片/图片2_关咪角色_参考.png",
+      "size_bytes": 2499692,
+      "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_宽站位首帧/参考图片/图片3_张咪蛇形卡通枪_参考.png",
+      "size_bytes": 1603727,
+      "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_宽站位首帧/参考图片/图片4_关咪青龙偃月卡通枪_参考.png",
+      "size_bytes": 1689972,
+      "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_宽站位首帧/参考图片/图片5_集市地理_参考.png",
+      "size_bytes": 2065365,
+      "sha256": "29d0f4f30c72fe4f06c0d1d983f58b482c8b3f706b185fd43c0ae460e5e6261a",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_宽站位首帧/参考图片/图片6_自行车空挂架_参考.png",
+      "size_bytes": 1932862,
+      "sha256": "2109f3f8b6b999869b0ba249ce19cd698f60e55876ad15711d73150203ea439f",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_宽站位首帧/参考图片/图片7_小巧可爱风格_参考.png",
+      "size_bytes": 2042421,
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_朝天开枪补镜/参考图片/图片1_关张宽站位首帧_v001.png",
+      "size_bytes": 2176671,
+      "sha256": "eb9af345d879149d27b58b6f6be211c692faacb4d6fd9e0367041f727019aa09",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_朝天开枪补镜_v002/参考图片/图片1_关张宽站位首帧_v001.png",
+      "size_bytes": 2176671,
+      "sha256": "eb9af345d879149d27b58b6f6be211c692faacb4d6fd9e0367041f727019aa09",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_朝天开枪补镜_v002/参考图片/图片2_关咪完整枪型_定稿.png",
+      "size_bytes": 1689972,
+      "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_朝天开枪补镜_v002/参考图片/图片3_张咪完整枪型_定稿.png",
+      "size_bytes": 1603727,
+      "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片01_SHOT-EP001-001_v001.png",
+      "size_bytes": 2341810,
+      "sha256": "a9b0766cea7913a0e8356fe54fee41e489ea0e130aa66ad0340086f76a287790",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片02_SHOT-EP001-002_v004.png",
+      "size_bytes": 2340601,
+      "sha256": "70e09ac72c9c0d5bc94043b8e0a08c86fd0a7d142aac6e5d91b523a18cc89cfb",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片03_SHOT-EP001-003_v004.png",
+      "size_bytes": 2288696,
+      "sha256": "aee35d6a4e2ddb5b58b7e552dc27e3c7f9c32887714a71e970a9fcd1aa3a2817",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片04_SHOT-EP001-004_v001.png",
+      "size_bytes": 2536698,
+      "sha256": "c0e8ca548945f5418905feeaae2be8f63b6892c4f3991cea165d0ce27314c1ea",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片05_SHOT-EP001-005_v002.png",
+      "size_bytes": 2326223,
+      "sha256": "dbd0f3f1fbd3412960090f1c928b6d6fe7b1feaac1e5a963f555e77a1daad134",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片06_SHOT-EP001-006_v001.png",
+      "size_bytes": 2368654,
+      "sha256": "ba2a8ac92d30359a5c64c11c659f6fd7beca64cd6a2d6612daff81795f4fff35",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片07_SHOT-EP001-007_v001.png",
+      "size_bytes": 2082755,
+      "sha256": "14b73eaebe6a0541d3bd0484591395ce59dfa131a02e4ebe1903219f77cf30d2",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片08_SHOT-EP001-008_v001.png",
+      "size_bytes": 2384706,
+      "sha256": "58ca83b3e49106586fb9a19456c840c24004b72b8d56452032ccc91e9603e714",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片09_关咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2499692,
+      "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片10_关咪自行车_挂枪道具板_v003.png",
+      "size_bytes": 2011287,
+      "sha256": "526004d33430ae63b5905238ec4aeb3ee4b0575e3a87ff9cf3ff29395d6b270c",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片11_关咪枪械_卡通道具板_定稿.png",
+      "size_bytes": 1689972,
+      "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片12_集市群众_四咪角色板_v001.png",
+      "size_bytes": 2138885,
+      "sha256": "7aee6cec60853d3fc4dde32e3d63eaf1c862fb9a853acb405e5f1f8b0af17bee",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片13_涿郡集市_入口全景空场_v002.png",
+      "size_bytes": 2065365,
+      "sha256": "29d0f4f30c72fe4f06c0d1d983f58b482c8b3f706b185fd43c0ae460e5e6261a",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片14_关咪_骑车组合图_v003.png",
+      "size_bytes": 1944639,
+      "sha256": "0f6ce389d47f2de1f01cd41d3da43306879337428d6bc3fa9efe538588d666d8",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片15_关咪_卸右袋双爪承托接触_v003.png",
+      "size_bytes": 2326255,
+      "sha256": "5b486dbad4b7763740a99bea2079e3014e929e1507d57ec3f6084ab9a7a13db7",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片16_关咪_停车摆摊组合图_v004.png",
+      "size_bytes": 2126248,
+      "sha256": "1fb3eb51ccb275ba53acb205cd49f6af193fec0329385ac727854ce60b818a1b",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片17_刘咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2149782,
+      "sha256": "6138d6b7e595d09fe861502b6282041b847bd17d7dacefd79bfc91df6d6b2531",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片18_刘咪双枪_卡通道具板_定稿.png",
+      "size_bytes": 1601660,
+      "sha256": "e722470c536504e4db19c61643937342030134f8826c6eb08aa9e58eb48a2401",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片19_肉摊伙计_猫脸卡通角色板_v001.png",
+      "size_bytes": 2140758,
+      "sha256": "0c57eda7ac511636601df61a5f145bccc2bd276afb9c353ce07e54c902f61c46",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片20_买肉客咪_猫脸卡通角色板_v001.png",
+      "size_bytes": 2017182,
+      "sha256": "03751789925cd96c93c82d9e1edb4fe2a9d18bea3542ea087ff9de830f3b91ab",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片21_井口磨盘与石台_双状态参考_v001.png",
+      "size_bytes": 1750007,
+      "sha256": "cf63925a3e4de17e391ccc4dee3ab925129aca7421eff66e75051ac2b9ac1314",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片22_买肉篮_空篮与装肉状态道具板_v001.png",
+      "size_bytes": 1855637,
+      "sha256": "d0d0a65e2c082b4c0e89669963db1ca2b5175dd4fec0b875f916db8302271652",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片23_刘关张_小巧可爱_风格母版_定稿.png",
+      "size_bytes": 2042421,
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考音频/音频1_买肉客咪_独立音色参考.wav",
+      "size_bytes": 105644,
+      "sha256": "8fc4dc4d390e446a80d08721ba4500eced76211101908a2b53c2cc35d5d7c89b",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG001/参考音频/音频2_肉摊伙计_独立音色参考.wav",
+      "size_bytes": 169004,
+      "sha256": "7ba47d6fc4fb3596cf01b2c91c5e507faa8d3099e9cc71a95e44cfc586de7a69",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片01_SHOT-EP001-009_v001.png",
+      "size_bytes": 2434017,
+      "sha256": "016449da6e10ab91a65757979ad71f3e4b676d6f3fbb3f13afa2d5f3356a208f",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片02_SHOT-EP001-010_v001.png",
+      "size_bytes": 2518865,
+      "sha256": "01b2ddf9c870c848b79b6cdd637490fed93f4f7b249591efa155bacd19b2d071",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片03_SHOT-EP001-011_v001.png",
+      "size_bytes": 2352070,
+      "sha256": "7059f56152ad5b304a89a509b92af0edb08818019946adcbd1ef115fe3de6e91",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片04_SHOT-EP001-012_v001.png",
+      "size_bytes": 2378994,
+      "sha256": "e2361424ce7d907a15e78f950d8565a127ceaa96558b04f4d51b5ea480d4905e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片05_SHOT-EP001-013_v003.png",
+      "size_bytes": 2409699,
+      "sha256": "241eb871432a67d9fb25ac8aaa15e0cde8981ac3e925dbd3c2572688cb4d2869",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片06_SHOT-EP001-014_v001.png",
+      "size_bytes": 2462107,
+      "sha256": "269712119a9776d28c88fcffb5c9398d7d2d8dee90badf42d30fab12f5dafdf8",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片07_SHOT-EP001-015_v001.png",
+      "size_bytes": 2468768,
+      "sha256": "3747c4943d8207b5a155e5361290154155492999a0f9b8c81870cc98ab92de87",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片08_SHOT-EP001-016_v001.png",
+      "size_bytes": 2373419,
+      "sha256": "72f5f98860b1ae21f0a6eaa8689ca512c26a89f178a5831e24829363a969a0d5",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片09_SHOT-EP001-017_v001.png",
+      "size_bytes": 2308323,
+      "sha256": "285ff4ed2d519bd12f56fb454d2ac67f37cec19182118331cd8e73052e65dc6b",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片10_关咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2499692,
+      "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片11_肉摊伙计_猫脸卡通角色板_v001.png",
+      "size_bytes": 2140758,
+      "sha256": "0c57eda7ac511636601df61a5f145bccc2bd276afb9c353ce07e54c902f61c46",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片12_买肉客咪_猫脸卡通角色板_v001.png",
+      "size_bytes": 2017182,
+      "sha256": "03751789925cd96c93c82d9e1edb4fe2a9d18bea3542ea087ff9de830f3b91ab",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片13_井口磨盘与石台_双状态参考_v001.png",
+      "size_bytes": 1750007,
+      "sha256": "cf63925a3e4de17e391ccc4dee3ab925129aca7421eff66e75051ac2b9ac1314",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片14_涿郡集市_入口全景空场_v002.png",
+      "size_bytes": 2065365,
+      "sha256": "29d0f4f30c72fe4f06c0d1d983f58b482c8b3f706b185fd43c0ae460e5e6261a",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片15_买肉篮_空篮与装肉状态道具板_v001.png",
+      "size_bytes": 1855637,
+      "sha256": "d0d0a65e2c082b4c0e89669963db1ca2b5175dd4fec0b875f916db8302271652",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片16_关咪_双爪托盘接触近景_v001.png",
+      "size_bytes": 2146867,
+      "sha256": "a6708522c48c06b472d915e5432cd21185ed05fae03b87317b9bf4938fd9fd9f",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片17_猪肉_浅井井沿与入篮状态_v001.png",
+      "size_bytes": 2243648,
+      "sha256": "6d6924244b5d664fd54a98756a38002632539b05072d69a9e25ef2469540e918",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片18_关咪_提肉与入篮接触双状态_v001.png",
+      "size_bytes": 2103171,
+      "sha256": "0cef6b01abcd5632607cc978464365f692d3f40394f926f9c60eb95d9de2fcad",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片19_集市群众_四咪角色板_v001.png",
+      "size_bytes": 2138885,
+      "sha256": "7aee6cec60853d3fc4dde32e3d63eaf1c862fb9a853acb405e5f1f8b0af17bee",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片20_刘咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2149782,
+      "sha256": "6138d6b7e595d09fe861502b6282041b847bd17d7dacefd79bfc91df6d6b2531",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片21_刘咪双枪_卡通道具板_定稿.png",
+      "size_bytes": 1601660,
+      "sha256": "e722470c536504e4db19c61643937342030134f8826c6eb08aa9e58eb48a2401",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片22_关咪_停车摆摊组合图_v004.png",
+      "size_bytes": 2126248,
+      "sha256": "1fb3eb51ccb275ba53acb205cd49f6af193fec0329385ac727854ce60b818a1b",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片23_张咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2156870,
+      "sha256": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片24_张咪枪械_卡通道具板_定稿.png",
+      "size_bytes": 1603727,
+      "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片25_关咪枪械_卡通道具板_定稿.png",
+      "size_bytes": 1689972,
+      "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片26_关咪自行车_挂枪道具板_v003.png",
+      "size_bytes": 2011287,
+      "sha256": "526004d33430ae63b5905238ec4aeb3ee4b0575e3a87ff9cf3ff29395d6b270c",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片27_刘关张_小巧可爱_风格母版_定稿.png",
+      "size_bytes": 2042421,
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考音频/音频1_关咪_独立音色参考.wav",
+      "size_bytes": 105678,
+      "sha256": "82b9d955f0ee2ee2acfdee395bb972f4ce687dd51a9969f59f2bc247f47d94af",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG002/参考音频/音频2_肉摊伙计_独立音色参考.wav",
+      "size_bytes": 105678,
+      "sha256": "aa67c92564719c6bf3e9593dbb12781e85776b96f452527be3fd43b05500491d",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片01_SHOT-EP001-018_v001.png",
+      "size_bytes": 2128690,
+      "sha256": "7fcf75cb75911229cadda6c471e20b29cc175ad4e5fa0f4e54e18683ca7eb34b",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片02_SHOT-EP001-019_v001.png",
+      "size_bytes": 2652382,
+      "sha256": "f369c9b39ab868583b265b071905199620eba704883ff0d773f40d6e8cb536f5",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片03_SHOT-EP001-020_v001.png",
+      "size_bytes": 2191798,
+      "sha256": "51f509a79f7ef2c3ff6c1fba13c3bfd291572d7a5d39b6841af94832b5504e06",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片04_SHOT-EP001-021_v001.png",
+      "size_bytes": 2388307,
+      "sha256": "d0d7aaf79fe3be242c287f74920b69c0413ff28ed4e318533e19ac196c08b2ed",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片05_SHOT-EP001-022_v003.png",
+      "size_bytes": 2348039,
+      "sha256": "8d3ae7c72a4add9f5d5ddbed2c04053288ff7302357b9bc8e81f1e99e3117673",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片06_张咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2156870,
+      "sha256": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片07_张咪枪械_卡通道具板_定稿.png",
+      "size_bytes": 1603727,
+      "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片08_涿郡集市_入口全景空场_v002.png",
+      "size_bytes": 2065365,
+      "sha256": "29d0f4f30c72fe4f06c0d1d983f58b482c8b3f706b185fd43c0ae460e5e6261a",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片09_关咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2499692,
+      "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片10_关咪_停车摆摊组合图_v004.png",
+      "size_bytes": 2126248,
+      "sha256": "1fb3eb51ccb275ba53acb205cd49f6af193fec0329385ac727854ce60b818a1b",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片11_刘关张_小巧可爱_风格母版_定稿.png",
+      "size_bytes": 2042421,
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/参考音频/音频1_张咪_独立音色参考.wav",
+      "size_bytes": 107598,
+      "sha256": "5c20db960ffbebf4c37439bfc2b6ffee4083dabdea660fe1fa9c451b8c12033f",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG003/参考音频/音频2_关咪_独立音色参考.wav",
+      "size_bytes": 119118,
+      "sha256": "ab50202f6246ca86d4ad7fae18e8ed9441c6b57fefd51cbeae69df8aa1943599",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片01_SHOT-EP001-023_v001.png",
+      "size_bytes": 2423827,
+      "sha256": "246bafa335b0609e03880534e6aba4147b0e98d37b6691aff8364f44f9b54538",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片02_SHOT-EP001-024_v002.png",
+      "size_bytes": 2394335,
+      "sha256": "38900d7c618b5758b24c1cbb82703fcb704f815affbc9617b0541722197ec098",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片03_SHOT-EP001-025_v006.png",
+      "size_bytes": 2448103,
+      "sha256": "2c972774c63a6754021a0cf8fc75c3338a29645084999ee244635c701ad8d0c9",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片04_SHOT-EP001-026_v002.png",
+      "size_bytes": 2385506,
+      "sha256": "769074dc6821d2200503541403f1f283e16e68921fd595ef6478346d87126ef2",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片05_SHOT-EP001-027_v003.png",
+      "size_bytes": 2484651,
+      "sha256": "853a64aa4e0ce51f521d22f02a734a0cf50996de151c688efe8f5144b6be3b5a",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片06_SHOT-EP001-028_v004.png",
+      "size_bytes": 2413392,
+      "sha256": "ad95b6aa804d10756acecd4f0e5da4a66930ad6072b9858ab0c39fafe22871bb",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片07_SHOT-EP001-029_v001.png",
+      "size_bytes": 2267848,
+      "sha256": "d08b648703d33159d5f9267edcfe5433e40f2b1ac4639fb1036f4b5888d5c5b1",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片08_SHOT-EP001-030_v002.png",
+      "size_bytes": 2511724,
+      "sha256": "d2010564b98ad162e87d10cb4a6b4578e3c21ce4cd23c8efbab9219077333197",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片09_SHOT-EP001-031_v003.png",
+      "size_bytes": 2465904,
+      "sha256": "a1bdcb48ee9f16bb48a01ab4a99139beded48036f8ff7b52fdbe3e7588b9c921",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片10_关咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2499692,
+      "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片11_张咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2156870,
+      "sha256": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片12_张咪枪械_卡通道具板_定稿.png",
+      "size_bytes": 1603727,
+      "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片13_关咪枪械_卡通道具板_定稿.png",
+      "size_bytes": 1689972,
+      "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片14_关咪自行车_挂枪道具板_v003.png",
+      "size_bytes": 2011287,
+      "sha256": "526004d33430ae63b5905238ec4aeb3ee4b0575e3a87ff9cf3ff29395d6b270c",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片15_张咪_背枪与持枪接触双状态_v001.png",
+      "size_bytes": 2108589,
+      "sha256": "6156e4247b2c3f2523e73f7fe00eff493d9f86799986b0f1ca4eb81b385c4baa",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片16_涿郡集市_入口全景空场_v002.png",
+      "size_bytes": 2065365,
+      "sha256": "29d0f4f30c72fe4f06c0d1d983f58b482c8b3f706b185fd43c0ae460e5e6261a",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片17_关咪_停车摆摊组合图_v004.png",
+      "size_bytes": 2126248,
+      "sha256": "1fb3eb51ccb275ba53acb205cd49f6af193fec0329385ac727854ce60b818a1b",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片18_集市群众_四咪角色板_v001.png",
+      "size_bytes": 2138885,
+      "sha256": "7aee6cec60853d3fc4dde32e3d63eaf1c862fb9a853acb405e5f1f8b0af17bee",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片19_买肉客咪_猫脸卡通角色板_v001.png",
+      "size_bytes": 2017182,
+      "sha256": "03751789925cd96c93c82d9e1edb4fe2a9d18bea3542ea087ff9de830f3b91ab",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片20_肉摊伙计_猫脸卡通角色板_v001.png",
+      "size_bytes": 2140758,
+      "sha256": "0c57eda7ac511636601df61a5f145bccc2bd276afb9c353ce07e54c902f61c46",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片21_猪肉_浅井井沿与入篮状态_v001.png",
+      "size_bytes": 1911976,
+      "sha256": "890e7742c867d9bfc27b001a27e8fd9ee6f358e06e150dbaf7c168fc51471cb4",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片22_刘咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2149782,
+      "sha256": "6138d6b7e595d09fe861502b6282041b847bd17d7dacefd79bfc91df6d6b2531",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片23_刘咪双枪_卡通道具板_定稿.png",
+      "size_bytes": 1601660,
+      "sha256": "e722470c536504e4db19c61643937342030134f8826c6eb08aa9e58eb48a2401",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片24_刘咪_双腰套与持双枪接触_v001.png",
+      "size_bytes": 2001343,
+      "sha256": "08dbbfc8927318c0476abe7e866e74f0e2dd86267922ea186ef43afacac1d6ff",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片25_关咪自行车_空挂架松带状态_v002.png",
+      "size_bytes": 1932862,
+      "sha256": "2109f3f8b6b999869b0ba249ce19cd698f60e55876ad15711d73150203ea439f",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片26_关咪_车左取放枪接触_v005.png",
+      "size_bytes": 2042517,
+      "sha256": "4d9300c8f3f8fcfb25c0bd5c773c86a0d72e81a2a953a3c3d615aa2c7418af4b",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片27_刘关张_小巧可爱_风格母版_定稿.png",
+      "size_bytes": 2042421,
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片01_SHOT-EP001-023_v001.png",
+      "size_bytes": 2423827,
+      "sha256": "246bafa335b0609e03880534e6aba4147b0e98d37b6691aff8364f44f9b54538",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片02_SHOT-EP001-024_v002.png",
+      "size_bytes": 2394335,
+      "sha256": "38900d7c618b5758b24c1cbb82703fcb704f815affbc9617b0541722197ec098",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片03_SHOT-EP001-026_v002.png",
+      "size_bytes": 2385506,
+      "sha256": "769074dc6821d2200503541403f1f283e16e68921fd595ef6478346d87126ef2",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片04_SHOT-EP001-029_v001.png",
+      "size_bytes": 2267848,
+      "sha256": "d08b648703d33159d5f9267edcfe5433e40f2b1ac4639fb1036f4b5888d5c5b1",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片05_SHOT-EP001-030_v002.png",
+      "size_bytes": 2511724,
+      "sha256": "d2010564b98ad162e87d10cb4a6b4578e3c21ce4cd23c8efbab9219077333197",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片06_SHOT-EP001-031_v003.png",
+      "size_bytes": 2465904,
+      "sha256": "a1bdcb48ee9f16bb48a01ab4a99139beded48036f8ff7b52fdbe3e7588b9c921",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片07_关咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2499692,
+      "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片08_张咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2156870,
+      "sha256": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片09_张咪枪械_卡通道具板_定稿.png",
+      "size_bytes": 1603727,
+      "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片10_关咪枪械_卡通道具板_定稿.png",
+      "size_bytes": 1689972,
+      "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片11_关咪自行车_挂枪道具板_v003.png",
+      "size_bytes": 2011287,
+      "sha256": "526004d33430ae63b5905238ec4aeb3ee4b0575e3a87ff9cf3ff29395d6b270c",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片12_张咪_背枪与持枪接触双状态_v001.png",
+      "size_bytes": 2108589,
+      "sha256": "6156e4247b2c3f2523e73f7fe00eff493d9f86799986b0f1ca4eb81b385c4baa",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片13_涿郡集市_入口全景空场_v002.png",
+      "size_bytes": 2065365,
+      "sha256": "29d0f4f30c72fe4f06c0d1d983f58b482c8b3f706b185fd43c0ae460e5e6261a",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片14_集市群众_四咪角色板_v001.png",
+      "size_bytes": 2138885,
+      "sha256": "7aee6cec60853d3fc4dde32e3d63eaf1c862fb9a853acb405e5f1f8b0af17bee",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片15_买肉客咪_猫脸卡通角色板_v001.png",
+      "size_bytes": 2017182,
+      "sha256": "03751789925cd96c93c82d9e1edb4fe2a9d18bea3542ea087ff9de830f3b91ab",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片16_肉摊伙计_猫脸卡通角色板_v001.png",
+      "size_bytes": 2140758,
+      "sha256": "0c57eda7ac511636601df61a5f145bccc2bd276afb9c353ce07e54c902f61c46",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片17_刘咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2149782,
+      "sha256": "6138d6b7e595d09fe861502b6282041b847bd17d7dacefd79bfc91df6d6b2531",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片18_刘咪双枪_卡通道具板_定稿.png",
+      "size_bytes": 1601660,
+      "sha256": "e722470c536504e4db19c61643937342030134f8826c6eb08aa9e58eb48a2401",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片19_关咪自行车_空挂架松带状态_v002.png",
+      "size_bytes": 1932862,
+      "sha256": "2109f3f8b6b999869b0ba249ce19cd698f60e55876ad15711d73150203ea439f",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片20_关咪_车左取放枪接触_v005.png",
+      "size_bytes": 2042517,
+      "sha256": "4d9300c8f3f8fcfb25c0bd5c773c86a0d72e81a2a953a3c3d615aa2c7418af4b",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考图片_重生成/图片21_刘关张_小巧可爱_风格母版_定稿.png",
+      "size_bytes": 2042421,
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考音频/音频1_张咪_新句参考_v002.wav",
+      "size_bytes": 130604,
+      "sha256": "ea1ac6c73b82d84f3398b32cd08d69d2eff29db8626ed610f925f9a033a37b22",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG004/参考音频/音频1_张咪_独立音色参考.wav",
+      "size_bytes": 126798,
+      "sha256": "76c13f90602e1772953730be24353039e203adb9996251302ae8b7c93bd29a93",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片01_SHOT-EP001-032_v001.png",
+      "size_bytes": 2341639,
+      "sha256": "8c881cc78ea3c4119ee98f535a2f3bc6de84b10924d03582a77e0e5dcc52c561",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片02_SHOT-EP001-033_v001.png",
+      "size_bytes": 2392488,
+      "sha256": "254118906e5a144fef2ffe6365683101a861365858abafd83579269ba768448e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片03_SHOT-EP001-034_v001.png",
+      "size_bytes": 2371820,
+      "sha256": "49bc79fecaffe16ff209a5c29d142c7d877a4499027634175648378dd75822c0",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片04_SHOT-EP001-035_v001.png",
+      "size_bytes": 2463368,
+      "sha256": "206c30f0a86c84a222acc64b0fbacce444eb5fac47a149ea04dd4e08e43efde8",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片05_SHOT-EP001-036_v001.png",
+      "size_bytes": 2332056,
+      "sha256": "c37185cd319b65b081d5bdc6f488a833765a69fb01cc201bb60e198b57631b9f",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片06_SHOT-EP001-037_v001.png",
+      "size_bytes": 2439874,
+      "sha256": "81fce7b0895d8c5159e13524761bad061930b4566449998ab8aaac61c10af12f",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片07_SHOT-EP001-038_v001.png",
+      "size_bytes": 2473119,
+      "sha256": "b21697113d6da3cc4abb7b5623f65778aad1b3f9b3d0d42ab1baffa2a3c6a9db",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片08_SHOT-EP001-039_v002.png",
+      "size_bytes": 2270529,
+      "sha256": "2ad91af3d66da9995189ece34aad57e79824786cfd257faafc63f5a275990cd9",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片09_关咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2499692,
+      "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片10_张咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2156870,
+      "sha256": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片11_张咪枪械_卡通道具板_定稿.png",
+      "size_bytes": 1603727,
+      "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片12_涿郡集市_入口全景空场_v002.png",
+      "size_bytes": 2065365,
+      "sha256": "29d0f4f30c72fe4f06c0d1d983f58b482c8b3f706b185fd43c0ae460e5e6261a",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片13_刘咪_猫脸卡通角色板_定稿.png",
+      "size_bytes": 2149782,
+      "sha256": "6138d6b7e595d09fe861502b6282041b847bd17d7dacefd79bfc91df6d6b2531",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片14_刘咪双枪_卡通道具板_定稿.png",
+      "size_bytes": 1601660,
+      "sha256": "e722470c536504e4db19c61643937342030134f8826c6eb08aa9e58eb48a2401",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片15_刘咪_双腰套与持双枪接触_v001.png",
+      "size_bytes": 2001343,
+      "sha256": "08dbbfc8927318c0476abe7e866e74f0e2dd86267922ea186ef43afacac1d6ff",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片16_刘关张_小巧可爱_风格母版_定稿.png",
+      "size_bytes": 2042421,
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/SEG005/参考音频/音频1_刘咪_独立音色参考.wav",
+      "size_bytes": 105678,
+      "sha256": "9277f26fdce7a7ab1a67e888b09b741402826cfc3a49878e949b1bac47b3f291",
+      "reason": "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留",
+      "status": "deleted"
+    }
+  ],
+  "planned_count": 284,
+  "planned_bytes": 668296224,
+  "group_summary": {
+    "技能编译缓存，技能源码继续保留": {
+      "files": 3,
+      "bytes": 323940
+    },
+    "运行时临时缓存": {
+      "files": 1,
+      "bytes": 738
+    },
+    "旧片长或旧时标字幕，最终成片采用v005时标": {
+      "files": 5,
+      "bytes": 6091
+    },
+    "第一集已完成的重复上传素材、操作卡和一次性导出脚本；原JSON提交记录保留": {
+      "files": 197,
+      "bytes": 311115976
+    },
+    "已由最终发布v006取代的旧成片或旧回看图": {
+      "files": 6,
+      "bytes": 115277682
+    },
+    "局部修复中间音轨或已整合的试听": {
+      "files": 4,
+      "bytes": 21077640
+    },
+    "旧39镜/第二段重建声音方案，最终5段成片未采用": {
+      "files": 8,
+      "bytes": 22694644
+    },
+    "031旧对白，已换用v002新句": {
+      "files": 1,
+      "bytes": 126764
+    },
+    "已被逐句定稿与最终混音取代的串听音轨": {
+      "files": 1,
+      "bytes": 1652200
+    },
+    "对应旧图片已于前次清理删除的失效说明": {
+      "files": 42,
+      "bytes": 134977
+    },
+    "未进入最终剪辑的测试、修复备选、旧原声、尾帧或续接副本": {
+      "files": 16,
+      "bytes": 195885572
+    }
+  },
+  "scope": "仅E:/AIsanguo项目；保留技能源码、公共定稿、当前创作文档、当前图像资产、采用的6个视频来源、无字幕母版、v006发布视频、封面、字幕、配乐与当前配音、JSON/JSONL制作记录",
+  "deleted_count": 284,
+  "failed_count": 0,
+  "deleted_bytes": 668296224.0,
+  "retained_files_verified": 114,
+  "retained_bytes_unchanged": true,
+  "deleted_extension_counts": {
+    ".pyc": 3,
+    ".json": 1,
+    ".ass": 1,
+    ".srt": 4,
+    ".md": 59,
+    ".jpg": 1,
+    ".png": 151,
+    ".mp4": 17,
+    ".wav": 23,
+    ".txt": 14,
+    ".ps1": 10
+  }
+}

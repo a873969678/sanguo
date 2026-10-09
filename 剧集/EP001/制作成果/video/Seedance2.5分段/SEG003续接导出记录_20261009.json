@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-09",
+  "source": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG003_v001.mp4",
+  "source_sha256": "a4f1036147d4760abdc3018fa633f361e760ee3201dc2b2c9c460dd581d8949e",
+  "tail": "剧集/EP001/制作成果/video/Seedance2.5分段/尾帧/SEG003_尾帧.png",
+  "tail_sha256": "4e56b87f4fc169e667c53e0e30d2a643c75f3ef57efd55ab1f9c0f0ceaf10331",
+  "tail_dimensions": [
+    480,
+    854
+  ],
+  "method": "decode every original video frame with passthrough timing, retain final PNG",
+  "silent_video": "剧集/EP001/制作成果/video/Seedance2.5分段/续接参考_无原声/SEG003_续接无原声_v001.mp4",
+  "silent_sha256": "600a0608a09112c17ab8b8897d54c772d8f420230ac8a7cb7a552acffaf97d25",
+  "no_audio_stream_verified": true,
+  "video_packet_sha256": "SHA256=c962fa2dbb1c84d80a450e1d272f9ca17277c8175004ecd66f476d87f1c95190",
+  "video_packets_identical": true,
+  "original_unchanged": true,
+  "source_sound_acceptance": "not_inferred_from_export_request",
+  "next_segment": "SEG004",
+  "tail_visual_observation": "张咪近景、蛇形枪仍在背后；关咪在右前景，身后可见自行车；桌面有绿豆粉。"
+}

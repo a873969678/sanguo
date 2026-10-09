@@ -1,0 +1,31 @@
+{
+  "segment": "SEG002",
+  "status": "audio_insert_times_not_final_caption_edit",
+  "video": "剧集/EP001/制作成果/video/Seedance2.5分段/声音修复/SEG002_重建音轨_v002.mp4",
+  "lines": [
+    {
+      "label": "关咪对白",
+      "file": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-013_关咪_Qwen_v001.wav",
+      "in": 11.6,
+      "out": 13.2,
+      "role": "关咪",
+      "text": "按你掌柜的话办。",
+      "source_sha256": "8162adc96cb26d4da98424c5ee3c9961bec0bab9b82c3bc54fe60aba85e8460e",
+      "gain_db": 0.748,
+      "alignment_basis": "actual frames inspected; Guan visible speaking before reaching meat, helper visible speaking on approach to stall",
+      "sync_status": "manually_aligned_pending_creator_listening"
+    },
+    {
+      "label": "肉摊伙计对白",
+      "file": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-016_肉摊伙计_Qwen_v001.wav",
+      "in": 21.03,
+      "out": 22.8399,
+      "role": "肉摊伙计",
+      "text": "掌柜，就是他。",
+      "source_sha256": "6cb214721d7439c40dbbb8ab373f75e47121f48de487583407783f8d2fada8ac",
+      "gain_db": 4.021,
+      "alignment_basis": "actual frames inspected; Guan visible speaking before reaching meat, helper visible speaking on approach to stall",
+      "sync_status": "manually_aligned_pending_creator_listening"
+    }
+  ]
+}

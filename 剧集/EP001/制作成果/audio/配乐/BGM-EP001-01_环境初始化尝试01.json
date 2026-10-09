@@ -1,0 +1,52 @@
+{
+  "job_id": "EP001-BGM01-local-trial-v001",
+  "modality": "music",
+  "count": 1,
+  "source": "剧集/EP001/视频提示词.md",
+  "section": "BGM-EP001-01 · 涿郡市集",
+  "prompt": "古风轻喜剧纯器乐配乐，温暖晴日市集，可爱小动物角色的轻快日常。琵琶和古筝清楚短促的拨弦，少量柔和竹笛，轻巧木质打击乐，节奏有弹性但不急躁。旋律简洁、留白充足、自然连贯，便于剪辑衔接，不用密集独奏。无歌词、演唱、哼唱、喵叫、环境人声、动作音效或持续噪声。",
+  "references": [],
+  "reference_bindings": [],
+  "model": "ACE-Step 1.5 acestep-v15-turbo",
+  "parameters": {
+    "duration": 30,
+    "instrumental": true,
+    "lyrics": "",
+    "bpm": 96,
+    "inference_steps": 8,
+    "seed": 100901,
+    "thinking": false,
+    "use_cot_metas": false,
+    "use_cot_caption": false,
+    "use_cot_language": false,
+    "batch_size": 1,
+    "audio_format": "wav",
+    "backend": "cpu",
+    "quantization": "int8_weight_only"
+  },
+  "outputs": [
+    "剧集/EP001/制作成果/audio/配乐/BGM-EP001-01_涿郡市集_试听_v001.wav"
+  ],
+  "overwrite": false,
+  "cost": "本地运行，无按次API费用；耗用本机资源",
+  "authorization": {
+    "quote": "采用古风轻喜剧（推荐）",
+    "question_included": "先做30秒市集试听，再制作其余三段。",
+    "scope": "style and first bounded local audition"
+  },
+  "status": "failed",
+  "engine_revision": "ca1e85fe9430179831e6bc6be790c332190a3866",
+  "actual_backend": "cpu",
+  "torch_version": "2.14.0+cpu",
+  "paid_external_api": false,
+  "creator_accepted": false,
+  "runtime_parameters": {
+    "compile_model": false,
+    "quantization": "int8_weight_only",
+    "threads": 6,
+    "no_optional_lm_download": true,
+    "dcw_enabled": false
+  },
+  "error": "Error initializing model: Failed to load model with attention implementations ['sdpa', 'eager']: No module named 'lazy_loader'\n\nTraceback:\nTraceback (most recent call last):\n  File \"C:\\Users\\Administrator\\.codex\\runtimes\\drama-acestep\\source\\acestep\\core\\generation\\handler\\init_service_loader.py\", line 175, in _load_main_model_from_checkpoint\n    self.model = AutoModel.from_pretrained(\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Administrator\\.codex\\runtimes\\drama-acestep\\venv\\Lib\\site-packages\\transformers\\models\\auto\\auto_factory.py\", line 586, in from_pretrained\n    model_class = get_class_from_dynamic_module(\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Administrator\\.codex\\runtimes\\drama-acestep\\venv\\Lib\\site-packages\\transformers\\dynamic_module_utils.py\", line 616, in get_class_from_dynamic_module\n    return get_class_in_module(class_name, final_module, force_reload=force_download)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Administrator\\.codex\\runtimes\\drama-acestep\\venv\\Lib\\site-packages\\transformers\\dynamic_module_utils.py\", line 311, in get_class_in_module\n    module_spec.loader.exec_module(module)\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"C:\\Users\\Administrator\\.cache\\huggingface\\modules\\transformers_modules\\acestep_hyphen_v15_hyphen_turbo\\modeling_acestep_v15_turbo.py\", line 29, in <module>\n    from transformers.modeling_layers import GradientCheckpointingLayer\n  File \"C:\\Users\\Administrator\\.codex\\runtimes\\drama-acestep\\venv\\Lib\\site-packages\\transformers\\modeling_layers.py\", line 28, in <module>\n    from .processing_utils import Unpack\n  File \"C:\\Users\\Administrator\\.codex\\runtimes\\drama-acestep\\venv\\Lib\\site-packages\\transformers\\processing_utils.py\", line 34, in <module>\n    from .audio_utils import AudioInput, load_audio\n  File \"C:\\Users\\Administrator\\.codex\\runtimes\\drama-acestep\\venv\\Lib\\site-packages\\transformers\\audio_utils.py\", line 49, in <module>\n    import librosa\n  File \"C:\\Users\\Administrator\\.codex\\runtimes\\drama-acestep\\venv\\Lib\\site-packages\\librosa\\__init__.py\", line 12, in <module>\n    import lazy_loader as lazy\nModuleNotFoundError: No module named 'lazy_loader'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\Administrator\\.codex\\runtimes\\drama-acestep\\source\\acestep\\core\\generation\\handler\\init_service_orchestrator.py\", line 156, in initialize_service\n    self._load_main_model_from_checkpoint(\n  File \"C:\\Users\\Administrator\\.codex\\runtimes\\drama-acestep\\source\\acestep\\core\\generation\\handler\\init_service_loader.py\", line 188, in _load_main_model_from_checkpoint\n    raise RuntimeError(\nRuntimeError: Failed to load model with attention implementations ['sdpa', 'eager']: No module named 'lazy_loader'\n",
+  "elapsed_seconds": 1.3270280361175537
+}

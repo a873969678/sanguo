@@ -1,0 +1,162 @@
+{
+  "source": "剧集/EP001/视频提示词.md",
+  "source_entry": "MOTION-EP001-PATCH001",
+  "model": "即梦/火山方舟 Seedance 2.5（沿用当前已选模型）",
+  "task_type": "reference",
+  "duration_seconds": 6,
+  "aspect_ratio": "9:16",
+  "resolution": "480P",
+  "sound": "有声；仅两声机械空响",
+  "count": 1,
+  "submitted": true,
+  "creator_manual_upload": true,
+  "overwrite": false,
+  "output": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH001_持枪距离_v001.mp4",
+  "reference_bindings": [
+    {
+      "slot": "REF-EP001-PATCH001-TAIL",
+      "order": 1,
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片1_SEG004取枪完成_真实截帧_v001.png",
+      "title": "SEG004取枪完成实际截帧",
+      "purpose": "状态",
+      "control": "同源实际角色服装、关咪青龙枪已离车并在爪中的状态",
+      "forbidden": "原紧景构图、把另一只关咪留在自行车旁、后续动作、生成水印",
+      "sha256": "ae536ab9b7e28deed47a4271e8259d8d02b52c3539399822c7c028e886fca77c"
+    },
+    {
+      "slot": "REF-EP001-PATCH001-I02",
+      "order": 2,
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片2_张咪角色_参考.png",
+      "source_path": "公共素材/人物/张飞/张咪_猫脸卡通角色板_定稿.png",
+      "title": "张咪角色",
+      "purpose": "身份",
+      "control": "黑色英短真实猫脸、铜黄眼、灰黑服装与红褐绳带、小巧宽圆身体",
+      "forbidden": "资产板并排复制、原站姿、放大体型",
+      "sha256": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615"
+    },
+    {
+      "slot": "REF-EP001-PATCH001-I03",
+      "order": 3,
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片3_关咪角色_参考.png",
+      "source_path": "公共素材/人物/关羽/关咪_猫脸卡通角色板_定稿.png",
+      "title": "关咪角色",
+      "purpose": "身份",
+      "control": "棕虎斑缅因真实猫脸、灰米袍服、绿头巾腰带、大头短身",
+      "forbidden": "资产板并排复制、原站姿、增加背枪",
+      "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c"
+    },
+    {
+      "slot": "REF-EP001-PATCH001-I04",
+      "order": 4,
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片4_张咪蛇形卡通枪_参考.png",
+      "source_path": "公共素材/武器/张飞枪械/张咪枪械_卡通道具板_定稿.png",
+      "title": "张咪蛇形卡通枪",
+      "purpose": "身份",
+      "control": "同款蛇形轮廓、深色金铜纹饰和卡通结构",
+      "forbidden": "放大枪、增加第二支枪、交换持有者",
+      "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e"
+    },
+    {
+      "slot": "REF-EP001-PATCH001-I05",
+      "order": 5,
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片5_关咪青龙偃月卡通枪_参考.png",
+      "source_path": "公共素材/武器/关羽枪械/关咪枪械_卡通道具板_定稿.png",
+      "title": "关咪青龙偃月卡通枪",
+      "purpose": "身份",
+      "control": "同款青龙纹偃月轮廓、深绿金铜颜色和卡通结构",
+      "forbidden": "放大枪、增加第二支枪、交换持有者",
+      "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84"
+    },
+    {
+      "slot": "REF-EP001-PATCH001-I06",
+      "order": 6,
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片6_集市地理_参考.png",
+      "source_path": "剧集/EP001/制作成果/images/场景/涿郡集市_入口全景空场_v002.png",
+      "title": "集市地理",
+      "purpose": "地理",
+      "control": "同一街道透视、两侧店铺与日间光向",
+      "forbidden": "原井盖状态、摊位随意移位、新增背景关咪或张咪",
+      "sha256": "29d0f4f30c72fe4f06c0d1d983f58b482c8b3f706b185fd43c0ae460e5e6261a"
+    },
+    {
+      "slot": "REF-EP001-PATCH001-I07",
+      "order": 7,
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片7_自行车空挂架_参考.png",
+      "source_path": "剧集/EP001/制作成果/images/载具/关咪自行车_空挂架松带状态_v002.png",
+      "title": "自行车空挂架",
+      "purpose": "状态",
+      "control": "同一炭黑车架、左侧空挂架松带和货架左豆袋",
+      "forbidden": "枪重新挂车、右袋重新挂回后架、额外固定带",
+      "sha256": "2109f3f8b6b999869b0ba249ce19cd698f60e55876ad15711d73150203ea439f"
+    },
+    {
+      "slot": "REF-EP001-PATCH001-I08",
+      "order": 8,
+      "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片8_小巧可爱风格_参考.png",
+      "source_path": "公共素材/视觉参考/刘关张_小巧可爱_风格母版_定稿.png",
+      "title": "小巧可爱风格",
+      "purpose": "风格",
+      "control": "真实猫脸毛发与二维卡通小身体、服装道具",
+      "forbidden": "图中三咪同框、刘咪出场、图中姿势或武器尺度",
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e"
+    }
+  ],
+  "reference_video": {
+    "order": 1,
+    "path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考视频_无音轨/视频1_SEG004取枪前段_无音轨_v001.mp4",
+    "sha256": "a7ed5ddcf1650ecc30de1a3fdd17e10c75e817be6fed588155d5beb2388dc19a",
+    "source": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+    "source_sha256": "81b6f78fc4dcddd0dd03f657857092e8fb6594652415fef97452764c4e65f3dc",
+    "source_interval": [
+      0,
+      5
+    ],
+    "duration_seconds": 5,
+    "decoded_frames": 120,
+    "tail_pts_seconds": 4.958333333333333,
+    "no_audio_track_verified": true,
+    "actual_tail_path": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜/参考图片/图片1_SEG004取枪完成_真实截帧_v001.png"
+  },
+  "replacement_plan": [
+    {
+      "source_segment": "SEG004",
+      "source_interval": [
+        5,
+        8
+      ],
+      "patch_interval": [
+        0,
+        2
+      ],
+      "source_shots": [
+        "SHOT-EP001-024"
+      ],
+      "note": "保留之前关咪解带取枪，以补镜建立分开站位；取舍缩短约1秒。"
+    },
+    {
+      "source_segment": "SEG004",
+      "source_interval": [
+        13,
+        17.458333
+      ],
+      "patch_interval": [
+        2,
+        6
+      ],
+      "source_shots": [
+        "SHOT-EP001-027",
+        "SHOT-EP001-028"
+      ],
+      "note": "保留此前群众退散和刘咪移凳，之后接原张咪收枪；实际采用点待生成后逐帧复测。"
+    }
+  ],
+  "validation": "角色与枪型绑定真实文件，前段无音轨与同源末帧验证；生成质量尚未验证。",
+  "status": "actual_received_REVISE_not_selected",
+  "actual_output": {
+    "file": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH001_持枪距离_v001.mp4",
+    "sha256": "4f89532cbe95069cb12d7dcb7b32d5ea40a25ec70b658fe688d252a2883f7a06",
+    "duration_seconds": 6.08,
+    "frames": 145
+  },
+  "review_record": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH001_素材检查记录.json"
+}

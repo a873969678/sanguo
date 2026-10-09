@@ -1,0 +1,1 @@
+{"decision_id": "CD-EP001-FAST-VIP-20261008", "date": "2026-10-08", "status": "accepted", "user_instruction": "后续都用选好的seedance 2.0 fast vip模型来跑即可", "scope": "后续即梦生产；已生成001—003保留原模型来源，不自动重跑", "accepted_value": {"jimeng_ui_model": "即梦 Seedance 2.0 Fast VIP", "prompt_dialect": "seedance-2.0"}, "source": "current_user_message"}

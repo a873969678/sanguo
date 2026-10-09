@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-09",
+  "status": "creator_accepted_captioned_v004",
+  "file": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_字幕名字卡_v004.mp4",
+  "sha256": "e306a67ca3057b1b633bb92f828dc4c28cc46d305001a275022b658ecaace2ae",
+  "duration_seconds": 123.916667,
+  "frames": 2974,
+  "resolution": [
+    480,
+    854
+  ],
+  "fps": 24,
+  "source": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+  "source_sha256": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
+  "subtitles_added": true,
+  "dialogue_count": 11,
+  "caption_piece_count": 21,
+  "script_text_exact_match": true,
+  "name_cards_added": true,
+  "name_card_count": 5,
+  "each_name_once": true,
+  "audio_packets_identical_to_v003": true,
+  "audio_stream_sha256": "aee4e83323ed6c501feecd1c659c6bf564b2b9d30d1e11ba8d7d233cb8582b16",
+  "complete_video_decode": true,
+  "constant_frame_pts": true,
+  "font_missing_glyph_warnings": false,
+  "ass": "剧集/EP001/制作成果/subtitles/EP001_字幕与名字卡_实际套剪_v003.ass",
+  "srt": "剧集/EP001/制作成果/subtitles/EP001_对白字幕_实际套剪_v003.srt",
+  "plan": "剧集/EP001/制作成果/subtitles/EP001_字幕与名字卡_实际套剪_v003.json",
+  "music_added": false,
+  "loudness_normalization_performed": false,
+  "orange_streaks_retained": true,
+  "creator_accepted": true,
+  "command": [
+    "C:/Users/Administrator/.codex/runtimes/drama-edge-tts/Lib/site-packages/imageio_ffmpeg/binaries/ffmpeg-win-x86_64-v7.1.exe",
+    "-hide_banner",
+    "-loglevel",
+    "info",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\成片\\三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+    "-vf",
+    "ass=filename=EP001_delivery.ass:fontsdir=fonts",
+    "-map",
+    "0:v:0",
+    "-map",
+    "0:a:0",
+    "-c:v",
+    "libx264",
+    "-preset",
+    "medium",
+    "-crf",
+    "18",
+    "-pix_fmt",
+    "yuv420p",
+    "-c:a",
+    "copy",
+    "-map_metadata",
+    "-1",
+    "-movflags",
+    "+faststart",
+    "-y",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\成片\\三国群萌传_EP001_关张初遇_字幕名字卡_v004.mp4"
+  ],
+  "name_card_positions_corrected": true,
+  "name_cards": [
+    {
+      "name": "关咪",
+      "start_seconds": 0,
+      "end_seconds": 2,
+      "x": 320,
+      "y": 190,
+      "source_shot": "SHOT-EP001-001"
+    },
+    {
+      "name": "刘咪",
+      "start_seconds": 11,
+      "end_seconds": 13,
+      "x": 370,
+      "y": 215,
+      "source_shot": "SHOT-EP001-005"
+    },
+    {
+      "name": "肉摊伙计",
+      "start_seconds": 14,
+      "end_seconds": 16,
+      "x": 100,
+      "y": 220,
+      "source_shot": "SHOT-EP001-006"
+    },
+    {
+      "name": "买肉客咪",
+      "start_seconds": 14,
+      "end_seconds": 16,
+      "x": 340,
+      "y": 360,
+      "source_shot": "SHOT-EP001-006"
+    },
+    {
+      "name": "张咪",
+      "start_seconds": 44.0,
+      "end_seconds": 46.0,
+      "x": 70,
+      "y": 240,
+      "source_shot": "SHOT-EP001-016",
+      "source_time": 21.0
+    }
+  ],
+  "sampled_visual_review": {
+    "caption_legible": true,
+    "name_cards_moved_off_faces": true,
+    "sampled_seconds": [
+      1,
+      12,
+      15,
+      45,
+      96.5,
+      117
+    ],
+    "scope": "抽查5个名字卡及对白字幕样帧，非独立完整听感验收。"
+  },
+  "acceptance_quote": "没问题，下一步"
+}

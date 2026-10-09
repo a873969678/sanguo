@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-09",
+  "authorization": "用户要求生成完整配乐并加入视频",
+  "total_seconds": 123.91666666666667,
+  "sample_rate": 48000,
+  "tracks": [
+    {
+      "file": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-01_涿郡市集_试听_v001.wav",
+      "sha256": "c0e988827b3af7ea54feb6d54d4bd3bf41a5aac7d527a586abdbf6df10baa079",
+      "duration": 30.0,
+      "source_rms": 0.09957651793956757,
+      "gain_db": -13.114685093469078,
+      "creator_accepted": false
+    },
+    {
+      "file": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-02_搬盘分肉_v001.wav",
+      "sha256": "e851213195d4ec6d62516d5e77484d99e2433957a2a381b07639fd9abf0100ca",
+      "duration": 45.0,
+      "source_rms": 0.113152414560318,
+      "gain_db": -14.224822899619854,
+      "creator_accepted": false
+    },
+    {
+      "file": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-03_关张对峙_v001.wav",
+      "sha256": "d1cc46160b1c3407902ad12e51cf7de04abcd2b2f06bb00a261e01c9fe3c6c24",
+      "duration": 60.0,
+      "source_rms": 0.12449855357408524,
+      "gain_db": -15.05483249999141,
+      "creator_accepted": false
+    },
+    {
+      "file": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-04_徒手较量与制止_v001.wav",
+      "sha256": "d86444ba3d6e9aac5533d12702ed43e6c8b264bcfe8f12e6c782013ee9a25c01",
+      "duration": 40.0,
+      "source_rms": 0.0608995221555233,
+      "gain_db": -8.84382408316458,
+      "creator_accepted": false
+    }
+  ],
+  "placements": [
+    {
+      "track": 1,
+      "start": 0,
+      "end": 14.4,
+      "source_start": 0,
+      "source_end": 14.4,
+      "fade_in": 0.65,
+      "fade_out": 0.8,
+      "extra_gain_db": 0.0
+    },
+    {
+      "track": 2,
+      "start": 13.6,
+      "end": 44.4,
+      "source_start": 0,
+      "source_end": 30.8,
+      "fade_in": 0.8,
+      "fade_out": 0.8,
+      "extra_gain_db": 0.0
+    },
+    {
+      "track": 3,
+      "start": 43.6,
+      "end": 99.2333333333,
+      "source_start": 0,
+      "source_end": 55.63333333333333,
+      "fade_in": 0.8,
+      "fade_out": 0.8,
+      "extra_gain_db": 0.0
+    },
+    {
+      "track": 4,
+      "start": 98.4333333333,
+      "end": 114.3333333333,
+      "source_start": 0,
+      "source_end": 15.9,
+      "fade_in": 0.8,
+      "fade_out": 0.35,
+      "extra_gain_db": 0.0
+    },
+    {
+      "track": 4,
+      "start": 118.75,
+      "end": 123.91666666666667,
+      "source_start": 34.83333333333333,
+      "source_end": 39.99999999999999,
+      "fade_in": 0.8,
+      "fade_out": 0.9,
+      "extra_gain_db": -5.192746210115122
+    }
+  ],
+  "dialogue_groups": {
+    "SHOT-EP001-004": {
+      "start": 9.083333333333334,
+      "end": 11.301666666666664
+    },
+    "SHOT-EP001-007": {
+      "start": 16.875,
+      "end": 18.68
+    },
+    "SHOT-EP001-008": {
+      "start": 19.583333333333332,
+      "end": 25.016000000000002
+    },
+    "SHOT-EP001-013": {
+      "start": 36.666666666666664,
+      "end": 38.04
+    },
+    "SHOT-EP001-016": {
+      "start": 44.041666666666664,
+      "end": 45.4
+    },
+    "SHOT-EP001-018": {
+      "start": 51.0,
+      "end": 54.04
+    },
+    "SHOT-EP001-019": {
+      "start": 55.375,
+      "end": 58.04
+    },
+    "SHOT-EP001-020": {
+      "start": 58.791666666666664,
+      "end": 62.135999999999996
+    },
+    "SHOT-EP001-021": {
+      "start": 63.125,
+      "end": 68.05600000000001
+    },
+    "SHOT-EP001-022": {
+      "start": 69.25,
+      "end": 73.016
+    },
+    "SHOT-EP001-031": {
+      "start": 96.125,
+      "end": 98.8333333333
+    },
+    "SHOT-EP001-037": {
+      "start": 116.375,
+      "end": 118.26400000000001
+    }
+  },
+  "dialogue_music_reduction_db": -11.056839373155615,
+  "priority_music_silence": [
+    {
+      "event": "搬盘起势与磨盘落台",
+      "start": 28.45,
+      "end": 29.1
+    },
+    {
+      "event": "磨盘落台及余响",
+      "start": 31.45,
+      "end": 32.25
+    },
+    {
+      "event": "两次朝天开枪",
+      "start": 84.5,
+      "end": 88.05
+    },
+    {
+      "event": "刘咪拔枪和住爪",
+      "start": 114.15,
+      "end": 118.5
+    }
+  ],
+  "base_music_target_rms": 0.022,
+  "source_native": "剧集/EP001/制作成果/audio/修复/EP001_开袋吆喝混合音轨_v005.wav",
+  "source_native_sha256": "dd81a5efbe7240f2946c019a668a8c31c7fee84b0c7feb2d59176f715ed70de4",
+  "native_samples_unchanged_before_master_loudness": true,
+  "score_peak": 0.24313940107822418,
+  "premix_peak": 0.8834328055381775,
+  "score_file": "剧集/EP001/制作成果/audio/配乐/EP001_完整配乐_时间线混音_v001.wav",
+  "score_sha256": "d8bf7a6939c9fb76b11a4b9654d8d53d227d37303a44534a843eb4e183a92943",
+  "creator_accepted": false
+}

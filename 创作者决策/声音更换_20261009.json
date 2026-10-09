@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-09",
+  "user_request": "先等等，音频需要更换一下，使用电视剧的人物配音声线",
+  "user_choice": "采用三咪Qwen VoiceDesign已试听的独立声线，写入公共配置并跨集复用",
+  "source_version": "1994版电视剧三国演义",
+  "characters": [
+    "刘咪←刘备",
+    "关咪←关羽",
+    "张咪←张飞",
+    "肉摊伙计←原剧肉摊伙计",
+    "买肉客咪←原剧买肉顾客"
+  ],
+  "reference_audio_status": "three_public_voice_references_accepted_supporting_roles_pending",
+  "reference_directory": "输入/声音参考/1994三国演义",
+  "synthesis_tool_status": "qwen_all_11_replacement_dialogues_generated",
+  "old_edge_audio": "deleted_by_explicit_user_cleanup_retry_20261009",
+  "supporting_voices": "two_independently_designed_qwen_working_voices_generated",
+  "new_dialogue_audio_generated": true,
+  "video_production_status": "await_creator_manual_video_generation",
+  "found_source_index": "输入/声音参考/1994三国演义/原声来源索引_20261009.json",
+  "source_search_status": "official_episode_candidates_found_audio_and_permissions_pending",
+  "crowd_voice_decision": "四只群众保持无台词",
+  "current_trial": {
+    "user_response": "试试",
+    "method": "Qwen3-TTS VoiceDesign 独立声音设计",
+    "actor_voice_cloning": false,
+    "sample_count": 3,
+    "characters": [
+      "刘咪",
+      "关咪",
+      "张咪"
+    ],
+    "status": "creator_accepted_voice_references",
+    "record_path": "剧集/EP001/制作成果/audio/配音/试听/QwenVoiceDesign_三咪样音_v001.json",
+    "accepted_for_production": true,
+    "supporting_voices": "待新样音",
+    "acceptance_quote": "可以，就用这种，然后写入公共配置要求",
+    "public_config": "公共素材/声音/角色声线配置.json"
+  },
+  "new_dialogue_audio_scope": "11句新版WAV及全部11个视频音色参考绑定已齐",
+  "previous_user_choice": "按演员声线合成本剧新台词"
+}

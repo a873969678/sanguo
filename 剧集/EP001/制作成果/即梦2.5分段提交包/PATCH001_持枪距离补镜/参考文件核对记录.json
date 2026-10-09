@@ -1,0 +1,13 @@
+{
+  "status": "upload_inputs_checked_not_generated",
+  "images": 8,
+  "reference_video_frames": 120,
+  "reference_video_seconds": 5,
+  "no_audio_tracks": true,
+  "tail_matches_decoded_last_frame": true,
+  "reference_hashes_match": true,
+  "canonical_prompt_matches_card": true,
+  "duration_seconds": 6,
+  "count": 1,
+  "submitted": false
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-09",
+  "shots": {
+    "MOTION-EP001-006": {
+      "video": "剧集/EP001/制作成果/video/声音修复试听/MOTION-EP001-006_移除原声重建音效_v003.mp4",
+      "audio": "剧集/EP001/制作成果/audio/音效/MOTION-EP001-006_重建动作音轨_v003.wav",
+      "sha256": "d9928e0c03b80a8b9ff9f32e2da94c4d3a1a2c40c85193eb1c6b1a453361a74e",
+      "status": "creator_accepted",
+      "user_message": "这个是对的",
+      "record": "剧集/EP001/制作成果/video/声音修复试听/006音轨重建记录_20261009.json"
+    },
+    "MOTION-EP001-001": {
+      "video": "剧集/EP001/制作成果/video/声音修复/MOTION-EP001-001_重建音轨_v001.mp4",
+      "audio": "剧集/EP001/制作成果/audio/音效/MOTION-EP001-001_重建动作音轨_v001.wav",
+      "sha256": "abfd34514eb23b53ab0fa52bf5ddb187d7eba2e16f3a24e8ec19f1e60f63dc7c",
+      "status": "rebuilt_pending_creator_listening",
+      "record": "剧集/EP001/制作成果/video/声音修复/001至005音轨重建记录_20261009.json"
+    },
+    "MOTION-EP001-002": {
+      "video": "剧集/EP001/制作成果/video/声音修复/MOTION-EP001-002_重建音轨_v001.mp4",
+      "audio": "剧集/EP001/制作成果/audio/音效/MOTION-EP001-002_重建动作音轨_v001.wav",
+      "sha256": "6d6dc69d8d35d427f10867a209b61cf228c91dbd7090a6fc22c05cb5dc397977",
+      "status": "rebuilt_pending_creator_listening",
+      "record": "剧集/EP001/制作成果/video/声音修复/001至005音轨重建记录_20261009.json"
+    },
+    "MOTION-EP001-003": {
+      "video": "剧集/EP001/制作成果/video/声音修复/MOTION-EP001-003_重建音轨_v001.mp4",
+      "audio": "剧集/EP001/制作成果/audio/音效/MOTION-EP001-003_重建动作音轨_v001.wav",
+      "sha256": "a4a0db422cfd7e2844a340bc27087c8715d66e794238558f4f71e7151e890e82",
+      "status": "rebuilt_pending_creator_listening",
+      "record": "剧集/EP001/制作成果/video/声音修复/001至005音轨重建记录_20261009.json"
+    },
+    "MOTION-EP001-004": {
+      "video": "剧集/EP001/制作成果/video/声音修复/MOTION-EP001-004_重建音轨_v001.mp4",
+      "audio": "剧集/EP001/制作成果/audio/音效/MOTION-EP001-004_重建动作音轨_v001.wav",
+      "sha256": "6a867ad376de4842e397e049e125ead769845cc260cdd19dcc085b0ecf3480f5",
+      "status": "rebuilt_pending_creator_listening",
+      "record": "剧集/EP001/制作成果/video/声音修复/001至005音轨重建记录_20261009.json"
+    },
+    "MOTION-EP001-005": {
+      "video": "剧集/EP001/制作成果/video/声音修复/MOTION-EP001-005_重建音轨_v001.mp4",
+      "audio": "剧集/EP001/制作成果/audio/音效/MOTION-EP001-005_重建动作音轨_v001.wav",
+      "sha256": "cf9791980e1e94d85540aab6c911d182b7e3b3a8065cebffe8093ea5ec070e1e",
+      "status": "rebuilt_pending_creator_listening",
+      "record": "剧集/EP001/制作成果/video/声音修复/001至005音轨重建记录_20261009.json"
+    }
+  },
+  "segments": {
+    "MOTION-EP001-SEG002": {
+      "video": "剧集/EP001/制作成果/video/Seedance2.5分段/声音修复/SEG002_重建音轨_v002.mp4",
+      "audio": "剧集/EP001/制作成果/audio/音效/SEG002_对白动作重建_v002.wav",
+      "sha256": "b92dfd445e9bf82b7005d47fa085b2074cf3b7d54fe4bdc43c79c831ad6aea84",
+      "record": "剧集/EP001/制作成果/video/Seedance2.5分段/声音修复/SEG002音轨重建记录_v002_20261009.json",
+      "status": "creator_prefers_native_regeneration_not_selected"
+    },
+    "MOTION-EP001-SEG005": {
+      "video": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005_v001.mp4",
+      "audio": "剧集/EP001/制作成果/audio/修复/SEG005_单句对白替换_v002.wav",
+      "sha256": "69484f2219f89a6780514d363c4fc40485e2a2a54a4b083cf4a459e51600ae4d",
+      "status": "creator_accepted",
+      "user_message": "可以了，覆盖原视频",
+      "record": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005对白修正记录_20261009.json",
+      "original_backup": "剧集/EP001/制作成果/video/Seedance2.5分段/备份/SEG005_原声住拳_覆盖前_v001.mp4",
+      "sound_policy": "仅刘咪指定一句替换，句外原声音效保留"
+    }
+  },
+  "pending_dialogue_replacements": {
+    "SHOT-EP001-031": {
+      "role": "张咪",
+      "text": "没必要用枪，也照样分个高下！",
+      "old_text": "不用这个，也照样分个高下！",
+      "old_audio": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v001.wav",
+      "old_audio_sha256": "740994f4305bfc46e077e4f92749b1c8f87feff89d063ce35ca9927a0f78826a",
+      "planned_audio": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v002.wav",
+      "status": "audio_generated_video_replacement_ready_for_listening",
+      "voice_identity": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "current_video_contains_old_text": true,
+      "only_subtitle_change_is_insufficient": true,
+      "actual_audio": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v002.wav",
+      "audio_sha256": "ea1ac6c73b82d84f3398b32cd08d69d2eff29db8626ed610f925f9a033a37b22",
+      "raw_duration_seconds": 2.72,
+      "replacement_video": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_对白修正_v003.mp4",
+      "replacement_video_contains_new_text": true,
+      "creator_accepted": false,
+      "record": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_031对白替换记录_v003.json"
+    }
+  },
+  "postrelease_status": "historical_39_shot_sound_scheme_retired",
+  "current_published_delivery": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_1080P完整配乐_v006.mp4",
+  "cleanup_record": "剧集/EP001/制作成果/发布后清理记录_20261009.json"
+}

@@ -1,0 +1,169 @@
+{
+  "status": "planned_not_final_timeline_synced_pending_sky_patch",
+  "timeline_seconds": 127,
+  "source": "剧集/EP001/剧本.md",
+  "dialogue_count": 11,
+  "cues": [
+    {
+      "segment": "SEG001",
+      "shot": "SHOT-EP001-007",
+      "role": "买肉客咪",
+      "start_seconds": 16.16,
+      "end_seconds": 17.84,
+      "text": "有肉，怎么不卖？",
+      "wav": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-007_买肉客咪_Qwen_v001.wav",
+      "status": "planned_not_actual_lip_synced"
+    },
+    {
+      "segment": "SEG001",
+      "shot": "SHOT-EP001-008",
+      "role": "肉摊伙计",
+      "start_seconds": 19.16,
+      "end_seconds": 22.68,
+      "text": "肉在井里。掌柜说了，谁搬得开，就让谁取。",
+      "wav": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-008_肉摊伙计_Qwen_v001.wav",
+      "status": "planned_not_actual_lip_synced"
+    },
+    {
+      "segment": "SEG002",
+      "shot": "SHOT-EP001-013",
+      "role": "关咪",
+      "start_seconds": 36.16,
+      "end_seconds": 37.76,
+      "text": "按你掌柜的话办。",
+      "wav": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-013_关咪_Qwen_v001.wav",
+      "status": "planned_not_actual_lip_synced"
+    },
+    {
+      "segment": "SEG002",
+      "shot": "SHOT-EP001-016",
+      "role": "肉摊伙计",
+      "start_seconds": 46.1,
+      "end_seconds": 47.91,
+      "text": "掌柜，就是他。",
+      "wav": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-016_肉摊伙计_Qwen_v001.wav",
+      "status": "planned_not_actual_lip_synced"
+    },
+    {
+      "segment": "SEG003",
+      "shot": "SHOT-EP001-018",
+      "role": "张咪",
+      "start_seconds": 52.16,
+      "end_seconds": 54.4,
+      "text": "你卖的是豆，还是粉？",
+      "wav": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-018_张咪_Qwen_v001.wav",
+      "status": "planned_not_actual_lip_synced"
+    },
+    {
+      "segment": "SEG003",
+      "shot": "SHOT-EP001-019",
+      "role": "关咪",
+      "start_seconds": 56.16,
+      "end_seconds": 58.64,
+      "text": "你捏碎我的豆，还问我？",
+      "wav": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-019_关咪_Qwen_v001.wav",
+      "status": "planned_not_actual_lip_synced"
+    },
+    {
+      "segment": "SEG003",
+      "shot": "SHOT-EP001-020",
+      "role": "张咪",
+      "start_seconds": 60.16,
+      "end_seconds": 62.96,
+      "text": "你分了我的肉，又怎么说？",
+      "wav": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-020_张咪_Qwen_v001.wav",
+      "status": "planned_not_actual_lip_synced"
+    },
+    {
+      "segment": "SEG003",
+      "shot": "SHOT-EP001-021",
+      "role": "关咪",
+      "start_seconds": 64.16,
+      "end_seconds": 69.68,
+      "text": "磨盘是我搬的。你自己定的规矩，认不认？",
+      "wav": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-021_关咪_Qwen_v001.wav",
+      "status": "planned_not_actual_lip_synced"
+    },
+    {
+      "segment": "SEG003",
+      "shot": "SHOT-EP001-022",
+      "role": "张咪",
+      "start_seconds": 70.16,
+      "end_seconds": 72.48,
+      "text": "先让我看看，你有多大本事！",
+      "wav": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-022_张咪_Qwen_v001.wav",
+      "status": "planned_not_actual_lip_synced"
+    },
+    {
+      "segment": "SEG004",
+      "shot": "SHOT-EP001-031",
+      "role": "张咪",
+      "start_seconds": 99.1,
+      "end_seconds": 101.74,
+      "text": "没必要用枪，也照样分个高下！",
+      "wav": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v002.wav",
+      "status": "audio_replaced_segment_candidate_final_timeline_timing_pending",
+      "previous_wav": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v001.wav",
+      "planned_wav": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v002.wav",
+      "raw_duration_seconds": 2.72,
+      "segment_actual_replacement_seconds": [
+        24.32,
+        26.990000000000002
+      ],
+      "replacement_video": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_对白修正_v003.mp4"
+    },
+    {
+      "segment": "SEG005",
+      "shot": "SHOT-EP001-037",
+      "role": "刘咪",
+      "start_seconds": 119.0,
+      "end_seconds": 120.76,
+      "text": "二位壮咪，住爪。",
+      "wav": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-037_刘咪_Qwen_v001.wav",
+      "status": "planned_not_actual_lip_synced"
+    }
+  ],
+  "name_cards": [
+    {
+      "name": "关咪",
+      "shot": "SHOT-EP001-001",
+      "segment": "SEG001",
+      "global_start": 0,
+      "global_end": 2,
+      "status": "first_clear_appearance_plan_check_actual_output"
+    },
+    {
+      "name": "刘咪",
+      "shot": "SHOT-EP001-005",
+      "segment": "SEG001",
+      "global_start": 11,
+      "global_end": 13,
+      "status": "first_clear_appearance_plan_check_actual_output"
+    },
+    {
+      "name": "肉摊伙计",
+      "shot": "SHOT-EP001-006",
+      "segment": "SEG001",
+      "global_start": 14,
+      "global_end": 16,
+      "status": "first_clear_appearance_plan_check_actual_output"
+    },
+    {
+      "name": "买肉客咪",
+      "shot": "SHOT-EP001-006",
+      "segment": "SEG001",
+      "global_start": 14,
+      "global_end": 16,
+      "status": "first_clear_appearance_plan_check_actual_output"
+    },
+    {
+      "name": "张咪",
+      "shot": "SHOT-EP001-016",
+      "segment": "SEG002",
+      "global_start": 46,
+      "global_end": 48,
+      "status": "first_clear_appearance_plan_check_actual_output"
+    }
+  ],
+  "note": "只生成计划，未烧录。字幕字音按实际成片重新对齐，长句后期按语义拆条，配角两卡与脸分开排版；每咪本集首次清晰出场显示一次名字。"
+}

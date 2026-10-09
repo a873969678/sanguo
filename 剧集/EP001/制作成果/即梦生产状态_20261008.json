@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-08",
+  "mode": "jimeng_browser",
+  "model": "即梦 Seedance 2.0 Fast VIP",
+  "account_logged_in": true,
+  "displayed_balance": 1990,
+  "parameters": {
+    "aspect_ratio": "9:16",
+    "resolution": "720P",
+    "duration_seconds": 4,
+    "reference_mode": "全能参考"
+  },
+  "displayed_first_shot_points": 32,
+  "pack_shots": 39,
+  "pack_assets": 67,
+  "generation_seconds": 169,
+  "planned_edit_seconds": 125,
+  "source_entry": "MOTION-EP001-006",
+  "status": "001_006_local_all_sound_rebuilt_001_005_pending_listening_007_inputs_available",
+  "submitted": "creator_manually_generated",
+  "charged": null,
+  "actual_output_files": [
+    "剧集/EP001/制作成果/video/MOTION-EP001-001_v001.mp4",
+    "剧集/EP001/制作成果/video/MOTION-EP001-002_v001.mp4",
+    "剧集/EP001/制作成果/video/MOTION-EP001-003_v001.mp4",
+    "剧集/EP001/制作成果/video/MOTION-EP001-004_v001.mp4",
+    "剧集/EP001/制作成果/video/MOTION-EP001-005_v001.mp4",
+    "剧集/EP001/制作成果/video/MOTION-EP001-006_v001.mp4"
+  ],
+  "observation": "用户已开启Chrome扩展文件网址访问权限；重新连接Chrome及刷新后，点击参考内容仍未返回可接管文件选择器。未上传任何004素材，未提交004—039。",
+  "required_handoff": "007镜图片1使用006真实尾帧，视频1使用006去原声续接副本，音频1使用客咪Qwen音色参考；其余图片按007操作卡顺序。",
+  "next_step": "回听001—005修复版；007真实续接素材已齐，按更新后的操作卡手动生成，下载后独立重建声音。",
+  "retry_observation": "用户要求重新操作后，重新选择全能参考、首尾帧，并新建同账号创作标签页尝试，均未取得文件选择器；已关闭临时标签，原页恢复Seedance 2.0、全能参考、9:16、720P、4秒。未提交生成，余额仍2270。",
+  "workflow": "creator_uploads_and_submits_manually",
+  "actual_tail_frames": [
+    "剧集/EP001/制作成果/video/尾帧/MOTION-EP001-001_尾帧.png",
+    "剧集/EP001/制作成果/video/尾帧/MOTION-EP001-002_尾帧.png",
+    "剧集/EP001/制作成果/video/尾帧/MOTION-EP001-003_尾帧.png",
+    "剧集/EP001/制作成果/video/尾帧/MOTION-EP001-004_尾帧.png",
+    "剧集/EP001/制作成果/video/尾帧/MOTION-EP001-005_尾帧.png",
+    "剧集/EP001/制作成果/video/尾帧/MOTION-EP001-006_尾帧.png"
+  ],
+  "cost_observation": "创作者已生成001—003，本次只下载003和导出尾帧；未新提交付费生成。",
+  "balance_observation": "本次Chrome即梦创作页显示，不能据此推断单镜费用。",
+  "workflow_updated_date": "2026-10-09",
+  "voice_change_date": "2026-10-09",
+  "voice_reference_status": "3_accepted_main_voices_2_generated_supporting_working_voices",
+  "voice_config": "公共素材/声音/角色声线配置.json",
+  "old_audio_status": "deleted_by_explicit_user_cleanup_retry_20261009",
+  "voice_binding_status": "all_11_updated_to_new_qwen_references",
+  "dialogue_generation_status": "11_new_wav_files_complete",
+  "latest_local_media_update_date": "2026-10-09",
+  "sound_workflow": "discard_generated_soundtrack_rebuild_dialogue_and_action_fx_in_post",
+  "sound_policy": "公共素材/声音/声音制作要求.json",
+  "sound_repair_status": "001_005_rebuilt_pending_creator_listening_006_v003_accepted",
+  "continuity_reference_directory": "剧集/EP001/制作成果/video/续接参考_无原声",
+  "observed_video_006_local": true,
+  "accepted_sound_outputs": {
+    "MOTION-EP001-006": "剧集/EP001/制作成果/video/声音修复试听/MOTION-EP001-006_移除原声重建音效_v003.mp4"
+  },
+  "sound_index": "剧集/EP001/制作成果/audio/声音定稿索引.json",
+  "sound_repair_outputs": {
+    "MOTION-EP001-006": "剧集/EP001/制作成果/video/声音修复试听/MOTION-EP001-006_移除原声重建音效_v003.mp4",
+    "MOTION-EP001-001": "剧集/EP001/制作成果/video/声音修复/MOTION-EP001-001_重建音轨_v001.mp4",
+    "MOTION-EP001-002": "剧集/EP001/制作成果/video/声音修复/MOTION-EP001-002_重建音轨_v001.mp4",
+    "MOTION-EP001-003": "剧集/EP001/制作成果/video/声音修复/MOTION-EP001-003_重建音轨_v001.mp4",
+    "MOTION-EP001-004": "剧集/EP001/制作成果/video/声音修复/MOTION-EP001-004_重建音轨_v001.mp4",
+    "MOTION-EP001-005": "剧集/EP001/制作成果/video/声音修复/MOTION-EP001-005_重建音轨_v001.mp4"
+  },
+  "current_workflow_status": "superseded_by_seedance25_segments_from_001",
+  "current_workflow_state": "剧集/EP001/制作成果/Seedance2.5分段生产状态_20261009.json"
+}

@@ -1,0 +1,13 @@
+{
+  "creator_message": "这次可以了，按这个要求，写入公共要求配置，要求上一个视频要无声",
+  "segment": "SEG002",
+  "actual_output": {
+    "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG002_v001.mp4",
+    "sha256": "34096608607e88008f32e8dd12839ce988aeee4dab55862ee1b32b221a9e8be2",
+    "sound_status": "creator_accepted_regenerated_native_audio",
+    "acceptance_evidence": "这次可以了，按这个要求，写入公共要求配置，要求上一个视频要无声",
+    "filename_observation": "当前实际下载仍名v001，文件SHA已变化，记录当前实际文件；不虚构v002本地文件。"
+  },
+  "scope": "本次第二段重生成声音用户通过，公共规则推广到后续段；其他段未自动视作声音通过。",
+  "applied_public_configuration": "公共素材/声音/声音制作要求.json"
+}

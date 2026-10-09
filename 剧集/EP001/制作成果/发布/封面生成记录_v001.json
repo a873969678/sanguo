@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-09",
+  "status": "generated_visual_check_passed_creator_review_pending",
+  "engine": "built-in image_gen",
+  "authorization": "用户要求提供标题、简介、话题和封面",
+  "file": "剧集/EP001/制作成果/发布/三国群萌传_EP001_关张初遇_封面_v001.png",
+  "resolution": [
+    941,
+    1672
+  ],
+  "sha256": "991eabbff61ec247fe8f39851e68edce1d67d7f647a06866c406659da733e864",
+  "text": [
+    "三国群萌传",
+    "关张初遇",
+    "第1集",
+    "二位壮咪，住爪！"
+  ],
+  "character_references": [
+    "公共素材/视觉参考/刘关张_小巧可爱_风格母版_定稿.png",
+    "剧集/EP001/制作成果/images/人物/刘咪_猫脸卡通角色板_v001.png",
+    "剧集/EP001/制作成果/images/人物/关咪_猫脸卡通角色板_v001.png",
+    "剧集/EP001/制作成果/images/人物/张咪_猫脸卡通角色板_v001.png"
+  ],
+  "correction_references": [
+    "公共素材/武器/刘备双枪/刘咪双枪_卡通道具板_定稿.png",
+    "剧集/EP001/制作成果/images/人物/刘咪_双腰套与持双枪接触_v001.png"
+  ],
+  "selected_generated_source": "C:/Users/Administrator/.codex/generated_images/01a11931-4603-7220-834b-0082ec93841f/exec-dcfafb83-7de1-49f2-b8d2-8b9eb0052a73.png",
+  "generation_attempts": 2,
+  "first_attempt_selected": false,
+  "first_attempt_issue": "手持双枪后腰套仍有额外枪械，手枪纹饰偏龙蛇纹",
+  "correction": "保留脸型、画面和文字，仅将腰套清空并按定稿修正手中两把小巧双股枪",
+  "checked": [
+    "文字逐项正确",
+    "三咪身份及服装配色匹配",
+    "刘咪手持两枪，左右腰套空",
+    "真实猫脸和小巧卡通身体",
+    "竖版构图及文字不遮猫脸"
+  ],
+  "creator_accepted": false,
+  "published": false,
+  "inserted_into_video": false
+}

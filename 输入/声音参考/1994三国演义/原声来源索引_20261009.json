@@ -1,0 +1,66 @@
+{
+  "searched_date": "2026-10-09",
+  "requested_version": "1994版电视剧三国演义",
+  "purpose": "定位刘咪、关咪、张咪新声线的原剧声音来源",
+  "status": "official_episode_sources_located_not_audio_references",
+  "sources": [
+    {
+      "id": "TV1994-EP001",
+      "title": "老版三国演义 第1集 桃园三结义",
+      "url": "https://dianshiju.cctv.com/2010/05/01/VIDE1355904435332834.shtml",
+      "publisher": "央视网",
+      "roles": [
+        "刘备",
+        "关羽",
+        "张飞"
+      ],
+      "candidate_section": "三人相识后的对话、自我介绍；优先作为本集人物年轻时期参考",
+      "section_status": "candidate_not_playback_verified",
+      "timestamp": null,
+      "web_verification": "央视搜索条目内容可读；直接页面抓取超时",
+      "local_audio": null,
+      "admission_status": "unverified",
+      "voice_synthesis_permission": "not_established_by_public_watch_page"
+    },
+    {
+      "id": "TV1994-EP016",
+      "title": "老版三国演义 第16集 关羽约三事",
+      "url": "https://tv.cctv.com/2010/05/07/VIDE1355904437488934.shtml",
+      "publisher": "央视网",
+      "roles": [
+        "关羽"
+      ],
+      "candidate_section": "关羽与张辽、曹操约定条件时的单人发言",
+      "section_status": "candidate_from_official_synopsis_not_playback_verified",
+      "timestamp": null,
+      "web_verification": "官方页面正文已核对",
+      "local_audio": null,
+      "admission_status": "unverified",
+      "voice_synthesis_permission": "not_established_by_public_watch_page"
+    },
+    {
+      "id": "TV1994-EP019",
+      "title": "老版三国演义 第19集 古城相会",
+      "url": "https://tv.cctv.com/2010/05/08/VIDE1355904475003461.shtml",
+      "publisher": "央视网",
+      "roles": [
+        "张飞",
+        "关羽",
+        "刘备"
+      ],
+      "candidate_section": "张飞与关羽解除误会的对话；选较平稳独白而非喊叫",
+      "section_status": "candidate_from_official_synopsis_not_playback_verified",
+      "timestamp": null,
+      "web_verification": "官方页面正文已核对",
+      "local_audio": null,
+      "admission_status": "unverified",
+      "voice_synthesis_permission": "not_established_by_public_watch_page"
+    }
+  ],
+  "limitations": [
+    "尚未播放回听核对底噪、配乐、其他说话人或精确时码",
+    "尚未下载或提取三位角色参考音频",
+    "演员饰演者与实际配音者不混同，声音身份以原剧实际录音为准",
+    "找到观看来源不等于已落实声线合成使用授权"
+  ]
+}

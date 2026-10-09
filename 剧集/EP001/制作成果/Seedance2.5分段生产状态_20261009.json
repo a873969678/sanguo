@@ -1,0 +1,446 @@
+{
+  "date": "2026-10-09",
+  "model": "即梦 Seedance 2.5",
+  "workflow": "creator_manual_upload_from_SEG001",
+  "current_next_segment": null,
+  "status": "published_by_creator_report_cleanup_completed",
+  "generation_seconds": 127,
+  "segments": [
+    {
+      "id": "SEG001",
+      "duration_seconds": 25,
+      "status": "actual_video_available_creator_reports_audio_normal",
+      "submitted": true,
+      "actual_output": {
+        "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG001_v001.mp4",
+        "sha256": "6c060dd864ec8ec1e1492dc0cc0ee0734c9462d52ce1132f30fa5b03cce2aa63",
+        "duration_seconds": 25.06,
+        "resolution": [
+          480,
+          854
+        ],
+        "decoded_video_frames": 601,
+        "tail_frame": "剧集/EP001/制作成果/video/Seedance2.5分段/尾帧/SEG001_尾帧.png",
+        "tail_sha256": "38e603c8ab6ef3e5cf67a386083fc979ec4ebbb3dbb3ae3864ab1b122b1d10c4",
+        "sound_status": "creator_reports_normal_original_retained"
+      }
+    },
+    {
+      "id": "SEG002",
+      "duration_seconds": 27,
+      "status": "creator_accepted_regenerated_SEG002_current_local_file",
+      "submitted": true,
+      "actual_output": {
+        "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG002_v001.mp4",
+        "sha256": "34096608607e88008f32e8dd12839ce988aeee4dab55862ee1b32b221a9e8be2",
+        "sound_status": "creator_accepted_regenerated_native_audio",
+        "acceptance_evidence": "这次可以了，按这个要求，写入公共要求配置，要求上一个视频要无声",
+        "filename_observation": "当前实际下载仍名v001，文件SHA已变化，记录当前实际文件；不虚构v002本地文件。"
+      },
+      "sound_repair": {
+        "video": "剧集/EP001/制作成果/video/Seedance2.5分段/声音修复/SEG002_重建音轨_v002.mp4",
+        "audio": "剧集/EP001/制作成果/audio/音效/SEG002_对白动作重建_v002.wav",
+        "status": "creator_prefers_native_regeneration_not_selected"
+      },
+      "retry_submitted": true
+    },
+    {
+      "id": "SEG003",
+      "duration_seconds": 23,
+      "status": "actual_video_local_tail_and_no_audio_reference_exported",
+      "submitted": true,
+      "actual_output": {
+        "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG003_v001.mp4",
+        "sha256": "a4f1036147d4760abdc3018fa633f361e760ee3201dc2b2c9c460dd581d8949e",
+        "tail": "剧集/EP001/制作成果/video/Seedance2.5分段/尾帧/SEG003_尾帧.png",
+        "tail_sha256": "4e56b87f4fc169e667c53e0e30d2a643c75f3ef57efd55ab1f9c0f0ceaf10331",
+        "silent_reference": "剧集/EP001/制作成果/video/Seedance2.5分段/续接参考_无原声/SEG003_续接无原声_v001.mp4",
+        "silent_sha256": "600a0608a09112c17ab8b8897d54c772d8f420230ac8a7cb7a552acffaf97d25",
+        "sound_acceptance": "not_inferred_from_export_request"
+      }
+    },
+    {
+      "id": "SEG004",
+      "duration_seconds": 27,
+      "status": "new_video_received_handoff_exported_not_full_visual_or_sound_reviewed",
+      "submitted": true,
+      "retry_submitted": true,
+      "previous_result": {
+        "file": "H:/下载文件/61e9088d-a9d5-43ba-84f7-c2eb0b902638.mp4",
+        "review_status": "REVISE"
+      },
+      "planned_output": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+      "actual_output": {
+        "date": "2026-10-09",
+        "segment": "SEG004",
+        "source_video": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+        "source_video_sha256": "81b6f78fc4dcddd0dd03f657857092e8fb6594652415fef97452764c4e65f3dc",
+        "creator_saved_name": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_v001.mp4",
+        "creator_saved_sha256": "81b6f78fc4dcddd0dd03f657857092e8fb6594652415fef97452764c4e65f3dc",
+        "source_different_from_previous_rejected": true,
+        "source_name_copy_only": true,
+        "duration_seconds": 27.07,
+        "resolution": [
+          480,
+          854
+        ],
+        "tail_frame": "剧集/EP001/制作成果/video/Seedance2.5分段/尾帧/SEG004_尾帧.png",
+        "tail_sha256": "9356f4edc5b8125804856765775f0b2734a658cd1baad5813bae3a0f54e5a546",
+        "silent_video": "剧集/EP001/制作成果/video/Seedance2.5分段/续接参考_无原声/SEG004_续接无原声_v002.mp4",
+        "silent_sha256": "e221d7c336c96d40536c2b1ef43e14539f30badfdbe613604388ac0f4ecda2d5",
+        "no_audio_track_verified": true,
+        "video_packets_identical": true,
+        "video_stream_sha256": "82b6bcc6f11888c1d4cd9e75032b77cc81eb0016da58daceebdb473c0fb344e1",
+        "sound_status": "original_audio_retained_not_listened_in_this_export",
+        "visual_status": "export_only_not_full_quality_review",
+        "user_request": "导出尾帧和无音轨续接视频",
+        "original_source_preserved": true
+      }
+    },
+    {
+      "id": "SEG005",
+      "duration_seconds": 25,
+      "status": "creator_accepted_dialogue_repair_overwrote_canonical",
+      "submitted": true,
+      "actual_output": {
+        "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005_v001.mp4",
+        "sha256": "69484f2219f89a6780514d363c4fc40485e2a2a54a4b083cf4a459e51600ae4d",
+        "duration_seconds": 25.056,
+        "resolution": [
+          480,
+          854
+        ],
+        "decoded_video_frames": 601,
+        "sound_status": "creator_accepted_single_dialogue_repair",
+        "original_backup": "剧集/EP001/制作成果/video/Seedance2.5分段/备份/SEG005_原声住拳_覆盖前_v001.mp4"
+      },
+      "repair_candidate": {
+        "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005_对白修正_v002.mp4",
+        "sha256": "69484f2219f89a6780514d363c4fc40485e2a2a54a4b083cf4a459e51600ae4d",
+        "video_packets_identical": true,
+        "creator_accepted": true,
+        "correct_text": "二位壮咪，住爪。",
+        "record": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005对白修正记录_20261009.json",
+        "selected_file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005_v001.mp4"
+      },
+      "acceptance_evidence": "可以了，覆盖原视频"
+    }
+  ],
+  "voice_dialogue_files": "existing_same_identity_current_segment_dialogue_as_reference_native_jimeng_sound",
+  "legacy_media_status": "原001—006与声音修复版保留，不计入新5段交付",
+  "pack": "剧集/EP001/制作成果/即梦2.5分段提交包",
+  "sound_policy": "native_sound_accepted_per_segment_silent_previous_video_reference",
+  "creator_latest_instruction": "这次可以了，按这个要求，写入公共要求配置，要求上一个视频要无声",
+  "previous_39_shot_restoration_request": "withdrawn_by_latest_creator_instruction",
+  "pack_validation": {
+    "source_hashes_match": true,
+    "reference_hashes_match": true,
+    "39_shots_once": true,
+    "11_script_lines_once": true,
+    "upload_links_exist": true
+  },
+  "continuation_policy": "silent_reference_video_with_originals_preserved",
+  "next_step": "回看v004字幕、名字卡和对白；分场配乐尚未生成，音乐生成来源与工具待确定。",
+  "all_segments_generated": true,
+  "roughcut": {
+    "file": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+    "sha256": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
+    "duration_seconds": 123.916667,
+    "frames": 2974,
+    "creator_accepted": false,
+    "well_cover_fixed": true,
+    "gun_spacing_patch_inserted": true,
+    "sky_shots_inserted": true,
+    "new_031_dialogue_inserted": true,
+    "orange_streaks_retained": true,
+    "record": "剧集/EP001/制作成果/成片/EP001_粗剪导出记录_v003.json"
+  },
+  "previous_roughcuts": [
+    {
+      "file": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v001.mp4",
+      "sha256": "f056e75540913e3ca9e2d026f376017f73749cbbbb2cb1631dff387d86753c66",
+      "duration_seconds": 127.416667,
+      "frames": 3058,
+      "creator_accepted": false,
+      "edit_sheet": "剧集/EP001/剪辑单.md",
+      "record": "剧集/EP001/制作成果/成片/EP001_粗剪导出记录_v001.json"
+    },
+    {
+      "file": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v002.mp4",
+      "sha256": "3084f0db6bde815a0b7fdc6fbfebc9bc696ea8a984b91adc74ff2ae3512124b4",
+      "duration_seconds": 125.333333,
+      "frames": 3008,
+      "creator_accepted": false,
+      "edit_sheet": "剧集/EP001/剪辑单.md",
+      "record": "剧集/EP001/制作成果/成片/EP001_粗剪导出记录_v002.json",
+      "well_cover_fixed": true,
+      "gun_spacing_fixed": false
+    }
+  ],
+  "pending_patch": {
+    "id": "PATCH001",
+    "source_entry": "MOTION-EP001-PATCH001",
+    "duration_seconds": 6,
+    "count": 1,
+    "status": "PATCH001_old_empty_click_scheme_superseded_not_selected",
+    "pack": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH001_持枪距离补镜",
+    "output": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH001_持枪距离_v001.mp4",
+    "replaces": [
+      {
+        "source_segment": "SEG004",
+        "source_interval": [
+          5,
+          8
+        ],
+        "patch_interval": [
+          0,
+          2
+        ],
+        "source_shots": [
+          "SHOT-EP001-024"
+        ],
+        "note": "保留之前关咪解带取枪，以补镜建立分开站位；取舍缩短约1秒。"
+      },
+      {
+        "source_segment": "SEG004",
+        "source_interval": [
+          13,
+          17.458333
+        ],
+        "patch_interval": [
+          2,
+          6
+        ],
+        "source_shots": [
+          "SHOT-EP001-027",
+          "SHOT-EP001-028"
+        ],
+        "note": "保留此前群众退散和刘咪移凳，之后接原张咪收枪；实际采用点待生成后逐帧复测。"
+      }
+    ],
+    "actual_output": {
+      "file": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH001_持枪距离_v001.mp4",
+      "sha256": "4f89532cbe95069cb12d7dcb7b32d5ea40a25ec70b658fe688d252a2883f7a06",
+      "duration_seconds": 6.08
+    },
+    "inspection_record": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH001_素材检查记录.json"
+  },
+  "pending_wide_frame": {
+    "source_entry": "IMG-EP001-GUN-STANDOFF-WIDE",
+    "pack": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_宽站位首帧",
+    "output": "剧集/EP001/制作成果/images/关键帧/关张_持枪宽站位首帧_v001.png",
+    "count": 1,
+    "generated": true,
+    "submitted": true,
+    "creator_accepted": false,
+    "sha256": "eb9af345d879149d27b58b6f6be211c692faacb4d6fd9e0367041f727019aa09",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "record": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_宽站位首帧/首帧生成记录_v001.json",
+    "provider": "built_in_image_gen"
+  },
+  "current_gun_action": "张咪先、关咪后朝天各开一枪，枪口短闪、轻后坐和短枪声同步；主动收枪再肉搏。",
+  "next_patch": {
+    "source_entry": "MOTION-EP001-PATCH002",
+    "duration_seconds": 6,
+    "count": 1,
+    "status": "actual_received_saved_as_v001_selected_for_v003",
+    "output": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_v002.mp4",
+    "new_dialogue": false,
+    "submitted": true,
+    "pack": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_朝天开枪补镜_v002",
+    "generated": true,
+    "reference_image": "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_朝天开枪补镜/参考图片/图片1_关张宽站位首帧_v001.png",
+    "evidence": "补镜在生成中了",
+    "reference_images": [
+      "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_朝天开枪补镜_v002/参考图片/图片1_关张宽站位首帧_v001.png",
+      "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_朝天开枪补镜_v002/参考图片/图片2_关咪完整枪型_定稿.png",
+      "剧集/EP001/制作成果/即梦2.5分段提交包/PATCH002_朝天开枪补镜_v002/参考图片/图片3_张咪完整枪型_定稿.png"
+    ],
+    "actual_output": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_v001.mp4",
+    "actual_sha256": "b9a607a9f116517ad83a187db0cdabb1e2f0164d4ef9929915a2e158ed6e1267"
+  },
+  "pending_dialogue_replacement": {
+    "shot": "SHOT-EP001-031",
+    "text": "没必要用枪，也照样分个高下！",
+    "source": "剧集/EP001/剧本.md",
+    "voice": "张咪公共固定声线",
+    "audio_generated": true,
+    "total_dialogue_count": 11,
+    "video_replacement_generated": true,
+    "audio": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v002.wav",
+    "replacement_video": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_对白修正_v003.mp4",
+    "record": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_031对白替换记录_v003.json",
+    "creator_accepted": false,
+    "inserted_in_roughcut": true,
+    "roughcut": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4"
+  },
+  "previous_PATCH002_attempt": {
+    "output": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_v001.mp4",
+    "creator_result": "gun_shape_wrong_screenshot_REVISE",
+    "submitted": true,
+    "generated": true,
+    "local_available": false
+  },
+  "captioned_delivery": {
+    "file": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_字幕名字卡_v004.mp4",
+    "sha256": "e306a67ca3057b1b633bb92f828dc4c28cc46d305001a275022b658ecaace2ae",
+    "duration_seconds": 123.916667,
+    "frames": 2974,
+    "subtitle_piece_count": 21,
+    "dialogue_count": 11,
+    "name_card_count": 5,
+    "each_name_once": true,
+    "orange_streaks_retained": true,
+    "new_031_dialogue_inserted": true,
+    "audio_unchanged_from_v003": true,
+    "music_added": false,
+    "creator_accepted": true,
+    "record": "剧集/EP001/制作成果/成片/EP001_字幕名字卡导出记录_v004.json",
+    "acceptance_quote": "没问题，下一步"
+  },
+  "music_preparation": {
+    "hardware_assessed": true,
+    "runtime_ready": true,
+    "generated_count": 4,
+    "style_creator_accepted": true,
+    "planned_first_test": "BGM-EP001-01, 30秒, 1条, 纯器乐",
+    "record": "剧集/EP001/制作成果/audio/EP001_本地配乐环境检查_20261009.json",
+    "style_acceptance_quote": "采用古风轻喜剧（推荐）",
+    "trial_task": "剧集/EP001/制作成果/audio/配乐/EP001_市集配乐试听任务_v001.md",
+    "actual_engine": "ACE-Step 1.5 turbo CPU INT8",
+    "actual_output": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-01_涿郡市集_试听_v001.wav",
+    "trial_creator_accepted": false,
+    "other_three_generated": true,
+    "music_added_to_video": true,
+    "current_mix_record": "剧集/EP001/制作成果/audio/配乐/EP001_完整配乐混音记录_v001.json",
+    "full_production_authorization": "生成完整配乐，然后把加入视频中"
+  },
+  "callout_caption_revision": {
+    "date": "2026-10-09",
+    "status": "rendered_technical_checks_passed_creator_review_pending",
+    "file": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_吆喝字幕修正_v005.mp4",
+    "sha256": "cf47165d6fa60e28e56f6850fc96fdf9c1522bec85febe8ef5b452629f950318",
+    "duration_seconds": 123.916667,
+    "frames": 2974,
+    "resolution": [
+      480,
+      854
+    ],
+    "fps": 24,
+    "dialogue_count": 12,
+    "caption_piece_count": 25,
+    "name_card_count": 5,
+    "callout": {
+      "text": "哈基米，南北绿豆",
+      "voice": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-004_关咪_吆喝_Qwen_v001.wav",
+      "voice_sha256": "a78461e788434ec3bbeac01bac990513ed58ebf8e9429704844e7eb5ea94a31f",
+      "insert_seconds": 9.041666666666666,
+      "source_trim": [
+        0.55,
+        2.72
+      ],
+      "gain_db": -2.498774732165999,
+      "mouth_visible": false,
+      "tail_briefly_offscreen": true
+    },
+    "source_video": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+    "original_v004_unchanged": true,
+    "premix_outside_insert_sample_identical": true,
+    "audio_reencoded_aac": true,
+    "native_dialogue_times_unchanged": true,
+    "music_added": false,
+    "creator_accepted": false,
+    "subtitle_plan": "剧集/EP001/制作成果/subtitles/EP001_字幕与名字卡_实际套剪_v005.json",
+    "timing_evidence": "Silero VAD辅助范围、10ms RMS发声波形和针对性ASR，ASR提前的首字时间不作为起点。",
+    "limitation": "技术检查与抽帧不代替完整字音、听感与所有嘴型的独立回看。"
+  },
+  "hd_music_delivery": {
+    "date": "2026-10-09",
+    "status": "rendered_technical_checks_passed_creator_review_pending",
+    "file": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_1080P完整配乐_v006.mp4",
+    "sha256": "aed3818b1a6b02dfecdfa69fa71779ec09aed836f74142d53391b53d393b83fc",
+    "file_bytes": 107831800,
+    "duration_seconds": 123.916667,
+    "frames": 2974,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 24.0,
+    "audio": {
+      "codec": "aac",
+      "rate": 48000,
+      "channels": 2
+    },
+    "source_video": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+    "source_sha256": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
+    "original_source_preserved": true,
+    "v005_preserved": true,
+    "upscale_method": "Lanczos + luma-only unsharp strength 0.30; scale before subtitle burn-in",
+    "native_source_resolution": [
+      480,
+      854
+    ],
+    "source_detail_restoration": false,
+    "dialogue_count": 12,
+    "caption_piece_count": 25,
+    "name_card_count": 5,
+    "caption_timing_and_text_unchanged": true,
+    "subtitle_source": "剧集/EP001/制作成果/subtitles/EP001_字幕与名字卡_实际套剪_v005.ass",
+    "subtitle_sha256": "4b1b198b9a8255ee17e78eae60f176c476b50bb487a57f07b692816410d17ba3",
+    "music_added": true,
+    "music_source_count": 4,
+    "music_mix_record": "剧集/EP001/制作成果/audio/配乐/EP001_完整配乐混音记录_v001.json",
+    "master_soundtrack": "剧集/EP001/制作成果/audio/修复/EP001_对白音效配乐_最终混音_v006.wav",
+    "master_soundtrack_sha256": "edb093c4ee281f83d0a1d13920870733bc6742fd311a330864c99637d17e993a",
+    "loudness_pass1": {
+      "input_i": "-19.69",
+      "input_tp": "-1.06",
+      "input_lra": "12.90",
+      "input_thresh": "-31.19",
+      "output_i": "-16.23",
+      "output_tp": "-1.50",
+      "output_lra": "8.90",
+      "output_thresh": "-27.18",
+      "normalization_type": "dynamic",
+      "target_offset": "0.23"
+    },
+    "loudness_pass2": {
+      "input_i": "-19.69",
+      "input_tp": "-1.06",
+      "input_lra": "12.90",
+      "input_thresh": "-31.19",
+      "output_i": "-16.09",
+      "output_tp": "-1.50",
+      "output_lra": "8.80",
+      "output_thresh": "-27.04",
+      "normalization_type": "dynamic",
+      "target_offset": "0.09"
+    },
+    "actual_loudness_LUFS": -16.11,
+    "actual_true_peak_dBTP": -1.35,
+    "actual_loudness_range_LU": 8.8,
+    "render_seconds": 94.4071614742279,
+    "creator_accepted": false,
+    "limitations": "1080P为插值放大及轻度锐化，不是原生1080P；生成器乐听感、音量偏好和完整成片仍需创作者回听。"
+  },
+  "publication": {
+    "status": "published_by_creator_report",
+    "confirmation": "第一集已经上了",
+    "current_delivery": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_1080P完整配乐_v006.mp4",
+    "platform": "抖音",
+    "url": null,
+    "independently_verified": false
+  },
+  "postrelease_cleanup": {
+    "deleted_count": 284,
+    "deleted_bytes": 668296224.0,
+    "failed_count": 0,
+    "retained_files_verified": 114,
+    "retained_bytes_unchanged": true,
+    "record": "剧集/EP001/制作成果/发布后清理记录_20261009.json"
+  }
+}

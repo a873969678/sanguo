@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-09",
+  "user_request": "第二个视频已下载在本地，重做音轨",
+  "segment": "MOTION-EP001-SEG002",
+  "original": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG002_v001.mp4",
+  "original_sha256": "10004e0fa57350d2eca1a99e8bb4c09ceeee409f7f30976cd90e701e207d0059",
+  "output": "剧集/EP001/制作成果/video/Seedance2.5分段/声音修复/SEG002_重建音轨_v001.mp4",
+  "output_sha256": "c1aeab7e5948da59bfe351f1125b4da64654efbba45ceae56cc1cb82678af179",
+  "mix_wav": "剧集/EP001/制作成果/audio/音效/SEG002_对白动作重建_v001.wav",
+  "duration_seconds": 27.07,
+  "original_audio_samples_used": false,
+  "video_packets_identical": true,
+  "decoded_peak": 0.9525700211524963,
+  "non_event_rms_dbfs": -300.0,
+  "dialogue_count": 2,
+  "events": [
+    {
+      "label": "关咪对白",
+      "file": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-013_关咪_Qwen_v001.wav",
+      "in": 11.6,
+      "out": 13.2,
+      "role": "关咪",
+      "text": "按你掌柜的话办。",
+      "source_sha256": "8162adc96cb26d4da98424c5ee3c9961bec0bab9b82c3bc54fe60aba85e8460e",
+      "gain_db": 0.748,
+      "alignment_basis": "actual frames inspected; Guan visible speaking before reaching meat, helper visible speaking on approach to stall",
+      "sync_status": "manually_aligned_pending_creator_listening"
+    },
+    {
+      "label": "肉摊伙计对白",
+      "file": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-016_肉摊伙计_Qwen_v001.wav",
+      "in": 21.03,
+      "out": 22.8399,
+      "role": "肉摊伙计",
+      "text": "掌柜，就是他。",
+      "source_sha256": "6cb214721d7439c40dbbb8ab373f75e47121f48de487583407783f8d2fada8ac",
+      "gain_db": 4.021,
+      "alignment_basis": "actual frames inspected; Guan visible speaking before reaching meat, helper visible speaking on approach to stall",
+      "sync_status": "manually_aligned_pending_creator_listening"
+    },
+    {
+      "label": "关咪走近短衣料声",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_19291_布料摩擦_CC0.mp3",
+      "in": 0.65,
+      "out": 0.93,
+      "source_in": 0.27,
+      "source_out": 0.55,
+      "target_rms_dbfs": -43,
+      "filter_hz": [
+        180,
+        2600
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "双爪抓盘举离井沿摩擦",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_667284_石面摩擦_CC0.mp3",
+      "in": 2.23,
+      "out": 3.18,
+      "source_in": 0,
+      "source_out": 0.95,
+      "target_rms_dbfs": -33,
+      "filter_hz": [
+        100,
+        2600
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "盘移向邻台短摩擦",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_667284_石面摩擦_CC0.mp3",
+      "in": 5.26,
+      "out": 5.4919,
+      "source_in": 1.0,
+      "source_out": 1.55,
+      "target_rms_dbfs": -37,
+      "filter_hz": [
+        100,
+        2400
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "磨盘落台一次沉触声",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_369710_木面轻触_CC0.mp3",
+      "in": 6.06,
+      "out": 6.3,
+      "source_in": 0,
+      "source_out": 0.24,
+      "target_rms_dbfs": -31,
+      "filter_hz": [
+        75,
+        950
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "探井取肉袖口摩擦",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_19291_布料摩擦_CC0.mp3",
+      "in": 7.9,
+      "out": 8.3,
+      "source_in": 0.28,
+      "source_out": 0.68,
+      "target_rms_dbfs": -42,
+      "filter_hz": [
+        180,
+        2600
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "肉放井沿柔软接触",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_19291_布料摩擦_CC0.mp3",
+      "in": 10.9,
+      "out": 11.28,
+      "source_in": 1.14,
+      "source_out": 1.52,
+      "target_rms_dbfs": -39,
+      "filter_hz": [
+        180,
+        1700
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "托肉短摩擦",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_19291_布料摩擦_CC0.mp3",
+      "in": 13.77,
+      "out": 14.16,
+      "source_in": 0.28,
+      "source_out": 0.67,
+      "target_rms_dbfs": -42,
+      "filter_hz": [
+        180,
+        2500
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "肉入竹篮轻触",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_369710_木面轻触_CC0.mp3",
+      "in": 14.61,
+      "out": 14.76,
+      "source_in": 0,
+      "source_out": 0.15,
+      "target_rms_dbfs": -39,
+      "filter_hz": [
+        110,
+        1700
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "肉入篮柔软接触",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_19291_布料摩擦_CC0.mp3",
+      "in": 14.63,
+      "out": 14.98,
+      "source_in": 1.13,
+      "source_out": 1.48,
+      "target_rms_dbfs": -40,
+      "filter_hz": [
+        180,
+        2000
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "离开井旁衣料声",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_19291_布料摩擦_CC0.mp3",
+      "in": 18.18,
+      "out": 18.46,
+      "source_in": 0.3,
+      "source_out": 0.58,
+      "target_rms_dbfs": -43,
+      "filter_hz": [
+        180,
+        2400
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "接近豆摊短脚步1",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_369710_木面轻触_CC0.mp3",
+      "in": 20.8,
+      "out": 20.91,
+      "source_in": 0,
+      "source_out": 0.11,
+      "target_rms_dbfs": -44,
+      "filter_hz": [
+        160,
+        1900
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "接近豆摊短脚步2",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_369710_木面轻触_CC0.mp3",
+      "in": 21.13,
+      "out": 21.24,
+      "source_in": 0,
+      "source_out": 0.11,
+      "target_rms_dbfs": -44,
+      "filter_hz": [
+        160,
+        1900
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "接近豆摊短脚步3",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_369710_木面轻触_CC0.mp3",
+      "in": 21.48,
+      "out": 21.59,
+      "source_in": 0,
+      "source_out": 0.11,
+      "target_rms_dbfs": -44,
+      "filter_hz": [
+        160,
+        1900
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "伸爪抓豆和袋沿摩擦",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_19291_布料摩擦_CC0.mp3",
+      "in": 23.72,
+      "out": 24.29,
+      "source_in": 0.28,
+      "source_out": 0.85,
+      "target_rms_dbfs": -38,
+      "filter_hz": [
+        250,
+        4000
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "攥豆短碎声",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_667284_石面摩擦_CC0.mp3",
+      "in": 25.12,
+      "out": 25.3519,
+      "source_in": 1.0,
+      "source_out": 1.25,
+      "target_rms_dbfs": -38,
+      "filter_hz": [
+        650,
+        5200
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    },
+    {
+      "label": "豆粉落回原袋轻声",
+      "file": "剧集/EP001/制作成果/audio/音效/来源/Freesound_19291_布料摩擦_CC0.mp3",
+      "in": 25.68,
+      "out": 26.31,
+      "source_in": 1.12,
+      "source_out": 1.75,
+      "target_rms_dbfs": -39,
+      "filter_hz": [
+        500,
+        5000
+      ],
+      "foley": "existing_CC0_recording_processed_for_action; no_original_soundtrack_samples"
+    }
+  ],
+  "status": "rebuilt_pending_creator_listening",
+  "scope": "Entire contaminated generated audio replaced. Existing exact Qwen dialogue and independent low-volume action foley only, no persistent ambience/music. No subtitles burned.",
+  "visual_verification": "half-second contact sheet spanning full video and denser speaking-window samples inspected; no claim of full animation quality acceptance",
+  "sync_limit": "timing chosen by visible speech/action frames; exact syllable matching and timbre balance pending creator listening",
+  "sfx_source_record": "剧集/EP001/制作成果/audio/音效/来源/音效来源及许可.json"
+}

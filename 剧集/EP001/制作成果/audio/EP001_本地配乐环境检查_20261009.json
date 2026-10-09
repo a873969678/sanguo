@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-09",
+  "status": "cpu_int8_runtime_verified_one_audition_generated",
+  "cpu": "Intel Core i7-9700, 8 cores",
+  "ram_total_gib": 31.9,
+  "ram_available_gib_at_check": 9.03,
+  "gpu": "NVIDIA GeForce GTX 1660",
+  "vram_total_mib": 6144,
+  "vram_available_mib_at_check": 1662,
+  "existing_voice_torch": "2.14.0+cpu",
+  "music_runtime_installed": true,
+  "music_generated": true,
+  "candidate_engine": "ACE-Step 1.5, 2B turbo, no LM",
+  "candidate_configuration": "FP16 CUDA, INT8 weights, full CPU offload; requires isolated compatible CUDA runtime and an actual test",
+  "compatibility_verified_by_inference": true,
+  "conclusion": "当前电脑已实际生成30秒48kHz双声道音乐，约125秒含模型初始化；听感仍待回听。已采用独立音乐环境，原配音环境未修改。",
+  "next_test": {
+    "cue": "BGM-EP001-01",
+    "duration_seconds": 30,
+    "count": 1,
+    "instrumental": true,
+    "overwrite": false
+  },
+  "creative_style": "古风轻喜剧，用户已选择",
+  "source": "剧集/EP001/视频提示词.md#EP001 后期分场配乐 · 候选方案",
+  "sources": [
+    "https://github.com/ace-step/ACE-Step-1.5",
+    "https://github.com/ace-step/ACE-Step-1.5/blob/main/docs/en/GPU_COMPATIBILITY.md",
+    "https://github.com/ace-step/ACE-Step-1.5/blob/main/acestep/core/generation/handler/init_service_orchestrator.py"
+  ],
+  "accepted_movie": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_字幕名字卡_v004.mp4",
+  "mix_intent": "后期独立音乐轨；对白期间降低；两次枪声和住爪时退出；无音轨续接视频不加入音乐。",
+  "paid_api_called": false,
+  "actual_configuration": "CPU FP32 + decoder INT8, 6 threads, 8 diffusion steps, no LM; GPU not used",
+  "actual_generation_seconds": 125.17408323287964,
+  "actual_output": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-01_涿郡市集_试听_v001.wav"
+}

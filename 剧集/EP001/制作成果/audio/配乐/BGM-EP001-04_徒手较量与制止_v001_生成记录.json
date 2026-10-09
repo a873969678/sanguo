@@ -1,0 +1,44 @@
+{
+  "id": "BGM-EP001-04-local-v001",
+  "modality": "music",
+  "source": "剧集\\EP001\\视频提示词.md",
+  "source_entry": "BGM-EP001-04",
+  "prompt": "同一古风轻喜剧器乐主题的动作段，弹性琵琶拨弦、少量低鼓和木质打击乐组成清楚但不过密的节奏，两只可爱武将较量，动作有劲但没有战争惨烈感。中后段逐渐减少乐器与音符，预留突然停顿，最后用一小句沉着、略带悬念的器乐尾句收住。纯器乐，无歌词、人声、哼唱、拳击声、枪声、喵叫或持续底噪。",
+  "source_sha256": "814b4bb56943f27f24034522854a8e0a99dd43a0e0a265f453b1cdb6e4b48d36",
+  "references": [],
+  "outputs": [
+    "剧集\\EP001\\制作成果\\audio\\配乐\\BGM-EP001-04_徒手较量与制止_v001.wav"
+  ],
+  "parameters": {
+    "duration": 40,
+    "bpm": 110,
+    "seed": 100904,
+    "inference_steps": 8,
+    "instrumental": true,
+    "lyrics": ""
+  },
+  "overwrite": false,
+  "adapter": "local-ACE-Step-1.5-turbo-CPU-INT8",
+  "paid_external_api": false,
+  "authorization": "2026-10-09 用户明确要求生成完整配乐并加入视频；沿用已确认古风轻喜剧4段方案。",
+  "creator_accepted": false,
+  "status": "generated_technical_check_passed_listening_pending",
+  "engine_revision": "ca1e85fe9430179831e6bc6be790c332190a3866",
+  "actual_backend": "cpu",
+  "torch_version": "2.14.0+cpu",
+  "runtime_parameters": {
+    "quantization": "int8_weight_only",
+    "threads": 6,
+    "no_optional_lm_download": true
+  },
+  "sample_rate": 48000,
+  "duration_seconds": 40.0,
+  "channels": 2,
+  "peak": 0.7079457640647888,
+  "rms": 0.0611221082508564,
+  "sha256": "d86444ba3d6e9aac5533d12702ed43e6c8b264bcfe8f12e6c782013ee9a25c01",
+  "generation_seconds": 114.29891562461853,
+  "music_mixed_into_video": true,
+  "mixed_delivery": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_1080P完整配乐_v006.mp4",
+  "mixed_record": "剧集/EP001/制作成果/audio/配乐/EP001_完整配乐混音记录_v001.json"
+}

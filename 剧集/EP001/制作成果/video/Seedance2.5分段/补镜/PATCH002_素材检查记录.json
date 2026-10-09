@@ -1,0 +1,41 @@
+{
+  "file": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_v001.mp4",
+  "sha256": "b9a607a9f116517ad83a187db0cdabb1e2f0164d4ef9929915a2e158ed6e1267",
+  "duration_seconds": 6.048,
+  "frames": 145,
+  "resolution": [
+    480,
+    854
+  ],
+  "status": "selected_for_roughcut_v003_creator_full_review_pending",
+  "gun_shape_observation": "前端圆筒枪口保持，没有截图旧弯刃；后段被爪遮挡，不宣称完整道具逐部件验证。",
+  "body_spacing_observation": "保持分开站位，枪口之间有空隙，未发现第三只角色。",
+  "muzzle_flash_seconds": [
+    [
+      2.5,
+      2.625
+    ],
+    [
+      4.125,
+      4.208333
+    ]
+  ],
+  "audio_activity_seconds": [
+    [
+      2.51,
+      2.87
+    ],
+    [
+      4.13,
+      4.48
+    ]
+  ],
+  "angle_observation": "实际抬枪约45度，未达提示词80—90度，仍朝上方天空。",
+  "orange_streaks": "creator_allows_retained",
+  "creator_quote": "橙色飞线保留可以",
+  "split_seconds": 1.5,
+  "no_reused_patch_frames": true,
+  "actual_saved_name_v001": true,
+  "planned_v002_not_present": true,
+  "cleanup_candidate_not_selected": "PATCH002_朝天开枪_去飞线_v001.mp4"
+}

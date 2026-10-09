@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-09",
+  "source_version": "1994版电视剧三国演义",
+  "status": "waiting_for_local_source_video",
+  "user_requested": "开始提取，还有其他路人的配音",
+  "supporting_voice_decision": "替换两个配角，群众保持无台词",
+  "source_request": "本地第1集桃园三结义原视频；其他集作为三咪补充来源",
+  "characters": [
+    {
+      "project_role": "刘咪",
+      "source_role": "刘备",
+      "dialogue_shots": [
+        "037"
+      ]
+    },
+    {
+      "project_role": "关咪",
+      "source_role": "关羽",
+      "dialogue_shots": [
+        "013",
+        "019",
+        "021"
+      ]
+    },
+    {
+      "project_role": "张咪",
+      "source_role": "张飞",
+      "dialogue_shots": [
+        "018",
+        "020",
+        "022",
+        "031"
+      ]
+    },
+    {
+      "project_role": "肉摊伙计",
+      "source_role": "肉摊伙计",
+      "dialogue_shots": [
+        "008",
+        "016"
+      ]
+    },
+    {
+      "project_role": "买肉客咪",
+      "source_role": "买肉顾客",
+      "dialogue_shots": [
+        "007"
+      ],
+      "source_identity_note": "根据原视频核对，原配角声音的性别与实际说话者尚未确定，不能按原Edge女声臆造原剧声线"
+    }
+  ],
+  "crowd": "四只群众保持无台词，不新增人物对白",
+  "extracted_audio_files": [],
+  "sample_timestamps": null,
+  "source_access_attempt": {
+    "url": "https://dianshiju.cctv.com/2010/05/01/VIDE1355904435332834.shtml",
+    "method": "documented_browser_api",
+    "result": "blocked_by_browser_site_safety_policy",
+    "downloaded": false,
+    "workaround_attempted": false
+  },
+  "next_step": "收到本地原视频后定位五位说话人、截取单人片段、按实际背景声情况清理并登记时码/哈希；不把参考录音当作本剧新台词成品。"
+}

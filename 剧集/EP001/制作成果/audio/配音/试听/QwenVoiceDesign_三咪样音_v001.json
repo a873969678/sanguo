@@ -1,0 +1,91 @@
+{
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+  "date": "2026-10-09",
+  "method": "independent_voice_design_from_text_description",
+  "actor_voice_cloning": false,
+  "tv_reference_audio_used": false,
+  "authorization": "用户回复“试试”，同意三咪候选样音试验",
+  "status": "creator_accepted_voice_references",
+  "old_audio_preserved": true,
+  "video_status": "paused_pending_full_dialogue_replacement_and_bindings",
+  "samples": [
+    {
+      "character": "刘咪",
+      "shot": "SHOT-EP001-037",
+      "text": "二位壮咪，住爪。",
+      "seed": 2026100937,
+      "instruct": "成熟男性的普通话声音，中低音，温润厚实，沉着有分量，吐字清晰，语速适中，古装剧的庄重台词感。说话克制，前半句平稳称呼，逗号处自然短暂停顿，后半句坚定制止，声音不大却有威严。不尖细、不喊叫。",
+      "file": "E:\\AIsanguo\\公共素材\\声音\\刘咪_独立声线_定稿_v001.wav",
+      "sample_rate": 24000,
+      "duration_seconds": 1.76,
+      "peak": 0.6448670625686646,
+      "rms": 0.12317851185798645,
+      "bytes": 84524,
+      "sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "generation_seconds": 15.209,
+      "status": "creator_accepted_voice_reference",
+      "verification": "wav_decode_finite_non_silent; no perceptual approval claimed",
+      "public_reference": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
+      "original_file": "E:\\AIsanguo\\剧集\\EP001\\制作成果\\audio\\配音\\试听\\刘咪_QwenVoiceDesign_v001.wav",
+      "original_file_status": "duplicate_removed_by_user_cleanup"
+    },
+    {
+      "character": "关咪",
+      "shot": "SHOT-EP001-021",
+      "text": "磨盘是我搬的。你自己定的规矩，认不认？",
+      "seed": 2026100921,
+      "instruct": "成年男性的低沉普通话声音，低音浑厚，胸腔共鸣明显，声线紧实平稳，吐字清楚，语速稍慢，古装武将的庄重台词感。语气冷静坚定，第一句平稳陈述，后一句带质问的力度，最后三个字紧凑有力。自然停顿，不拖腔、不吼叫。",
+      "file": "E:\\AIsanguo\\公共素材\\声音\\关咪_独立声线_定稿_v001.wav",
+      "sample_rate": 24000,
+      "duration_seconds": 5.52,
+      "peak": 0.5185622572898865,
+      "rms": 0.07438161224126816,
+      "bytes": 265004,
+      "sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "generation_seconds": 42.174,
+      "status": "creator_accepted_voice_reference",
+      "verification": "wav_decode_finite_non_silent; no perceptual approval claimed",
+      "public_reference": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "original_file": "E:\\AIsanguo\\剧集\\EP001\\制作成果\\audio\\配音\\试听\\关咪_QwenVoiceDesign_v001.wav",
+      "original_file_status": "duplicate_removed_by_user_cleanup"
+    },
+    {
+      "character": "张咪",
+      "shot": "SHOT-EP001-022",
+      "text": "先让我看看，你有多大本事！",
+      "seed": 2026100922,
+      "instruct": "成年男性的浑厚普通话声音，中低音，粗犷洪亮，略带沙哑颗粒感，宽厚有力，古装武将的台词感。语气急躁好胜，短促有冲劲，前半句挑衅，后半句加重力度，重音落在多大本事。吐字清晰，保持自然说话，不持续尖叫。",
+      "file": "E:\\AIsanguo\\公共素材\\声音\\张咪_独立声线_定稿_v001.wav",
+      "sample_rate": 24000,
+      "duration_seconds": 2.32,
+      "peak": 0.7080463767051697,
+      "rms": 0.10284408181905746,
+      "bytes": 111404,
+      "sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "generation_seconds": 18.431,
+      "status": "creator_accepted_voice_reference",
+      "verification": "wav_decode_finite_non_silent; no perceptual approval claimed",
+      "public_reference": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "original_file": "E:\\AIsanguo\\剧集\\EP001\\制作成果\\audio\\配音\\试听\\张咪_QwenVoiceDesign_v001.wav",
+      "original_file_status": "duplicate_removed_by_user_cleanup"
+    }
+  ],
+  "attempts": [
+    {
+      "device": "cpu",
+      "status": "completed"
+    }
+  ],
+  "runtime": {
+    "torch": "2.14.0+cpu",
+    "device": "cpu",
+    "dtype": "torch.float32",
+    "attention": "sdpa",
+    "load_seconds": 7.66
+  },
+  "creator_acceptance": {
+    "date": "2026-10-09",
+    "quote": "可以，就用这种，然后写入公共配置要求",
+    "scope": "三咪声音身份定稿，跨集复用；不代表11句对白已替换"
+  }
+}

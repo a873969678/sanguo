@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-09",
+  "status": "roughcut_rendered_technical_checks_passed_pending_creator_review",
+  "file": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v001.mp4",
+  "sha256": "f056e75540913e3ca9e2d026f376017f73749cbbbb2cb1631dff387d86753c66",
+  "duration_seconds": 127.416667,
+  "planned_normalized_seconds": 127.41666666666666,
+  "frames": 3058,
+  "fps": 24,
+  "resolution": [
+    480,
+    854
+  ],
+  "audio_rate": 48000,
+  "audio_channels": 2,
+  "audio_decoded_sample_peak": 0.9025159478187561,
+  "seam_checks": [
+    {
+      "at_seconds": 25.083333333333332,
+      "max_adjacent_sample_jump_2ms": 2.1470461433636956e-05,
+      "region_peak_2ms": 0.00015437632100656629
+    },
+    {
+      "at_seconds": 52.166666666666664,
+      "max_adjacent_sample_jump_2ms": 2.6614295620674966e-06,
+      "region_peak_2ms": 3.2942721190920565e-06
+    },
+    {
+      "at_seconds": 75.25,
+      "max_adjacent_sample_jump_2ms": 5.206978812566376e-07,
+      "region_peak_2ms": 7.602606615364493e-07
+    },
+    {
+      "at_seconds": 102.33333333333333,
+      "max_adjacent_sample_jump_2ms": 4.069386477567605e-06,
+      "region_peak_2ms": 1.089007764676353e-05
+    }
+  ],
+  "complete_video_decode": true,
+  "monotonic_frame_pts": true,
+  "all_source_hashes_preserved": true,
+  "subtitle_status": "not_added_this_stage",
+  "name_card_status": "not_added_this_stage",
+  "loudness_normalization": "not_performed_roughcut_preserves_native_levels",
+  "creator_accepted": false,
+  "command": [
+    "C:/Users/Administrator/.codex/runtimes/drama-edge-tts/Lib/site-packages/imageio_ffmpeg/binaries/ffmpeg-win-x86_64-v7.1.exe",
+    "-hide_banner",
+    "-loglevel",
+    "warning",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\SEG001_v001.mp4",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\SEG002_v001.mp4",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\SEG003_v001.mp4",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\SEG004_v002.mp4",
+    "-i",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\video\\Seedance2.5分段\\SEG005_v001.mp4",
+    "-filter_complex_script",
+    "C:\\Users\\Administrator\\AppData\\Local\\Temp\\EP001_整集粗剪\\roughcut_filter.txt",
+    "-map",
+    "[vout]",
+    "-map",
+    "[aout]",
+    "-c:v",
+    "libx264",
+    "-preset",
+    "medium",
+    "-crf",
+    "18",
+    "-pix_fmt",
+    "yuv420p",
+    "-r",
+    "24",
+    "-c:a",
+    "aac",
+    "-b:a",
+    "192k",
+    "-ar",
+    "48000",
+    "-movflags",
+    "+faststart",
+    "-map_metadata",
+    "-1",
+    "-y",
+    "E:\\AIsanguo\\剧集\\EP001\\制作成果\\成片\\三国群萌传_EP001_关张初遇_粗剪_v001.mp4"
+  ],
+  "render_warnings": "",
+  "seam_image_matches": [
+    {
+      "segment": "SEG001",
+      "side": "tail",
+      "output_frame": 601,
+      "psnr_vs_source_db": 40.41
+    },
+    {
+      "segment": "SEG002",
+      "side": "head",
+      "output_frame": 602,
+      "psnr_vs_source_db": 43.6
+    },
+    {
+      "segment": "SEG002",
+      "side": "tail",
+      "output_frame": 1251,
+      "psnr_vs_source_db": 41.33
+    },
+    {
+      "segment": "SEG003",
+      "side": "head",
+      "output_frame": 1252,
+      "psnr_vs_source_db": 45.0
+    },
+    {
+      "segment": "SEG003",
+      "side": "tail",
+      "output_frame": 1805,
+      "psnr_vs_source_db": 40.82
+    },
+    {
+      "segment": "SEG004",
+      "side": "head",
+      "output_frame": 1806,
+      "psnr_vs_source_db": 44.46
+    },
+    {
+      "segment": "SEG004",
+      "side": "tail",
+      "output_frame": 2455,
+      "psnr_vs_source_db": 38.05
+    },
+    {
+      "segment": "SEG005",
+      "side": "head",
+      "output_frame": 2456,
+      "psnr_vs_source_db": 44.4
+    }
+  ]
+}

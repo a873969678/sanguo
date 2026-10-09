@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-09",
+  "segment": "SEG004",
+  "source_video": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+  "source_video_sha256": "81b6f78fc4dcddd0dd03f657857092e8fb6594652415fef97452764c4e65f3dc",
+  "creator_saved_name": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_v001.mp4",
+  "creator_saved_sha256": "81b6f78fc4dcddd0dd03f657857092e8fb6594652415fef97452764c4e65f3dc",
+  "source_different_from_previous_rejected": true,
+  "source_name_copy_only": true,
+  "duration_seconds": 27.07,
+  "resolution": [
+    480,
+    854
+  ],
+  "tail_frame": "剧集/EP001/制作成果/video/Seedance2.5分段/尾帧/SEG004_尾帧.png",
+  "tail_sha256": "9356f4edc5b8125804856765775f0b2734a658cd1baad5813bae3a0f54e5a546",
+  "silent_video": "剧集/EP001/制作成果/video/Seedance2.5分段/续接参考_无原声/SEG004_续接无原声_v002.mp4",
+  "silent_sha256": "e221d7c336c96d40536c2b1ef43e14539f30badfdbe613604388ac0f4ecda2d5",
+  "no_audio_track_verified": true,
+  "video_packets_identical": true,
+  "video_stream_sha256": "82b6bcc6f11888c1d4cd9e75032b77cc81eb0016da58daceebdb473c0fb344e1",
+  "sound_status": "original_audio_retained_not_listened_in_this_export",
+  "visual_status": "export_only_not_full_quality_review",
+  "user_request": "导出尾帧和无音轨续接视频",
+  "original_source_preserved": true
+}

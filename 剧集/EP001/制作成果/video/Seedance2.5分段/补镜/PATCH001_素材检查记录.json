@@ -1,0 +1,34 @@
+{
+  "source_entry": "MOTION-EP001-PATCH001",
+  "file": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH001_持枪距离_v001.mp4",
+  "sha256": "4f89532cbe95069cb12d7dcb7b32d5ea40a25ec70b658fe688d252a2883f7a06",
+  "duration_seconds": 6.08,
+  "resolution": [
+    480,
+    854
+  ],
+  "decoded_frames": 145,
+  "actual_received": true,
+  "creator_reported_saved": true,
+  "selected": false,
+  "status": "REVISE",
+  "inspection": "全6.08秒解码；全时段0.25秒抽帧和关键时刻原尺寸画面；解码音频活动辅助定位，不冒充主观回听。",
+  "findings": [
+    {
+      "interval": [
+        0,
+        6.04
+      ],
+      "finding": "关张仍为近距离双咪构图，两个身体之间的可见空地不足并排站下两咪；枪口之间有局部缝隙，身体间距目标仍未达到。",
+      "required": "先建立可见宽站位首帧；用真实正确构图锁定间距，再生成动作。"
+    },
+    {
+      "approx_seconds": 1.9,
+      "finding": "第一次明显短声音活动跨原计划2秒拆分附近；按0—2与2—6秒硬切会把第一次事件分到对峙段并切开其尾部。",
+      "required": "下一次按实际扳机与完整声音事件选择拆分点，拆分放在第一事件之前的静默处。"
+    }
+  ],
+  "retained_result": "全片粗剪_v002继续为当前候选；本补镜不插入、不覆盖原片；11句对白与已接受住爪修正不动。",
+  "next_image_entry": "IMG-EP001-GUN-STANDOFF-WIDE",
+  "new_generation_submitted": false
+}

@@ -1,0 +1,608 @@
+{
+  "workspace": "E:\\AIsanguo",
+  "date": "2026-10-09",
+  "status": "completed",
+  "scope": "obsolete_media_only",
+  "items": [
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_卸右袋双爪承托接触_v001.png",
+      "bytes": 2371028,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "a9c8c11acd2ce0634b8de4202b5facd10fda8323d66a427b62f87edf86af2223"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_卸右袋双爪承托接触_v002.png",
+      "bytes": 2384701,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "022119a78efc37264772e5e6b095d70e53467abec1844f39898935c05056b855"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_车左取放枪接触_v001.png",
+      "bytes": 2153077,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "a8d462429d349847837b0dc70e0c8677d90b79540f79d90ff634bfeeb9984d08"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_车左取放枪接触_v002.png",
+      "bytes": 2095476,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "0f9226512abcacb5cc29acc3267a4f04fd3632d1ab6a6be299c399e2c1e2f366"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_车左取放枪接触_v003.png",
+      "bytes": 2089268,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "d57c70822d613b3fa2a5fd690ecb3823547b67cd600ed034335db7cd6912d76f"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/人物/关咪_车左取放枪接触_v004.png",
+      "bytes": 2076151,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "98ba7534411027dcded5ced1d347f224ada8c85631901bb7bbd98ed11e3fffe5"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-002_v001.png",
+      "bytes": 2393555,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "62bb18d63d9a575d94c656a0f1cd3b7740668196e5e9bd579163a07862da9799"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-002_v002.png",
+      "bytes": 2326080,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "8674fa36ad22c07085977f920ec13c224a9cb140937ce71914363a85208dfe1f"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-002_v003.png",
+      "bytes": 2358069,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "69cd14b9d0df9b7df5f213b63e858f07a30f7dc4f3d2d26eb5a4bcb7755f7b27"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-003_v001.png",
+      "bytes": 2345165,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "15552057a277cd66fb14382c57c99a927cd89840578bdf926bfe16a56111ece8"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-003_v002.png",
+      "bytes": 2299933,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "8adb62ce7fc0f99347edf09cc65c73fd77e5f3d27c88707d720f707756c0e4b4"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-003_v003.png",
+      "bytes": 2276726,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "75198b97ae419cfffa3778058070830786a71bd337f6931d90364a4ed39a36a3"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-005_v001.png",
+      "bytes": 2362072,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "29cb9636984ae826412ca487bd81759770627c0b89d5ee4f97e6bcb35e22c8d1"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-013_v001.png",
+      "bytes": 2392314,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "65edc632965d4f193e184ac3802015f4e991fff293f7539ff80ce04134ba6460"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-013_v002.png",
+      "bytes": 2397488,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "2b8993b4d0245e3ffa1d0a9636e0d7c0192a109098131cdb00b3ef642570a053"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-022_v001.png",
+      "bytes": 2350756,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "94bed401b08120093454293d96038381febf08d642306e85c2fa84f32e6198e2"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-022_v002.png",
+      "bytes": 2378007,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "eac32625371fefdecafbb656996a315392d7dbdc3d830ebe6a62f935352c7ff7"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-024_v001.png",
+      "bytes": 2428064,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "44a6493eafd7a833e4b2872c6bc8eb050eb2d3a941e362f2f4083ba06a4cae9b"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v001.png",
+      "bytes": 2462183,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "29256bb3b55aa2a1fb1dcca2187404685c7579372d57581122eb6704064cb4f9"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v002.png",
+      "bytes": 2432179,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "947184b1b2dbd0a540e569bca6d13957e5d2d1f2bd0427b605efc80364a5ae10"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v003.png",
+      "bytes": 2470426,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "2e895e04b64c83b7866eea4be3dd84ed976171add5148bed84d027b8870c9b11"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v004.png",
+      "bytes": 2509082,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "7228e67339d02076a44c9af310cdba36ffb17a2dfdd3fd74e850763c54f74ef3"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v005.png",
+      "bytes": 2437317,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "29d0a05da6677bd835af13b018f3672d3e2455cb5ed5a358eaad77f3afd924f4"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-026_v001.png",
+      "bytes": 2297544,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "fc7d4be57ee8fe2a5dbde39bf7c7753a12ff83d3e419ad74bf0d3ba26f9331f8"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-027_v001.png",
+      "bytes": 2447300,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "1020fe6cebd5d86a70989267a8cb60c1c3cef56569fd73c2a6b91ee6450fe51e"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-027_v002.png",
+      "bytes": 2449866,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "0970819c9aab291e5aaa392e42092a2ed7c050da4ac8ad4e126d7b82d7b44660"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-028_v001.png",
+      "bytes": 2457570,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "ab4085cfd6accf1f5ce9db7b72e0020e1d17c8068a10a5b9af4c1e961d2afe43"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-028_v002.png",
+      "bytes": 2414383,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "fc8636943f6c80372ae19aa5e081529fe6e74c78076174b934a1471f5b5b76a9"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-028_v003.png",
+      "bytes": 2407665,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "ff0cfd336c103df262a1d2773108a34894594f2ee5150a4d43ce07d0d1a80c04"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-030_v001.png",
+      "bytes": 2534332,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "83ab1728a6fe3edd01f82689ee7207b40112eeb5ff24ceaf406c29431135f544"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-031_v001.png",
+      "bytes": 2471811,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "fea8b23db1c052274e3e2e735765dd39b55b5254e38f7cbdd63c807ccd29a1e2"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-031_v002.png",
+      "bytes": 2481865,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "33fe5c2137fb732d61846e1ece3e25e6d7677b340da7af9e397bd4e830b27bf2"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-039_v001.png",
+      "bytes": 2326655,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "6ba50ddf0fdf61bf15c1b9857e44150a67540cd8fe699cc5725924510a432ff1"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/场景/关咪_停车摆摊组合图_v001.png",
+      "bytes": 2168520,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "3be4df40fc7cccb62c9eb08f7b9fab53b0cd5e2d4bc0646036f664adb57d44dd"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/场景/关咪_停车摆摊组合图_v002.png",
+      "bytes": 2184681,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "b0b56c6e6dd12ae80e40c59ea9d93d747d2c2ed3f291660c7ee4caf83922b243"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/场景/关咪_停车摆摊组合图_v003.png",
+      "bytes": 2132516,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "9c1c6dc660a847a8e0769222575418d9b3c0d10ac075447bd945ee5b0e242535"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/场景/涿郡集市_入口全景空场_v001.png",
+      "bytes": 2111973,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "a92118dca1ff0ed1a0e982679bda80050ba03ec82b3755a8a3ae553120ad99e9"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/载具/关咪_骑车组合图_v001.png",
+      "bytes": 2007911,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "ea753ab89620b5f0ffb091cd84e6202ff95cc9883d6270a84ef2accdb7a659a6"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/载具/关咪_骑车组合图_v002.png",
+      "bytes": 1977388,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "bacf3d4522b60073d1a16d348091c40236da1bca697816f16950b3412ef16faf"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/载具/关咪自行车_挂枪道具板_v001.png",
+      "bytes": 2067648,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "117c078b8160e4028ac210b56d2392477b313b1928a4a7e11805c23180ea885c"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/载具/关咪自行车_挂枪道具板_v002.png",
+      "bytes": 2043076,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "00463de060bc8341c6b1dffc93258b11f1bebbe613c89be15850cb0fb243d447"
+    },
+    {
+      "path": "剧集/EP001/制作成果/images/载具/关咪自行车_空挂架松带状态_v001.png",
+      "bytes": 1942872,
+      "reason": "superseded_image_version_not_bound_in_current_storyboard_or_video_prompts",
+      "sha256": "353a989471eb201befc773f6d2ae72465d970ceddd5215f25f63b3cc3d2e2a13"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-007_买肉客咪_Edge_v001.mp3",
+      "bytes": 12672,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "1ac3b9815535f0a4e20881a72cf027afb846c275fc1325e8d86ec702c256bfbe"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-008_肉摊伙计_Edge_v001.mp3",
+      "bytes": 33696,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "070d1bd781ef281a3a21e57fa26677b78bb632c0fa5ab5e0d5edf89685885483"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-013_关咪_Edge_v001.mp3",
+      "bytes": 12240,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "b5a496c5eb3ab81b92088737325778dc93ed7e1dd427816cb9c21c8d4b1b57f1"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-016_肉摊伙计_Edge_v001.mp3",
+      "bytes": 14400,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "c38c159cb799d4cab31563bc2cc45d0b6a6e71615a9cd2b540f8871052593c82"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-018_张咪_Edge_v001.mp3",
+      "bytes": 17424,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "be8a75d5ef7c03205b83e348a0ca0ee0c243f5418989defd261734087d13a490"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-019_关咪_Edge_v001.mp3",
+      "bytes": 16848,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "8ab5e5ae6a78b5f6e3207c86accf184f71919642e2f86bf0150d20bc874bcc51"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-020_张咪_Edge_v001.mp3",
+      "bytes": 17712,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "f67960c6ae8a47f6d763c41582d738e1edec0ea9a6ca395d661cc5d0b4aa0244"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-021_关咪_Edge_v001.mp3",
+      "bytes": 28512,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "e203d8f6da59cefb0ae126c0c490b1dd9c7b914116394f2183b7a075200d79a8"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-022_张咪_Edge_v001.mp3",
+      "bytes": 18864,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "42b8701ab85365f81ebca464014d1f283b6c7822f56d4b5384907891b8ed3ca9"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Edge_v001.mp3",
+      "bytes": 19728,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "c0fff90a26ef2044e48709e439363353910f116033680ee0af85d123b793c882"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-037_刘咪_Edge_v001.mp3",
+      "bytes": 15984,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "e977e976035c9db209f7f13f8fca4fb74b5b726acad218104cd43c44f55a1bf9"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/试听/EP001_全集对白串听_v001.wav",
+      "bytes": 1832684,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "3a75e13afcf129fde9734991d60de5b99aae1ac61b9724224047b19bf407c0b8"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/试听/关咪_Edge_v001.mp3",
+      "bytes": 12240,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "b5a496c5eb3ab81b92088737325778dc93ed7e1dd427816cb9c21c8d4b1b57f1"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/试听/关咪_QwenVoiceDesign_v001.wav",
+      "bytes": 265004,
+      "reason": "duplicate_of_accepted_public_voice_reference",
+      "replacement": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/试听/刘咪_Edge_v001.mp3",
+      "bytes": 15984,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "e977e976035c9db209f7f13f8fca4fb74b5b726acad218104cd43c44f55a1bf9"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/试听/刘咪_QwenVoiceDesign_v001.wav",
+      "bytes": 84524,
+      "reason": "duplicate_of_accepted_public_voice_reference",
+      "replacement": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
+      "sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/试听/张咪_Edge_v001.mp3",
+      "bytes": 17424,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "be8a75d5ef7c03205b83e348a0ca0ee0c243f5418989defd261734087d13a490"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/试听/张咪_QwenVoiceDesign_v001.wav",
+      "bytes": 111404,
+      "reason": "duplicate_of_accepted_public_voice_reference",
+      "replacement": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/素材/022_SHOT-EP001-007_买肉客咪_Edge_v001.mp3",
+      "bytes": 12672,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "1ac3b9815535f0a4e20881a72cf027afb846c275fc1325e8d86ec702c256bfbe"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/素材/024_SHOT-EP001-008_肉摊伙计_Edge_v001.mp3",
+      "bytes": 33696,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "070d1bd781ef281a3a21e57fa26677b78bb632c0fa5ab5e0d5edf89685885483"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/素材/033_关咪_Edge_v001.mp3",
+      "bytes": 12240,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "b5a496c5eb3ab81b92088737325778dc93ed7e1dd427816cb9c21c8d4b1b57f1"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/素材/041_张咪_Edge_v001.mp3",
+      "bytes": 17424,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "be8a75d5ef7c03205b83e348a0ca0ee0c243f5418989defd261734087d13a490"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/素材/065_刘咪_Edge_v001.mp3",
+      "bytes": 15984,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "e977e976035c9db209f7f13f8fca4fb74b5b726acad218104cd43c44f55a1bf9"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/007/参考音频/音频1_022_SHOT-EP001-007_买肉客咪_Edge_v001.mp3",
+      "bytes": 12672,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "1ac3b9815535f0a4e20881a72cf027afb846c275fc1325e8d86ec702c256bfbe"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/008/参考音频/音频1_024_SHOT-EP001-008_肉摊伙计_Edge_v001.mp3",
+      "bytes": 33696,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "070d1bd781ef281a3a21e57fa26677b78bb632c0fa5ab5e0d5edf89685885483"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/013/参考音频/音频1_033_关咪_Edge_v001.mp3",
+      "bytes": 12240,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "b5a496c5eb3ab81b92088737325778dc93ed7e1dd427816cb9c21c8d4b1b57f1"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/016/参考音频/音频1_024_SHOT-EP001-008_肉摊伙计_Edge_v001.mp3",
+      "bytes": 33696,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "070d1bd781ef281a3a21e57fa26677b78bb632c0fa5ab5e0d5edf89685885483"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/018/参考音频/音频1_041_张咪_Edge_v001.mp3",
+      "bytes": 17424,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "be8a75d5ef7c03205b83e348a0ca0ee0c243f5418989defd261734087d13a490"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/019/参考音频/音频1_033_关咪_Edge_v001.mp3",
+      "bytes": 12240,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "b5a496c5eb3ab81b92088737325778dc93ed7e1dd427816cb9c21c8d4b1b57f1"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/020/参考音频/音频1_041_张咪_Edge_v001.mp3",
+      "bytes": 17424,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "be8a75d5ef7c03205b83e348a0ca0ee0c243f5418989defd261734087d13a490"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/021/参考音频/音频1_033_关咪_Edge_v001.mp3",
+      "bytes": 12240,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "b5a496c5eb3ab81b92088737325778dc93ed7e1dd427816cb9c21c8d4b1b57f1"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/022/参考音频/音频1_041_张咪_Edge_v001.mp3",
+      "bytes": 17424,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "be8a75d5ef7c03205b83e348a0ca0ee0c243f5418989defd261734087d13a490"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/031/参考音频/音频1_041_张咪_Edge_v001.mp3",
+      "bytes": 17424,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "be8a75d5ef7c03205b83e348a0ca0ee0c243f5418989defd261734087d13a490"
+    },
+    {
+      "path": "剧集/EP001/制作成果/即梦提交包/037/参考音频/音频1_065_刘咪_Edge_v001.mp3",
+      "bytes": 15984,
+      "reason": "retired_edge_voice_or_old_dialogue_compilation",
+      "sha256": "e977e976035c9db209f7f13f8fca4fb74b5b726acad218104cd43c44f55a1bf9"
+    },
+    {
+      "path": "输入/参考图/排除/张飞持矛_版本不符_勿作1994参考.jpg",
+      "bytes": 68982,
+      "reason": "explicitly_excluded_wrong_adaptation_reference",
+      "sha256": "91479656eb6d1b99f5f912dcf117b07588175c63956513804d251ba57dcd9735"
+    }
+  ],
+  "protected_current_source_images": [
+    "剧集/EP001/制作成果/images/人物/买肉客咪_猫脸卡通角色板_v001.png",
+    "剧集/EP001/制作成果/images/人物/关咪_卸右袋双爪承托接触_v003.png",
+    "剧集/EP001/制作成果/images/人物/关咪_双爪托盘接触近景_v001.png",
+    "剧集/EP001/制作成果/images/人物/关咪_提肉与入篮接触双状态_v001.png",
+    "剧集/EP001/制作成果/images/人物/关咪_车左取放枪接触_v005.png",
+    "剧集/EP001/制作成果/images/人物/刘咪_双腰套与持双枪接触_v001.png",
+    "剧集/EP001/制作成果/images/人物/张咪_背枪与持枪接触双状态_v001.png",
+    "剧集/EP001/制作成果/images/人物/肉摊伙计_猫脸卡通角色板_v001.png",
+    "剧集/EP001/制作成果/images/人物/集市群众_四咪角色板_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-001_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-002_v004.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-003_v004.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-004_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-005_v002.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-006_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-007_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-008_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-009_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-010_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-011_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-012_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-013_v003.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-014_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-015_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-016_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-017_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-018_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-019_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-020_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-021_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-022_v003.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-023_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-024_v002.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v006.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-026_v002.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-027_v003.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-028_v004.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-029_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-030_v002.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-031_v003.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-032_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-033_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-034_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-035_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-036_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-037_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-038_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-039_v002.png",
+    "剧集/EP001/制作成果/images/场景/关咪_停车摆摊组合图_v004.png",
+    "剧集/EP001/制作成果/images/场景/涿郡集市_入口全景空场_v002.png",
+    "剧集/EP001/制作成果/images/载具/关咪_骑车组合图_v003.png",
+    "剧集/EP001/制作成果/images/载具/关咪自行车_挂枪道具板_v003.png",
+    "剧集/EP001/制作成果/images/载具/关咪自行车_空挂架松带状态_v002.png",
+    "剧集/EP001/制作成果/images/道具/买肉篮_空篮与装肉状态道具板_v001.png",
+    "剧集/EP001/制作成果/images/道具/井口磨盘与石台_双状态参考_v001.png",
+    "剧集/EP001/制作成果/images/道具/猪肉_浅井井沿与入篮状态_v001.png"
+  ],
+  "kept_source_images": [
+    "剧集/EP001/制作成果/images/人物/买肉客咪_猫脸卡通角色板_v001.png",
+    "剧集/EP001/制作成果/images/人物/买肉客咪_空篮与装肉拎篮组合_v001.png",
+    "剧集/EP001/制作成果/images/人物/关咪_卸右袋双爪承托接触_v003.png",
+    "剧集/EP001/制作成果/images/人物/关咪_双爪托盘接触近景_v001.png",
+    "剧集/EP001/制作成果/images/人物/关咪_抓盘与举盘组合_v001.png",
+    "剧集/EP001/制作成果/images/人物/关咪_提肉与入篮接触双状态_v001.png",
+    "剧集/EP001/制作成果/images/人物/关咪_猫脸卡通角色板_v001.png",
+    "剧集/EP001/制作成果/images/人物/关咪_车左取放枪接触_v005.png",
+    "剧集/EP001/制作成果/images/人物/刘关张_猫脸卡通同框_v002.png",
+    "剧集/EP001/制作成果/images/人物/刘咪_双腰套与持双枪接触_v001.png",
+    "剧集/EP001/制作成果/images/人物/刘咪_猫脸卡通角色板_v001.png",
+    "剧集/EP001/制作成果/images/人物/张咪_猫脸卡通角色板_v001.png",
+    "剧集/EP001/制作成果/images/人物/张咪_背枪与持枪接触双状态_v001.png",
+    "剧集/EP001/制作成果/images/人物/肉摊伙计_猫脸卡通角色板_v001.png",
+    "剧集/EP001/制作成果/images/人物/集市群众_四咪角色板_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-001_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-002_v004.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-003_v004.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-004_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-005_v002.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-006_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-007_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-008_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-009_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-010_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-011_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-012_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-013_v003.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-014_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-015_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-016_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-017_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-018_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-019_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-020_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-021_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-022_v003.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-023_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-024_v002.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v006.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-026_v002.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-027_v003.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-028_v004.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-029_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-030_v002.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-031_v003.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-032_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-033_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-034_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-035_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-036_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-037_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-038_v001.png",
+    "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-039_v002.png",
+    "剧集/EP001/制作成果/images/场景/关咪_停车摆摊组合图_v004.png",
+    "剧集/EP001/制作成果/images/场景/涿郡集市_入口全景空场_v002.png",
+    "剧集/EP001/制作成果/images/武器/关咪枪械_卡通道具板_v001.png",
+    "剧集/EP001/制作成果/images/武器/刘咪双枪_卡通道具板_v001.png",
+    "剧集/EP001/制作成果/images/武器/张咪枪械_卡通道具板_v001.png",
+    "剧集/EP001/制作成果/images/载具/关咪_骑车组合图_v003.png",
+    "剧集/EP001/制作成果/images/载具/关咪自行车_挂枪道具板_v003.png",
+    "剧集/EP001/制作成果/images/载具/关咪自行车_空挂架松带状态_v002.png",
+    "剧集/EP001/制作成果/images/道具/买肉篮_空篮与装肉状态道具板_v001.png",
+    "剧集/EP001/制作成果/images/道具/井口磨盘与石台_双状态参考_v001.png",
+    "剧集/EP001/制作成果/images/道具/猪肉_浅井井沿与入篮状态_v001.png"
+  ],
+  "preserved": "public masters, active current references, video outputs and actual tail frames",
+  "deleted_count": 77,
+  "deleted_bytes": 99625499.0,
+  "reason": "User explicitly requested retry; native PowerShell deletion succeeded after current-input and hash validation.",
+  "previous_execution_status": "blocked_by_execution_policy_no_files_deleted",
+  "retry_user_request": "继续尝试删除",
+  "deleted_media_counts": {
+    "image": 43,
+    "audio": 34
+  }
+}

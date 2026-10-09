@@ -1,0 +1,98 @@
+{
+  "kind": "local_derived_audition",
+  "output": "剧集/EP001/制作成果/audio/配音/试听/EP001_全集对白串听_v001.wav",
+  "duration_seconds": 38.18,
+  "sha256": "3a75e13afcf129fde9734991d60de5b99aae1ac61b9724224047b19bf407c0b8",
+  "clips": [
+    {
+      "shot": "007",
+      "role": "买肉客咪",
+      "start_seconds": 0,
+      "end_seconds": 2.112,
+      "source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-007_买肉客咪_Edge_v001.mp3",
+      "source_sha256": "1ac3b9815535f0a4e20881a72cf027afb846c275fc1325e8d86ec702c256bfbe"
+    },
+    {
+      "shot": "008",
+      "role": "肉摊伙计",
+      "start_seconds": 2.462,
+      "end_seconds": 8.078,
+      "source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-008_肉摊伙计_Edge_v001.mp3",
+      "source_sha256": "070d1bd781ef281a3a21e57fa26677b78bb632c0fa5ab5e0d5edf89685885483"
+    },
+    {
+      "shot": "013",
+      "role": "关咪",
+      "start_seconds": 8.428,
+      "end_seconds": 10.468,
+      "source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-013_关咪_Edge_v001.mp3",
+      "source_sha256": "b5a496c5eb3ab81b92088737325778dc93ed7e1dd427816cb9c21c8d4b1b57f1"
+    },
+    {
+      "shot": "016",
+      "role": "肉摊伙计",
+      "start_seconds": 10.818,
+      "end_seconds": 13.218,
+      "source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-016_肉摊伙计_Edge_v001.mp3",
+      "source_sha256": "c38c159cb799d4cab31563bc2cc45d0b6a6e71615a9cd2b540f8871052593c82"
+    },
+    {
+      "shot": "018",
+      "role": "张咪",
+      "start_seconds": 13.568,
+      "end_seconds": 16.472,
+      "source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-018_张咪_Edge_v001.mp3",
+      "source_sha256": "be8a75d5ef7c03205b83e348a0ca0ee0c243f5418989defd261734087d13a490"
+    },
+    {
+      "shot": "019",
+      "role": "关咪",
+      "start_seconds": 16.822,
+      "end_seconds": 19.63,
+      "source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-019_关咪_Edge_v001.mp3",
+      "source_sha256": "8ab5e5ae6a78b5f6e3207c86accf184f71919642e2f86bf0150d20bc874bcc51"
+    },
+    {
+      "shot": "020",
+      "role": "张咪",
+      "start_seconds": 19.98,
+      "end_seconds": 22.932,
+      "source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-020_张咪_Edge_v001.mp3",
+      "source_sha256": "f67960c6ae8a47f6d763c41582d738e1edec0ea9a6ca395d661cc5d0b4aa0244"
+    },
+    {
+      "shot": "021",
+      "role": "关咪",
+      "start_seconds": 23.282,
+      "end_seconds": 28.034,
+      "source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-021_关咪_Edge_v001.mp3",
+      "source_sha256": "e203d8f6da59cefb0ae126c0c490b1dd9c7b914116394f2183b7a075200d79a8"
+    },
+    {
+      "shot": "022",
+      "role": "张咪",
+      "start_seconds": 28.384,
+      "end_seconds": 31.528,
+      "source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-022_张咪_Edge_v001.mp3",
+      "source_sha256": "42b8701ab85365f81ebca464014d1f283b6c7822f56d4b5384907891b8ed3ca9"
+    },
+    {
+      "shot": "031",
+      "role": "张咪",
+      "start_seconds": 31.878,
+      "end_seconds": 35.166,
+      "source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Edge_v001.mp3",
+      "source_sha256": "c0fff90a26ef2044e48709e439363353910f116033680ee0af85d123b793c882"
+    },
+    {
+      "shot": "037",
+      "role": "刘咪",
+      "start_seconds": 35.516,
+      "end_seconds": 38.18,
+      "source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-037_刘咪_Edge_v001.mp3",
+      "source_sha256": "e977e976035c9db209f7f13f8fca4fb74b5b726acad218104cd43c44f55a1bf9"
+    }
+  ],
+  "operation": "按镜序完整解码串联原对白，每句之间新增0.35秒空白；不加角色介绍、环境或音乐；不是成片音轨",
+  "quality_verdict": "not_assessed"
+}

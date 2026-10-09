@@ -1,0 +1,361 @@
+{
+  "status": "burned_in_v004_sampled_visual_review_passed",
+  "source_video": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+  "source_sha256": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
+  "timeline_seconds": 123.91666666666667,
+  "script_dialogue_count": 11,
+  "caption_piece_count": 21,
+  "cues": [
+    {
+      "shot": "SHOT-EP001-007",
+      "role": "买肉客咪",
+      "text": "有肉，怎么不卖？",
+      "start_seconds": 16.52,
+      "end_seconds": 18.4,
+      "source_segment": "SEG001",
+      "source_interval": [
+        16.52,
+        18.4
+      ],
+      "cut": "CUT-EP001-001",
+      "timing_basis": "现有同源ASR发声窗口，文字取剧本"
+    },
+    {
+      "shot": "SHOT-EP001-008",
+      "role": "肉摊伙计",
+      "text": "肉在井里。",
+      "start_seconds": 19.28,
+      "end_seconds": 20.48,
+      "source_segment": "SEG001",
+      "source_interval": [
+        19.28,
+        20.48
+      ],
+      "cut": "CUT-EP001-001",
+      "timing_basis": "同源ASR分句及字时标，文字取剧本"
+    },
+    {
+      "shot": "SHOT-EP001-008",
+      "role": "肉摊伙计",
+      "text": "掌柜说了，",
+      "start_seconds": 21.02,
+      "end_seconds": 22.16,
+      "source_segment": "SEG001",
+      "source_interval": [
+        21.02,
+        22.16
+      ],
+      "cut": "CUT-EP001-001",
+      "timing_basis": "同源ASR分句及字时标，文字取剧本"
+    },
+    {
+      "shot": "SHOT-EP001-008",
+      "role": "肉摊伙计",
+      "text": "谁搬得开，",
+      "start_seconds": 22.16,
+      "end_seconds": 23.46,
+      "source_segment": "SEG001",
+      "source_interval": [
+        22.16,
+        23.46
+      ],
+      "cut": "CUT-EP001-001",
+      "timing_basis": "同源ASR分句及字时标，文字取剧本"
+    },
+    {
+      "shot": "SHOT-EP001-008",
+      "role": "肉摊伙计",
+      "text": "就让谁取。",
+      "start_seconds": 23.46,
+      "end_seconds": 24.66,
+      "source_segment": "SEG001",
+      "source_interval": [
+        23.46,
+        24.66
+      ],
+      "cut": "CUT-EP001-001",
+      "timing_basis": "同源ASR分句及字时标，文字取剧本"
+    },
+    {
+      "shot": "SHOT-EP001-013",
+      "role": "关咪",
+      "text": "按你掌柜的话办。",
+      "start_seconds": 36.38333333333333,
+      "end_seconds": 38.00333333333333,
+      "source_segment": "SEG002",
+      "source_interval": [
+        11.3,
+        12.92
+      ],
+      "cut": "CUT-EP001-002",
+      "timing_basis": "同源ASR11.38—12.82秒，前后保留短阅读边界，文字取剧本"
+    },
+    {
+      "shot": "SHOT-EP001-016",
+      "role": "肉摊伙计",
+      "text": "掌柜，就是他。",
+      "start_seconds": 43.760000000000005,
+      "end_seconds": 45.14,
+      "source_segment": "SEG002",
+      "source_interval": [
+        20.76,
+        22.14
+      ],
+      "cut": "CUT-EP001-006",
+      "timing_basis": "同源ASR发声窗口，按实际CUT006映射"
+    },
+    {
+      "shot": "SHOT-EP001-018",
+      "role": "张咪",
+      "text": "你卖的是豆，",
+      "start_seconds": 50.083333333333336,
+      "end_seconds": 52.00333333333334,
+      "source_segment": "SEG003",
+      "source_interval": [
+        0,
+        1.92
+      ],
+      "cut": "CUT-EP001-003",
+      "timing_basis": "同源ASR分句窗口，文字按剧本纠正识别误字"
+    },
+    {
+      "shot": "SHOT-EP001-018",
+      "role": "张咪",
+      "text": "还是粉？",
+      "start_seconds": 52.00333333333334,
+      "end_seconds": 53.623333333333335,
+      "source_segment": "SEG003",
+      "source_interval": [
+        1.92,
+        3.54
+      ],
+      "cut": "CUT-EP001-003",
+      "timing_basis": "同源ASR分句窗口，文字按剧本纠正识别误字"
+    },
+    {
+      "shot": "SHOT-EP001-019",
+      "role": "关咪",
+      "text": "你捏碎我的豆，",
+      "start_seconds": 54.803333333333335,
+      "end_seconds": 56.403333333333336,
+      "source_segment": "SEG003",
+      "source_interval": [
+        4.72,
+        6.32
+      ],
+      "cut": "CUT-EP001-003",
+      "timing_basis": "同源ASR分句窗口，文字按剧本纠正识别误字"
+    },
+    {
+      "shot": "SHOT-EP001-019",
+      "role": "关咪",
+      "text": "还问我？",
+      "start_seconds": 56.403333333333336,
+      "end_seconds": 57.763333333333335,
+      "source_segment": "SEG003",
+      "source_interval": [
+        6.32,
+        7.68
+      ],
+      "cut": "CUT-EP001-003",
+      "timing_basis": "同源ASR分句窗口，文字按剧本纠正识别误字"
+    },
+    {
+      "shot": "SHOT-EP001-020",
+      "role": "张咪",
+      "text": "你分了我的肉，",
+      "start_seconds": 57.763333333333335,
+      "end_seconds": 59.943333333333335,
+      "source_segment": "SEG003",
+      "source_interval": [
+        7.68,
+        9.86
+      ],
+      "cut": "CUT-EP001-003",
+      "timing_basis": "同源ASR分句窗口，文字按剧本纠正识别误字"
+    },
+    {
+      "shot": "SHOT-EP001-020",
+      "role": "张咪",
+      "text": "又怎么说？",
+      "start_seconds": 59.943333333333335,
+      "end_seconds": 62.083333333333336,
+      "source_segment": "SEG003",
+      "source_interval": [
+        9.86,
+        12
+      ],
+      "cut": "CUT-EP001-003",
+      "timing_basis": "同源ASR分句窗口，文字按剧本纠正识别误字"
+    },
+    {
+      "shot": "SHOT-EP001-021",
+      "role": "关咪",
+      "text": "磨盘是我搬的。",
+      "start_seconds": 62.723333333333336,
+      "end_seconds": 64.54333333333334,
+      "source_segment": "SEG003",
+      "source_interval": [
+        12.64,
+        14.46
+      ],
+      "cut": "CUT-EP001-003",
+      "timing_basis": "同源ASR分句窗口，文字按剧本纠正识别误字"
+    },
+    {
+      "shot": "SHOT-EP001-021",
+      "role": "关咪",
+      "text": "你自己定的规矩，",
+      "start_seconds": 64.54333333333334,
+      "end_seconds": 66.64333333333333,
+      "source_segment": "SEG003",
+      "source_interval": [
+        14.46,
+        16.56
+      ],
+      "cut": "CUT-EP001-003",
+      "timing_basis": "同源ASR分句窗口，文字按剧本纠正识别误字"
+    },
+    {
+      "shot": "SHOT-EP001-021",
+      "role": "关咪",
+      "text": "认不认？",
+      "start_seconds": 66.64333333333333,
+      "end_seconds": 67.84333333333333,
+      "source_segment": "SEG003",
+      "source_interval": [
+        16.56,
+        17.76
+      ],
+      "cut": "CUT-EP001-003",
+      "timing_basis": "同源ASR分句窗口，文字按剧本纠正识别误字"
+    },
+    {
+      "shot": "SHOT-EP001-022",
+      "role": "张咪",
+      "text": "先让我看看，",
+      "start_seconds": 68.80333333333334,
+      "end_seconds": 70.42333333333333,
+      "source_segment": "SEG003",
+      "source_interval": [
+        18.72,
+        20.34
+      ],
+      "cut": "CUT-EP001-003",
+      "timing_basis": "同源ASR分句窗口，文字按剧本纠正识别误字"
+    },
+    {
+      "shot": "SHOT-EP001-022",
+      "role": "张咪",
+      "text": "你有多大本事！",
+      "start_seconds": 70.42333333333333,
+      "end_seconds": 72.76333333333334,
+      "source_segment": "SEG003",
+      "source_interval": [
+        20.34,
+        22.68
+      ],
+      "cut": "CUT-EP001-003",
+      "timing_basis": "同源ASR分句窗口，文字按剧本纠正识别误字"
+    },
+    {
+      "shot": "SHOT-EP001-031",
+      "role": "张咪",
+      "text": "没必要用枪，",
+      "start_seconds": 96.13000000000034,
+      "end_seconds": 97.21000000000035,
+      "source_segment": "SEG004",
+      "source_interval": [
+        24.38,
+        25.46
+      ],
+      "cut": "CUT-EP001-010",
+      "timing_basis": "实际v002配音活动区0.36—1.28秒，按trim/atempo/24.32秒插入点换算"
+    },
+    {
+      "shot": "SHOT-EP001-031",
+      "role": "张咪",
+      "text": "也照样分个高下！",
+      "start_seconds": 97.39000000000034,
+      "end_seconds": 98.71000000000035,
+      "source_segment": "SEG004",
+      "source_interval": [
+        25.64,
+        26.96
+      ],
+      "cut": "CUT-EP001-010",
+      "timing_basis": "实际v002配音活动区1.48—2.60秒，按trim/atempo/24.32秒插入点换算"
+    },
+    {
+      "shot": "SHOT-EP001-037",
+      "role": "刘咪",
+      "text": "二位壮咪，住爪。",
+      "start_seconds": 116.33333333333334,
+      "end_seconds": 118.21333333333334,
+      "source_segment": "SEG005",
+      "source_interval": [
+        17.5,
+        19.38
+      ],
+      "cut": "CUT-EP001-005",
+      "timing_basis": "用户已接受的刘咪单句替换记录，不使用旧错误ASR住拳识别"
+    }
+  ],
+  "name_cards": [
+    {
+      "name": "关咪",
+      "start_seconds": 0,
+      "end_seconds": 2,
+      "x": 320,
+      "y": 190,
+      "source_shot": "SHOT-EP001-001"
+    },
+    {
+      "name": "刘咪",
+      "start_seconds": 11,
+      "end_seconds": 13,
+      "x": 370,
+      "y": 215,
+      "source_shot": "SHOT-EP001-005"
+    },
+    {
+      "name": "肉摊伙计",
+      "start_seconds": 14,
+      "end_seconds": 16,
+      "x": 100,
+      "y": 220,
+      "source_shot": "SHOT-EP001-006"
+    },
+    {
+      "name": "买肉客咪",
+      "start_seconds": 14,
+      "end_seconds": 16,
+      "x": 340,
+      "y": 360,
+      "source_shot": "SHOT-EP001-006"
+    },
+    {
+      "name": "张咪",
+      "start_seconds": 44.0,
+      "end_seconds": 46.0,
+      "x": 70,
+      "y": 240,
+      "source_shot": "SHOT-EP001-016",
+      "source_time": 21.0
+    }
+  ],
+  "caption_font": "Microsoft YaHei",
+  "caption_font_pixels": 34,
+  "caption_width_limit": 400,
+  "name_card_font_pixels": 26,
+  "subtitle_anchor": [
+    240,
+    650
+  ],
+  "timing_note": "既有同源发声与替换配音活动区对齐；字幕文字只取剧本，不以ASR错字改稿。精确音节/口型非独立人工验收。",
+  "music_added": false,
+  "orange_streaks_retained": true,
+  "output_video": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_字幕名字卡_v004.mp4",
+  "output_sha256": "e306a67ca3057b1b633bb92f828dc4c28cc46d305001a275022b658ecaace2ae",
+  "creator_accepted": false
+}

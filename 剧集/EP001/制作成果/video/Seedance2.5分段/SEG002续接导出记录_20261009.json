@@ -1,0 +1,19 @@
+{
+  "source": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG002_v001.mp4",
+  "source_sha256": "34096608607e88008f32e8dd12839ce988aeee4dab55862ee1b32b221a9e8be2",
+  "tail": "剧集/EP001/制作成果/video/Seedance2.5分段/尾帧/SEG002_尾帧.png",
+  "tail_sha256": "2249b3796b2c917635301bd3f5a84b9032f50d29ed873d058a641323f766863a",
+  "tail_dimensions": [
+    480,
+    854
+  ],
+  "tail_last_decoded_frame_verified": true,
+  "silent_video": "剧集/EP001/制作成果/video/Seedance2.5分段/续接参考_无原声/SEG002_续接无原声_v001.mp4",
+  "silent_sha256": "4cc1812e09d39614022889d29151ee1b76638d997d570afe819ba6cf3cb39110",
+  "no_audio_stream_verified": true,
+  "video_packet_hash": "SHA256=b378baff527a1b4d35e2949269421e7a0c1eb8a9f58a422bc2b214abbe52bc76",
+  "video_packets_identical": true,
+  "next_segment": "SEG003",
+  "visual_observation": "粉堆在原袋内，余豆围绕；张咪黑爪在袋上方，关咪两爪在右侧袋沿，未拔枪。",
+  "original_unchanged": true
+}

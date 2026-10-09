@@ -1,0 +1,50 @@
+{
+  "artifacts": {
+    "AR-PROFILE-SEEDANCE20-20261008": {
+      "acceptance": {
+        "at": "2026-10-08T08:23:29.618746Z",
+        "decision": "accepted",
+        "note": "用户明确选择即梦seedance 2.0；仅登记模型，未提交视频生成。",
+        "outputs": {
+          "创作者决策/production-profile.jsonl": "c110b1f0c26873bf2d9f0663cb5ef6fa894089ba8d5546c4a4651c305a4dab3a"
+        }
+      },
+      "inputs": {},
+      "outputs": [
+        "创作者决策/production-profile.jsonl"
+      ],
+      "owner": "short-drama",
+      "review": null,
+      "updated_at": "2026-10-08T08:23:29.618746Z"
+    },
+    "AR-PROFILE-SEEDANCE25-SEGMENTS-20261009": {
+      "acceptance": {
+        "at": "2026-10-09T03:32:09.838161Z",
+        "decision": "accepted",
+        "note": "用户明确选择从001起按20—30秒分段，沿用当前会话Seedance2.5模型选择。",
+        "outputs": {
+          "创作者决策/Seedance2.5_分段制作_20261009.jsonl": "515a4bb1d39bc07b46fed090316a9e22368fb9273bafebd61bcf1f45f422e558"
+        }
+      },
+      "inputs": {},
+      "outputs": [
+        "创作者决策/Seedance2.5_分段制作_20261009.jsonl"
+      ],
+      "owner": "short-drama",
+      "review": null,
+      "updated_at": "2026-10-09T03:32:09.838161Z"
+    }
+  },
+  "authority": {
+    "/creator_authority/production_profile/choices": {
+      "decision": "创作者决策/Seedance2.5_分段制作_20261009.jsonl#CD-SEEDANCE25-SEGMENTS-20261009",
+      "set_at": "2026-10-09T03:33:41.166647Z",
+      "value_sha256": "ed5b6ab11e35df33c521fb79de90e1a888895b929b13b20f617a5ef3a64e8482"
+    }
+  },
+  "last_action": "authority_set",
+  "project_id": "SD-0DEF2D874139",
+  "project_layout_mode": "canonical",
+  "schema_version": "2.0",
+  "updated_at": "2026-10-09T03:33:41.166647Z"
+}

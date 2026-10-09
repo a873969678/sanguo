@@ -1,0 +1,143 @@
+{
+  "status": "planned_not_video_synced",
+  "intended_timeline_seconds": 125,
+  "dialogue_count": 11,
+  "cue_count": 16,
+  "source_text": "剧集/EP001/剧本.md",
+  "timing_source": "原分镜剪辑时间段与Edge门限人声窗口；长句按字数分配，需实际视频重新对齐",
+  "output": "剧集/EP001/制作成果/subtitles/EP001_对白字幕_125秒计划_v001.srt",
+  "cues": [
+    {
+      "index": 1,
+      "shot": "007",
+      "role": "买肉客咪",
+      "start_seconds": 15.7,
+      "end_seconds": 17.18,
+      "text": "有肉，怎么不卖？"
+    },
+    {
+      "index": 2,
+      "shot": "008",
+      "role": "肉摊伙计",
+      "start_seconds": 18.7,
+      "end_seconds": 19.865,
+      "text": "肉在井里。"
+    },
+    {
+      "index": 3,
+      "shot": "008",
+      "role": "肉摊伙计",
+      "start_seconds": 19.865,
+      "end_seconds": 21.03,
+      "text": "掌柜说了，"
+    },
+    {
+      "index": 4,
+      "shot": "008",
+      "role": "肉摊伙计",
+      "start_seconds": 21.03,
+      "end_seconds": 22.195,
+      "text": "谁搬得开，"
+    },
+    {
+      "index": 5,
+      "shot": "008",
+      "role": "肉摊伙计",
+      "start_seconds": 22.195,
+      "end_seconds": 23.36,
+      "text": "就让谁取。"
+    },
+    {
+      "index": 6,
+      "shot": "013",
+      "role": "关咪",
+      "start_seconds": 35.2,
+      "end_seconds": 36.49,
+      "text": "按你掌柜的话办。"
+    },
+    {
+      "index": 7,
+      "shot": "016",
+      "role": "肉摊伙计",
+      "start_seconds": 45.2,
+      "end_seconds": 46.66,
+      "text": "掌柜，就是他。"
+    },
+    {
+      "index": 8,
+      "shot": "018",
+      "role": "张咪",
+      "start_seconds": 51.7,
+      "end_seconds": 53.7,
+      "text": "你卖的是豆，还是粉？"
+    },
+    {
+      "index": 9,
+      "shot": "019",
+      "role": "关咪",
+      "start_seconds": 55.2,
+      "end_seconds": 57.22,
+      "text": "你捏碎我的豆，还问我？"
+    },
+    {
+      "index": 10,
+      "shot": "020",
+      "role": "张咪",
+      "start_seconds": 59.2,
+      "end_seconds": 61.27,
+      "text": "你分了我的肉，又怎么说？"
+    },
+    {
+      "index": 11,
+      "shot": "021",
+      "role": "关咪",
+      "start_seconds": 63.7,
+      "end_seconds": 65.181,
+      "text": "磨盘是我搬的。"
+    },
+    {
+      "index": 12,
+      "shot": "021",
+      "role": "关咪",
+      "start_seconds": 65.181,
+      "end_seconds": 66.909,
+      "text": "你自己定的规矩，"
+    },
+    {
+      "index": 13,
+      "shot": "021",
+      "role": "关咪",
+      "start_seconds": 66.909,
+      "end_seconds": 67.65,
+      "text": "认不认？"
+    },
+    {
+      "index": 14,
+      "shot": "022",
+      "role": "张咪",
+      "start_seconds": 70.4,
+      "end_seconds": 72.67,
+      "text": "先让我看看，你有多大本事！"
+    },
+    {
+      "index": 15,
+      "shot": "031",
+      "role": "张咪",
+      "start_seconds": 97.2,
+      "end_seconds": 99.59,
+      "text": "不用这个，也照样分个高下！"
+    },
+    {
+      "index": 16,
+      "shot": "037",
+      "role": "刘咪",
+      "start_seconds": 116.8,
+      "end_seconds": 118.34,
+      "text": "二位壮咪，住爪。"
+    }
+  ],
+  "font_default": "清晰粗体中文黑体，白字深色描边",
+  "placement": "画面下方居中，留出抖音底部界面区域；按实际成片避开猫脸、爪与持物接触",
+  "name_cards": "保留原首次出场名字卡；与对白字幕分层排布",
+  "video_rendered": false
+}

@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-09",
+  "user_choice": "续接参考视频无音轨；本段由即梦生成原句对白与短动作音效，正常原声保留",
+  "dialogue": "保留剧本既有对白与固定公共声线",
+  "action_effects": "保留原剧本和分镜已有的动作音效；与动作同步，不持续铺噪声",
+  "background": "取消持续集市底声，不添加滋啦、爆音、持续嗡声或无关人声/音乐",
+  "continuation": "上传上一段实际已采用视频的无音轨副本作为视频1，同时上传该视频真实尾帧。视频1只控制画面，不继承任何声音。",
+  "originals": "原始成片和正常原声保留；无音轨MP4单独另存，仅供下一段参考。",
+  "existing_media_repair": "001—005已重建原音轨，待用户回听；006采用用户已接受v003。",
+  "accepted_repair_method": "有声音污染的旧素材保留历史修复记录；当前优先使用经用户回听接受的即梦原生声音，按用户要求决定修复或重生成，不自动替换所有原声。",
+  "dialogue_rebuild": "对白镜使用现有固定Qwen声线与剧本原句，按实际口型对齐；不改词，不更换声线，不直接套用006无对白镜的时间点。",
+  "acceptance_boundary": "SEG001声音正常由用户确认；本次SEG002重生成由用户确认通过。其他段仍需生成和回听；旧006单镜v003接受记录继续保留。",
+  "final_soundtrack": "采用本段经用户回听确认的即梦原生对白与动作音效；字幕和首次出场名字卡后期叠加。",
+  "jimeng_silent_shots": "无对白镜仅生成分镜已有的短动作音效；无动作声义务的区间安静，不添加持续底声、音乐或新台词。",
+  "jimeng_dialogue_shots": "按剧本原句一次发声，匹配说话角色与口型；使用同一角色本段指定台词的干净音频参考，以约束已定声线。动作音效随画面接触点，不盖过对白。",
+  "generation_retry": "回听发现旧段声音串入时先检查视频1是否存在音轨和参考音频是否含旧段台词，再按用户选择修复或重生成。",
+  "current_video_workflow": "从001重新制作5个Seedance2.5段，每段20—30秒，共127秒。旧音效可复用素材，时间按新段实际画面重排，不直接沿用旧镜秒点。",
+  "current_segment_continuation": "所有段续接统一使用上一段实际已采用视频的去音轨副本及真实尾帧，原视频不覆盖。",
+  "current_segment_sound": "用户确认SEG002重生成通过；后续沿用即梦原生对白与既有短动作音效，逐段回听，不自动把未生成段标为声音通过。",
+  "segment_reference_audio": "参考音频取同一已定声线的本段原句，不使用旧段不同台词样音；短于2秒仅在尾部补静音至2.2秒。不播放样音作为背景，不循环或复述。",
+  "historical_superseded_policies": [
+    {
+      "date": "2026-10-09",
+      "scope": "旧镜声音重建与全量替换原声要求，现已由用户接受的即梦原生声音流程更新",
+      "values": {
+        "accepted_repair_method": "所有前序镜头与后续成片采用移除原音轨、按剧本独立重建对白与动作音效；不重复使用带电流声的混合原声。",
+        "final_soundtrack": "所有镜头的成片声音由独立干净素材重建，整段即梦原音轨移除。",
+        "jimeng_silent_shots": "请求全程安静，实际生成原声一律不用作成片。",
+        "jimeng_dialogue_shots": "保留已定原句、说话表演与独立音色参考，生成声音只作口型时间参考；成片换为现有Qwen对白并重新对齐。",
+        "generation_retry": "声音噪声单独不作为重新生成画面的理由；画面、动作或口型不可用仍需另行判断。"
+      }
+    }
+  ],
+  "current_revision": "native_audio_silent_video_reference_20261009",
+  "creator_confirmation": "这次可以了，按这个要求，写入公共要求配置，要求上一个视频要无声",
+  "video_reference_requirement": {
+    "audio_tracks": 0,
+    "source": "previous_actual_selected_video",
+    "video_codec": "copy",
+    "preserve_picture": true,
+    "companion": "actual_last_decoded_frame_of_same_source",
+    "validation": "使用ffmpeg/ffprobe确认没有音频流；静音音频轨、网页播放器静音及提示词要求无声都不能替代去音轨。"
+  },
+  "episode_action_overrides": {
+    "EP001": {
+      "source": "用户最新指定：空响只有拉栓声，没有真的开枪，可以对天开枪",
+      "shots": [
+        "SHOT-EP001-027",
+        "SHOT-EP001-028"
+      ],
+      "current_action": "张咪先、关咪后抬枪朝天空各真实开一枪，再放低枪互视",
+      "gunshot_events": 2,
+      "sync_requirements": [
+        "扣动一次扳机",
+        "一瞬卡通枪口闪光",
+        "一次轻微后坐",
+        "一声短促卡通枪声"
+      ],
+      "do_not_substitute": "拉栓声或机械空扣声不能代替开枪；只加枪声也不能证明可见射击。",
+      "remaining_ammunition": "未设定",
+      "dialogue_changed": true,
+      "background_policy": "背景安静，无音乐或持续底噪；上一段参考视频仍须无音轨。",
+      "media_status": "当前原片及PATCH001仍是旧动作，新画面未生成或套剪。",
+      "dialogue_replacements": [
+        {
+          "shot": "SHOT-EP001-031",
+          "role": "张咪",
+          "text": "没必要用枪，也照样分个高下！",
+          "voice_identity_unchanged": true,
+          "new_audio_generated": true,
+          "new_audio": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v002.wav",
+          "status": "single_dialogue_replaced_candidate_listening_pending"
+        }
+      ],
+      "dialogue_replacement_status": "031_new_audio_generated_segment_candidate_replaced_not_final_master",
+      "dialogue_replacement_record": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_031对白替换记录_v003.json"
+    }
+  },
+  "postproduction_music": {
+    "placement": "后期独立音乐轨，不向Seedance素材或续接参考写入配乐",
+    "current_ep001_style": "用户已采用古风轻喜剧纯器乐，琵琶/古筝/竹笛/轻打击乐",
+    "dialogue_ducking": "按实际12句发声压低音乐，新增开袋吆喝也必须让位",
+    "priority_events": "两次朝天枪声与刘咪住爪时音乐退出，磨盘落台声前降低",
+    "acceptance": "按用户明确授权生成和混音；技术成功与完整回听接受分开记录，不因生成文件自动标为创作者接受。",
+    "EP001_current_mix": "剧集/EP001/制作成果/audio/配乐/EP001_完整配乐混音记录_v001.json"
+  }
+}

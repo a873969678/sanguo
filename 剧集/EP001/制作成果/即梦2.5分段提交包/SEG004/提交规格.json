@@ -1,0 +1,528 @@
+{
+  "source_entry": "MOTION-EP001-SEG004",
+  "segment_id": "SEG004",
+  "name": "拔枪、朝天开枪与收枪",
+  "model": "即梦 Seedance 2.5",
+  "task_type": "reference",
+  "duration_seconds": 27,
+  "aspect_ratio": "9:16",
+  "resolution": "480P",
+  "global_plan_in": 75,
+  "global_plan_out": 102,
+  "members": [
+    {
+      "shot": "SHOT-EP001-023",
+      "source_scene": "EP001-SC003",
+      "name": "张咪先取背枪",
+      "start_seconds": 0,
+      "end_seconds": 3,
+      "duration_seconds": 3,
+      "composition_image_tag": "图片1",
+      "start_state": "张咪背着同一蛇形枪，右爪离摊；关咪仍在袋边。",
+      "end_state": "张咪持同一蛇形枪在街侧，背带留身上；关咪已到自行车左侧，两咪间约两个身位的空地，枪带未解，群众未逃。",
+      "action": "张咪双前爪接住并取下同一背枪，顺势向街侧退一步；同一关咪松开袋口沿摊侧走到车左，双爪空。关咪离开近侧后原位置为空，画面中只有一只关咪。"
+    },
+    {
+      "shot": "SHOT-EP001-024",
+      "source_scene": "EP001-SC003",
+      "name": "关咪取车枪并转向",
+      "start_seconds": 3,
+      "end_seconds": 8,
+      "duration_seconds": 5,
+      "composition_image_tag": "图片2",
+      "start_state": "关咪空爪在车左，枪仍挂托座、两带闭合；张咪持蛇形枪在街侧，与关咪间约两个身位。",
+      "end_state": "关张各持自己的枪相对；两咪之间留出约两个身位的空地，足以并排站下两只同体型猫咪；两枪口之间仍有清楚间隔，不碰到对方身体；空托座和松带留车，脚撑和双袋位置不变。",
+      "action": "关咪依次松开两带、双爪承托取出同一青龙枪，在车侧原位转向张咪；张咪留在街侧，两咪抬枪相对，不向对方贴近。"
+    },
+    {
+      "shot": "SHOT-EP001-025",
+      "source_scene": "EP001-SC003",
+      "name": "众咪两端退散",
+      "start_seconds": 8,
+      "end_seconds": 10,
+      "duration_seconds": 2,
+      "composition_image_tag": null,
+      "start_state": "关张隔约两个身位持枪相对，群众仍在街道；买肉客咪拎肉篮，伙计在豆摊侧。",
+      "end_state": "争斗区空出；客咪带肉篮入店、伙计退肉摊后；关张仍在原两端持枪，中间空地和两枪口间隔保留。",
+      "action": "群众向A/B两端散开；买肉客咪带肉篮进右侧店门，伙计退回井旁肉摊后。",
+      "composition_source": "由已绑定人物、枪型与集市地理参考及镜内起点组合，不上传旧近距离候选帧"
+    },
+    {
+      "shot": "SHOT-EP001-026",
+      "source_scene": "EP001-SC003",
+      "name": "刘咪移凳",
+      "start_seconds": 10,
+      "end_seconds": 13,
+      "duration_seconds": 3,
+      "composition_image_tag": "图片3",
+      "start_state": "刘咪站在草鞋摊后，双爪空，原唯一矮凳仍挡离摊路线，双枪收腰。",
+      "end_state": "刘咪在草鞋摊侧站立空爪，双枪仍收腰；同一凳已滑到摊侧空处，离摊路线清楚空出，草鞋未收。",
+      "action": "刘咪沿草鞋摊边向原矮凳迈半步，略俯身，双爪先接触凳面近侧边缘；持续推同一凳沿地面向摊侧空处滑动约半个凳面宽，凳脚不离地；凳停稳后松爪，在摊侧直起身。"
+    },
+    {
+      "shot": "SHOT-EP001-027",
+      "source_scene": "EP001-SC003",
+      "name": "先张后关朝天开枪",
+      "start_seconds": 13,
+      "end_seconds": 16,
+      "duration_seconds": 3,
+      "composition_image_tag": null,
+      "start_state": "街道已空，两咪隔约两个身位各持自己的枪，青龙枪已离车、蛇形枪已离背；枪尚未抬到天空。",
+      "end_state": "两咪各完成一次朝天开枪，仍分开双爪持各自枪，枪口朝上；不设定余弹数量，不重复开枪或装填。",
+      "action": "张咪先将同一蛇形枪抬向头顶上方天空，枪口向上约80—90度，扣下一次扳机，短促枪口闪光、轻微后坐与一声卡通枪声同步；关咪随后把同一青龙偃月枪抬向天空，同样开一枪。两咪脚下站定、不逼近，开枪时均不朝对方。",
+      "composition_source": "由已绑定人物、枪型与集市地理参考及镜内起点组合，不上传旧近距离候选帧"
+    },
+    {
+      "shot": "SHOT-EP001-028",
+      "source_scene": "EP001-SC003",
+      "name": "放低枪口互视",
+      "start_seconds": 16,
+      "end_seconds": 17,
+      "duration_seconds": 1,
+      "composition_image_tag": null,
+      "start_state": "张咪、关咪已先后各朝天空开一枪，枪口仍朝上，身体之间保留約两个身位空地。",
+      "end_state": "两咪仍各双爪承托同一枪并不服气互视；张咪尚未背枪、关咪尚未挂车枪。",
+      "action": "两咪各把朝上的枪放低至胸前承托位置，枪口偏向各自外侧上方，不重新对着对方；抬眼互视，脚下距离不变。",
+      "composition_source": "由已绑定人物、枪型与集市地理参考及镜内起点组合，不上传旧近距离候选帧"
+    },
+    {
+      "shot": "SHOT-EP001-029",
+      "source_scene": "EP001-SC003",
+      "name": "张咪背回同一枪",
+      "start_seconds": 17,
+      "end_seconds": 20,
+      "duration_seconds": 3,
+      "composition_image_tag": "图片4",
+      "start_state": "张咪双爪持蛇形枪，背带仍在，关咪还手持青龙枪。",
+      "end_state": "张咪双爪空、枪背在肩后；关咪尚未挂枪。",
+      "action": "张咪将同一枪重新安置背带，确认承托后松开两爪。"
+    },
+    {
+      "shot": "SHOT-EP001-030",
+      "source_scene": "EP001-SC003",
+      "name": "关咪挂回车左枪",
+      "start_seconds": 20,
+      "end_seconds": 24,
+      "duration_seconds": 4,
+      "composition_image_tag": "图片5",
+      "start_state": "关咪双爪持青龙枪在车左；托座空、两带松开；张咪已背好枪。",
+      "end_state": "青龙枪固定车左、两带闭合；关咪空爪，车直立未动，右袋留摊面粉未清。",
+      "action": "关咪双爪把枪放回原两托座与原方向，保持承托依次扣好两带，再松爪。"
+    },
+    {
+      "shot": "SHOT-EP001-031",
+      "source_scene": "EP001-SC003",
+      "name": "不用枪也分高下",
+      "start_seconds": 24,
+      "end_seconds": 27,
+      "duration_seconds": 3,
+      "composition_image_tag": "图片6",
+      "start_state": "张咪枪已背，关咪已挂车枪，两咪双爪空；车在摊后。",
+      "end_state": "两咪在摊前街道相对，张咪背枪、关咪枪留车，双爪空且未挥拳。",
+      "action": "张咪从本切开头约0.10秒起，边向前一步边完整说原句；关咪从摊侧绕过摊沿迎上。两咪只有在各自枪已收妥后才缩短间距，最后空爪相对、未挥拳。",
+      "dialogue": "没必要用枪，也照样分个高下！",
+      "dialogue_status": "new_text_pending_same_identity_audio"
+    }
+  ],
+  "images": [
+    {
+      "tag": "图片1",
+      "source": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-023_v001.png",
+      "file": "SEG004/参考图片_重生成/图片01_SHOT-EP001-023_v001.png",
+      "sha256": "246bafa335b0609e03880534e6aba4147b0e98d37b6691aff8364f44f9b54538",
+      "role": "构图",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "只控制本镜切入时的构图和可见起点，不用候选图重置先前已经完成的动作或物件状态",
+      "must_not_control": [
+        "本镜后续动作",
+        "实际视频尾帧或候选自动定稿"
+      ]
+    },
+    {
+      "tag": "图片2",
+      "source": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-024_v002.png",
+      "file": "SEG004/参考图片_重生成/图片02_SHOT-EP001-024_v002.png",
+      "sha256": "38900d7c618b5758b24c1cbb82703fcb704f815affbc9617b0541722197ec098",
+      "role": "构图",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "取枪前关咪在车左的起点、两带闭合和车架结构；不控制取枪后的对峙间距",
+      "must_not_control": [
+        "本镜后续动作",
+        "实际视频尾帧或候选自动定稿",
+        "持枪对峙距离",
+        "把角色移到彼此身前"
+      ]
+    },
+    {
+      "tag": "图片3",
+      "source": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-026_v002.png",
+      "file": "SEG004/参考图片_重生成/图片03_SHOT-EP001-026_v002.png",
+      "sha256": "769074dc6821d2200503541403f1f283e16e68921fd595ef6478346d87126ef2",
+      "role": "构图",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "只控制本镜切入时的构图和可见起点，不用候选图重置先前已经完成的动作或物件状态",
+      "must_not_control": [
+        "本镜后续动作",
+        "实际视频尾帧或候选自动定稿"
+      ]
+    },
+    {
+      "tag": "图片4",
+      "source": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-029_v001.png",
+      "file": "SEG004/参考图片_重生成/图片04_SHOT-EP001-029_v001.png",
+      "sha256": "d08b648703d33159d5f9267edcfe5433e40f2b1ac4639fb1036f4b5888d5c5b1",
+      "role": "构图",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "只控制本镜切入时的构图和可见起点，不用候选图重置先前已经完成的动作或物件状态",
+      "must_not_control": [
+        "本镜后续动作",
+        "实际视频尾帧或候选自动定稿"
+      ]
+    },
+    {
+      "tag": "图片5",
+      "source": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-030_v002.png",
+      "file": "SEG004/参考图片_重生成/图片05_SHOT-EP001-030_v002.png",
+      "sha256": "d2010564b98ad162e87d10cb4a6b4578e3c21ce4cd23c8efbab9219077333197",
+      "role": "构图",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "只控制本镜切入时的构图和可见起点，不用候选图重置先前已经完成的动作或物件状态",
+      "must_not_control": [
+        "本镜后续动作",
+        "实际视频尾帧或候选自动定稿"
+      ]
+    },
+    {
+      "tag": "图片6",
+      "source": "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-031_v003.png",
+      "file": "SEG004/参考图片_重生成/图片06_SHOT-EP001-031_v003.png",
+      "sha256": "a1bdcb48ee9f16bb48a01ab4a99139beded48036f8ff7b52fdbe3e7588b9c921",
+      "role": "构图",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "只控制本镜切入时的构图和可见起点，不用候选图重置先前已经完成的动作或物件状态",
+      "must_not_control": [
+        "本镜后续动作",
+        "实际视频尾帧或候选自动定稿"
+      ]
+    },
+    {
+      "tag": "图片7",
+      "source": "公共素材/人物/关羽/关咪_猫脸卡通角色板_定稿.png",
+      "file": "SEG004/参考图片_重生成/图片07_关咪_猫脸卡通角色板_定稿.png",
+      "sha256": "68d246976106670e7fe01a9fda31042297f45522d0bb9853c93f34c8f23fb95c",
+      "role": "身份",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "棕虎斑缅因猫脸、长毛与大头短身",
+      "must_not_control": [
+        "原站姿",
+        "灰背景",
+        "增加背枪"
+      ]
+    },
+    {
+      "tag": "图片8",
+      "source": "公共素材/人物/张飞/张咪_猫脸卡通角色板_定稿.png",
+      "file": "SEG004/参考图片_重生成/图片08_张咪_猫脸卡通角色板_定稿.png",
+      "sha256": "ef9b79240eda4de6f6a9a4cca7b521b2db5c743334b940616ded50da088b1615",
+      "role": "身份",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "黑色英短猫脸与宽圆短身体型",
+      "must_not_control": [
+        "原站姿",
+        "灰背景",
+        "左右爪位覆盖本镜"
+      ]
+    },
+    {
+      "tag": "图片9",
+      "source": "公共素材/武器/张飞枪械/张咪枪械_卡通道具板_定稿.png",
+      "file": "SEG004/参考图片_重生成/图片09_张咪枪械_卡通道具板_定稿.png",
+      "sha256": "5ea868483a273c3381263997288546091b7707f8efee1e68da964b43bb0dba7e",
+      "role": "身份",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "同一蛇形卡通枪黑金轮廓",
+      "must_not_control": [
+        "原持枪姿势",
+        "换肩或增加第二支枪"
+      ]
+    },
+    {
+      "tag": "图片10",
+      "source": "公共素材/武器/关羽枪械/关咪枪械_卡通道具板_定稿.png",
+      "file": "SEG004/参考图片_重生成/图片10_关咪枪械_卡通道具板_定稿.png",
+      "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
+      "role": "身份",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "同一青龙偃月枪深绿金铜轮廓和纹饰",
+      "must_not_control": [
+        "独立板占画幅比例",
+        "放大枪",
+        "增加第二支枪"
+      ]
+    },
+    {
+      "tag": "图片11",
+      "source": "剧集/EP001/制作成果/images/载具/关咪自行车_挂枪道具板_v003.png",
+      "file": "SEG004/参考图片_重生成/图片11_关咪自行车_挂枪道具板_v003.png",
+      "sha256": "526004d33430ae63b5905238ec4aeb3ee4b0575e3a87ff9cf3ff29395d6b270c",
+      "role": "身份",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "炭黑低跨车、深棕座把和原车左挂架结构",
+      "must_not_control": [
+        "原车头方向",
+        "原多余固定带",
+        "双袋脚撑状态覆盖本镜"
+      ]
+    },
+    {
+      "tag": "图片12",
+      "source": "剧集/EP001/制作成果/images/人物/张咪_背枪与持枪接触双状态_v001.png",
+      "file": "SEG004/参考图片_重生成/图片12_张咪_背枪与持枪接触双状态_v001.png",
+      "sha256": "6156e4247b2c3f2523e73f7fe00eff493d9f86799986b0f1ca4eb81b385c4baa",
+      "role": "身份",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "短爪与同一背带枪体的可见接触尺度",
+      "must_not_control": [
+        "双格变双枪",
+        "右肩换左肩",
+        "覆盖本镜起点"
+      ]
+    },
+    {
+      "tag": "图片13",
+      "source": "剧集/EP001/制作成果/images/场景/涿郡集市_入口全景空场_v002.png",
+      "file": "SEG004/参考图片_重生成/图片13_涿郡集市_入口全景空场_v002.png",
+      "sha256": "29d0f4f30c72fe4f06c0d1d983f58b482c8b3f706b185fd43c0ae460e5e6261a",
+      "role": "地理",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "入口A朝出口B主街、三摊固定关系与光向",
+      "must_not_control": [
+        "无人状态",
+        "移盘后盖井",
+        "近景改全景"
+      ]
+    },
+    {
+      "tag": "图片14",
+      "source": "剧集/EP001/制作成果/images/人物/集市群众_四咪角色板_v001.png",
+      "file": "SEG004/参考图片_重生成/图片14_集市群众_四咪角色板_v001.png",
+      "sha256": "7aee6cec60853d3fc4dde32e3d63eaf1c862fb9a853acb405e5f1f8b0af17bee",
+      "role": "身份",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "黄狸灰狸白猫橘猫四只群众身份",
+      "must_not_control": [
+        "资产板并排站位",
+        "增加武器",
+        "逃散后返回"
+      ]
+    },
+    {
+      "tag": "图片15",
+      "source": "剧集/EP001/制作成果/images/人物/买肉客咪_猫脸卡通角色板_v001.png",
+      "file": "SEG004/参考图片_重生成/图片15_买肉客咪_猫脸卡通角色板_v001.png",
+      "sha256": "03751789925cd96c93c82d9e1edb4fe2a9d18bea3542ea087ff9de830f3b91ab",
+      "role": "身份",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "圆脸奶牛猫脸毛色和短身体型",
+      "must_not_control": [
+        "原站姿",
+        "篮内状态覆盖本镜",
+        "入店后返回"
+      ]
+    },
+    {
+      "tag": "图片16",
+      "source": "剧集/EP001/制作成果/images/人物/肉摊伙计_猫脸卡通角色板_v001.png",
+      "file": "SEG004/参考图片_重生成/图片16_肉摊伙计_猫脸卡通角色板_v001.png",
+      "sha256": "0c57eda7ac511636601df61a5f145bccc2bd276afb9c353ce07e54c902f61c46",
+      "role": "身份",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "瘦小三花田园猫脸和短身体型",
+      "must_not_control": [
+        "原站姿",
+        "增加武器",
+        "逃散后返回"
+      ]
+    },
+    {
+      "tag": "图片17",
+      "source": "公共素材/人物/刘备/刘咪_猫脸卡通角色板_定稿.png",
+      "file": "SEG004/参考图片_重生成/图片17_刘咪_猫脸卡通角色板_定稿.png",
+      "sha256": "6138d6b7e595d09fe861502b6282041b847bd17d7dacefd79bfc91df6d6b2531",
+      "role": "身份",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "橘白田园猫脸毛色与大头短身",
+      "must_not_control": [
+        "原站姿",
+        "灰背景",
+        "提前拔枪"
+      ]
+    },
+    {
+      "tag": "图片18",
+      "source": "公共素材/武器/刘备双枪/刘咪双枪_卡通道具板_定稿.png",
+      "file": "SEG004/参考图片_重生成/图片18_刘咪双枪_卡通道具板_定稿.png",
+      "sha256": "e722470c536504e4db19c61643937342030134f8826c6eb08aa9e58eb48a2401",
+      "role": "身份",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "同款双股剑元素黑金双枪造型",
+      "must_not_control": [
+        "原持枪姿势",
+        "增加第三把枪",
+        "弹药状态"
+      ]
+    },
+    {
+      "tag": "图片19",
+      "source": "剧集/EP001/制作成果/images/载具/关咪自行车_空挂架松带状态_v002.png",
+      "file": "SEG004/参考图片_重生成/图片19_关咪自行车_空挂架松带状态_v002.png",
+      "sha256": "2109f3f8b6b999869b0ba249ce19cd698f60e55876ad15711d73150203ea439f",
+      "role": "身份",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "车左原两托座空着、两松带留车及左货袋留架",
+      "must_not_control": [
+        "车头方向",
+        "枪已复挂状态",
+        "增加第三袋"
+      ]
+    },
+    {
+      "tag": "图片20",
+      "source": "剧集/EP001/制作成果/images/人物/关咪_车左取放枪接触_v005.png",
+      "file": "SEG004/参考图片_重生成/图片20_关咪_车左取放枪接触_v005.png",
+      "sha256": "4d9300c8f3f8fcfb25c0bd5c773c86a0d72e81a2a953a3c3d615aa2c7418af4b",
+      "role": "身份",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "短爪与缩小青龙枪的共同承托尺度",
+      "must_not_control": [
+        "枪旁位置覆盖原托座",
+        "肩带随枪离车",
+        "替代实际复挂终点"
+      ]
+    },
+    {
+      "tag": "图片21",
+      "source": "公共素材/视觉参考/刘关张_小巧可爱_风格母版_定稿.png",
+      "file": "SEG004/参考图片_重生成/图片21_刘关张_小巧可爱_风格母版_定稿.png",
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "role": "风格",
+      "copy_strategy": "ntfs_hard_link",
+      "may_control": "真实猫脸与二维小巧卡通风格",
+      "must_not_control": [
+        "图中原姿势",
+        "独立武器尺寸",
+        "本段剧情状态"
+      ]
+    }
+  ],
+  "audio_references": [
+    {
+      "tag": "音频1",
+      "role": "张咪",
+      "source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v002.wav",
+      "file": "SEG004/参考音频/音频1_张咪_新句参考_v002.wav",
+      "source_sha256": "ea1ac6c73b82d84f3398b32cd08d69d2eff29db8626ed610f925f9a033a37b22",
+      "sha256": "ea1ac6c73b82d84f3398b32cd08d69d2eff29db8626ed610f925f9a033a37b22",
+      "duration": 2.72,
+      "silence_padded": false,
+      "status": "new_text_actual_audio_available_full_segment_not_resubmitted"
+    }
+  ],
+  "required_actual_inputs": {
+    "video_tag": "视频1",
+    "video": "剧集/EP001/制作成果/video/Seedance2.5分段/续接参考_无原声/SEG003_续接无原声_v001.mp4",
+    "tail_tag": "图片22",
+    "tail_frame": "剧集/EP001/制作成果/video/Seedance2.5分段/尾帧/SEG003_尾帧.png",
+    "audio": "no_audio_track_visual_reference_only",
+    "source_video": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG003_v001.mp4",
+    "source_video_sha256": "a4f1036147d4760abdc3018fa633f361e760ee3201dc2b2c9c460dd581d8949e",
+    "video_sha256": "600a0608a09112c17ab8b8897d54c772d8f420230ac8a7cb7a552acffaf97d25",
+    "tail_sha256": "4e56b87f4fc169e667c53e0e30d2a643c75f3ef57efd55ab1f9c0f0ceaf10331",
+    "no_audio_track_verified": true,
+    "video_packets_identical": true
+  },
+  "prompt_file": "SEG004/即梦提示词.txt",
+  "prompt_sha256": "16293a40e107103148e024d67275f18a38ce5077e172db07b6d760d4fb6cd724",
+  "download_target": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+  "status": "new_video_received_handoff_exported_not_full_visual_or_sound_reviewed",
+  "final_sound": "jimeng_native_dialogue_and_existing_short_action_effects_review_per_segment",
+  "image_count_total": 22,
+  "continuation_audio_policy": "previous_selected_actual_video_no_audio_stream_visual_only",
+  "revision": {
+    "version": "v002",
+    "date": "2026-10-09",
+    "rejected_video": "H:/下载文件/61e9088d-a9d5-43ba-84f7-c2eb0b902638.mp4",
+    "review": "审查/EP001-SEG004-火山生成视频审查.md",
+    "changes": [
+      "关咪张咪各唯一一只，离开原位置后原位为空",
+      "持枪间距约两个身位，收枪后才靠近",
+      "刘咪移凳3秒，双爪接触推动同一凳后放开",
+      "先张咪后关咪各扣一次扳机，各一声机械空响"
+    ],
+    "excluded_static_sources": [
+      "剧集/EP001/制作成果/images/人物/刘咪_双腰套与持双枪接触_v001.png",
+      "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-025_v006.png",
+      "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-027_v003.png",
+      "剧集/EP001/制作成果/images/关键帧/SHOT-EP001-028_v004.png",
+      "剧集/EP001/制作成果/images/场景/关咪_停车摆摊组合图_v004.png",
+      "剧集/EP001/制作成果/images/道具/猪肉_浅井井沿与入篮状态_v001.png"
+    ],
+    "submitted": false,
+    "visual_fix_verified": false,
+    "sound_fix_verified": false,
+    "next_acceptance": "新视频需逐项回看回听，旧问题视频不供SEG005续接"
+  },
+  "actual_output": {
+    "date": "2026-10-09",
+    "segment": "SEG004",
+    "source_video": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+    "source_video_sha256": "81b6f78fc4dcddd0dd03f657857092e8fb6594652415fef97452764c4e65f3dc",
+    "creator_saved_name": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_v001.mp4",
+    "creator_saved_sha256": "81b6f78fc4dcddd0dd03f657857092e8fb6594652415fef97452764c4e65f3dc",
+    "source_different_from_previous_rejected": true,
+    "source_name_copy_only": true,
+    "duration_seconds": 27.07,
+    "resolution": [
+      480,
+      854
+    ],
+    "tail_frame": "剧集/EP001/制作成果/video/Seedance2.5分段/尾帧/SEG004_尾帧.png",
+    "tail_sha256": "9356f4edc5b8125804856765775f0b2734a658cd1baad5813bae3a0f54e5a546",
+    "silent_video": "剧集/EP001/制作成果/video/Seedance2.5分段/续接参考_无原声/SEG004_续接无原声_v002.mp4",
+    "silent_sha256": "e221d7c336c96d40536c2b1ef43e14539f30badfdbe613604388ac0f4ecda2d5",
+    "no_audio_track_verified": true,
+    "video_packets_identical": true,
+    "video_stream_sha256": "82b6bcc6f11888c1d4cd9e75032b77cc81eb0016da58daceebdb473c0fb344e1",
+    "sound_status": "original_audio_retained_not_listened_in_this_export",
+    "visual_status": "export_only_not_full_quality_review",
+    "user_request": "导出尾帧和无音轨续接视频",
+    "original_source_preserved": true
+  },
+  "current_revision": "sky_shots_20261009",
+  "current_execution": "031新同声线v002音频与第四段单句替换候选已导出；待PATCH002保存后一并套剪，不重跑原27秒段。",
+  "dialogue_revision": {
+    "shot": "SHOT-EP001-031",
+    "role": "张咪",
+    "old_text": "不用这个，也照样分个高下！",
+    "text": "没必要用枪，也照样分个高下！",
+    "existing_audio_is_old_text": false,
+    "new_audio_generated": true,
+    "total_dialogue_count": 11,
+    "action_timing": "朝天开枪→放低枪互视→各自收枪→张咪说新句并向前→徒手较量",
+    "replacement_video": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_对白修正_v003.mp4",
+    "creator_accepted": false
+  },
+  "historical_old_audio_references": [
+    {
+      "tag": "音频1",
+      "role": "张咪",
+      "source": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v001.wav",
+      "file": "SEG004/参考音频/音频1_张咪_独立音色参考.wav",
+      "source_sha256": "740994f4305bfc46e077e4f92749b1c8f87feff89d063ce35ca9927a0f78826a",
+      "sha256": "76c13f90602e1772953730be24353039e203adb9996251302ae8b7c93bd29a93",
+      "duration": 2.64,
+      "silence_padded": false,
+      "purpose": "本段同一已定角色声线的原句参考，只控制对应音色；本段原声由即梦生成，回听确认后保留。"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "source": {
+    "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG001_v001.mp4",
+    "sha256": "6c060dd864ec8ec1e1492dc0cc0ee0734c9462d52ce1132f30fa5b03cce2aa63",
+    "duration_seconds": 25.06,
+    "resolution": [
+      480,
+      854
+    ],
+    "decoded_video_frames": 601,
+    "tail_frame": "剧集/EP001/制作成果/video/Seedance2.5分段/尾帧/SEG001_尾帧.png",
+    "tail_sha256": "38e603c8ab6ef3e5cf67a386083fc979ec4ebbb3dbb3ae3864ab1b122b1d10c4",
+    "sound_status": "creator_reports_normal_original_retained"
+  },
+  "method": "decode all 601 original video frames and overwrite PNG to retain last decoded frame",
+  "silent_copy_created": false,
+  "visual_observation": "伙计两前爪贴盖井磨盘，客咪在右前景提篮；井仍闭，无分肉动作。",
+  "creator_audio_report": "这次声音正常",
+  "next_segment": "SEG002",
+  "original_file_unchanged": true
+}

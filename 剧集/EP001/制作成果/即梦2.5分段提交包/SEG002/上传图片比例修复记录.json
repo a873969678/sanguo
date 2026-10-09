@@ -1,0 +1,20 @@
+{
+  "file": "SEG002/参考图片/图片17_猪肉_浅井井沿与入篮状态_v001.png",
+  "source": "剧集/EP001/制作成果/images/道具/猪肉_浅井井沿与入篮状态_v001.png",
+  "source_sha256": "890e7742c867d9bfc27b001a27e8fd9ee6f358e06e150dbaf7c168fc51471cb4",
+  "upload_sha256": "6d6924244b5d664fd54a98756a38002632539b05072d69a9e25ef2469540e918",
+  "original_dimensions": [
+    1983,
+    793
+  ],
+  "upload_dimensions": [
+    1983,
+    820
+  ],
+  "ratio": 2.4182926829268294,
+  "padding_top": 13,
+  "padding_bottom": 14,
+  "method": "white_canvas_padding_original_pixels_unchanged",
+  "source_asset_unchanged": true,
+  "observed_ui_requirement": "图片宽高比需在0.4~2.5之间"
+}

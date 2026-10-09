@@ -1,0 +1,12 @@
+{
+  "source": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG001_v001.mp4",
+  "source_sha256": "6c060dd864ec8ec1e1492dc0cc0ee0734c9462d52ce1132f30fa5b03cce2aa63",
+  "output": "剧集/EP001/制作成果/video/Seedance2.5分段/续接参考_无原声/SEG001_续接无原声_v001.mp4",
+  "output_sha256": "08c9769af4cf371d6c173c1e05fff59516292dff8fb8fe0c59117b2c8cb42012",
+  "video_packet_sha256": "0,v,SHA256=804550a982e5ccfe3b964128cb52b3b47bfce23d19742ce4972860eb31968c71",
+  "video_packet_unchanged": true,
+  "no_audio_stream_verified": true,
+  "original_unchanged": true,
+  "reason": "用户报告SEG002混入上一段声音，仅为参考去音轨。",
+  "SEG002_audio_refs": "同声线本段台词加尾部静音，未重设计声音。"
+}

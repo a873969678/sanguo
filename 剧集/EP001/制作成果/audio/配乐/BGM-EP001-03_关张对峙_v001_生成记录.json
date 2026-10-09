@@ -1,0 +1,44 @@
+{
+  "id": "BGM-EP001-03-local-v001",
+  "modality": "music",
+  "source": "剧集\\EP001\\视频提示词.md",
+  "source_entry": "BGM-EP001-03",
+  "prompt": "古风轻喜剧的对峙纯器乐配乐，与市集段保持相同拨弦和竹笛音色。短促重复的低音拨弦，轻而紧的木质节奏，逐步增加悬念，表现两位可爱而好胜的武将互不服气。张力适中，留白多，紧张但不恐怖、不悲壮，不用宏大铜管、尖锐长音或重低音轰鸣。无对白、哼唱、歌词、枪声、拉栓、动作音效或背景电流声。",
+  "source_sha256": "814b4bb56943f27f24034522854a8e0a99dd43a0e0a265f453b1cdb6e4b48d36",
+  "references": [],
+  "outputs": [
+    "剧集\\EP001\\制作成果\\audio\\配乐\\BGM-EP001-03_关张对峙_v001.wav"
+  ],
+  "parameters": {
+    "duration": 60,
+    "bpm": 100,
+    "seed": 100903,
+    "inference_steps": 8,
+    "instrumental": true,
+    "lyrics": ""
+  },
+  "overwrite": false,
+  "adapter": "local-ACE-Step-1.5-turbo-CPU-INT8",
+  "paid_external_api": false,
+  "authorization": "2026-10-09 用户明确要求生成完整配乐并加入视频；沿用已确认古风轻喜剧4段方案。",
+  "creator_accepted": false,
+  "status": "generated_technical_check_passed_listening_pending",
+  "engine_revision": "ca1e85fe9430179831e6bc6be790c332190a3866",
+  "actual_backend": "cpu",
+  "torch_version": "2.14.0+cpu",
+  "runtime_parameters": {
+    "quantization": "int8_weight_only",
+    "threads": 6,
+    "no_optional_lm_download": true
+  },
+  "sample_rate": 48000,
+  "duration_seconds": 60.0,
+  "channels": 2,
+  "peak": 0.7079457640647888,
+  "rms": 0.1254013180732727,
+  "sha256": "d1cc46160b1c3407902ad12e51cf7de04abcd2b2f06bb00a261e01c9fe3c6c24",
+  "generation_seconds": 176.75061583518982,
+  "music_mixed_into_video": true,
+  "mixed_delivery": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_1080P完整配乐_v006.mp4",
+  "mixed_record": "剧集/EP001/制作成果/audio/配乐/EP001_完整配乐混音记录_v001.json"
+}

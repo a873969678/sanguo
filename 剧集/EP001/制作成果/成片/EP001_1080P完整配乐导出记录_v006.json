@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-09",
+  "status": "rendered_technical_checks_passed_creator_review_pending",
+  "file": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_1080P完整配乐_v006.mp4",
+  "sha256": "aed3818b1a6b02dfecdfa69fa71779ec09aed836f74142d53391b53d393b83fc",
+  "file_bytes": 107831800,
+  "duration_seconds": 123.916667,
+  "frames": 2974,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24.0,
+  "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "channels": 2
+  },
+  "source_video": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+  "source_sha256": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
+  "original_source_preserved": true,
+  "v005_preserved": true,
+  "upscale_method": "Lanczos + luma-only unsharp strength 0.30; scale before subtitle burn-in",
+  "native_source_resolution": [
+    480,
+    854
+  ],
+  "source_detail_restoration": false,
+  "dialogue_count": 12,
+  "caption_piece_count": 25,
+  "name_card_count": 5,
+  "caption_timing_and_text_unchanged": true,
+  "subtitle_source": "剧集/EP001/制作成果/subtitles/EP001_字幕与名字卡_实际套剪_v005.ass",
+  "subtitle_sha256": "4b1b198b9a8255ee17e78eae60f176c476b50bb487a57f07b692816410d17ba3",
+  "music_added": true,
+  "music_source_count": 4,
+  "music_mix_record": "剧集/EP001/制作成果/audio/配乐/EP001_完整配乐混音记录_v001.json",
+  "master_soundtrack": "剧集/EP001/制作成果/audio/修复/EP001_对白音效配乐_最终混音_v006.wav",
+  "master_soundtrack_sha256": "edb093c4ee281f83d0a1d13920870733bc6742fd311a330864c99637d17e993a",
+  "loudness_pass1": {
+    "input_i": "-19.69",
+    "input_tp": "-1.06",
+    "input_lra": "12.90",
+    "input_thresh": "-31.19",
+    "output_i": "-16.23",
+    "output_tp": "-1.50",
+    "output_lra": "8.90",
+    "output_thresh": "-27.18",
+    "normalization_type": "dynamic",
+    "target_offset": "0.23"
+  },
+  "loudness_pass2": {
+    "input_i": "-19.69",
+    "input_tp": "-1.06",
+    "input_lra": "12.90",
+    "input_thresh": "-31.19",
+    "output_i": "-16.09",
+    "output_tp": "-1.50",
+    "output_lra": "8.80",
+    "output_thresh": "-27.04",
+    "normalization_type": "dynamic",
+    "target_offset": "0.09"
+  },
+  "actual_loudness_LUFS": -16.11,
+  "actual_true_peak_dBTP": -1.35,
+  "actual_loudness_range_LU": 8.8,
+  "render_seconds": 94.4071614742279,
+  "creator_accepted": false,
+  "limitations": "1080P为插值放大及轻度锐化，不是原生1080P；生成器乐听感、音量偏好和完整成片仍需创作者回听。"
+}

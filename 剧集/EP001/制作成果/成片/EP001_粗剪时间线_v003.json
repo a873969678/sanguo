@@ -1,0 +1,449 @@
+{
+  "status": "patch_and_dialogue_assembled_pending_creator_review",
+  "timeline_seconds": 123.91666666666667,
+  "frames": 2974,
+  "frame_rate": 24,
+  "audio_rate": 48000,
+  "clips": [
+    {
+      "id": "CUT-EP001-001",
+      "source_entry": "MOTION-EP001-SEG001",
+      "segment_id": "SEG001",
+      "title": "入市与取肉规矩",
+      "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG001_v001.mp4",
+      "sha256": "6c060dd864ec8ec1e1492dc0cc0ee0734c9462d52ce1132f30fa5b03cce2aa63",
+      "source_seconds": 25.056009,
+      "source_frames": 601,
+      "source_average_rate": "36060/1501",
+      "source_audio_rate": 44100,
+      "in": 0.0,
+      "out": 25.05,
+      "source_kept_seconds": 25.05,
+      "normalized_frames": 602,
+      "normalized_seconds": 25.083333333333332,
+      "audio_samples": 1204000,
+      "global_in": 0,
+      "global_out": 25.083333333333332,
+      "dialogue_windows_local": [
+        {
+          "in": 16.519999999999996,
+          "out": 18.4,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 19.279999999999994,
+          "out": 20.48,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 21.019999999999996,
+          "out": 22.16,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 22.16,
+          "out": 24.66,
+          "text_is_asr_not_script": true
+        }
+      ],
+      "dialogue_windows_source": [
+        {
+          "in": 16.519999999999996,
+          "out": 18.4,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 19.279999999999994,
+          "out": 20.48,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 21.019999999999996,
+          "out": 22.16,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 22.16,
+          "out": 24.66,
+          "text_is_asr_not_script": true
+        }
+      ]
+    },
+    {
+      "id": "CUT-EP001-002",
+      "source_entry": "MOTION-EP001-SEG002",
+      "segment_id": "SEG002",
+      "title": "分肉完成",
+      "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG002_v001.mp4",
+      "sha256": "34096608607e88008f32e8dd12839ce988aeee4dab55862ee1b32b221a9e8be2",
+      "source_seconds": 27.071995,
+      "source_frames": 649,
+      "source_average_rate": "38940/1621",
+      "source_audio_rate": 44100,
+      "in": 0,
+      "out": 16.88,
+      "source_kept_seconds": 16.88,
+      "normalized_frames": 406,
+      "normalized_seconds": 16.916666666666668,
+      "audio_samples": 812000,
+      "global_in": 25.083333333333332,
+      "global_out": 42.0,
+      "dialogue_windows_local": [
+        {
+          "in": 11.379999999999999,
+          "out": 12.82,
+          "text_is_asr_not_script": true
+        }
+      ],
+      "dialogue_windows_source": [
+        {
+          "in": 11.379999999999999,
+          "out": 12.82,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 20.759999999999998,
+          "out": 22.14,
+          "text_is_asr_not_script": true
+        }
+      ]
+    },
+    {
+      "id": "CUT-EP001-006",
+      "source_entry": "MOTION-EP001-SEG002",
+      "segment_id": "SEG002",
+      "title": "刘咪反应与关咪返回豆摊",
+      "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG002_v001.mp4",
+      "sha256": "34096608607e88008f32e8dd12839ce988aeee4dab55862ee1b32b221a9e8be2",
+      "source_seconds": 27.071995,
+      "source_frames": 649,
+      "source_average_rate": "38940/1621",
+      "source_audio_rate": 44100,
+      "in": 19,
+      "out": 27.07,
+      "source_kept_seconds": 8.07,
+      "normalized_frames": 194,
+      "normalized_seconds": 8.083333333333334,
+      "audio_samples": 388000,
+      "global_in": 42.0,
+      "global_out": 50.083333333333336,
+      "dialogue_windows_local": [
+        {
+          "in": 1.759999999999998,
+          "out": 3.1400000000000006,
+          "text_is_asr_not_script": true
+        }
+      ],
+      "dialogue_windows_source": [
+        {
+          "in": 11.379999999999999,
+          "out": 12.82,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 20.759999999999998,
+          "out": 22.14,
+          "text_is_asr_not_script": true
+        }
+      ]
+    },
+    {
+      "id": "CUT-EP001-003",
+      "source_entry": "MOTION-EP001-SEG003",
+      "segment_id": "SEG003",
+      "title": "对白交锋",
+      "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG003_v001.mp4",
+      "sha256": "a4f1036147d4760abdc3018fa633f361e760ee3201dc2b2c9c460dd581d8949e",
+      "source_seconds": 23.071995,
+      "source_frames": 553,
+      "source_average_rate": "33180/1381",
+      "source_audio_rate": 44100,
+      "in": 0.0,
+      "out": 23.07,
+      "source_kept_seconds": 23.07,
+      "normalized_frames": 554,
+      "normalized_seconds": 23.083333333333332,
+      "audio_samples": 1108000,
+      "global_in": 50.083333333333336,
+      "global_out": 73.16666666666667,
+      "dialogue_windows_local": [
+        {
+          "in": 0.0,
+          "out": 1.92,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 1.92,
+          "out": 3.54,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 4.72,
+          "out": 6.32,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 6.32,
+          "out": 7.68,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 7.68,
+          "out": 9.86,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 9.86,
+          "out": 12.0,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 12.64,
+          "out": 14.46,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 14.46,
+          "out": 16.56,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 16.56,
+          "out": 17.76,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 18.72,
+          "out": 20.34,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 20.34,
+          "out": 22.68,
+          "text_is_asr_not_script": true
+        }
+      ],
+      "dialogue_windows_source": [
+        {
+          "in": 0.0,
+          "out": 1.92,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 1.92,
+          "out": 3.54,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 4.72,
+          "out": 6.32,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 6.32,
+          "out": 7.68,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 7.68,
+          "out": 9.86,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 9.86,
+          "out": 12.0,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 12.64,
+          "out": 14.46,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 14.46,
+          "out": 16.56,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 16.56,
+          "out": 17.76,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 18.72,
+          "out": 20.34,
+          "text_is_asr_not_script": true
+        },
+        {
+          "in": 20.34,
+          "out": 22.68,
+          "text_is_asr_not_script": true
+        }
+      ]
+    },
+    {
+      "id": "CUT-EP001-004",
+      "source_entry": "MOTION-EP001-SEG004",
+      "segment_id": "SEG004",
+      "title": "取枪完成",
+      "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_对白修正_v003.mp4",
+      "sha256": "1bf6a23eacebb7a10ab12abb1f1f011ce50d41864c5626fb56dc7b52826c42a8",
+      "source_seconds": 27.072,
+      "source_frames": 649,
+      "source_average_rate": "24/1",
+      "source_audio_rate": 32000,
+      "in": 0,
+      "out": 5,
+      "source_kept_seconds": 5,
+      "normalized_frames": 120,
+      "normalized_seconds": 5.0,
+      "audio_samples": 240000,
+      "global_in": 73.16666666666667,
+      "global_out": 78.16666666666667,
+      "dialogue_windows_local": [],
+      "dialogue_windows_source": []
+    },
+    {
+      "id": "CUT-EP001-007",
+      "source_entry": "MOTION-EP001-PATCH002",
+      "segment_id": "PATCH002",
+      "title": "宽站位持枪对峙",
+      "file": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_v001.mp4",
+      "sha256": "b9a607a9f116517ad83a187db0cdabb1e2f0164d4ef9929915a2e158ed6e1267",
+      "source_seconds": 6.048,
+      "source_frames": 145,
+      "source_average_rate": "24/1",
+      "source_audio_rate": 32000,
+      "in": 0,
+      "out": 1.5,
+      "source_kept_seconds": 1.5,
+      "normalized_frames": 36,
+      "normalized_seconds": 1.5,
+      "audio_samples": 72000,
+      "global_in": 78.16666666666667,
+      "global_out": 79.66666666666667,
+      "dialogue_windows_local": [],
+      "dialogue_windows_source": []
+    },
+    {
+      "id": "CUT-EP001-008",
+      "source_entry": "MOTION-EP001-SEG004",
+      "segment_id": "SEG004",
+      "title": "群众退散与刘咪移凳",
+      "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_对白修正_v003.mp4",
+      "sha256": "1bf6a23eacebb7a10ab12abb1f1f011ce50d41864c5626fb56dc7b52826c42a8",
+      "source_seconds": 27.072,
+      "source_frames": 649,
+      "source_average_rate": "24/1",
+      "source_audio_rate": 32000,
+      "in": 8,
+      "out": 13,
+      "source_kept_seconds": 5,
+      "normalized_frames": 120,
+      "normalized_seconds": 5.0,
+      "audio_samples": 240000,
+      "global_in": 79.66666666666667,
+      "global_out": 84.66666666666667,
+      "dialogue_windows_local": [],
+      "dialogue_windows_source": []
+    },
+    {
+      "id": "CUT-EP001-009",
+      "source_entry": "MOTION-EP001-PATCH002",
+      "segment_id": "PATCH002",
+      "title": "先张后关朝天开枪",
+      "file": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_v001.mp4",
+      "sha256": "b9a607a9f116517ad83a187db0cdabb1e2f0164d4ef9929915a2e158ed6e1267",
+      "source_seconds": 6.048,
+      "source_frames": 145,
+      "source_average_rate": "24/1",
+      "source_audio_rate": 32000,
+      "in": 1.5,
+      "out": 6.041666666666667,
+      "source_kept_seconds": 4.541666666666667,
+      "normalized_frames": 109,
+      "normalized_seconds": 4.541666666666667,
+      "audio_samples": 218000,
+      "global_in": 84.66666666666667,
+      "global_out": 89.20833333333334,
+      "dialogue_windows_local": [],
+      "dialogue_windows_source": []
+    },
+    {
+      "id": "CUT-EP001-010",
+      "source_entry": "MOTION-EP001-SEG004",
+      "segment_id": "SEG004",
+      "title": "收枪与张咪新对白",
+      "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_对白修正_v003.mp4",
+      "sha256": "1bf6a23eacebb7a10ab12abb1f1f011ce50d41864c5626fb56dc7b52826c42a8",
+      "source_seconds": 27.072,
+      "source_frames": 649,
+      "source_average_rate": "24/1",
+      "source_audio_rate": 32000,
+      "in": 17.458333333333,
+      "out": 27.07,
+      "source_kept_seconds": 9.611666666666999,
+      "normalized_frames": 231,
+      "normalized_seconds": 9.625,
+      "audio_samples": 462000,
+      "global_in": 89.20833333333334,
+      "global_out": 98.83333333333334,
+      "dialogue_windows_local": [
+        {
+          "in": 6.8616666666669985,
+          "out": 9.531666666666997,
+          "text": "没必要用枪，也照样分个高下！",
+          "shot": "SHOT-EP001-031",
+          "text_is_asr_not_script": false
+        }
+      ],
+      "dialogue_windows_source": []
+    },
+    {
+      "id": "CUT-EP001-005",
+      "source_entry": "MOTION-EP001-SEG005",
+      "segment_id": "SEG005",
+      "title": "肉搏与刘咪制止",
+      "file": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005_v001.mp4",
+      "sha256": "69484f2219f89a6780514d363c4fc40485e2a2a54a4b083cf4a459e51600ae4d",
+      "source_seconds": 25.056,
+      "source_frames": 601,
+      "source_average_rate": "24/1",
+      "source_audio_rate": 32000,
+      "in": 0.0,
+      "out": 25.05,
+      "source_kept_seconds": 25.05,
+      "normalized_frames": 602,
+      "normalized_seconds": 25.083333333333332,
+      "audio_samples": 1204000,
+      "global_in": 98.83333333333334,
+      "global_out": 123.91666666666667,
+      "dialogue_windows_local": [
+        {
+          "role": "刘咪",
+          "in": 17.5,
+          "out": 19.38,
+          "text_source": "剧本原句与已接受单句替换记录"
+        }
+      ],
+      "dialogue_windows_source": [
+        {
+          "role": "刘咪",
+          "in": 17.5,
+          "out": 19.38,
+          "text_source": "剧本原句与已接受单句替换记录"
+        }
+      ]
+    }
+  ],
+  "subtitle_status": "not_added",
+  "name_card_status": "not_added",
+  "music_status": "not_generated_or_added",
+  "well_cover_fixed": true,
+  "gun_spacing_patch_inserted": true,
+  "sky_shots_inserted": true,
+  "orange_streaks_retained": true,
+  "orange_streaks_authorization": "橙色飞线保留可以",
+  "new_031_dialogue_inserted": true,
+  "creator_accepted": false
+}
