@@ -1,0 +1,252 @@
+{
+  "segment_id": "SEG004",
+  "name": "拜传统关公像结义",
+  "source": "剧集/EP002/视频提示词.md",
+  "model": "Seedance 2.5",
+  "task_type": "extend",
+  "duration_seconds": 20,
+  "duration_meaning": "新增片段",
+  "aspect_ratio": "adaptive",
+  "resolution": "480P；继承480×854",
+  "status": "creator_accepted",
+  "video_submitted": true,
+  "images": [
+    {
+      "tag": "图片1",
+      "source": "剧集/EP002/制作成果/续接参考/SEG003_v002_局部修复/SEG003_v002_局部修复_真实尾帧.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片01_SEG003_v002_真实尾帧.png",
+      "sha256": "2a591b25a17889c8335731606afcf480086459123318fb5fcebef824dced7618",
+      "purpose": "第三段修复版真实尾帧，仅控制0—6秒开场状态；不控制拜像朝向"
+    },
+    {
+      "tag": "图片2",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-020_起始帧_v003.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片02_SHOT-EP002-020_起始帧_v003.png",
+      "purpose": "无携枪身份、服装与站立空间；刘咪空腰套、张咪空背带",
+      "sha256": "0169a69d2afb2bd167f5a3c71b6b4852e8ea63928e4083d214855635cfea64d3"
+    },
+    {
+      "tag": "图片3",
+      "source": "剧集/EP002/制作成果/images/IMG-EP002-011_传统关公像头胸参考板_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片03_IMG-EP002-011_传统关公像头胸参考板_v001.png",
+      "purpose": "传统人脸关公像头胸",
+      "sha256": "b45676993d38e585aa30a2dfc4c9ed9f9d4638f7a22b06885d1868eaafe8c92f"
+    },
+    {
+      "tag": "图片4",
+      "source": "剧集/EP002/制作成果/images/IMG-EP002-012_三咪拜关公空间接触板_v002.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片04_IMG-EP002-012_三咪拜关公空间接触板_v002.png",
+      "purpose": "6—18秒相向跪拜的空间依据：像在左前景，三咪在右侧面朝左",
+      "sha256": "aae4c979f625b67861f42967a4e2f9ce12d56e7d48d94687d944fbf88ad931c2"
+    }
+  ],
+  "audio": [
+    {
+      "tag": "音频1",
+      "role": "关咪",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考音频/音频01_关咪_本段原句.wav",
+      "sha256": "8510d48fa6bf79ae0090849fe224e3ae63ab0e6346aaff9addd212ae53e29c3b",
+      "duration_seconds": 13.38,
+      "dialogue_duration_seconds": 13.38,
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-021_关咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_关咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-025_关咪_Qwen_v001.wav"
+      ],
+      "source_entries": [
+        "SHOT-EP002-021",
+        "SHOT-EP002-024",
+        "SHOT-EP002-025"
+      ],
+      "texts": [
+        "愿与兄患难同当，生死相随。",
+        "同心协力，救困扶危！不求同年同月同日生，但求同年同月同日死！",
+        "大哥！"
+      ],
+      "purpose": "同一角色本段原句的固定声线参考",
+      "may_control": [
+        "音色"
+      ],
+      "must_not_control": [
+        "台词",
+        "语气",
+        "情绪",
+        "背景声音"
+      ],
+      "status": "accepted_source_reference",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "tag": "音频2",
+      "role": "张咪",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考音频/音频02_张咪_本段原句.wav",
+      "sha256": "4956088f5cd9226855d7bbff4e1b5e5aae7ca180d69ae0df3f4004e62107e9c7",
+      "duration_seconds": 9.46,
+      "dialogue_duration_seconds": 9.46,
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-022_张咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_张咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-025_张咪_Qwen_v001.wav"
+      ],
+      "source_entries": [
+        "SHOT-EP002-022",
+        "SHOT-EP002-024",
+        "SHOT-EP002-025"
+      ],
+      "texts": [
+        "俺也一样！",
+        "同心协力，救困扶危！不求同年同月同日生，但求同年同月同日死！",
+        "大哥！"
+      ],
+      "purpose": "同一角色本段原句的固定声线参考",
+      "may_control": [
+        "音色"
+      ],
+      "must_not_control": [
+        "台词",
+        "语气",
+        "情绪",
+        "背景声音"
+      ],
+      "status": "accepted_source_reference",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "tag": "音频3",
+      "role": "刘咪",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考音频/音频03_刘咪_本段原句.wav",
+      "sha256": "b55ebb0d6abc27ed315ee7757adf6f5f455c28c7b797cba246b385ab448d3168",
+      "duration_seconds": 8.25,
+      "dialogue_duration_seconds": 8.25,
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_刘咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-026_刘咪_Qwen_v001.wav"
+      ],
+      "source_entries": [
+        "SHOT-EP002-024",
+        "SHOT-EP002-026"
+      ],
+      "texts": [
+        "同心协力，救困扶危！不求同年同月同日生，但求同年同月同日死！",
+        "二弟，三弟！"
+      ],
+      "purpose": "同一角色本段原句的固定声线参考",
+      "may_control": [
+        "音色"
+      ],
+      "must_not_control": [
+        "台词",
+        "语气",
+        "情绪",
+        "背景声音"
+      ],
+      "status": "accepted_source_reference",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    }
+  ],
+  "video": [
+    {
+      "tag": "视频1",
+      "source": "剧集/EP002/制作成果/续接参考/SEG003_v002_局部修复/SEG003_v002_局部修复_无音轨.mp4",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考视频/视频01_SEG003_v002_无音轨.mp4",
+      "sha256": "3316993b57e455efd1c4034be728bd042e26f6aeeeef4f8a07d00123270b7761",
+      "audio_stream_count": 0,
+      "purpose": "第三段局部修复播放版的同源无音轨副本，只控制画面"
+    }
+  ],
+  "missing_inputs": [],
+  "members": [
+    {
+      "shot": "SHOT-EP002-021",
+      "motion": "MOTION-EP002-021",
+      "start_seconds": 0,
+      "end_seconds": 4,
+      "duration_seconds": 4
+    },
+    {
+      "shot": "SHOT-EP002-022",
+      "motion": "MOTION-EP002-022",
+      "start_seconds": 4,
+      "end_seconds": 6,
+      "duration_seconds": 2
+    },
+    {
+      "shot": "SHOT-EP002-023",
+      "motion": "MOTION-EP002-023",
+      "start_seconds": 6,
+      "end_seconds": 8,
+      "duration_seconds": 2
+    },
+    {
+      "shot": "SHOT-EP002-024",
+      "motion": "MOTION-EP002-024",
+      "start_seconds": 8,
+      "end_seconds": 16,
+      "duration_seconds": 8
+    },
+    {
+      "shot": "SHOT-EP002-025",
+      "motion": "MOTION-EP002-025",
+      "start_seconds": 16,
+      "end_seconds": 18,
+      "duration_seconds": 2
+    },
+    {
+      "shot": "SHOT-EP002-026",
+      "motion": "MOTION-EP002-026",
+      "start_seconds": 18,
+      "end_seconds": 20,
+      "duration_seconds": 2
+    }
+  ],
+  "prompt_file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/SEG004_提示词.txt",
+  "prompt_sha256": "d09dca5d95ee47e45e40a87311ae773fec4078f092e8f6a1a404b0eeddd30dae",
+  "download_target": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+  "actual_output": {
+    "segment_id": "SEG004",
+    "creator_accepted": true,
+    "creator_feedback": "可以了，准备第五段",
+    "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+    "sha256": "cc06625a2fb78c945fe45eb1f0a97c0222dba2c0f673330350ba585df1bcb55c",
+    "duration_seconds": 20,
+    "decoded_frames": 480,
+    "resolution": [
+      480,
+      854
+    ],
+    "silent_video": "剧集/EP002/制作成果/续接参考/SEG004_v002/SEG004_v002_无音轨.mp4",
+    "silent_sha256": "228591dfc34f833be5b9e27955e87aae6e53369360a2b140f0b1b50ef946fc4c",
+    "tail_image": "剧集/EP002/制作成果/续接参考/SEG004_v002/SEG004_v002_真实尾帧.png",
+    "tail_sha256": "73d855f4600d0d87ba6c2a73ec2bbd283c2661e6e83eaced958e5998681dce54",
+    "note": "新版实际画面包含转身、相向跪拜；旧朝向错误结果不采用。"
+  },
+  "source_sha256": "190ccd1ca300f9fa55772ad6823183e9e2ae5dedd75d90eb8a19c9d0b6db7049",
+  "audio_status": "accepted",
+  "audio_acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json",
+  "download_naming_note": "用户要求以v002区分第二集，本集分段视频命名为SEGxxx_v002.mp4。",
+  "pending_decisions": [],
+  "reference_selection_note": "去掉本段上传包中携枪公共母版副本，身份与无携枪服装改由已采用SHOT020参考控制；公共源图不删除。",
+  "continuation_source": {
+    "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG003_v002_局部修复.mp4",
+    "sha256": "e6361c9645a3db82f44c5ecd028a0d99859d44c6c4bfd289d36932dcb31c9d1d",
+    "creator_accepted": false,
+    "review_record": "剧集/EP002/制作成果/SEG003_局部修复记录_20261010.json"
+  },
+  "prompt_revision": "2026-10-10 跪拜朝向修订",
+  "regeneration_submitted": true,
+  "rejected_output": {
+    "file": "剧集/EP002/制作成果/video/Seedance2.5分段/原始下载/SEG004_v002_跪拜朝向错误_未采用.mp4",
+    "sha256": "7ffb25e0126acd9069584c12f592d5f3d8b66237ae182e86259eef9fb68825d5",
+    "duration_seconds": 20,
+    "resolution": [
+      480,
+      854
+    ],
+    "creator_accepted": false,
+    "status": "rejected_orientation",
+    "creator_feedback": "视频有问题，关公在背后了"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "source_body": "剧集/EP002/制作成果/成片/EP002_补入走位_配乐口令_v006.mp4",
+  "source_sha256": "4f2a26665795b984c7af9a8778cba661fe762e5f82802592b2b942ca01325421",
+  "cover": "剧集/EP002/制作成果/发布/三国群萌传_EP002_桃园结义_封面_v001.png",
+  "cover_sha256": "120c8e4a268267162a306d6385469ca8c3b038aa267a16190b958c965c3c9c38",
+  "cover_duration_seconds": 1.5,
+  "cover_frames": 36,
+  "transition": "cover hold then direct cut; full body and audio delayed by1.5s",
+  "output": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_含封面_v007.mp4",
+  "expected_duration_seconds": 123.125,
+  "expected_frames": 2955,
+  "picture_method": "encode cover only; copy existing body compressed video via concat",
+  "music_intro": "existing series track01 first1.5s, gentle fades, no speech",
+  "dance_replacement_pending": true,
+  "output_sha256": "ca2bf920af59db84248f91c25726017a9c435a34fede07c64629cde26f0b1cda",
+  "verification": {
+    "frame_count": 2955,
+    "video_duration_seconds": 123.125,
+    "all_original_decoded_frames_unchanged": true,
+    "decode_errors": 0
+  },
+  "body_timeline_offset_seconds": 1.5
+}

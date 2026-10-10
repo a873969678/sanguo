@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-10",
+  "authorization": "用户要求修改图片后删除旧图",
+  "count": 45,
+  "entries": [
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-001_三轮摩托结构板_v002.png",
+      "bytes": 1682915,
+      "sha256": "2994b1c501e6026c00f0bfaaf91aea194ee9c0c304c5c71ae35f4ec1a71249d6",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-002_三咪驾乘接触板_v002.png",
+      "bytes": 2215732,
+      "sha256": "bc52ddf879e6ffc7e1e9f55003a820d34d7382e03ff4dbcc74092cbaa0c6e569",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-002_三咪驾乘接触板_v003.png",
+      "bytes": 2164811,
+      "sha256": "d11ba8ba5cacf7570d291bbe486ab6bb7d1802c8aa9e489c429f5c3f0ef8c00b",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-002_三咪驾乘接触板_v004.png",
+      "bytes": 2120670,
+      "sha256": "50e7a1e5e76b1d3617d30b0ec2b4846c84a90af887e3a84c5c293c42d53176bc",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-003_右脚刹三状态接触板_v001.png",
+      "bytes": 1819595,
+      "sha256": "67d2dcf85e84409906042dfc5b40628b1cbe0dbb93aecbaa00fc70ca201db7b5",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-003_右脚刹三状态接触板_v002.png",
+      "bytes": 1805147,
+      "sha256": "e87c5bfdd3ddbdda34ac81e21283a44cb3b2409401375e336744ae6872443800",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-003_右脚刹三状态接触板_v003.png",
+      "bytes": 1626056,
+      "sha256": "5392ace914d20ce5248251b880d8d2c32b6f33a72bd5acc079d213f9e0128374",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-004_后斗放枪有枪空位板_v002.png",
+      "bytes": 2362427,
+      "sha256": "2d734aa1067dafb5d74867372bde6f4ec5eb97aaa93959fb71829cfb6c76856d",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-005_桃园地理基底板_v001.png",
+      "bytes": 2853490,
+      "sha256": "7e1e07a7465fd9244e7210a2dc92c0e13aa593c3d0c65d9c5c451325f6ff7abd",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-006_桃园烧烤处布置板_v001.png",
+      "bytes": 3105268,
+      "sha256": "1c37afb1e5a06efca4d265880fcf1c5b59d77f01260bb6bf5aae05757dab1bba",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-008_独立烤炉与供气组件板_v001.png",
+      "bytes": 1942071,
+      "sha256": "438862ab85b504c649c66624b62072b8f4b19eef0eded891ba1a46ee883eca6e",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-010_张咪翻虾接触板_v001.png",
+      "bytes": 2725835,
+      "sha256": "758fb760ba6ff3449e9d986167bee63191dfcb8085e072ac87a6b05f580ac438",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-010_张咪翻虾接触板_v002.png",
+      "bytes": 2643808,
+      "sha256": "3727779355510b0d061f4e50b51ccbc2043c6530f51ced6b1d868ece3bc7546f",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-012_三咪拜关公空间接触板_v001.png",
+      "bytes": 2661974,
+      "sha256": "0c610f4dac62315afbfb83d1e3ed2884b959dac2388e67c7f8dee6b1ad0dc323",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\IMG-EP002-014_刘咪捧碗舔奶接触板_v002.png",
+      "bytes": 2257594,
+      "sha256": "0b705f09c964c95bbe48fb8d7e33b81edfa78ba79db007560c4c031e5adee9eb",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\载具\\三轮摩托_结构板_v001.png",
+      "bytes": 1809421,
+      "sha256": "be511db28bca2200bdc9f4f79b763d2b7f3c1cf2ce4ae4b6df0ef76f21b72b75",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-e8e61ab7-3047-4478-90d7-cee0b5df1155.png",
+      "bytes": 1809421,
+      "sha256": "be511db28bca2200bdc9f4f79b763d2b7f3c1cf2ce4ae4b6df0ef76f21b72b75",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-31193d48-2eff-46e1-af00-5a8e8862abb5.png",
+      "bytes": 1682915,
+      "sha256": "2994b1c501e6026c00f0bfaaf91aea194ee9c0c304c5c71ae35f4ec1a71249d6",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-642e43b0-482b-4571-8194-6f99d3fdfd5e.png",
+      "bytes": 2183883,
+      "sha256": "94cdbcc6fad46b5727635a9d0a9a4af981034e597fe7fa5d46452cc0f7a9bb92",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-fb425d28-73dc-48ed-96fc-343ba5cd2912.png",
+      "bytes": 2215732,
+      "sha256": "bc52ddf879e6ffc7e1e9f55003a820d34d7382e03ff4dbcc74092cbaa0c6e569",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-6f3a673e-733d-4a5c-ae19-10fd9e2e9818.png",
+      "bytes": 2164811,
+      "sha256": "d11ba8ba5cacf7570d291bbe486ab6bb7d1802c8aa9e489c429f5c3f0ef8c00b",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-c103b6e5-e2f3-4771-9d6d-a79a58bd195a.png",
+      "bytes": 2120670,
+      "sha256": "50e7a1e5e76b1d3617d30b0ec2b4846c84a90af887e3a84c5c293c42d53176bc",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-5f651e0d-ab95-4a46-93d8-38b31de75181.png",
+      "bytes": 1819595,
+      "sha256": "67d2dcf85e84409906042dfc5b40628b1cbe0dbb93aecbaa00fc70ca201db7b5",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-0b717e5f-eb24-4c4f-8bef-6a2fff885fac.png",
+      "bytes": 1805147,
+      "sha256": "e87c5bfdd3ddbdda34ac81e21283a44cb3b2409401375e336744ae6872443800",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-3946d7d3-464c-40a9-aab3-9b4a07e5b13c.png",
+      "bytes": 1626056,
+      "sha256": "5392ace914d20ce5248251b880d8d2c32b6f33a72bd5acc079d213f9e0128374",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-3b2c53ad-5f04-44e5-88b2-4949f5df47ed.png",
+      "bytes": 2049092,
+      "sha256": "41d0525f19f7f3725163bdbfc76d6cc58dcc618618d10b5c257203e5b7cfa4c1",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-f9cab37c-f84e-4d2f-95ef-061e3e1ee251.png",
+      "bytes": 2362427,
+      "sha256": "2d734aa1067dafb5d74867372bde6f4ec5eb97aaa93959fb71829cfb6c76856d",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-6bd7b704-e58d-406b-9fa3-6ef4d3907a46.png",
+      "bytes": 2853490,
+      "sha256": "7e1e07a7465fd9244e7210a2dc92c0e13aa593c3d0c65d9c5c451325f6ff7abd",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-47b92525-9712-4c4f-8e74-ede618f25df7.png",
+      "bytes": 3105268,
+      "sha256": "1c37afb1e5a06efca4d265880fcf1c5b59d77f01260bb6bf5aae05757dab1bba",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-9df50ac9-2c95-493d-9233-814fd5801341.png",
+      "bytes": 1942071,
+      "sha256": "438862ab85b504c649c66624b62072b8f4b19eef0eded891ba1a46ee883eca6e",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-208045a5-ff1e-4fa4-b471-d3f5b9295b4e.png",
+      "bytes": 2725835,
+      "sha256": "758fb760ba6ff3449e9d986167bee63191dfcb8085e072ac87a6b05f580ac438",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-bd4ff9d9-189d-4e76-b682-24c4bd2a390a.png",
+      "bytes": 2643808,
+      "sha256": "3727779355510b0d061f4e50b51ccbc2043c6530f51ced6b1d868ece3bc7546f",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-b70bf6b1-12c3-4f3b-99f5-84b44ae54ca9.png",
+      "bytes": 2661974,
+      "sha256": "0c610f4dac62315afbfb83d1e3ed2884b959dac2388e67c7f8dee6b1ad0dc323",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-2e0af4ac-b4bf-4346-b2c8-147b1483d2da.png",
+      "bytes": 2257594,
+      "sha256": "0b705f09c964c95bbe48fb8d7e33b81edfa78ba79db007560c4c031e5adee9eb",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-96b9e687-dd6a-4d27-b656-eddf47e886a0.png",
+      "bytes": 1624025,
+      "sha256": "1706d167925b7149f3d92a6056e1e4f11b0f9b95cb657461a42c442502726446",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-f46ffe8f-b302-4739-9221-103bd84134ac.png",
+      "bytes": 2894743,
+      "sha256": "1a3454f0691b6ee4fbb1253df2beca500d971675423a3ad30634dd3a7458a59f",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-9522a5b9-348f-4dbd-8a59-8204459949f0.png",
+      "bytes": 2479298,
+      "sha256": "2c83641f3905fcd0353e062f8ce583596fdeeae2b39005090cb94eaed14b4cea",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-a962d075-f8d8-4c80-9951-cbf05f8e2df4.png",
+      "bytes": 2597028,
+      "sha256": "f61f66ac7b712bc0cb649b5922b71783fb1a12c31278d0edbadce2aea979adfc",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-3c9202bd-c673-4cdf-9885-6bc32a3be0b9.png",
+      "bytes": 2638124,
+      "sha256": "9a8e7cdee63de7b33008935dd86846493dc207ca7023b68540139c0a09ee43dd",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-a34b8986-a53e-460b-8ab2-5ced61669ed3.png",
+      "bytes": 2629435,
+      "sha256": "328991a92f75a21c05f00f197256c23e73d62a1402ebaf289ffd1f8029a25f6d",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-822499e0-b56d-402f-b063-ecf0a3b3956f.png",
+      "bytes": 2716645,
+      "sha256": "e2ea2cec2a0a199785d6fdebde21405c66a30deec956c6afe92a2e1ef97f0105",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-63dc4565-055f-40a5-a377-647da4a46823.png",
+      "bytes": 2402289,
+      "sha256": "dd14d20277cea8422da9411fae14c6279a4a77b1f02adf1f77232ebbf5a9a92b",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-57f6c538-df90-45d1-9694-244a82781182.png",
+      "bytes": 1665502,
+      "sha256": "c8f60ec149f60789d854d53d9b8909aeed905ed3342445592d7c17a66b03c426",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-92455513-3964-4a1c-9425-f9ab364dd6dd.png",
+      "bytes": 1541240,
+      "sha256": "50987262dfa6453996270604dc9533efa2c391d558eb4f25bd0f025fe03dbfbc",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-2391ba75-0d70-4a45-ba65-0353a303383c.png",
+      "bytes": 1821811,
+      "sha256": "909fd97dd507bf4020524d060406a188b07b1fcb11d14423908e35d28dd57400",
+      "reason": "superseded_or_rejected_image",
+      "status": "deleted"
+    }
+  ]
+}

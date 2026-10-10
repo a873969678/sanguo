@@ -1,0 +1,259 @@
+{
+  "segment_id": "SEG001",
+  "name": "罢手收枪与三轮脚刹",
+  "source": "剧集/EP002/视频提示词.md",
+  "model": "Seedance 2.5",
+  "task_type": "reference",
+  "duration_seconds": 25,
+  "duration_meaning": "本段",
+  "aspect_ratio": "9:16",
+  "resolution": "投产前按实际界面及前段规格核对",
+  "status": "actual_video_accepted_as_is_continuation_exported",
+  "video_submitted": true,
+  "images": [
+    {
+      "tag": "图片1",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-001_起始帧_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片01_SHOT-EP002-001_起始帧_v001.png",
+      "purpose": "张咪黑猫近景，朝画右，背带可见、背枪在画外，双爪空着。",
+      "sha256": "827ee147658b13b8fb36aeca3424282bf7283940c37484e07ef4e394fde8de6d",
+      "status": "pending_creator_review"
+    },
+    {
+      "tag": "图片2",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-002_起始帧_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片02_SHOT-EP002-002_起始帧_v001.png",
+      "purpose": "关咪近景，朝画左，空爪、无背枪。",
+      "sha256": "5271da9e4d47e68750dabecbb06c7011310b9b40d46b456a9e3260bec5e944cf",
+      "status": "pending_creator_review"
+    },
+    {
+      "tag": "图片3",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-003_起始帧_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片03_SHOT-EP002-003_起始帧_v001.png",
+      "purpose": "刘咪双爪各持一枪，左右腰套为空；共两枪，收枪尚未开始。",
+      "sha256": "bb973015a01fc70a69ef0f2f928068c24ae1d016210d74aa6d98455e994b9789",
+      "status": "pending_creator_review"
+    },
+    {
+      "tag": "图片4",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-004_起始帧_v002.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片04_SHOT-EP002-004_起始帧_v002.png",
+      "purpose": "关咪空背在自行车左侧；枪仍在架上，两条固定带扣合；一袋留车、一袋在豆摊。",
+      "sha256": "39dadb9bbb872faf1cfcb0bf880f36d662fa027a763f3e00506d27ef5793d657",
+      "status": "pending_creator_review"
+    },
+    {
+      "tag": "图片5",
+      "source": "剧集/EP002/制作成果/images/IMG-EP002-002_三咪驾乘接触板_v005.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片05_IMG-EP002-002_三咪驾乘接触板_v005.png",
+      "purpose": "张咪驾驶、二咪对坐",
+      "sha256": "4f6846da2bd6e0e015cf0e1f08e22428d8a07c85d4d65d0a38ccb45806889e18"
+    },
+    {
+      "tag": "图片6",
+      "source": "剧集/EP002/制作成果/images/IMG-EP002-003_右脚刹三状态接触板_v007.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片06_IMG-EP002-003_右脚刹三状态接触板_v007.png",
+      "purpose": "脚刹前轴与三状态，不能当单幅首帧",
+      "sha256": "21c0b32a4957493ab0a2bd9bd90d845fd7ebf59900f76c8f1fc66fa1745eae8d"
+    },
+    {
+      "tag": "图片7",
+      "source": "剧集/EP002/制作成果/images/IMG-EP002-004_后斗放枪有枪空位板_v003.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片07_IMG-EP002-004_后斗放枪有枪空位板_v003.png",
+      "purpose": "后斗右座下枪槽",
+      "sha256": "28753ed9c42a6a63f1e60432335c2a69b149359d7254075c75033db64203c513"
+    },
+    {
+      "tag": "图片8",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-005_起始帧_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片08_SHOT-EP002-005_起始帧_v001.png",
+      "purpose": "放枪入槽前的车内构图",
+      "sha256": "f31b81331f01254a9407f863e6744d096a2e8e162dd435455c3705d6ca7b68d0"
+    },
+    {
+      "tag": "图片9",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-006_起始帧_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片09_SHOT-EP002-006_起始帧_v001.png",
+      "purpose": "刹车特写起点",
+      "sha256": "98725f4974c4146fffc5466746ce831692751af722635f026a60fea4661206f5"
+    }
+  ],
+  "audio": [
+    {
+      "tag": "音频1",
+      "role": "张咪",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考音频/音频01_张咪_本段原句.wav",
+      "sha256": "36c7328553bfd53a14d75f95ac102c0c28d98f9901acacd9f007e0d42daba4ea",
+      "duration_seconds": 7.45,
+      "dialogue_duration_seconds": 7.45,
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-001_张咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-007_张咪_Qwen_v001.wav"
+      ],
+      "source_entries": [
+        "SHOT-EP002-001",
+        "SHOT-EP002-007"
+      ],
+      "texts": [
+        "好身手！不打了。走，俺请二位喝羊奶！",
+        "我踏板质量很好。"
+      ],
+      "purpose": "同一角色本段原句的固定声线参考",
+      "may_control": [
+        "音色"
+      ],
+      "must_not_control": [
+        "台词",
+        "语气",
+        "情绪",
+        "背景声音"
+      ],
+      "status": "accepted_source_reference",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "tag": "音频2",
+      "role": "关咪",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考音频/音频02_关咪_本段原句.wav",
+      "sha256": "cad2b0cb6ab1a3415243e0222d2536eabffeb2686360ae67580817eb23541e60",
+      "duration_seconds": 2.2,
+      "dialogue_duration_seconds": 0.72,
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-002_关咪_Qwen_v001.wav"
+      ],
+      "source_entries": [
+        "SHOT-EP002-002"
+      ],
+      "texts": [
+        "请。"
+      ],
+      "purpose": "同一角色本段原句的固定声线参考",
+      "may_control": [
+        "音色"
+      ],
+      "must_not_control": [
+        "台词",
+        "语气",
+        "情绪",
+        "背景声音"
+      ],
+      "status": "accepted_source_reference",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    }
+  ],
+  "video": [],
+  "missing_inputs": [],
+  "members": [
+    {
+      "shot": "SHOT-EP002-001",
+      "motion": "MOTION-EP002-001",
+      "start_seconds": 0,
+      "end_seconds": 5,
+      "duration_seconds": 5
+    },
+    {
+      "shot": "SHOT-EP002-002",
+      "motion": "MOTION-EP002-002",
+      "start_seconds": 5,
+      "end_seconds": 7,
+      "duration_seconds": 2
+    },
+    {
+      "shot": "SHOT-EP002-003",
+      "motion": "MOTION-EP002-003",
+      "start_seconds": 7,
+      "end_seconds": 9,
+      "duration_seconds": 2
+    },
+    {
+      "shot": "SHOT-EP002-004",
+      "motion": "MOTION-EP002-004",
+      "start_seconds": 9,
+      "end_seconds": 12,
+      "duration_seconds": 3
+    },
+    {
+      "shot": "SHOT-EP002-005",
+      "motion": "MOTION-EP002-005",
+      "start_seconds": 12,
+      "end_seconds": 16,
+      "duration_seconds": 4
+    },
+    {
+      "shot": "SHOT-EP002-006",
+      "motion": "MOTION-EP002-006",
+      "start_seconds": 16,
+      "end_seconds": 20,
+      "duration_seconds": 4
+    },
+    {
+      "shot": "SHOT-EP002-007",
+      "motion": "MOTION-EP002-007",
+      "start_seconds": 20,
+      "end_seconds": 23,
+      "duration_seconds": 3
+    },
+    {
+      "shot": "SHOT-EP002-008",
+      "motion": "MOTION-EP002-008",
+      "start_seconds": 23,
+      "end_seconds": 25,
+      "duration_seconds": 2
+    }
+  ],
+  "prompt_file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/SEG001_提示词.txt",
+  "prompt_sha256": "3ea65c8a0f595a2a9c63c7af4dc5e04f4c526839f2e4e1c77fb96cd4acab7b43",
+  "download_target": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG001_v002.mp4",
+  "actual_output": {
+    "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG001_v002.mp4",
+    "sha256": "5237236404c509181359a9307ff01c2cb8a0fa4146e4393d6f49840f64cfb0db",
+    "duration_seconds": 25.056,
+    "resolution": [
+      480,
+      854
+    ],
+    "decoded_video_frames": 601,
+    "tail_frame": "剧集/EP002/制作成果/续接参考/SEG001_v002/SEG001_v002_真实尾帧.png",
+    "tail_sha256": "b8dfe6f299419f401821cdded18e19d2986ff17734ba7a4073d0bb4cb2214857",
+    "silent_video": "剧集/EP002/制作成果/续接参考/SEG001_v002/SEG001_v002_无音轨.mp4",
+    "silent_sha256": "056f2e0fbb8123ab82a1b0cc6b923dc7eb57b0175620f8b2f0269dba211c26c7",
+    "export_record": "剧集/EP002/制作成果/续接参考/SEG001_v002/SEG001_v002_续接记录.json",
+    "sound_status": "original_preserved_not_auditioned_this_turn",
+    "creator_accepted": true,
+    "acceptance_note": "用户明确回复：首段按现状采用，继续第二段。",
+    "acceptance_record": "剧集/EP002/制作成果/SEG001_视频采用记录_20261010.json"
+  },
+  "source_sha256": "190ccd1ca300f9fa55772ad6823183e9e2ae5dedd75d90eb8a19c9d0b6db7049",
+  "verified_continuity_context": {
+    "source": {
+      "path": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+      "sha256": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
+      "matches_published_export_source": true,
+      "readable_streams": true
+    },
+    "tail": {
+      "path": "剧集/EP002/制作成果/续接参考/EP001_画面母版v003_真实尾帧.png",
+      "source": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+      "source_sha256": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
+      "sha256": "fc74d47b82da32b6876151cfa7fe1aeb4c7e89968eed49379ec66e9f9fcfe438",
+      "source_frame_zero_based": 2973,
+      "source_frames": 2974,
+      "source_time_seconds": 123.875,
+      "extraction": "decode real source frame; no synthesis or redraw",
+      "visual_inspection": "已核看：刘咪前景背对镜头、双爪各持一枪；张咪画左背蛇形枪，关咪画右未持枪；关张停手，画面为日间集市。无后期对白字幕或名字卡，右下有源视频AI生成水印。",
+      "binding_limit": "真实尾帧供开场站位、持物和光线核对；不等同SHOT001胸口以上近景首帧。自行车与豆袋在此尾帧取景外，不能仅凭此帧确认其位置。"
+    },
+    "use": "已核看的来源证据；未作为SHOT001近景首帧或带水印生成参考自动上传"
+  },
+  "audio_status": "accepted",
+  "audio_acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json",
+  "pending_reviews": [
+    "SHOT001—004四张新增开场图"
+  ],
+  "opening_image_record": "剧集/EP002/制作成果/开场图生产记录_20261010.json",
+  "download_naming_note": "用户要求以v002区分第二集，本集分段视频命名为SEGxxx_v002.mp4。",
+  "submission_evidence": "用户报告视频在生成，随后报告 SEG001_v002.mp4 有了；本地文件已读取，助手未代提交。"
+}

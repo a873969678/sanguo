@@ -1,0 +1,39 @@
+{
+  "status": "generated_visual_check_passed_creator_review_pending",
+  "engine": "built-in image_gen",
+  "authorization": "用户要求先制作封面、参考第一集，随后明确标题用桃园结义；延续图片直接生产后审阅授权。",
+  "file": "剧集/EP002/制作成果/发布/三国群萌传_EP002_桃园结义_封面_v001.png",
+  "resolution": [
+    941,
+    1671
+  ],
+  "sha256": "120c8e4a268267162a306d6385469ca8c3b038aa267a16190b958c965c3c9c38",
+  "text": [
+    "三国群萌传",
+    "桃园结义",
+    "第2集",
+    "干杯！"
+  ],
+  "title_creator_confirmed": true,
+  "creator_accepted_image": true,
+  "reference_cover": "剧集/EP001/制作成果/发布/三国群萌传_EP001_关张初遇_封面_v001.png",
+  "character_reference": "公共素材/视觉参考/刘关张_小巧可爱_风格母版_定稿.png",
+  "bowl_and_scene_reference": "剧集/EP002/制作成果/images/IMG-EP002-017_三咪共同捧碗舔奶组合_v002.png",
+  "selected_generated_source": "C:/Users/Administrator/.codex/generated_images/01a1233c-f4b2-70e1-949e-1237a41cd381/exec-6f8a83c7-cc77-4359-b6bb-98f82e8bf982.png",
+  "generation_attempts": 2,
+  "revision": "用户指定将羊奶结义改为桃园结义，保留构图与其他文字。",
+  "prompt_file": "剧集/EP002/制作成果/发布/封面提示词_v001.txt",
+  "checked": [
+    "四组文字正确",
+    "三咪身份及配色沿用",
+    "共三只浅青瓷碗和羊奶",
+    "无携枪或枪堆",
+    "沿用第一集标题层级与竖版版式"
+  ],
+  "published": false,
+  "inserted_into_video": true,
+  "creator_acceptance_evidence": "用户要求把该封面合到视频",
+  "video": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_高清修复_v008.mp4",
+  "intro_duration_seconds": 1.5,
+  "latest_video_render": "v008直接使用高清封面原图输出1080×1920"
+}

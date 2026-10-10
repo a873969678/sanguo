@@ -1,0 +1,38 @@
+{
+  "status": "technical_check_passed_pending_user_review",
+  "source": "剧集/EP002/制作成果/成片/EP002_衔接修复_配乐口令_v003.mp4",
+  "source_sha256": "f582906aaef109cbd6c69b60458cd9c6c2b4f75939626f5753364086b853aa5d",
+  "output": "剧集/EP002/制作成果/成片/EP002_枪堆避让_配乐口令_v004.mp4",
+  "issue": "地面枪堆被生成成相似长管，丢失三套独立武器身份",
+  "method": "收紧原有关火镜头取景，把错误枪堆置于画外；没有重绘或声称还原武器",
+  "range_frames_half_open": [
+    1519,
+    1598
+  ],
+  "range_seconds": [
+    63.291666666666664,
+    66.58333333333333
+  ],
+  "crop_xywh": [
+    51,
+    0,
+    378,
+    672
+  ],
+  "output_size": [
+    480,
+    854
+  ],
+  "audio": "原音轨直接复制",
+  "duration_unchanged": 117.625,
+  "creator_accepted": false,
+  "dance_regeneration_pending": true,
+  "output_sha256": "0deb959ee9928a91beb4582a148410089b15cd01729088729d2737311d41981e",
+  "preview": "剧集/EP002/制作成果/成片/EP002_关火镜头_枪堆避让预览_v004.mp4",
+  "verification": {
+    "decoded_frames": 2823,
+    "video_duration_seconds": 117.625,
+    "audio_packet_hash_identical": true,
+    "decode_errors": 0
+  }
+}

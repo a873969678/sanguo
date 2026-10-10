@@ -1,0 +1,64 @@
+{
+  "status": "integrated_technical_checks_passed_pending_review",
+  "base": "剧集/EP002/制作成果/成片/EP002_撤回反应镜_待补转场_v005.mp4",
+  "base_sha256": "63081bcb58aa90a957ba34d5b5fd4c932dde538ad526aea3b4d7d550cde8e28f",
+  "bridge": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG003_BRIDGE_v002.mp4",
+  "bridge_sha256": "db1576940657df4d48ee38d482b88b3ef5cdf79b901fcc545d726d2845cbc77f",
+  "creator_accepted_bridge": true,
+  "creator_feedback": "SEG003_BRIDGE_v002 可以了",
+  "bridge_original": {
+    "width": 720,
+    "height": 1280,
+    "frames": 97,
+    "video_duration": 4.016667,
+    "avg_frame_rate": "5820/241"
+  },
+  "bridge_used": {
+    "in_seconds": 0,
+    "out_seconds": 4,
+    "output_frames": 96,
+    "fps": 24,
+    "resolution": [
+      480,
+      854
+    ]
+  },
+  "insert_time_seconds": 58.208333333333336,
+  "insert_before_base_frame": 1397,
+  "output": "剧集/EP002/制作成果/成片/EP002_补入走位_配乐口令_v006.mp4",
+  "master_audio": "剧集/EP002/制作成果/audio/配乐/EP002_补镜后完整混音_v003.wav",
+  "duration_seconds": 121.625,
+  "expected_frames": 2919,
+  "audio": "保留基片对白、动作声及配乐；新增段保留原动作声、补同系列轻器乐，接缝8ms微淡；原所有后续声音延后4秒",
+  "bridge_asr_note": "无VAD的低置信度重复文本判为不可靠；VAD检测语音0秒，无可辨识台词证据。",
+  "music_fill": {
+    "source": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-02_搬盘分肉_v001.wav",
+    "source_in": 18.7083333333333,
+    "length": 4,
+    "rms_dbfs": -33,
+    "fade_seconds": 0.25
+  },
+  "callouts": [
+    {
+      "text": "闪身步",
+      "timeline_in": 107.75,
+      "timeline_out": 109.02
+    },
+    {
+      "text": "狗熊哆嗦毛",
+      "timeline_in": 114.625,
+      "timeline_out": 116.405
+    }
+  ],
+  "dance_replacement_pending": true,
+  "creator_accepted_full_delivery": false,
+  "output_sha256": "4f2a26665795b984c7af9a8778cba661fe762e5f82802592b2b942ca01325421",
+  "preview": "剧集/EP002/制作成果/成片/EP002_走到桌前_接入预览_v006.mp4",
+  "verification": {
+    "frames": 2919,
+    "video_duration_seconds": 121.625,
+    "decode_errors": 0,
+    "lufs": "-16.01",
+    "true_peak_dbtp": "-1.34"
+  }
+}

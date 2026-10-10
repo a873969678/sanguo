@@ -1,0 +1,329 @@
+{
+  "date": "2026-10-10",
+  "recorded_at_utc": "2026-10-10T03:39:52Z",
+  "status": "accepted",
+  "user_message": "可以",
+  "context": "用户询问在哪试听，助手展示SEG001—SEG005五段逐角色串听后，用户回复可以。",
+  "scope": "本批EP002 22条新台词音频；12份分段参考沿用这些已接受源音频。",
+  "limits": "合声成片同步、视频生成结果和后期口型尚未验收；三咪公共声线不变。",
+  "single_lines": [
+    {
+      "shot": "SHOT-EP002-001",
+      "role": "张咪",
+      "text": "好身手！不打了。走，俺请二位喝羊奶！",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-001_张咪_Qwen_v001.wav",
+      "sha256": "7ece956626bd0e1a4dbc5f5eaad5c27c1ab04394c6ff680b83b09121b70d5aff",
+      "duration_seconds": 5.36
+    },
+    {
+      "shot": "SHOT-EP002-002",
+      "role": "关咪",
+      "text": "请。",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-002_关咪_Qwen_v001.wav",
+      "sha256": "7a654fc7e6cba5ad680af796b68384252c5d30fd5529237bf73f0101372975d4",
+      "duration_seconds": 0.72
+    },
+    {
+      "shot": "SHOT-EP002-007",
+      "role": "张咪",
+      "text": "我踏板质量很好。",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-007_张咪_Qwen_v001.wav",
+      "sha256": "745dce603363c2c3548103e4cd393a93073ccbe5c1ba024c8f1d46b7cd2ecb75",
+      "duration_seconds": 1.84
+    },
+    {
+      "shot": "SHOT-EP002-009",
+      "role": "张咪",
+      "text": "俺叫张咪！",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_张咪_Qwen_v001.wav",
+      "sha256": "fccc528a597f7ed06f96ba24677bc8f4fe8adfa31b1154f55baff133576b7435",
+      "duration_seconds": 0.96
+    },
+    {
+      "shot": "SHOT-EP002-009",
+      "role": "刘咪",
+      "text": "在下刘咪。",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_刘咪_Qwen_v001.wav",
+      "sha256": "2c0422b369dd64bda7d6b42041e080e6a7573a07f2efa1769ae5851553a703f2",
+      "duration_seconds": 1.28
+    },
+    {
+      "shot": "SHOT-EP002-009",
+      "role": "关咪",
+      "text": "关咪。",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_关咪_Qwen_v001.wav",
+      "sha256": "3016a9837a3f575d8d3cad41f73337cac03ffc25e304df1115902a677655e013",
+      "duration_seconds": 0.8
+    },
+    {
+      "shot": "SHOT-EP002-013",
+      "role": "刘咪",
+      "text": "方才好本事，为何在此卖豆？",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-013_刘咪_Qwen_v001.wav",
+      "sha256": "ef29f5a78c6a3ff20614eeb9875c961e61bd9020717d2dc86bd904245324bd0f",
+      "duration_seconds": 2.48
+    },
+    {
+      "shot": "SHOT-EP002-014",
+      "role": "关咪",
+      "text": "在家乡杀了欺压乡里的恶霸，只得四处漂泊。",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-014_关咪_Qwen_v001.wav",
+      "sha256": "1fa11d5fcaf596f548ca5d5d7899bc5ce7ce0e00ab0de207f75c9756ee8efeee",
+      "duration_seconds": 4.8
+    },
+    {
+      "shot": "SHOT-EP002-015",
+      "role": "关咪",
+      "text": "这身本领，总得有个用处。",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-015_关咪_Qwen_v001.wav",
+      "sha256": "86204e9ce7cbfea26094e492078009b0698eaca42a6a232894d8e17af120b5dc",
+      "duration_seconds": 2.72
+    },
+    {
+      "shot": "SHOT-EP002-016",
+      "role": "刘咪",
+      "text": "如今乱世，我想召集乡勇，护众咪安生。只是缺钱，也缺帮手。",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-016_刘咪_Qwen_v001.wav",
+      "sha256": "56796949844eac743bc0fe4844810a21f7b32b3be5b450fe55061e3e7aa11559",
+      "duration_seconds": 6.48
+    },
+    {
+      "shot": "SHOT-EP002-017",
+      "role": "张咪",
+      "text": "钱，俺出！你说怎么干！",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-017_张咪_Qwen_v001.wav",
+      "sha256": "e2dde424b5b788909bdd7f3433a6971b7d6818d3c0341bcdf947ca4abb3c48a0",
+      "duration_seconds": 3.12
+    },
+    {
+      "shot": "SHOT-EP002-018",
+      "role": "关咪",
+      "text": "我随你去。",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-018_关咪_Qwen_v001.wav",
+      "sha256": "3816fbdf70b60cc5a742a033023a5fea92a0a4b96ed5994fedee581971c5cf74",
+      "duration_seconds": 1.12
+    },
+    {
+      "shot": "SHOT-EP002-020",
+      "role": "刘咪",
+      "text": "二位若不嫌弃，今日结为兄弟，如何？",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-020_刘咪_Qwen_v001.wav",
+      "sha256": "28c3298878cfbad6f4f9ba91a91df2ec89adad62dc341343fb92eae44e82fda9",
+      "duration_seconds": 3.2
+    },
+    {
+      "shot": "SHOT-EP002-021",
+      "role": "关咪",
+      "text": "愿与兄患难同当，生死相随。",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-021_关咪_Qwen_v001.wav",
+      "sha256": "685ee67cf84a418318418402831a75047cce16f3f578a55b6da4bdac97914cd4",
+      "duration_seconds": 3.76
+    },
+    {
+      "shot": "SHOT-EP002-022",
+      "role": "张咪",
+      "text": "俺也一样！",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-022_张咪_Qwen_v001.wav",
+      "sha256": "5bdb6e8477a994ee19d4a8c6bf3d8b4d2c9eecaa811998e045ab88a52c6d6eb3",
+      "duration_seconds": 1.36
+    },
+    {
+      "shot": "SHOT-EP002-024",
+      "role": "刘咪",
+      "text": "同心协力，救困扶危！不求同年同月同日生，但求同年同月同日死！",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_刘咪_Qwen_v001.wav",
+      "sha256": "477c904061f2282adb5d516467d6894a4749d37383fcb16c4764ea5e61a53f50",
+      "duration_seconds": 6.24
+    },
+    {
+      "shot": "SHOT-EP002-024",
+      "role": "关咪",
+      "text": "同心协力，救困扶危！不求同年同月同日生，但求同年同月同日死！",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_关咪_Qwen_v001.wav",
+      "sha256": "9f49d46bc005b86ac5a7f93ec0ceb3da369b896f5cae7d9b275e52d097691cff",
+      "duration_seconds": 8.32
+    },
+    {
+      "shot": "SHOT-EP002-024",
+      "role": "张咪",
+      "text": "同心协力，救困扶危！不求同年同月同日生，但求同年同月同日死！",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_张咪_Qwen_v001.wav",
+      "sha256": "1c8233caed581bede9e8def4695bac7a8379a17bb144e9e91879dad038d14c2b",
+      "duration_seconds": 6.72
+    },
+    {
+      "shot": "SHOT-EP002-025",
+      "role": "关咪",
+      "text": "大哥！",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-025_关咪_Qwen_v001.wav",
+      "sha256": "eeff2c6bc6c1a866048282727d02e1656d9eeeb59dc13f68e7ad61dfc442aa15",
+      "duration_seconds": 0.8
+    },
+    {
+      "shot": "SHOT-EP002-025",
+      "role": "张咪",
+      "text": "大哥！",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-025_张咪_Qwen_v001.wav",
+      "sha256": "d07095ecfb383fb985a0f88ae96059f89621ab2263b651746e10ba04d17542c9",
+      "duration_seconds": 0.88
+    },
+    {
+      "shot": "SHOT-EP002-026",
+      "role": "刘咪",
+      "text": "二弟，三弟！",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-026_刘咪_Qwen_v001.wav",
+      "sha256": "83f93b513803ebe4c5b8a315ac113eabb57f3e9d61e32568a8b849063ea143d4",
+      "duration_seconds": 1.76
+    },
+    {
+      "shot": "SHOT-EP002-032",
+      "role": "张咪",
+      "text": "干！",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-032_张咪_Qwen_v001.wav",
+      "sha256": "6f574673a03553c10586f1fb57d68faaa55b6a6eeda432d890977ad17e08d179",
+      "duration_seconds": 0.88
+    }
+  ],
+  "segment_references": [
+    {
+      "segment": "SEG001",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考音频/音频01_张咪_本段原句.wav",
+      "sha256": "36c7328553bfd53a14d75f95ac102c0c28d98f9901acacd9f007e0d42daba4ea",
+      "role": "张咪",
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-001_张咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-007_张咪_Qwen_v001.wav"
+      ]
+    },
+    {
+      "segment": "SEG001",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考音频/音频02_关咪_本段原句.wav",
+      "sha256": "cad2b0cb6ab1a3415243e0222d2536eabffeb2686360ae67580817eb23541e60",
+      "role": "关咪",
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-002_关咪_Qwen_v001.wav"
+      ]
+    },
+    {
+      "segment": "SEG002",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考音频/音频01_张咪_本段原句.wav",
+      "sha256": "fcfe2d08761a7b950361075be85e0328439d658d92408043aa77bc29a02238f9",
+      "role": "张咪",
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_张咪_Qwen_v001.wav"
+      ]
+    },
+    {
+      "segment": "SEG002",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考音频/音频02_刘咪_本段原句.wav",
+      "sha256": "be97509cb9d8599728efe8aa6e01247782cacc5f5e1666b3b091a8166babb2a1",
+      "role": "刘咪",
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_刘咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-013_刘咪_Qwen_v001.wav"
+      ]
+    },
+    {
+      "segment": "SEG002",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考音频/音频03_关咪_本段原句.wav",
+      "sha256": "35e26b88bbaa3ada6d557391ed883dbfe46ceab80155e66fbc828637a0d08198",
+      "role": "关咪",
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_关咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-014_关咪_Qwen_v001.wav"
+      ]
+    },
+    {
+      "segment": "SEG003",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考音频/音频01_关咪_本段原句.wav",
+      "sha256": "509cf7eecb7c32d0254547d38ab51619d6b8d7a3d25ddd075ef558f1d627528a",
+      "role": "关咪",
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-015_关咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-018_关咪_Qwen_v001.wav"
+      ]
+    },
+    {
+      "segment": "SEG003",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考音频/音频02_刘咪_本段原句.wav",
+      "sha256": "dcd6cc5185a20817905b086121552f1911f95a49f885c82b071fc0e26f4e1638",
+      "role": "刘咪",
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-016_刘咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-020_刘咪_Qwen_v001.wav"
+      ]
+    },
+    {
+      "segment": "SEG003",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考音频/音频03_张咪_本段原句.wav",
+      "sha256": "e2dde424b5b788909bdd7f3433a6971b7d6818d3c0341bcdf947ca4abb3c48a0",
+      "role": "张咪",
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-017_张咪_Qwen_v001.wav"
+      ]
+    },
+    {
+      "segment": "SEG004",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考音频/音频01_关咪_本段原句.wav",
+      "sha256": "8510d48fa6bf79ae0090849fe224e3ae63ab0e6346aaff9addd212ae53e29c3b",
+      "role": "关咪",
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-021_关咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_关咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-025_关咪_Qwen_v001.wav"
+      ]
+    },
+    {
+      "segment": "SEG004",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考音频/音频02_张咪_本段原句.wav",
+      "sha256": "4956088f5cd9226855d7bbff4e1b5e5aae7ca180d69ae0df3f4004e62107e9c7",
+      "role": "张咪",
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-022_张咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_张咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-025_张咪_Qwen_v001.wav"
+      ]
+    },
+    {
+      "segment": "SEG004",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考音频/音频03_刘咪_本段原句.wav",
+      "sha256": "b55ebb0d6abc27ed315ee7757adf6f5f455c28c7b797cba246b385ab448d3168",
+      "role": "刘咪",
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_刘咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-026_刘咪_Qwen_v001.wav"
+      ]
+    },
+    {
+      "segment": "SEG005",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考音频/音频01_张咪_本段原句.wav",
+      "sha256": "b6cf08d592ae4be6379c80a2a9c7ac972ae98855bf95ace12e509dd5e659f355",
+      "role": "张咪",
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-032_张咪_Qwen_v001.wav"
+      ]
+    }
+  ],
+  "presented_auditions": [
+    {
+      "file": "剧集/EP002/制作成果/audio/配音/试听/SEG001_逐角色串听_v001.wav",
+      "sha256": "fdafad9bd48fca3a29334b81b07be928c5705736338aab7c4d76f96220b75cc8"
+    },
+    {
+      "file": "剧集/EP002/制作成果/audio/配音/试听/SEG002_逐角色串听_v001.wav",
+      "sha256": "1031b1041c13d6eceed5a79f83fc052212d9ac5d12d516ac957409a588a15850"
+    },
+    {
+      "file": "剧集/EP002/制作成果/audio/配音/试听/SEG003_逐角色串听_v001.wav",
+      "sha256": "67ef1c96c890cda7e4a40a6f60e0b3dcc951994f9002432473ba67ee5e079189"
+    },
+    {
+      "file": "剧集/EP002/制作成果/audio/配音/试听/SEG004_逐角色串听_v001.wav",
+      "sha256": "b10873aefb652b5350e5ece764e00f2f9d315385730ac1f3621934212f6235c9"
+    },
+    {
+      "file": "剧集/EP002/制作成果/audio/配音/试听/SEG005_逐角色串听_v001.wav",
+      "sha256": "6f574673a03553c10586f1fb57d68faaa55b6a6eeda432d890977ad17e08d179"
+    }
+  ]
+}

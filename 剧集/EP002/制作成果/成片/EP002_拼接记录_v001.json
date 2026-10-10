@@ -1,0 +1,164 @@
+{
+  "status": "original_SEG005_restored_music_delivery_available",
+  "output": "剧集/EP002/制作成果/成片/EP002_拼接_竖排名字卡_v001.mp4",
+  "segments": [
+    {
+      "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG001_v002.mp4",
+      "sha256": "5237236404c509181359a9307ff01c2cb8a0fa4146e4393d6f49840f64cfb0db",
+      "duration_seconds": 25.056,
+      "video_duration_seconds": 25.041667,
+      "decoded_frames": 601,
+      "resolution": [
+        480,
+        854
+      ],
+      "fps": "24/1",
+      "audio_stream_count": 1,
+      "timeline_in_seconds": 0,
+      "timeline_out_seconds": 25.041666666666668
+    },
+    {
+      "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG002_v002.mp4",
+      "sha256": "193c483b158481b5d52550990b4c21ceec0c40d4a050d4e269edf88af6205c3f",
+      "duration_seconds": 25.056,
+      "video_duration_seconds": 25.041667,
+      "decoded_frames": 601,
+      "resolution": [
+        480,
+        854
+      ],
+      "fps": "24/1",
+      "audio_stream_count": 1,
+      "timeline_in_seconds": 25.041666666666668,
+      "timeline_out_seconds": 50.083333333333336
+    },
+    {
+      "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG003_v002_局部修复.mp4",
+      "sha256": "e6361c9645a3db82f44c5ecd028a0d99859d44c6c4bfd289d36932dcb31c9d1d",
+      "duration_seconds": 24.064,
+      "video_duration_seconds": 24.041667,
+      "decoded_frames": 577,
+      "resolution": [
+        480,
+        854
+      ],
+      "fps": "24/1",
+      "audio_stream_count": 1,
+      "timeline_in_seconds": 50.083333333333336,
+      "timeline_out_seconds": 74.125
+    },
+    {
+      "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+      "sha256": "cc06625a2fb78c945fe45eb1f0a97c0222dba2c0f673330350ba585df1bcb55c",
+      "duration_seconds": 20.0,
+      "video_duration_seconds": 20.0,
+      "decoded_frames": 480,
+      "resolution": [
+        480,
+        854
+      ],
+      "fps": "24/1",
+      "audio_stream_count": 1,
+      "timeline_in_seconds": 74.125,
+      "timeline_out_seconds": 94.125
+    },
+    {
+      "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG005_v002.mp4",
+      "sha256": "73bf01d0f409aa5e081cad57281f3b7a579206becea6b6a980585f9968bf0b4f",
+      "duration_seconds": 26.0,
+      "video_duration_seconds": 26.0,
+      "decoded_frames": 624,
+      "resolution": [
+        748,
+        562
+      ],
+      "fps": "24/1",
+      "audio_stream_count": 1,
+      "timeline_in_seconds": 94.125,
+      "timeline_out_seconds": 120.125
+    }
+  ],
+  "duration_seconds": 120.125,
+  "frames": 2883,
+  "cards": [
+    {
+      "name": "张咪",
+      "start": 0.25,
+      "end": 2.85,
+      "x": 408,
+      "y": 64
+    },
+    {
+      "name": "关咪",
+      "start": 5.08,
+      "end": 6.92,
+      "x": 390,
+      "y": 44
+    },
+    {
+      "name": "刘咪",
+      "start": 7.08,
+      "end": 8.92,
+      "x": 414,
+      "y": 60
+    }
+  ],
+  "dialogue_subtitles": false,
+  "added_music": false,
+  "original_audio_preserved": true,
+  "creator_accepted": false,
+  "font": "KaiTi / simkai.ttf",
+  "namecard_ass": "剧集/EP002/制作成果/成片/EP002_竖排名字卡_v001.ass",
+  "sha256": "17f9be31f56bf77d9ac0f22d891ab967d60e156d704dba5a613cd02c944509c4",
+  "technical_verification": {
+    "decoded_frames": 2883,
+    "video_duration_seconds": 120.125,
+    "container_duration_seconds": 120.125,
+    "resolution": [
+      480,
+      854
+    ],
+    "fps": 24,
+    "full_decode": "passed",
+    "subtitle_streams": 0,
+    "namecard_events": 6,
+    "audio_checks": [
+      {
+        "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG001_v002.mp4",
+        "decoded_audio_correlation": 0.9997670076777365,
+        "note": "原声与拼接后相应区间相关性；AAC重新编码，非码流复制"
+      },
+      {
+        "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG002_v002.mp4",
+        "decoded_audio_correlation": 0.9997369432975439,
+        "note": "原声与拼接后相应区间相关性；AAC重新编码，非码流复制"
+      },
+      {
+        "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG003_v002_局部修复.mp4",
+        "decoded_audio_correlation": 0.999893577763485,
+        "note": "原声与拼接后相应区间相关性；AAC重新编码，非码流复制"
+      },
+      {
+        "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+        "decoded_audio_correlation": 0.9998812089122994,
+        "note": "原声与拼接后相应区间相关性；AAC重新编码，非码流复制"
+      },
+      {
+        "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG005_v002.mp4",
+        "decoded_audio_correlation": 0.9998479256652859,
+        "note": "原声与拼接后相应区间相关性；AAC重新编码，非码流复制"
+      }
+    ],
+    "audio_peak": 1.2257273197174072,
+    "preview_contact": "D:\\git\\.sanguo-runtime\\tmp\\ep002_assemble_v001\\namecards_and_framing.jpg",
+    "cut_contact": "D:\\git\\.sanguo-runtime\\tmp\\ep002_assemble_v001\\cuts.jpg"
+  },
+  "visual_verification": {
+    "namecards": "已查看三个名字卡实际成片抽帧，楷体竖排可读，未遮挡猫脸和爪部动作。",
+    "cuts": "已查看四个段间切点前后帧，未发现新增黑帧。第五段为既定回桌旁时间省略。",
+    "fifth_segment": "已查看舞步全身画面，三咪均完整保留在居中横向画面，上下柔化填充。",
+    "scope": "抽帧视觉检查与全片技术解码；未宣称逐帧内容审查或完整人工回听。"
+  },
+  "current_delivery": "剧集/EP002/制作成果/成片/EP002_配乐与舞蹈口令_v002.mp4",
+  "latest_user_choice": "恢复原第五段，不再重生成；配乐和舞蹈原声口令已混入新成片，待回听。"
+}

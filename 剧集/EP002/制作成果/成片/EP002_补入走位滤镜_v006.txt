@@ -1,0 +1,1 @@
+[0:v]split=2[a][c];[a]trim=end_frame=1397,setpts=PTS-STARTPTS[v0];[1:v]fps=24,trim=end_frame=96,setpts=PTS-STARTPTS,scale=480:854:flags=lanczos,setsar=1[v1];[c]trim=start_frame=1397,setpts=PTS-STARTPTS[v2];[v0][v1][v2]concat=n=3:v=1:a=0[v]

@@ -1,0 +1,73 @@
+{
+  "authorization": "用户要求更换配乐，并选择参考《这一拜》的庄重气氛、无歌词民乐、突出誓词；本次本地免费推理，三条源音乐。",
+  "source": "D:/git/sanguo/剧集/EP002/视频提示词.md",
+  "source_entry": "时间线音乐·v010民乐替换",
+  "model": "acestep-v15-turbo",
+  "device": "cpu",
+  "inference_steps": 8,
+  "tracks": [
+    {
+      "id": "BGM-EP002-01",
+      "name": "同行",
+      "duration": 46,
+      "bpm": 84,
+      "keyscale": "D major",
+      "seed": 101001,
+      "caption": "Instrumental Chinese historical television drama underscore. Warm bamboo flute, sparse pipa plucks, soft bowed strings, restrained wooden percussion. A relaxed journey and friendly conversation, graceful pentatonic original melody, understated and spacious arrangement, acoustic ensemble, gentle pulse, clean studio sound. No vocals, no humming, no choir, no electronic beat."
+    },
+    {
+      "id": "BGM-EP002-02",
+      "name": "桃园叙谈",
+      "duration": 36,
+      "bpm": 72,
+      "keyscale": "G major",
+      "seed": 101002,
+      "caption": "Instrumental Chinese period drama dialogue underscore. Warm low erhu, guqin and soft sheng chords, a few delicate pipa notes, quiet hand drum. Intimate brotherly conversation in a peaceful peach garden, sincere and restrained, sparse original pentatonic phrases with long breathing spaces, acoustic small ensemble. No vocals, no choir, no humming, no modern drums."
+    },
+    {
+      "id": "BGM-EP002-03",
+      "name": "结义誓言",
+      "duration": 30,
+      "bpm": 64,
+      "keyscale": "D major",
+      "seed": 101003,
+      "caption": "Instrumental Chinese historical epic oath ceremony. Solemn noble brotherhood, dignified and heartfelt. Deep sustained bowed strings and sheng, expressive low erhu with broad slow original pentatonic phrases, sparse low Chinese ceremonial drum strokes. Gradual warm uplifting resolution, restrained orchestration leaving space for spoken vows. Acoustic ensemble, no vocals, no choir, no humming, no pop beat."
+    }
+  ],
+  "results": [
+    {
+      "id": "BGM-EP002-01",
+      "name": "同行",
+      "duration": 46,
+      "bpm": 84,
+      "keyscale": "D major",
+      "seed": 101001,
+      "caption": "Instrumental Chinese historical television drama underscore. Warm bamboo flute, sparse pipa plucks, soft bowed strings, restrained wooden percussion. A relaxed journey and friendly conversation, graceful pentatonic original melody, understated and spacious arrangement, acoustic ensemble, gentle pulse, clean studio sound. No vocals, no humming, no choir, no electronic beat.",
+      "output": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\BGM-EP002-01_同行_v001.wav",
+      "elapsed_seconds": 111.71235704421997
+    },
+    {
+      "id": "BGM-EP002-02",
+      "name": "桃园叙谈",
+      "duration": 36,
+      "bpm": 72,
+      "keyscale": "G major",
+      "seed": 101002,
+      "caption": "Instrumental Chinese period drama dialogue underscore. Warm low erhu, guqin and soft sheng chords, a few delicate pipa notes, quiet hand drum. Intimate brotherly conversation in a peaceful peach garden, sincere and restrained, sparse original pentatonic phrases with long breathing spaces, acoustic small ensemble. No vocals, no choir, no humming, no modern drums.",
+      "output": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\BGM-EP002-02_桃园叙谈_v001.wav",
+      "elapsed_seconds": 92.46276092529297
+    },
+    {
+      "id": "BGM-EP002-03",
+      "name": "结义誓言",
+      "duration": 30,
+      "bpm": 64,
+      "keyscale": "D major",
+      "seed": 101003,
+      "caption": "Instrumental Chinese historical epic oath ceremony. Solemn noble brotherhood, dignified and heartfelt. Deep sustained bowed strings and sheng, expressive low erhu with broad slow original pentatonic phrases, sparse low Chinese ceremonial drum strokes. Gradual warm uplifting resolution, restrained orchestration leaving space for spoken vows. Acoustic ensemble, no vocals, no choir, no humming, no pop beat.",
+      "output": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\BGM-EP002-03_结义誓言_v001.wav",
+      "elapsed_seconds": 75.12303018569946
+    }
+  ],
+  "status": "generated_pending_listening"
+}

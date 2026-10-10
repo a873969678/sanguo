@@ -1,0 +1,41 @@
+{
+  "status": "creator_accepted_final",
+  "source": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\三国群萌传_EP002_桃园结义_民乐新版_v010.mp4",
+  "output": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\三国群萌传_EP002_桃园结义_2K超分修复_v011.mp4",
+  "source_sha256": "92ec20e2330bc64b428cf5d1b74e9b7449543887a9aea58d76817f4d4cf005d0",
+  "model": "Real-ESRGAN realesr-animevideov3 x2 ncnn Vulkan",
+  "model_source": "https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan",
+  "method": "v010 frames downsampled to720x1280; neural x2 to1440x2560; 65% SR plus35% Lanczos source. Cover frames0-35 and new bear dance2779-2946 use direct Lanczos from v010 to retain existing high-resolution detail.",
+  "output_resolution": [
+    1440,
+    2560
+  ],
+  "fps": 24,
+  "frames": 2947,
+  "duration": 122.79166666666667,
+  "audio": "AAC stream copy from v010; dialogue, music and dance callouts unchanged",
+  "limitations": "Model-inferred edge restoration; not native 2K footage and not recovery of verifiable original detail.",
+  "elapsed_seconds": 809.3747284412384,
+  "comparisons": [
+    "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\画质对比_v011\\compare_0180.jpg",
+    "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\画质对比_v011\\compare_0744.jpg",
+    "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\画质对比_v011\\compare_1344.jpg",
+    "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\画质对比_v011\\compare_2064.jpg",
+    "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\画质对比_v011\\compare_2640.jpg",
+    "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\画质对比_v011\\compare_2856.jpg"
+  ],
+  "verification": {
+    "decoded_frames": 2947,
+    "duration": "122.791667",
+    "audio_packet_sha256_identical": true,
+    "audio_packet_hash": "SHA256=60d1aa6516442b03ceb3f1f53181671107668a5a2a48b72dce95220dd3388c46",
+    "output_sha256": "7135b88b76410fe7dfe180f80342ee913db7621bb5569624db644e6e5fe5ea1d",
+    "file_size_bytes": 147320667
+  },
+  "visual_review": "已查看开场关咪特写、入园动作、烤虾叙谈、结拜、闪身步与新狗熊舞蹈六处同帧对比，并抽查30—32秒动作连续帧。线条与小块压缩噪声改善；运动模糊仍存在。未将自动超分或技术检查视为用户接受。",
+  "creator_accepted_final": true,
+  "creator_acceptance_evidence": "成品可以了，现在删除多余的视频和脚本等无用文件",
+  "cleanup_record": "剧集/EP002/制作成果/定稿清理记录_20261010_v011.json",
+  "comparison_previews_removed_after_acceptance": true,
+  "source_video_removed_after_acceptance": true
+}

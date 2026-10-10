@@ -1,0 +1,36 @@
+{
+  "reason": "更新引用后按用户要求删除被替换图片；只删本轮失败图及SEG001不再绑定的旧复制件",
+  "files": [
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\images\\SHOT-EP002-004_起始帧_v001.png",
+      "sha256": "89f1b86e4777e413de15841ea72eeadbeac459f4d65e9093a055df5e1707aa1a",
+      "status": "deleted"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1233c-f4b2-70e1-949e-1237a41cd381\\exec-08f0034c-0cb9-4e51-b85c-6cd5de5d1998.png",
+      "sha256": "89f1b86e4777e413de15841ea72eeadbeac459f4d65e9093a055df5e1707aa1a",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\即梦2.5分段提交包\\SEG001\\参考图片\\图片01_刘关张_小巧可爱_风格母版_定稿.png",
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\即梦2.5分段提交包\\SEG001\\参考图片\\图片02_刘咪双枪_卡通道具板_定稿.png",
+      "sha256": "e722470c536504e4db19c61643937342030134f8826c6eb08aa9e58eb48a2401",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\即梦2.5分段提交包\\SEG001\\参考图片\\图片03_关咪枪械_卡通道具板_定稿.png",
+      "sha256": "8c24d06529d88cf807f02f5184bf836ff686a62ba02988125cf8742ff3894f84",
+      "status": "deleted"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\即梦2.5分段提交包\\SEG001\\参考图片\\图片04_关咪自行车_挂枪道具板_v003.png",
+      "sha256": "526004d33430ae63b5905238ec4aeb3ee4b0575e3a87ff9cf3ff29395d6b270c",
+      "status": "deleted"
+    }
+  ],
+  "status": "completed"
+}

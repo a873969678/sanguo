@@ -1,0 +1,133 @@
+{
+  "status": "creator_accepted_final",
+  "user_request": "新片前七秒替换狗熊哆嗦毛，原闪身步不替换；整集画质统一修复",
+  "base": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_含封面_v007.mp4",
+  "base_sha256": "ca2bf920af59db84248f91c25726017a9c435a34fede07c64629cde26f0b1cda",
+  "download": "D:\\下载\\jimeng-2026-10-10-7667-制作14秒、4_3横屏的三只猫同步舞蹈视频。采用@图片1中的原片画风和桃花园场景....mp4",
+  "source": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG005_DANCE_v002.mp4",
+  "source_sha256": "dcec4eb9d50ad380e3a26d1bbcada4ebae7f5d6bb6828599281dde5e0d72a761",
+  "source_used_seconds": [
+    0,
+    7
+  ],
+  "source_used_for": "MOTION-EP002-035",
+  "preserved_flash": "MOTION-EP002-034 原有全部画面与时间",
+  "replace_base_range_seconds": [
+    115.79166666666667,
+    123.125
+  ],
+  "replacement_output_range_seconds": [
+    115.79166666666667,
+    122.79166666666667
+  ],
+  "cut_frame_zero_based": 2779,
+  "expected_frames": 2947,
+  "expected_duration_seconds": 122.79166666666667,
+  "output": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_高清修复_v008.mp4",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "creator_accepted_final": true,
+  "quality_method": "旧正片轻度时空降噪 hqdn3d(0.6,0.45,1.0,0.75)，Lanczos放大，轻度亮度锐化；原封面和新舞蹈直接从原始高清素材处理，不先降至480P。非生成式修复，不声称恢复原本不存在的真实细节。",
+  "audio": "保留v007完整混音至新终点；两句原声口令时间不变；尾部0.8秒追加平滑淡出。不采用新舞蹈自带音轨。",
+  "callouts": [
+    {
+      "text": "闪身步",
+      "start": 109.25,
+      "end": 110.52
+    },
+    {
+      "text": "狗熊哆嗦毛",
+      "start": 116.125,
+      "end": 117.905
+    }
+  ],
+  "prior_fixes_preserved": [
+    "1.5秒桃园结义封面",
+    "23—25秒卡顿剪短",
+    "张咪走到桌前4秒补镜",
+    "错误地面枪堆避让",
+    "竖排名字卡",
+    "原对白、动作声、音乐及两句舞蹈口令"
+  ],
+  "dialogue_subtitles": false,
+  "output_sha256": "3f0cfd3c075bdcfdedf3e7536c232956f3d4432d7fd4edbd39bbb07d1ce75752",
+  "audio_master": "剧集/EP002/制作成果/audio/配乐/EP002_狗熊替换后完整混音_v004.wav",
+  "verification": {
+    "decoded_frames": 2947,
+    "duration_seconds": 122.791667,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "frame_rate": "24/1",
+    "decode_errors": 0,
+    "preserved_prefix_sampled_frame_MAE": [
+      {
+        "frame": 36,
+        "MAE_8bit": 0.805
+      },
+      {
+        "frame": 90,
+        "MAE_8bit": 0.9697
+      },
+      {
+        "frame": 180,
+        "MAE_8bit": 1.1483
+      },
+      {
+        "frame": 550,
+        "MAE_8bit": 0.9531
+      },
+      {
+        "frame": 1000,
+        "MAE_8bit": 1.096
+      },
+      {
+        "frame": 1400,
+        "MAE_8bit": 1.2826
+      },
+      {
+        "frame": 1432,
+        "MAE_8bit": 1.2475
+      },
+      {
+        "frame": 1535,
+        "MAE_8bit": 1.0543
+      },
+      {
+        "frame": 1651,
+        "MAE_8bit": 0.8231
+      },
+      {
+        "frame": 1729,
+        "MAE_8bit": 1.0892
+      },
+      {
+        "frame": 2400,
+        "MAE_8bit": 0.755
+      },
+      {
+        "frame": 2630,
+        "MAE_8bit": 1.0373
+      },
+      {
+        "frame": 2778,
+        "MAE_8bit": 0.905
+      }
+    ],
+    "audio_master_correlation": 0.9995683242412533,
+    "integrated_loudness_LUFS": -16.05,
+    "true_peak_dBTP": -1.34,
+    "contact_sheet": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_hd_v008\\delivery_contact.jpg",
+    "quality_comparison": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_hd_v008\\quality_comparison.jpg",
+    "temporary_review_images_removed_after_acceptance": true
+  },
+  "visual_review": "已查看同帧清晰度对照及封面、普通正片、走位补镜、枪堆避让、原闪身步、新狗熊入点与尾帧；未见明显锐化光边或主体裁切。最终听感及画质由用户审阅。",
+  "creator_acceptance_evidence": "用户：成品可以了，现在删除多余的视频和脚本等无用文件",
+  "cleanup_record": "剧集/EP002/制作成果/定稿清理记录_20261010.json",
+  "historical_preview": "剧集/EP002/制作成果/成片/EP002_结尾替换_高清预览_v008.mp4",
+  "preview_removed_after_acceptance": true
+}

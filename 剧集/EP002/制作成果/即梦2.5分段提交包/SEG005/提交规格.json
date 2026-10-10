@@ -1,0 +1,265 @@
+{
+  "segment_id": "SEG005",
+  "name": "三咪舔羊奶干奶与舞步",
+  "source": "剧集/EP002/视频提示词.md",
+  "model": "Seedance 2.5",
+  "task_type": "reference",
+  "duration_seconds": 26,
+  "duration_meaning": "本段",
+  "aspect_ratio": "9:16",
+  "resolution": "480P",
+  "status": "accepted_prefix_horizontal_dance_replacement_pending",
+  "video_submitted": true,
+  "images": [
+    {
+      "tag": "图片1",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-027_起始帧_v002.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片01_SHOT-EP002-027_起始帧_v002.png",
+      "purpose": "结拜后回桌旁、三碗在桌的开场",
+      "sha256": "58136d32eda05532d1ac6f2f1ff1824be1dd6e1b75a56e4d249528da3595923f"
+    },
+    {
+      "tag": "图片2",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-028_起始帧_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片02_SHOT-EP002-028_起始帧_v001.png",
+      "purpose": "三咪持碗收舌状态",
+      "sha256": "0cab6bc30196eca6678deed252c9b6e8cc6435e29558a6d2c2df01eeea6ddab2"
+    },
+    {
+      "tag": "图片3",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-029_起始帧_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片03_SHOT-EP002-029_起始帧_v001.png",
+      "purpose": "刘咪脸、爪、碗特写",
+      "sha256": "66ae4b7ea631340e325d24349bb0e4d6e61c75f16727be4c89007192a567efbd"
+    },
+    {
+      "tag": "图片4",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-030_起始帧_v002.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片04_SHOT-EP002-030_起始帧_v002.png",
+      "purpose": "关咪脸、爪、碗特写",
+      "sha256": "5fb24850c7fc15257ce7c8b4b35b8a34048a31e0de891345d58214381fbce459"
+    },
+    {
+      "tag": "图片5",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-031_起始帧_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片05_SHOT-EP002-031_起始帧_v001.png",
+      "purpose": "张咪脸、爪、碗特写",
+      "sha256": "94323142251c22408962d568bc0b60e93f160774160e43b9e2467d79be73ea89"
+    },
+    {
+      "tag": "图片6",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-034_起始帧_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片06_SHOT-EP002-034_起始帧_v001.png",
+      "purpose": "放碗后相邻空地和身后桌上空碗虾盘",
+      "sha256": "fe24c638a3bd87ee334445d9ed51d6681a3acb314acb5a3525dca9501a53c0d5"
+    },
+    {
+      "tag": "图片7",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-035_起始帧_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片07_SHOT-EP002-035_起始帧_v001.png",
+      "purpose": "三咪并排空爪的身体比例与收势；不作为动态教学参考",
+      "sha256": "4834e3f6159441d89f2bc299108b27c0885e3cb0a5c6137d086671d4d9c96c29"
+    }
+  ],
+  "audio": [
+    {
+      "tag": "音频1",
+      "role": "张咪",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考音频/音频01_张咪_干杯_本段原句_v002.wav",
+      "sha256": "466ccba5cce6731669949f811619ae4a33880c58dbe6e290171d9b3a55109d79",
+      "duration_seconds": 2.2,
+      "dialogue_duration_seconds": 1.12,
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-032_张咪_Qwen_v002.wav"
+      ],
+      "source_entries": [
+        "SHOT-EP002-032"
+      ],
+      "texts": [
+        "干杯！"
+      ],
+      "purpose": "同一角色本段原句的固定声线参考",
+      "may_control": [
+        "音色"
+      ],
+      "must_not_control": [
+        "台词",
+        "语气",
+        "情绪",
+        "背景声音"
+      ],
+      "status": "generated_pending_listening",
+      "creator_accepted": false,
+      "revision_record": "剧集/EP002/制作成果/audio/配音/SEG005_干杯修订_20261010.json"
+    }
+  ],
+  "video": [
+    {
+      "tag": "视频1",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考视频/视频01_闪身步_动作参考_无声_720P.mp4",
+      "source": "输入/动作参考/EP002/教学合集_BV1hWh26wE3f_无声.mp4",
+      "source_url": "https://www.bilibili.com/video/BV1hWh26wE3f/",
+      "source_in_seconds": 3,
+      "source_out_seconds": 9.5,
+      "duration_seconds": 6.5,
+      "sha256": "716d05cb64d764ff766abf0986ed796ddfcba1112c62107a6c670dc05cb0ab2a",
+      "audio_stream_count": 0,
+      "purpose": "只控制镜头8的并脚—侧开步—倾身闪转—回正，不能控制人物、衣服、背景、字幕或镜头",
+      "role": "reference_video_motion_only",
+      "width": 960,
+      "height": 720,
+      "frames": 195,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "sample_aspect_ratio": "1:1",
+      "upload_conversion": "原参考480×360上传报分辨率不支持，改为960×720等比例编码；平台重新上传待验证。"
+    },
+    {
+      "tag": "视频2",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考视频/视频02_狗熊哆嗦毛_动作参考_无声_720P.mp4",
+      "source": "输入/动作参考/EP002/教学合集_BV1hWh26wE3f_无声.mp4",
+      "source_url": "https://www.bilibili.com/video/BV1hWh26wE3f/",
+      "source_in_seconds": 25.8,
+      "source_out_seconds": 32.6,
+      "duration_seconds": 6.8,
+      "sha256": "48d2fa9fb3f7af273acc34f1182f167239073a92b8f5528bfdb00118e54be3ac",
+      "audio_stream_count": 0,
+      "purpose": "只控制镜头9腰身倾摆、肩臂展开上绕与脚下交替；不继承教师外貌、蓝墙、字幕或切镜",
+      "role": "reference_video_motion_only",
+      "width": 960,
+      "height": 720,
+      "frames": 204,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "sample_aspect_ratio": "1:1",
+      "upload_conversion": "原参考480×360上传报分辨率不支持，改为960×720等比例编码；平台重新上传待验证。"
+    }
+  ],
+  "missing_inputs": [],
+  "members": [
+    {
+      "shot": "SHOT-EP002-027",
+      "motion": "MOTION-EP002-027",
+      "start_seconds": 0,
+      "end_seconds": 2,
+      "duration_seconds": 2
+    },
+    {
+      "shot": "SHOT-EP002-028",
+      "motion": "MOTION-EP002-028",
+      "start_seconds": 2,
+      "end_seconds": 4,
+      "duration_seconds": 2
+    },
+    {
+      "shot": "SHOT-EP002-029",
+      "motion": "MOTION-EP002-029",
+      "start_seconds": 4,
+      "end_seconds": 5,
+      "duration_seconds": 1
+    },
+    {
+      "shot": "SHOT-EP002-030",
+      "motion": "MOTION-EP002-030",
+      "start_seconds": 5,
+      "end_seconds": 6,
+      "duration_seconds": 1
+    },
+    {
+      "shot": "SHOT-EP002-031",
+      "motion": "MOTION-EP002-031",
+      "start_seconds": 6,
+      "end_seconds": 7,
+      "duration_seconds": 1
+    },
+    {
+      "shot": "SHOT-EP002-032",
+      "motion": "MOTION-EP002-032",
+      "start_seconds": 7,
+      "end_seconds": 9,
+      "duration_seconds": 2
+    },
+    {
+      "shot": "SHOT-EP002-033",
+      "motion": "MOTION-EP002-033",
+      "start_seconds": 9,
+      "end_seconds": 12,
+      "duration_seconds": 3
+    },
+    {
+      "shot": "SHOT-EP002-034",
+      "motion": "MOTION-EP002-034",
+      "start_seconds": 12,
+      "end_seconds": 19,
+      "duration_seconds": 7
+    },
+    {
+      "shot": "SHOT-EP002-035",
+      "motion": "MOTION-EP002-035",
+      "start_seconds": 19,
+      "end_seconds": 26,
+      "duration_seconds": 7
+    }
+  ],
+  "prompt_file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/SEG005_提示词.txt",
+  "prompt_sha256": "2145dafa48e820646e641abfc254bdee0f6121943ed39b88385e8e99303a8d88",
+  "download_target": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG005_v002.mp4",
+  "actual_output": {
+    "segment_id": "SEG005",
+    "creator_accepted": true,
+    "creator_feedback": "第五段可以了",
+    "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG005_v002.mp4",
+    "sha256": "73bf01d0f409aa5e081cad57281f3b7a579206becea6b6a980585f9968bf0b4f",
+    "duration_seconds": 26.0,
+    "video_duration_seconds": 26.0,
+    "decoded_frames": 624,
+    "resolution": [
+      748,
+      562
+    ],
+    "fps": "24/1",
+    "audio_stream_count": 1,
+    "note": "依据用户明确反馈登记视频采用；技术核对不代替人工逐帧与声音审查。"
+  },
+  "source_sha256": "190ccd1ca300f9fa55772ad6823183e9e2ae5dedd75d90eb8a19c9d0b6db7049",
+  "audio_status": "generated_pending_listening",
+  "download_naming_note": "用户要求以v002区分第二集，本集分段视频命名为SEGxxx_v002.mp4。",
+  "previous_segment": {
+    "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+    "sha256": "cc06625a2fb78c945fe45eb1f0a97c0222dba2c0f673330350ba585df1bcb55c",
+    "creator_accepted": true,
+    "tail_image": "剧集/EP002/制作成果/续接参考/SEG004_v002/SEG004_v002_真实尾帧.png",
+    "tail_sha256": "73d855f4600d0d87ba6c2a73ec2bbd283c2661e6e83eaced958e5998681dce54",
+    "usage": "仅剪辑衔接核对；本段为既定回桌旁时间省略，前段视频和尾帧不上传"
+  },
+  "motion_reference_note": "2段动作参考均为960×720、H.264、30fps、无音轨；7张图片仍控制身份和场景。原480×360上传不支持，转换后待用户重新上传验证。",
+  "motion_review": "输入/动作参考/EP002/动作核对.md",
+  "dialogue_revision": "用户明确改为干杯！；新原句参考已绑定，待用户回听；平台文本审核待重新提交验证。",
+  "text_revision": {
+    "scope": "恢复已生成采用版的原提示词，仅作来源追溯",
+    "platform_validation": "historically_passed"
+  },
+  "previous_output": {
+    "segment_id": "SEG005",
+    "creator_accepted": true,
+    "creator_feedback": "第五段可以了",
+    "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG005_v002.mp4",
+    "sha256": "73bf01d0f409aa5e081cad57281f3b7a579206becea6b6a980585f9968bf0b4f",
+    "duration_seconds": 26.0,
+    "video_duration_seconds": 26.0,
+    "decoded_frames": 624,
+    "resolution": [
+      748,
+      562
+    ],
+    "fps": "24/1",
+    "audio_stream_count": 1,
+    "note": "依据用户明确反馈登记视频采用；技术核对不代替人工逐帧与声音审查。"
+  },
+  "regeneration_submitted": false,
+  "regeneration_reason": "已撤回；此前优化方案仅保留历史记录。",
+  "latest_user_choice": "原SEG005闪身步保留；新横版舞蹈前7秒仅替换狗熊哆嗦毛，已合入整集高清v008。",
+  "pending_revision": null,
+  "dance_replacement_record": "剧集/EP002/制作成果/成片/EP002_舞蹈替换与画质处理记录_v008.json",
+  "current_episode_delivery": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_高清修复_v008.mp4"
+}

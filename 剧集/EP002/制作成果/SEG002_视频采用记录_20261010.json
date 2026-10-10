@@ -1,0 +1,15 @@
+{
+  "segment": "SEG002",
+  "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG002_v002.mp4",
+  "sha256": "193c483b158481b5d52550990b4c21ceec0c40d4a050d4e269edf88af6205c3f",
+  "duration_seconds": 25.056,
+  "dimensions": [
+    480,
+    854
+  ],
+  "frames": 601,
+  "creator_accepted": true,
+  "evidence": "用户：可以，保存到SEG002_v002.mp4，然后进行第三段的准备",
+  "accepted_repairs": "开头后脑异常嘴巴局部跟踪修复",
+  "date": "2026-10-10"
+}

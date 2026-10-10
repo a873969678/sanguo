@@ -1,0 +1,12 @@
+{
+  "source_download": "D:\\下载\\85316830-2efe-4232-a9c6-77b2843027dc.mp4",
+  "preserved_failed_video": "剧集/EP002/制作成果/video/Seedance2.5分段/原始下载/SEG004_v002_跪拜朝向错误_未采用.mp4",
+  "sha256": "7ffb25e0126acd9069584c12f592d5f3d8b66237ae182e86259eef9fb68825d5",
+  "creator_accepted": false,
+  "issue": "6—18秒背对关公像跪拜，未完成转身；关咪结拜时枪体回流",
+  "fix": "保留4张原参考图及音频，明确开场朝向仅0—6秒，镜头3转身后以图片4建立相向空间，镜头4和5保持同侧",
+  "prompt_file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/SEG004_提示词.txt",
+  "prompt_sha256": "d09dca5d95ee47e45e40a87311ae773fec4078f092e8f6a1a404b0eeddd30dae",
+  "regeneration_submitted": false,
+  "review": "剧集/EP002/审查/SEG004-跪拜朝向自检.md"
+}

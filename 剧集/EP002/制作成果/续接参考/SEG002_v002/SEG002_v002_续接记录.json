@@ -1,0 +1,22 @@
+{
+  "created_at": "2026-10-10T12:47:00.325305+08:00",
+  "source": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG002_v002.mp4",
+  "source_sha256": "193c483b158481b5d52550990b4c21ceec0c40d4a050d4e269edf88af6205c3f",
+  "source_duration_seconds": 25.056,
+  "video_dimensions": [
+    480,
+    854
+  ],
+  "decoded_frames": 601,
+  "tail_frame_index_zero_based": 600,
+  "tail_timestamp_seconds": "25.000000",
+  "silent_video": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\续接参考\\SEG002_v002\\SEG002_v002_无音轨.mp4",
+  "silent_sha256": "c605f51837b0988a4079aae6f55100c065e19c73b65f1b1add1313878a4d7e9a",
+  "silent_audio_stream_count": 0,
+  "tail_image": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\续接参考\\SEG002_v002\\SEG002_v002_真实尾帧.png",
+  "tail_sha256": "bf5e011fefd03381faecbe76e7ef5225b8103ff33a948a85abc18450398b3328",
+  "all_decoded_video_frames_identical": true,
+  "source_preserved": true,
+  "creator_acceptance": "not_inferred_by_tool",
+  "ffmpeg_version": "ffmpeg version 9.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers"
+}

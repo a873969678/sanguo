@@ -1,0 +1,13 @@
+{
+  "status": "reaction_cutaway_reverted_missing_transition_pending",
+  "source": "剧集/EP002/制作成果/成片/EP002_枪堆避让_配乐口令_v004.mp4",
+  "output": "剧集/EP002/制作成果/成片/EP002_撤回反应镜_待补转场_v005.mp4",
+  "restored_range_seconds": [
+    57.916666666666664,
+    58.75
+  ],
+  "bridge_package": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/走到桌前补镜",
+  "voice_unchanged": true,
+  "duration_seconds": 117.625,
+  "frame_count": 2823
+}

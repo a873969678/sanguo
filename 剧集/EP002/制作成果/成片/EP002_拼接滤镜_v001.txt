@@ -1,0 +1,15 @@
+[0:v]trim=end_frame=601,setpts=PTS-STARTPTS,setsar=1,format=yuv420p[v0];
+[0:a]aresample=48000,aformat=sample_fmts=fltp:channel_layouts=stereo,apad,atrim=duration=25.041666667,asetpts=PTS-STARTPTS[a0];
+[1:v]trim=end_frame=601,setpts=PTS-STARTPTS,setsar=1,format=yuv420p[v1];
+[1:a]aresample=48000,aformat=sample_fmts=fltp:channel_layouts=stereo,apad,atrim=duration=25.041666667,asetpts=PTS-STARTPTS[a1];
+[2:v]trim=end_frame=577,setpts=PTS-STARTPTS,setsar=1,format=yuv420p[v2];
+[2:a]aresample=48000,aformat=sample_fmts=fltp:channel_layouts=stereo,apad,atrim=duration=24.041666667,asetpts=PTS-STARTPTS[a2];
+[3:v]trim=end_frame=480,setpts=PTS-STARTPTS,setsar=1,format=yuv420p[v3];
+[3:a]aresample=48000,aformat=sample_fmts=fltp:channel_layouts=stereo,apad,atrim=duration=20.000000000,asetpts=PTS-STARTPTS[a3];
+[4:v]trim=end_frame=624,setpts=PTS-STARTPTS,split=2[bgsrc][fgsrc];
+[bgsrc]scale=480:854:force_original_aspect_ratio=increase,crop=480:854,setsar=1,gblur=sigma=28,eq=brightness=-0.10:saturation=0.75[bg];
+[fgsrc]scale=480:-2:flags=lanczos,setsar=1[fg];
+[bg][fg]overlay=x=(W-w)/2:y=(H-h)/2:shortest=1,format=yuv420p[v4];
+[4:a]aresample=48000,aformat=sample_fmts=fltp:channel_layouts=stereo,apad,atrim=duration=26.000000000,asetpts=PTS-STARTPTS[a4];
+[v0][a0][v1][a1][v2][a2][v3][a3][v4][a4]concat=n=5:v=1:a=1[clean][audio];
+[clean]ass=filename=names.ass:fontsdir='D\:/git/.sanguo-runtime/fonts'[video]

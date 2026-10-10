@@ -1,0 +1,138 @@
+{
+  "status": "creator_accepted_in_final_v011",
+  "base_video": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\三国群萌传_EP002_桃园结义_去水印_v009.mp4",
+  "output": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\三国群萌传_EP002_桃园结义_民乐新版_v010.mp4",
+  "duration": 122.79166666666667,
+  "frames": 2947,
+  "video_mode": "copy",
+  "cues": [
+    {
+      "source": "BGM-EP002-01_同行_v001.wav",
+      "start": 0,
+      "end": 45.5,
+      "source_in": 0,
+      "rms_dbfs": -29,
+      "fadein": 1,
+      "fadeout": 2
+    },
+    {
+      "source": "BGM-EP002-02_桃园叙谈_v001.wav",
+      "start": 43.5,
+      "end": 77,
+      "source_in": 0,
+      "rms_dbfs": -30,
+      "fadein": 2,
+      "fadeout": 2.5
+    },
+    {
+      "source": "BGM-EP002-03_结义誓言_v001.wav",
+      "start": 74.5,
+      "end": 100.5,
+      "source_in": 0,
+      "rms_dbfs": -26.5,
+      "fadein": 2.5,
+      "fadeout": 3
+    },
+    {
+      "source": "BGM-EP002-01_同行_v001.wav",
+      "start": 98.5,
+      "end": 109.25,
+      "source_in": 29,
+      "rms_dbfs": -30,
+      "fadein": 2,
+      "fadeout": 1.1
+    }
+  ],
+  "dialogue_gain": [
+    {
+      "file": "SEG001_v002.mp4",
+      "source_in": 0.0,
+      "source_out": 22.541666666666668,
+      "timeline_in": 1.5,
+      "old_mix_gain_median": 2.2878280787158722
+    },
+    {
+      "file": "SEG002_v002.mp4",
+      "source_in": 0.0,
+      "source_out": 25.041666666666668,
+      "timeline_in": 24.041666666666668,
+      "old_mix_gain_median": 1.4081294241022326
+    },
+    {
+      "file": "SEG003_v002_局部修复.mp4",
+      "source_in": 0.0,
+      "source_out": 10.625,
+      "timeline_in": 49.083333333333336,
+      "old_mix_gain_median": 1.4540668876668899
+    },
+    {
+      "file": "SEG003_BRIDGE_v002.mp4",
+      "source_in": 0.0,
+      "source_out": 4.0,
+      "timeline_in": 59.708333333333336,
+      "old_mix_gain_median": 1.0059231317157957
+    },
+    {
+      "file": "SEG003_v002_局部修复.mp4",
+      "source_in": 10.625,
+      "source_out": 24.041666666666668,
+      "timeline_in": 63.708333333333336,
+      "old_mix_gain_median": 1.3982195302513865
+    },
+    {
+      "file": "SEG004_v002.mp4",
+      "source_in": 0.0,
+      "source_out": 20.0,
+      "timeline_in": 77.125,
+      "old_mix_gain_median": 1.3145447254550056
+    },
+    {
+      "file": "SEG005_v002.mp4",
+      "source_in": 0.0,
+      "source_out": 12.125,
+      "timeline_in": 97.125,
+      "old_mix_gain_median": 1.3308098598015201
+    }
+  ],
+  "dialogue_duck_db": -8,
+  "dance_preserved_from": 109.25,
+  "dance_pcm_bit_identical": true,
+  "ending_source": "EP002_狗熊替换后完整混音_v004.wav",
+  "ending_callouts": [
+    "闪身步",
+    "狗熊哆嗦毛"
+  ],
+  "master": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\EP002_民乐替换完整混音_v010.wav",
+  "preview": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\结拜段_新配乐试听_v010.wav",
+  "master_sha256": "a6f116303ab0d98e95323ed4a47cddf336c7c004de7d780ff039826afc5cab93",
+  "sample_peak_dbfs": -1.3547780513763428,
+  "verification": {
+    "video_stream_hash_identical": true,
+    "video_sha256": "SHA256=04ecef404a493d3c53aed020a441455ec5dcdd7d3a9b9a01321566615c78f3ba",
+    "frames": "2947",
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "24/1",
+    "duration": "122.791667",
+    "loudness": {
+      "input_i": "-15.37",
+      "input_tp": "-1.37",
+      "input_lra": "10.70",
+      "input_thresh": "-26.81",
+      "output_i": "-15.98",
+      "output_tp": "-1.50",
+      "output_lra": "8.50",
+      "output_thresh": "-27.18",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.02"
+    },
+    "ending_aac_snr_db": 31.337926864624023,
+    "ending_pcm_exact": true,
+    "output_sha256": "92ec20e2330bc64b428cf5d1b74e9b7449543887a9aea58d76817f4d4cf005d0",
+    "listening_status": "creator_accepted_in_final_v011"
+  },
+  "cleanup_record": "剧集/EP002/制作成果/定稿清理记录_20261010_v011.json",
+  "historical_video_and_preview_removed": true
+}

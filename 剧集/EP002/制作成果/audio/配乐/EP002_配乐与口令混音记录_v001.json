@@ -1,0 +1,146 @@
+{
+  "status": "technical_checks_passed_pending_user_listening",
+  "user_request": "还是用上一个，制作配乐，最后舞蹈有参考视频说的闪身步、狗熊哆嗦毛配音",
+  "base_video": "剧集/EP002/制作成果/成片/EP002_拼接_竖排名字卡_v001.mp4",
+  "base_sha256": "17f9be31f56bf77d9ac0f22d891ab967d60e156d704dba5a613cd02c944509c4",
+  "picture": "copy accepted v001 video stream, including vertical name cards; no dialogue subtitles",
+  "music_method": "reuse and rearrange existing ACE-Step series instrumentals, not newly generated music",
+  "callout_method": "short excerpts from the original public reference; no voice cloning or TTS",
+  "reference_url": "https://www.bilibili.com/video/BV1hWh26wE3f/",
+  "duration": 120.125,
+  "sample_rate": 48000,
+  "cues": [
+    {
+      "label": "集市与三轮轻喜剧主题",
+      "source": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-01_涿郡市集_试听_v001.wav",
+      "source_sha256": "c0e988827b3af7ea54feb6d54d4bd3bf41a5aac7d527a586abdbf6df10baa079",
+      "source_in": 0,
+      "source_out": 28,
+      "timeline_in": 0,
+      "timeline_out": 28,
+      "target_rms_dbfs_before_duck": -29,
+      "fade_in": 1,
+      "fade_out": 1.5
+    },
+    {
+      "label": "同行与入园主题延续",
+      "source": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-01_涿郡市集_试听_v001.wav",
+      "source_sha256": "c0e988827b3af7ea54feb6d54d4bd3bf41a5aac7d527a586abdbf6df10baa079",
+      "source_in": 5,
+      "source_out": 22.0,
+      "timeline_in": 26.5,
+      "timeline_out": 43.5,
+      "target_rms_dbfs_before_duck": -29,
+      "fade_in": 1.5,
+      "fade_out": 1.5
+    },
+    {
+      "label": "烤虾叙谈",
+      "source": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-02_搬盘分肉_v001.wav",
+      "source_sha256": "e851213195d4ec6d62516d5e77484d99e2433957a2a381b07639fd9abf0100ca",
+      "source_in": 0,
+      "source_out": 32.125,
+      "timeline_in": 42,
+      "timeline_out": 74.125,
+      "target_rms_dbfs_before_duck": -30,
+      "fade_in": 1.5,
+      "fade_out": 1.5
+    },
+    {
+      "label": "结拜降低配器存在感",
+      "source": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-02_搬盘分肉_v001.wav",
+      "source_sha256": "e851213195d4ec6d62516d5e77484d99e2433957a2a381b07639fd9abf0100ca",
+      "source_in": 20,
+      "source_out": 42.0,
+      "timeline_in": 72.625,
+      "timeline_out": 94.625,
+      "target_rms_dbfs_before_duck": -34,
+      "fade_in": 1.5,
+      "fade_out": 1.2
+    },
+    {
+      "label": "喝羊奶与举碗",
+      "source": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-01_涿郡市集_试听_v001.wav",
+      "source_sha256": "c0e988827b3af7ea54feb6d54d4bd3bf41a5aac7d527a586abdbf6df10baa079",
+      "source_in": 12,
+      "source_out": 25.700000000000003,
+      "timeline_in": 93.425,
+      "timeline_out": 107.125,
+      "target_rms_dbfs_before_duck": -29,
+      "fade_in": 1.2,
+      "fade_out": 1
+    },
+    {
+      "label": "两组舞步的拨弦与鼓点",
+      "source": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-04_徒手较量与制止_v001.wav",
+      "source_sha256": "d86444ba3d6e9aac5533d12702ed43e6c8b264bcfe8f12e6c782013ee9a25c01",
+      "source_in": 1,
+      "source_out": 15.0,
+      "timeline_in": 106.125,
+      "timeline_out": 120.125,
+      "target_rms_dbfs_before_duck": -23,
+      "fade_in": 0.2,
+      "fade_out": 1.15
+    }
+  ],
+  "callouts": [
+    {
+      "text": "闪身步",
+      "source": "输入/动作参考/EP002/教学合集_BV1hWh26wE3f_原声.m4a",
+      "source_in": 1.13,
+      "source_out": 2.4,
+      "timeline_in": 106.25,
+      "timeline_out": 107.52,
+      "file": "剧集/EP002/制作成果/audio/配乐/口令_闪身步_参考原声_v001.wav",
+      "sha256": "901b8570f39822d6ce75a6248243c4e8d3a12c595c79262ca2d1f9feb96f1aad",
+      "gain_db": 8.414559722939384
+    },
+    {
+      "text": "狗熊哆嗦毛",
+      "source": "输入/动作参考/EP002/教学合集_BV1hWh26wE3f_原声.m4a",
+      "source_in": 17.7,
+      "source_out": 19.48,
+      "timeline_in": 113.125,
+      "timeline_out": 114.905,
+      "file": "剧集/EP002/制作成果/audio/配乐/口令_狗熊哆嗦毛_参考原声_v001.wav",
+      "sha256": "fd8154d54dee1d835c29bd8aed95fb2131ae50ffd1645c2bb804d0aee0801b1d",
+      "gain_db": 6.9162760048396414
+    }
+  ],
+  "dialogue_music_duck_db": 9,
+  "native_gain_during_callouts": 0.42,
+  "output": "剧集/EP002/制作成果/成片/EP002_配乐与舞蹈口令_v002.mp4",
+  "creator_accepted": false,
+  "loudnorm_input": {
+    "input_i": "-18.51",
+    "input_tp": "-1.24",
+    "input_lra": "11.80",
+    "input_thresh": "-29.63",
+    "output_i": "-15.68",
+    "output_tp": "-1.50",
+    "output_lra": "8.30",
+    "output_thresh": "-26.28",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.32"
+  },
+  "master": "剧集/EP002/制作成果/audio/配乐/EP002_完整混音_v001.wav",
+  "output_sha256": "92a9bff790b6e35346487ff10b98b51f1b915f97d4203a7f2b29f486bfd3a0fc",
+  "preview": "剧集/EP002/制作成果/成片/EP002_结尾舞蹈_配乐口令试听_v001.mp4",
+  "verification": {
+    "video_packet_sha256_identical": true,
+    "video_packet_hash": "SHA256=abf00dfd774a57397fd8409c249edddad98c82b60ff26e56d65afd1c11aeff23",
+    "decoded_frames": 2883,
+    "duration_seconds": 120.125,
+    "resolution": [
+      480,
+      854
+    ],
+    "fps": "24/1",
+    "audio_sample_rate": "48000",
+    "full_decode_errors": 0,
+    "measured_integrated_lufs": -15.94,
+    "measured_true_peak_dbtp": -1.37,
+    "measured_lra": 8.4,
+    "listening_status": "awaiting creator; ASR used only for cue timing"
+  }
+}

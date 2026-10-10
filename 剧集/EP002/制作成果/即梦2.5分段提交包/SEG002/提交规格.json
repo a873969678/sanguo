@@ -1,0 +1,263 @@
+{
+  "segment_id": "SEG002",
+  "name": "报姓名到园卸枪与烤虾叙谈",
+  "source": "剧集/EP002/视频提示词.md",
+  "model": "Seedance 2.5",
+  "task_type": "extend",
+  "duration_seconds": 25,
+  "duration_meaning": "新增片段",
+  "aspect_ratio": "adaptive",
+  "resolution": "480P；继承上一段实际480×854",
+  "status": "actual_video_repair_accepted_continuation_exported",
+  "video_submitted": true,
+  "images": [
+    {
+      "tag": "图片1",
+      "source": "剧集/EP002/制作成果/续接参考/SEG001_v002/SEG001_v002_真实尾帧.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片01_SEG001_v002_真实尾帧.png",
+      "purpose": "已采用首段真实尾帧，只控制开场实际可见状态",
+      "sha256": "b8dfe6f299419f401821cdded18e19d2986ff17734ba7a4073d0bb4cb2214857"
+    },
+    {
+      "tag": "图片2",
+      "source": "公共素材/视觉参考/刘关张_小巧可爱_风格母版_定稿.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片02_刘关张_小巧可爱_风格母版_定稿.png",
+      "purpose": "身份与比例",
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e"
+    },
+    {
+      "tag": "图片3",
+      "source": "剧集/EP002/制作成果/images/IMG-EP002-002_三咪驾乘接触板_v005.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片03_IMG-EP002-002_三咪驾乘接触板_v005.png",
+      "purpose": "驾乘身份与座位",
+      "sha256": "4f6846da2bd6e0e015cf0e1f08e22428d8a07c85d4d65d0a38ccb45806889e18"
+    },
+    {
+      "tag": "图片4",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-010_起始帧_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片04_SHOT-EP002-010_起始帧_v001.png",
+      "purpose": "刚停车尚未卸枪",
+      "sha256": "ba7fc29db1d713f1e12045121324b1973e8f29f749d1e64678d0b656aeef2b3d"
+    },
+    {
+      "tag": "图片5",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-011_起始帧_v003.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片05_SHOT-EP002-011_起始帧_v003.png",
+      "purpose": "最后一把青龙枪放地前，另外三把已在地面",
+      "sha256": "aff748436603c738fed25d3153fcc5ad8c338020ad85644f2562ca7c63085a6a"
+    },
+    {
+      "tag": "图片6",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-012_起始帧_v002.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片06_SHOT-EP002-012_起始帧_v002.png",
+      "purpose": "无背枪的张咪烤虾起点",
+      "sha256": "38dbf50ca706fd6cbe831925ed727c5d9545573e833cc4a2902c80f28ee92d15"
+    },
+    {
+      "tag": "图片7",
+      "source": "剧集/EP002/制作成果/images/IMG-EP002-006_桃园烧烤处布置板_v002.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片07_IMG-EP002-006_桃园烧烤处布置板_v002.png",
+      "purpose": "桌炉地理，不继承空场持物状态",
+      "sha256": "3aa7b61dd8bb1d153df45acac0e4721fb70821aa8dadd16bfc318b9fe3a74f2b"
+    },
+    {
+      "tag": "图片8",
+      "source": "剧集/EP002/制作成果/images/IMG-EP002-007_矮木桌凳结构板_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片08_IMG-EP002-007_矮木桌凳结构板_v001.png",
+      "purpose": "桌凳尺度与造型",
+      "sha256": "4b7d1cbb50376ebabf32afd031e761e405971de263f1015c2980d187fd10ebd4"
+    },
+    {
+      "tag": "图片9",
+      "source": "剧集/EP002/制作成果/images/IMG-EP002-008_独立烤炉与供气组件板_v002.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片09_IMG-EP002-008_独立烤炉与供气组件板_v002.png",
+      "purpose": "炉罐与软管接口",
+      "sha256": "79fc54faa903c2bd891802d786d0c5edbdeb946c4f4650fe72433c0ce97aec0c"
+    }
+  ],
+  "audio": [
+    {
+      "tag": "音频1",
+      "role": "张咪",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考音频/音频01_张咪_本段原句.wav",
+      "sha256": "fcfe2d08761a7b950361075be85e0328439d658d92408043aa77bc29a02238f9",
+      "duration_seconds": 2.2,
+      "dialogue_duration_seconds": 0.96,
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_张咪_Qwen_v001.wav"
+      ],
+      "source_entries": [
+        "SHOT-EP002-009"
+      ],
+      "texts": [
+        "俺叫张咪！"
+      ],
+      "purpose": "同一角色本段原句的固定声线参考",
+      "may_control": [
+        "音色"
+      ],
+      "must_not_control": [
+        "台词",
+        "语气",
+        "情绪",
+        "背景声音"
+      ],
+      "status": "accepted_source_reference",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "tag": "音频2",
+      "role": "刘咪",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考音频/音频02_刘咪_本段原句.wav",
+      "sha256": "be97509cb9d8599728efe8aa6e01247782cacc5f5e1666b3b091a8166babb2a1",
+      "duration_seconds": 4.01,
+      "dialogue_duration_seconds": 4.01,
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_刘咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-013_刘咪_Qwen_v001.wav"
+      ],
+      "source_entries": [
+        "SHOT-EP002-009",
+        "SHOT-EP002-013"
+      ],
+      "texts": [
+        "在下刘咪。",
+        "方才好本事，为何在此卖豆？"
+      ],
+      "purpose": "同一角色本段原句的固定声线参考",
+      "may_control": [
+        "音色"
+      ],
+      "must_not_control": [
+        "台词",
+        "语气",
+        "情绪",
+        "背景声音"
+      ],
+      "status": "accepted_source_reference",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "tag": "音频3",
+      "role": "关咪",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考音频/音频03_关咪_本段原句.wav",
+      "sha256": "35e26b88bbaa3ada6d557391ed883dbfe46ceab80155e66fbc828637a0d08198",
+      "duration_seconds": 5.85,
+      "dialogue_duration_seconds": 5.85,
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_关咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-014_关咪_Qwen_v001.wav"
+      ],
+      "source_entries": [
+        "SHOT-EP002-009",
+        "SHOT-EP002-014"
+      ],
+      "texts": [
+        "关咪。",
+        "在家乡杀了欺压乡里的恶霸，只得四处漂泊。"
+      ],
+      "purpose": "同一角色本段原句的固定声线参考",
+      "may_control": [
+        "音色"
+      ],
+      "must_not_control": [
+        "台词",
+        "语气",
+        "情绪",
+        "背景声音"
+      ],
+      "status": "accepted_source_reference",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    }
+  ],
+  "video": [
+    {
+      "tag": "视频1",
+      "source": "剧集/EP002/制作成果/续接参考/SEG001_v002/SEG001_v002_无音轨.mp4",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考视频/视频01_SEG001_v002_无音轨.mp4",
+      "sha256": "056f2e0fbb8123ab82a1b0cc6b923dc7eb57b0175620f8b2f0269dba211c26c7",
+      "audio_stream_count": 0,
+      "purpose": "上一段实际已采用视频的无音轨副本，只控制画面续接"
+    }
+  ],
+  "missing_inputs": [],
+  "members": [
+    {
+      "shot": "SHOT-EP002-009",
+      "motion": "MOTION-EP002-009",
+      "start_seconds": 0,
+      "end_seconds": 5,
+      "duration_seconds": 5
+    },
+    {
+      "shot": "SHOT-EP002-010",
+      "motion": "MOTION-EP002-010",
+      "start_seconds": 5,
+      "end_seconds": 9,
+      "duration_seconds": 4
+    },
+    {
+      "shot": "SHOT-EP002-011",
+      "motion": "MOTION-EP002-011",
+      "start_seconds": 9,
+      "end_seconds": 11,
+      "duration_seconds": 2
+    },
+    {
+      "shot": "SHOT-EP002-012",
+      "motion": "MOTION-EP002-012",
+      "start_seconds": 11,
+      "end_seconds": 14,
+      "duration_seconds": 3
+    },
+    {
+      "shot": "SHOT-EP002-013",
+      "motion": "MOTION-EP002-013",
+      "start_seconds": 14,
+      "end_seconds": 18,
+      "duration_seconds": 4
+    },
+    {
+      "shot": "SHOT-EP002-014",
+      "motion": "MOTION-EP002-014",
+      "start_seconds": 18,
+      "end_seconds": 25,
+      "duration_seconds": 7
+    }
+  ],
+  "prompt_file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/SEG002_提示词.txt",
+  "prompt_sha256": "19d5be9d3beffa7581f5fbc0d4180670c165465252f3c171d6d15b31ef54c4e5",
+  "download_target": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG002_v002.mp4",
+  "actual_output": {
+    "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG002_v002.mp4",
+    "sha256": "193c483b158481b5d52550990b4c21ceec0c40d4a050d4e269edf88af6205c3f",
+    "duration_seconds": 25.056,
+    "resolution": [
+      480,
+      854
+    ],
+    "decoded_video_frames": 601,
+    "known_issue": "开头张咪后脑出现嘴巴，已做局部跟踪修补",
+    "repaired_file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG002_v002.mp4",
+    "repaired_sha256": "193c483b158481b5d52550990b4c21ceec0c40d4a050d4e269edf88af6205c3f",
+    "repair_record": "剧集/EP002/制作成果/SEG002_局部修复记录_20261010.json",
+    "creator_accepted": true,
+    "creator_feedback": "用户反馈仅张咪后脑张嘴，其他没有问题；修复版待审阅",
+    "original_download_file": "剧集/EP002/制作成果/video/Seedance2.5分段/原始下载/SEG002_v002_原始.mp4",
+    "acceptance_record": "剧集/EP002/制作成果/SEG002_视频采用记录_20261010.json",
+    "tail_frame": "剧集/EP002/制作成果/续接参考/SEG002_v002/SEG002_v002_真实尾帧.png",
+    "tail_sha256": "bf5e011fefd03381faecbe76e7ef5225b8103ff33a948a85abc18450398b3328",
+    "silent_video": "剧集/EP002/制作成果/续接参考/SEG002_v002/SEG002_v002_无音轨.mp4",
+    "silent_sha256": "c605f51837b0988a4079aae6f55100c065e19c73b65f1b1add1313878a4d7e9a"
+  },
+  "source_sha256": "190ccd1ca300f9fa55772ad6823183e9e2ae5dedd75d90eb8a19c9d0b6db7049",
+  "audio_status": "accepted",
+  "audio_acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json",
+  "download_naming_note": "用户要求以v002区分第二集，本集分段视频命名为SEGxxx_v002.mp4。",
+  "pending_decisions": [],
+  "previous_segment_acceptance_record": "剧集/EP002/制作成果/SEG001_视频采用记录_20261010.json",
+  "previous_segment_creator_accepted": true
+}

@@ -1,0 +1,95 @@
+{
+  "status": "incorporated_in_accepted_final_v011",
+  "source": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_高清修复_v008.mp4",
+  "source_sha256": "3f0cfd3c075bdcfdedf3e7536c232956f3d4432d7fd4edbd39bbb07d1ce75752",
+  "output": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_去水印_v009.mp4",
+  "creator_accepted": false,
+  "request": "去掉画面中的AI生成水印",
+  "scope": "仅前四段右下角水印及4秒走位补镜，封面、末尾横版及已裁掉水印的关火镜头不做局部处理。整集重新编码，声音压缩流直接复制。",
+  "method": "常规镜头：Telea只修补文字笔画与边框；走位补镜：矩形区用拉普拉斯调和插值平滑衔接周边木桌纹理。保留完整画幅。",
+  "standard_ranges_frames_exclusive": [
+    [
+      36,
+      1433
+    ],
+    [
+      1529,
+      1651
+    ],
+    [
+      1730,
+      2331
+    ]
+  ],
+  "bridge_range_frames_exclusive": [
+    1433,
+    1529
+  ],
+  "standard_mask_roi_xywh": [
+    860,
+    1808,
+    190,
+    84
+  ],
+  "bridge_mask_rect_xywh": [
+    866,
+    1822,
+    192,
+    87
+  ],
+  "caveat": "局部被水印覆盖的细节由邻域插值，毛发、花瓣或木纹可能略有修补痕迹；非原始无水印素材。",
+  "expected_frames": 2947,
+  "duration_seconds": 122.79166666666667,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "audio": "copy original AAC stream; no remix",
+  "mask_sha256": "06f7eea11d58c94a1fb6d6ee3333f6f4886f19466d36d6ed0903a23d2c16ab47",
+  "output_sha256": "f7d1e1143031635ff581849b6fbbe8e1f6012857a1dfa644a82482910ec82889",
+  "verification": {
+    "decoded_frames": 2947,
+    "video_duration_seconds": 122.791667,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "audio_compressed_sha256": "SHA256=c7282ec1c215c50dda9bbe44055d23f494f77835c15db63a0a84a6d1fd3bc9aa",
+    "audio_bitstream_unchanged": true,
+    "decode_errors": 0,
+    "outside_refined_gop_sampled_frames_identical": true,
+    "full_decode_errors": 0
+  },
+  "mask": "剧集/EP002/制作成果/局部修复/水印/右下角文字边框掩膜_v009.png",
+  "visual_check": {
+    "sample_times_seconds": [
+      2,
+      8,
+      20,
+      30,
+      45,
+      52,
+      59,
+      60,
+      61,
+      62,
+      63,
+      68,
+      75,
+      82,
+      95
+    ],
+    "finding": "所抽查右下角未见可辨认的AI生成文字或框线；部分毛发、花瓣与木纹区域有轻微纹理变软。"
+  },
+  "prior_creator_accepted_version": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_高清修复_v008.mp4",
+  "temporary_work_cleanup": {
+    "method": "RecycleBin",
+    "bytes": 106959861.0,
+    "status": "complete",
+    "files": 27
+  },
+  "accepted_final_delivery": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_2K超分修复_v011.mp4",
+  "historical_output_removed_after_acceptance": true,
+  "cleanup_record": "剧集/EP002/制作成果/定稿清理记录_20261010_v011.json"
+}

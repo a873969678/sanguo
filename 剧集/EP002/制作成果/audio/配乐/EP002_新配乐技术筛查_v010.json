@@ -1,0 +1,29 @@
+[
+  {
+    "file": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\BGM-EP002-01_同行_v001.wav",
+    "duration": 46.0,
+    "peak_dbfs": -0.9998545050621033,
+    "rms_dbfs": -20.38625717163086,
+    "speech_detector_seconds": 0,
+    "asr": [],
+    "limitation": "Automatic screening only; instrumental timbre can trigger false positives. User listening remains required."
+  },
+  {
+    "file": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\BGM-EP002-02_桃园叙谈_v001.wav",
+    "duration": 36.0,
+    "peak_dbfs": -0.9998545050621033,
+    "rms_dbfs": -20.672407150268555,
+    "speech_detector_seconds": 0,
+    "asr": [],
+    "limitation": "Automatic screening only; instrumental timbre can trigger false positives. User listening remains required."
+  },
+  {
+    "file": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\BGM-EP002-03_结义誓言_v001.wav",
+    "duration": 30.0,
+    "peak_dbfs": -1.0001518726348877,
+    "rms_dbfs": -17.484119415283203,
+    "speech_detector_seconds": 0,
+    "asr": [],
+    "limitation": "Automatic screening only; instrumental timbre can trigger false positives. User listening remains required."
+  }
+]

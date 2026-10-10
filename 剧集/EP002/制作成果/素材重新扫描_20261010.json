@@ -1,0 +1,863 @@
+{
+  "date": "2026-10-10",
+  "scope": "重新拉取后的当前项目媒体，扫描不含.git/.agents",
+  "media": [
+    {
+      "path": "公共素材/声音/买肉客咪_独立声线_工作版_v001.wav",
+      "bytes": 80684,
+      "sha256": "e088af1266efb1f39aec75c953d4b3c2db552acebacf859e0c7665e40479e9a0",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:01.68, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "bytes": 265004,
+      "sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:05.52, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
+      "bytes": 84524,
+      "sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:01.76, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "bytes": 111404,
+      "sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:02.32, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "公共素材/声音/肉摊伙计_独立声线_工作版_v001.wav",
+      "bytes": 169004,
+      "sha256": "7ba47d6fc4fb3596cf01b2c91c5e507faa8d3099e9cc71a95e44cfc586de7a69",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:03.52, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+      "bytes": 28990430,
+      "sha256": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:02:03.92, start: 0.000000, bitrate: 1871 kb/s",
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 480x854 [SAR 1:1 DAR 240:427], 1679 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 186 kb/s (default)"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/修复/EP001_对白音效配乐_最终混音_v006.wav",
+      "bytes": 35688102,
+      "sha256": "edb093c4ee281f83d0a1d13920870733bc6742fd311a330864c99637d17e993a",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:02:03.92, bitrate: 2304 kb/s",
+        "Stream #0:0: Audio: pcm_s24le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s32 (24 bit), 2304 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/修复/EP001_开袋吆喝混合音轨_v005.wav",
+      "bytes": 47587416,
+      "sha256": "dd81a5efbe7240f2946c019a668a8c31c7fee84b0c7feb2d59176f715ed70de4",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:02:03.93, bitrate: 3072 kb/s",
+        "Stream #0:0: Audio: pcm_f32le ([3][0][0][0] / 0x0003), 48000 Hz, stereo, flt, 3072 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-01_涿郡市集_试听_v001.wav",
+      "bytes": 8640044,
+      "sha256": "c0e988827b3af7ea54feb6d54d4bd3bf41a5aac7d527a586abdbf6df10baa079",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:30.00, bitrate: 2304 kb/s",
+        "Stream #0:0: Audio: pcm_s24le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s32 (24 bit), 2304 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-02_搬盘分肉_v001.wav",
+      "bytes": 12960044,
+      "sha256": "e851213195d4ec6d62516d5e77484d99e2433957a2a381b07639fd9abf0100ca",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:45.00, bitrate: 2304 kb/s",
+        "Stream #0:0: Audio: pcm_s24le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s32 (24 bit), 2304 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-03_关张对峙_v001.wav",
+      "bytes": 17280044,
+      "sha256": "d1cc46160b1c3407902ad12e51cf7de04abcd2b2f06bb00a261e01c9fe3c6c24",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:01:00.00, bitrate: 2304 kb/s",
+        "Stream #0:0: Audio: pcm_s24le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s32 (24 bit), 2304 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配乐/BGM-EP001-04_徒手较量与制止_v001.wav",
+      "bytes": 11520044,
+      "sha256": "d86444ba3d6e9aac5533d12702ed43e6c8b264bcfe8f12e6c782013ee9a25c01",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:40.00, bitrate: 2304 kb/s",
+        "Stream #0:0: Audio: pcm_s24le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s32 (24 bit), 2304 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-004_关咪_吆喝_Qwen_v001.wav",
+      "bytes": 130604,
+      "sha256": "a78461e788434ec3bbeac01bac990513ed58ebf8e9429704844e7eb5ea94a31f",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:02.72, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-007_买肉客咪_Qwen_v001.wav",
+      "bytes": 80684,
+      "sha256": "e088af1266efb1f39aec75c953d4b3c2db552acebacf859e0c7665e40479e9a0",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:01.68, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-008_肉摊伙计_Qwen_v001.wav",
+      "bytes": 169004,
+      "sha256": "7ba47d6fc4fb3596cf01b2c91c5e507faa8d3099e9cc71a95e44cfc586de7a69",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:03.52, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-013_关咪_Qwen_v001.wav",
+      "bytes": 76844,
+      "sha256": "8162adc96cb26d4da98424c5ee3c9961bec0bab9b82c3bc54fe60aba85e8460e",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:01.60, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-016_肉摊伙计_Qwen_v001.wav",
+      "bytes": 86954,
+      "sha256": "6cb214721d7439c40dbbb8ab373f75e47121f48de487583407783f8d2fada8ac",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:01.81, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-018_张咪_Qwen_v001.wav",
+      "bytes": 107564,
+      "sha256": "345f063de139df1b46ed2ea3a772aae96d7724bde782e8ee2f0e9bf7474e7462",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:02.24, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-019_关咪_Qwen_v001.wav",
+      "bytes": 119084,
+      "sha256": "83f119667f57af02c58acb86dd37616085ae745ffe3f7d0e29b63520ed9bdd71",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:02.48, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-020_张咪_Qwen_v001.wav",
+      "bytes": 134444,
+      "sha256": "af9b51159b26e9455a358975c23d028e1457950b562dcee4327c07c79e0ccdfd",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:02.80, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-021_关咪_Qwen_v001.wav",
+      "bytes": 265004,
+      "sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:05.52, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-022_张咪_Qwen_v001.wav",
+      "bytes": 111404,
+      "sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:02.32, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-031_张咪_Qwen_v002.wav",
+      "bytes": 130604,
+      "sha256": "ea1ac6c73b82d84f3398b32cd08d69d2eff29db8626ed610f925f9a033a37b22",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:02.72, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配音/对白/SHOT-EP001-037_刘咪_Qwen_v001.wav",
+      "bytes": 84524,
+      "sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:01.76, bitrate: 384 kb/s",
+        "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_19291_布料摩擦_CC0.mp3",
+      "bytes": 60689,
+      "sha256": "2c603f049ce9ab459515d4bedabb758fbd9d5c39e96cf106b659882157a2f2ae",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:02.72, start: 0.025057, bitrate: 178 kb/s",
+        "Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 178 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_369710_木面轻触_CC0.mp3",
+      "bytes": 24212,
+      "sha256": "e1635813031d126a04d8db80ab8bf95c61299e4891241695aada36d8508910d9",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:00.97, start: 0.025057, bitrate: 200 kb/s",
+        "Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 200 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_427365_呼吸_CC0.mp3",
+      "bytes": 180385,
+      "sha256": "ab99b3abf20647dd2a45379e1b4a5084bc89a16d0e8ef2352b534c84cb34e7d5",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:08.02, start: 0.025057, bitrate: 179 kb/s",
+        "Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 179 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_546371_车铃_CC0.mp3",
+      "bytes": 113629,
+      "sha256": "a22a99b382b9af2a2eb1f563a7f404ebdb5c0aaef1a5058d2544ea32638f91b4",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:06.22, start: 0.025057, bitrate: 146 kb/s",
+        "Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 146 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_667284_石面摩擦_CC0.mp3",
+      "bytes": 39352,
+      "sha256": "765728cc54a723a64eaf9a3f7465d051930e0a0053fae602ea10645a51f87cce",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:01.28, start: 0.025057, bitrate: 245 kb/s",
+        "Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 245 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_719482_自行车轮踏与刹停_CC0.mp3",
+      "bytes": 651781,
+      "sha256": "2e250bf84570b779e2d492f99364ebdc4d4051ecf6c511a11a958d564a79cc6f",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:27.77, start: 0.025057, bitrate: 187 kb/s",
+        "Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 187 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音效/来源/Freesound_78979_脚撑_CC0.mp3",
+      "bytes": 83388,
+      "sha256": "10e6f329cf2f0bcdb930875a110abb4fc95aea5adcfee521147c9bd0f07a14fb",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:03.45, start: 0.025057, bitrate: 193 kb/s",
+        "Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 193 kb/s"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG001_v001.mp4",
+      "bytes": 22060550,
+      "sha256": "6c060dd864ec8ec1e1492dc0cc0ee0734c9462d52ce1132f30fa5b03cce2aa63",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:25.06, start: 0.000000, bitrate: 7043 kb/s",
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 480x854 [SAR 1:1 DAR 240:427], 6917 kb/s, 24.02 fps, 60 tbr, 15360 tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG002_v001.mp4",
+      "bytes": 23410571,
+      "sha256": "34096608607e88008f32e8dd12839ce988aeee4dab55862ee1b32b221a9e8be2",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:27.07, start: 0.000000, bitrate: 6918 kb/s",
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 480x854 [SAR 1:1 DAR 240:427], 6794 kb/s, 24.02 fps, 60 tbr, 15360 tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG003_v001.mp4",
+      "bytes": 19453744,
+      "sha256": "a4f1036147d4760abdc3018fa633f361e760ee3201dc2b2c9c460dd581d8949e",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:23.07, start: 0.000000, bitrate: 6745 kb/s",
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 480x854 [SAR 1:1 DAR 240:427], 6624 kb/s, 24.03 fps, 60 tbr, 15360 tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_对白修正_v003.mp4",
+      "bytes": 16890565,
+      "sha256": "1bf6a23eacebb7a10ab12abb1f1f011ce50d41864c5626fb56dc7b52826c42a8",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:27.07, start: 0.000000, bitrate: 4991 kb/s",
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 480x854, 4819 kb/s, 24 fps, 24 tbr, 90k tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 170 kb/s (default)"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005_v001.mp4",
+      "bytes": 13658072,
+      "sha256": "69484f2219f89a6780514d363c4fc40485e2a2a54a4b083cf4a459e51600ae4d",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:25.06, start: 0.000000, bitrate: 4360 kb/s",
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 480x854, 4195 kb/s, 24 fps, 24 tbr, 90k tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 161 kb/s (default)"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_v001.mp4",
+      "bytes": 3559734,
+      "sha256": "b9a607a9f116517ad83a187db0cdabb1e2f0164d4ef9929915a2e158ed6e1267",
+      "readable_streams": true,
+      "media_info": [
+        "Duration: 00:00:06.05, start: 0.000000, bitrate: 4708 kb/s",
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 480x854, 4576 kb/s, 24 fps, 24 tbr, 90k tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 32000 Hz, stereo, fltp, 100 kb/s (default)"
+      ],
+      "verification": "header_and_hash_only_not_full_listening"
+    }
+  ],
+  "counts": {
+    "video": 7,
+    "audio": 30,
+    "ep002_audio_video": 0
+  },
+  "voice_checks": [
+    {
+      "character": "刘咪",
+      "path": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "character": "关咪",
+      "path": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "character": "张咪",
+      "path": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "exists": true,
+      "sha256_matches": true
+    }
+  ],
+  "ep001_selected_source_checks": [
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG001_v001.mp4",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG002_v001.mp4",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG003_v001.mp4",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_对白修正_v003.mp4",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/补镜/PATCH002_朝天开枪_v001.mp4",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG005_v001.mp4",
+      "exists": true,
+      "sha256_matches": true
+    }
+  ],
+  "ep001_clean_master": {
+    "path": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+    "sha256": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
+    "matches_published_export_source": true,
+    "readable_streams": true
+  },
+  "published_v006": {
+    "path": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_1080P完整配乐_v006.mp4",
+    "exists": false
+  },
+  "ep001_tail": {
+    "path": "剧集/EP002/制作成果/续接参考/EP001_画面母版v003_真实尾帧.png",
+    "source": "剧集/EP001/制作成果/成片/三国群萌传_EP001_关张初遇_粗剪_v003.mp4",
+    "source_sha256": "74a57c1b91bee64d053c520ca1850450800bc2451475cee38bb9b5959b56c9cf",
+    "sha256": "fc74d47b82da32b6876151cfa7fe1aeb4c7e89968eed49379ec66e9f9fcfe438",
+    "source_frame_zero_based": 2973,
+    "source_frames": 2974,
+    "source_time_seconds": 123.875,
+    "extraction": "decode real source frame; no synthesis or redraw",
+    "visual_inspection": "已核看：刘咪前景背对镜头、双爪各持一枪；张咪画左背蛇形枪，关咪画右未持枪；关张停手，画面为日间集市。无后期对白字幕或名字卡，右下有源视频AI生成水印。",
+    "binding_limit": "真实尾帧供开场站位、持物和光线核对；不等同SHOT001胸口以上近景首帧。自行车与豆袋在此尾帧取景外，不能仅凭此帧确认其位置。"
+  },
+  "ep002_original_line_audio_count": 0,
+  "ep002_original_line_audio_jobs_expected": 22,
+  "notes": [
+    "恢复的EP001音频不等同于EP002本段原句音频。",
+    "v006发布版仍缺文件，但实际画面来源v003恢复且校验匹配；可核对干净末态。",
+    "没有生成新视频或配音；仅抽取既有视频真实尾帧。"
+  ],
+  "ep002_accepted_image_checks": [
+    {
+      "entry": "IMG-EP002-001",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-001_三轮摩托结构板_v004.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-002",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-002_三咪驾乘接触板_v005.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-003",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-003_右脚刹三状态接触板_v007.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-004",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-004_后斗放枪有枪空位板_v003.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-005",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-005_桃园地理基底板_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-006",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-006_桃园烧烤处布置板_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-007",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-007_矮木桌凳结构板_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-008",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-008_独立烤炉与供气组件板_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-009",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-009_虾与夹盘状态板_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-010",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-010_张咪翻虾接触板_v003.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-011",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-011_传统关公像头胸参考板_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-012",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-012_三咪拜关公空间接触板_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-013",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-013_三只奶碗有奶空碗板_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-014",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-014_刘咪捧碗舔奶接触板_v003.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-015",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-015_关咪捧碗舔奶接触板_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-016",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-016_张咪捧碗舔奶接触板_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "IMG-EP002-017",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-017_三咪共同捧碗舔奶组合_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-005",
+      "path": "剧集/EP002/制作成果/images/SHOT-EP002-005_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-006",
+      "path": "剧集/EP002/制作成果/images/SHOT-EP002-006_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-010",
+      "path": "剧集/EP002/制作成果/images/SHOT-EP002-010_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-011",
+      "path": "剧集/EP002/制作成果/images/SHOT-EP002-011_起始帧_v003.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-012",
+      "path": "剧集/EP002/制作成果/images/SHOT-EP002-012_起始帧_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-020",
+      "path": "剧集/EP002/制作成果/images/SHOT-EP002-020_起始帧_v003.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-027",
+      "path": "剧集/EP002/制作成果/images/SHOT-EP002-027_起始帧_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-028",
+      "path": "剧集/EP002/制作成果/images/SHOT-EP002-028_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-029",
+      "path": "剧集/EP002/制作成果/images/SHOT-EP002-029_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-030",
+      "path": "剧集/EP002/制作成果/images/SHOT-EP002-030_起始帧_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-031",
+      "path": "剧集/EP002/制作成果/images/SHOT-EP002-031_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-034",
+      "path": "剧集/EP002/制作成果/images/SHOT-EP002-034_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-035",
+      "path": "剧集/EP002/制作成果/images/SHOT-EP002-035_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "entry": "SHOT-EP002-024",
+      "path": "剧集/EP002/制作成果/images/IMG-EP002-012_三咪拜关公空间接触板_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    }
+  ],
+  "submission_image_copy_checks": [
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片01_刘关张_小巧可爱_风格母版_定稿.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片02_刘咪双枪_卡通道具板_定稿.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片03_关咪枪械_卡通道具板_定稿.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片04_关咪自行车_挂枪道具板_v003.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片05_IMG-EP002-002_三咪驾乘接触板_v005.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片06_IMG-EP002-003_右脚刹三状态接触板_v007.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片07_IMG-EP002-004_后斗放枪有枪空位板_v003.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片08_SHOT-EP002-005_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考图片/图片09_SHOT-EP002-006_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片01_刘关张_小巧可爱_风格母版_定稿.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片02_IMG-EP002-002_三咪驾乘接触板_v005.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片03_SHOT-EP002-010_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片04_SHOT-EP002-011_起始帧_v003.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片05_SHOT-EP002-012_起始帧_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片06_IMG-EP002-006_桃园烧烤处布置板_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片07_IMG-EP002-007_矮木桌凳结构板_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考图片/图片08_IMG-EP002-008_独立烤炉与供气组件板_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片01_刘关张_小巧可爱_风格母版_定稿.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片02_IMG-EP002-006_桃园烧烤处布置板_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片03_IMG-EP002-008_独立烤炉与供气组件板_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片04_IMG-EP002-009_虾与夹盘状态板_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片05_SHOT-EP002-020_起始帧_v003.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片01_刘关张_小巧可爱_风格母版_定稿.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片02_SHOT-EP002-020_起始帧_v003.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片03_IMG-EP002-011_传统关公像头胸参考板_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考图片/图片04_IMG-EP002-012_三咪拜关公空间接触板_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片01_SHOT-EP002-027_起始帧_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片02_SHOT-EP002-028_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片03_SHOT-EP002-029_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片04_SHOT-EP002-030_起始帧_v002.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片05_SHOT-EP002-031_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片06_SHOT-EP002-034_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    },
+    {
+      "path": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考图片/图片07_SHOT-EP002-035_起始帧_v001.png",
+      "exists": true,
+      "sha256_matches": true
+    }
+  ],
+  "unreadable_media_headers": [],
+  "restored_superseded_project_images": []
+}

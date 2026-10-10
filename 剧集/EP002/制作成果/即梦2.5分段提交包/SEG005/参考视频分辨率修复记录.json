@@ -1,0 +1,37 @@
+{
+  "user_report": "上传视频的分辨率暂不支持",
+  "conversion": "480×360 → 960×720，保持4:3完整构图；普通缩放，不增加原始细节",
+  "platform_upload_status": "awaiting_user_retry",
+  "files": [
+    {
+      "old_file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考视频/视频01_闪身步_动作参考_无声.mp4",
+      "old_sha256": "68cf4765adf7e96d104e9ffc843a09c0058f5608c09b1b28ac004ccee8af577f",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考视频/视频01_闪身步_动作参考_无声_720P.mp4",
+      "sha256": "716d05cb64d764ff766abf0986ed796ddfcba1112c62107a6c670dc05cb0ab2a",
+      "width": 960,
+      "height": 720,
+      "frames": 195,
+      "duration_seconds": 6.5,
+      "audio_stream_count": 0,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "sample_aspect_ratio": "1:1",
+      "operation": "等比例2倍放大；无裁切、无新增留边；保持帧率、帧数与时长；无音轨"
+    },
+    {
+      "old_file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考视频/视频02_狗熊哆嗦毛_动作参考_无声.mp4",
+      "old_sha256": "52abe7217a129881ea15ac68ae100b8446b1f554c4da6f87c83d8b92a29e16f5",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考视频/视频02_狗熊哆嗦毛_动作参考_无声_720P.mp4",
+      "sha256": "48d2fa9fb3f7af273acc34f1182f167239073a92b8f5528bfdb00118e54be3ac",
+      "width": 960,
+      "height": 720,
+      "frames": 204,
+      "duration_seconds": 6.8,
+      "audio_stream_count": 0,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "sample_aspect_ratio": "1:1",
+      "operation": "等比例2倍放大；无裁切、无新增留边；保持帧率、帧数与时长；无音轨"
+    }
+  ]
+}

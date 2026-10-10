@@ -1,0 +1,1022 @@
+{
+  "status": "accepted_except_SEG005_revised_pending_listening",
+  "single_lines": [
+    {
+      "segment": "SEG001",
+      "shot": "SHOT-EP002-001",
+      "role": "张咪",
+      "text": "好身手！不打了。走，俺请二位喝羊奶！",
+      "voice_source": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-001_张咪_Qwen_v001.wav",
+      "reference_text": "先让我看看，你有多大本事！",
+      "performance": "爽快相邀，由较劲转为欣赏；笑意自然，邀请清楚连贯。",
+      "seed": 2026101000,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 5,
+      "sample_rate": 24000,
+      "duration_seconds": 5.36,
+      "peak": 0.5749533772468567,
+      "rms": 0.06206195056438446,
+      "sha256": "7ece956626bd0e1a4dbc5f5eaad5c27c1ab04394c6ff680b83b09121b70d5aff",
+      "bytes": 257324,
+      "generation_seconds": 32.29,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG001",
+      "shot": "SHOT-EP002-002",
+      "role": "关咪",
+      "text": "请。",
+      "voice_source": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-002_关咪_Qwen_v001.wav",
+      "reference_text": "磨盘是我搬的。你自己定的规矩，认不认？",
+      "performance": "沉稳短应，接受邀请，尾字轻收。",
+      "seed": 2026101001,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 2,
+      "sample_rate": 24000,
+      "duration_seconds": 0.72,
+      "peak": 0.29505622386932373,
+      "rms": 0.034637730568647385,
+      "sha256": "7a654fc7e6cba5ad680af796b68384252c5d30fd5529237bf73f0101372975d4",
+      "bytes": 34604,
+      "generation_seconds": 11.88,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG001",
+      "shot": "SHOT-EP002-007",
+      "role": "张咪",
+      "text": "我踏板质量很好。",
+      "voice_source": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-007_张咪_Qwen_v001.wav",
+      "reference_text": "先让我看看，你有多大本事！",
+      "performance": "踩踏结束后略得意，正常说话，不怒吼。",
+      "seed": 2026101002,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 3,
+      "sample_rate": 24000,
+      "duration_seconds": 1.84,
+      "peak": 0.5049211978912354,
+      "rms": 0.06761591136455536,
+      "sha256": "745dce603363c2c3548103e4cd393a93073ccbe5c1ba024c8f1d46b7cd2ecb75",
+      "bytes": 88364,
+      "generation_seconds": 8.49,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG002",
+      "shot": "SHOT-EP002-009",
+      "role": "张咪",
+      "text": "俺叫张咪！",
+      "voice_source": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_张咪_Qwen_v001.wav",
+      "reference_text": "先让我看看，你有多大本事！",
+      "performance": "张咪爽快自报、刘咪温和有礼、关咪简短沉稳，按各自身份自然报姓名。",
+      "seed": 2026101003,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 5,
+      "sample_rate": 24000,
+      "duration_seconds": 0.96,
+      "peak": 0.6881941556930542,
+      "rms": 0.09244319051504135,
+      "sha256": "fccc528a597f7ed06f96ba24677bc8f4fe8adfa31b1154f55baff133576b7435",
+      "bytes": 46124,
+      "generation_seconds": 5.41,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG002",
+      "shot": "SHOT-EP002-009",
+      "role": "刘咪",
+      "text": "在下刘咪。",
+      "voice_source": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_刘咪_Qwen_v001.wav",
+      "reference_text": "二位壮咪，住爪。",
+      "performance": "张咪爽快自报、刘咪温和有礼、关咪简短沉稳，按各自身份自然报姓名。",
+      "seed": 2026101004,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 5,
+      "sample_rate": 24000,
+      "duration_seconds": 1.28,
+      "peak": 0.6384329795837402,
+      "rms": 0.08162424713373184,
+      "sha256": "2c0422b369dd64bda7d6b42041e080e6a7573a07f2efa1769ae5851553a703f2",
+      "bytes": 61484,
+      "generation_seconds": 6.3,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG002",
+      "shot": "SHOT-EP002-009",
+      "role": "关咪",
+      "text": "关咪。",
+      "voice_source": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_关咪_Qwen_v001.wav",
+      "reference_text": "磨盘是我搬的。你自己定的规矩，认不认？",
+      "performance": "张咪爽快自报、刘咪温和有礼、关咪简短沉稳，按各自身份自然报姓名。",
+      "seed": 2026101005,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 5,
+      "sample_rate": 24000,
+      "duration_seconds": 0.8,
+      "peak": 0.41236305236816406,
+      "rms": 0.07427597045898438,
+      "sha256": "3016a9837a3f575d8d3cad41f73337cac03ffc25e304df1115902a677655e013",
+      "bytes": 38444,
+      "generation_seconds": 6.82,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG002",
+      "shot": "SHOT-EP002-013",
+      "role": "刘咪",
+      "text": "方才好本事，为何在此卖豆？",
+      "voice_source": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-013_刘咪_Qwen_v001.wav",
+      "reference_text": "二位壮咪，住爪。",
+      "performance": "温和真诚询问关咪，句尾自然疑问。",
+      "seed": 2026101006,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 4,
+      "sample_rate": 24000,
+      "duration_seconds": 2.48,
+      "peak": 0.6300109028816223,
+      "rms": 0.10254339128732681,
+      "sha256": "ef29f5a78c6a3ff20614eeb9875c961e61bd9020717d2dc86bd904245324bd0f",
+      "bytes": 119084,
+      "generation_seconds": 10.53,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG002",
+      "shot": "SHOT-EP002-014",
+      "role": "关咪",
+      "text": "在家乡杀了欺压乡里的恶霸，只得四处漂泊。",
+      "voice_source": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-014_关咪_Qwen_v001.wav",
+      "reference_text": "磨盘是我搬的。你自己定的规矩，认不认？",
+      "performance": "低沉收笑，回忆过往，有短语义停顿，不喊叫。",
+      "seed": 2026101007,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 7,
+      "sample_rate": 24000,
+      "duration_seconds": 4.8,
+      "peak": 0.6445508599281311,
+      "rms": 0.07381605356931686,
+      "sha256": "1fa11d5fcaf596f548ca5d5d7899bc5ce7ce0e00ab0de207f75c9756ee8efeee",
+      "bytes": 230444,
+      "generation_seconds": 30.33,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG003",
+      "shot": "SHOT-EP002-015",
+      "role": "关咪",
+      "text": "这身本领，总得有个用处。",
+      "voice_source": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-015_关咪_Qwen_v001.wav",
+      "reference_text": "磨盘是我搬的。你自己定的规矩，认不认？",
+      "performance": "抬眼说志向，沉稳有力，句尾坚定。",
+      "seed": 2026101008,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 3,
+      "sample_rate": 24000,
+      "duration_seconds": 2.72,
+      "peak": 0.5240806341171265,
+      "rms": 0.08651242405176163,
+      "sha256": "86204e9ce7cbfea26094e492078009b0698eaca42a6a232894d8e17af120b5dc",
+      "bytes": 130604,
+      "generation_seconds": 20.23,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG003",
+      "shot": "SHOT-EP002-016",
+      "role": "刘咪",
+      "text": "如今乱世，我想召集乡勇，护众咪安生。只是缺钱，也缺帮手。",
+      "voice_source": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-016_刘咪_Qwen_v001.wav",
+      "reference_text": "二位壮咪，住爪。",
+      "performance": "前句认真说志向，后句略放低语气说缺钱缺帮手。",
+      "seed": 2026101009,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 8,
+      "sample_rate": 24000,
+      "duration_seconds": 6.48,
+      "peak": 0.6519739627838135,
+      "rms": 0.09439155459403992,
+      "sha256": "56796949844eac743bc0fe4844810a21f7b32b3be5b450fe55061e3e7aa11559",
+      "bytes": 311084,
+      "generation_seconds": 23.63,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG003",
+      "shot": "SHOT-EP002-017",
+      "role": "张咪",
+      "text": "钱，俺出！你说怎么干！",
+      "voice_source": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-017_张咪_Qwen_v001.wav",
+      "reference_text": "先让我看看，你有多大本事！",
+      "performance": "干脆爽快，钱与俺出有力度，不拖长。",
+      "seed": 2026101010,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 3,
+      "sample_rate": 24000,
+      "duration_seconds": 3.12,
+      "peak": 0.573464035987854,
+      "rms": 0.07003620266914368,
+      "sha256": "e2dde424b5b788909bdd7f3433a6971b7d6818d3c0341bcdf947ca4abb3c48a0",
+      "bytes": 149804,
+      "generation_seconds": 13.3,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG003",
+      "shot": "SHOT-EP002-018",
+      "role": "关咪",
+      "text": "我随你去。",
+      "voice_source": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-018_关咪_Qwen_v001.wav",
+      "reference_text": "磨盘是我搬的。你自己定的规矩，认不认？",
+      "performance": "简短坚定，主动表示同行。",
+      "seed": 2026101011,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 2,
+      "sample_rate": 24000,
+      "duration_seconds": 1.12,
+      "peak": 0.3776560425758362,
+      "rms": 0.07094157487154007,
+      "sha256": "3816fbdf70b60cc5a742a033023a5fea92a0a4b96ed5994fedee581971c5cf74",
+      "bytes": 53804,
+      "generation_seconds": 7.88,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG003",
+      "shot": "SHOT-EP002-020",
+      "role": "刘咪",
+      "text": "二位若不嫌弃，今日结为兄弟，如何？",
+      "voice_source": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-020_刘咪_Qwen_v001.wav",
+      "reference_text": "二位壮咪，住爪。",
+      "performance": "郑重诚恳，提议结义，如何自然问句收尾。",
+      "seed": 2026101012,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 5,
+      "sample_rate": 24000,
+      "duration_seconds": 3.2,
+      "peak": 0.6510985493659973,
+      "rms": 0.11982088536024094,
+      "sha256": "28c3298878cfbad6f4f9ba91a91df2ec89adad62dc341343fb92eae44e82fda9",
+      "bytes": 153644,
+      "generation_seconds": 13.92,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG004",
+      "shot": "SHOT-EP002-021",
+      "role": "关咪",
+      "text": "愿与兄患难同当，生死相随。",
+      "voice_source": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-021_关咪_Qwen_v001.wav",
+      "reference_text": "磨盘是我搬的。你自己定的规矩，认不认？",
+      "performance": "庄重坚定，患难与生死有分量，吐字清楚。",
+      "seed": 2026101013,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 4,
+      "sample_rate": 24000,
+      "duration_seconds": 3.76,
+      "peak": 0.5493853092193604,
+      "rms": 0.07735859602689743,
+      "sha256": "685ee67cf84a418318418402831a75047cce16f3f578a55b6da4bdac97914cd4",
+      "bytes": 180524,
+      "generation_seconds": 18.11,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG004",
+      "shot": "SHOT-EP002-022",
+      "role": "张咪",
+      "text": "俺也一样！",
+      "voice_source": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-022_张咪_Qwen_v001.wav",
+      "reference_text": "先让我看看，你有多大本事！",
+      "performance": "紧接关咪爽直附和，短而有力。",
+      "seed": 2026101014,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 2,
+      "sample_rate": 24000,
+      "duration_seconds": 1.36,
+      "peak": 0.48206090927124023,
+      "rms": 0.07957009971141815,
+      "sha256": "5bdb6e8477a994ee19d4a8c6bf3d8b4d2c9eecaa811998e045ab88a52c6d6eb3",
+      "bytes": 65324,
+      "generation_seconds": 6.61,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG004",
+      "shot": "SHOT-EP002-024",
+      "role": "刘咪",
+      "text": "同心协力，救困扶危！不求同年同月同日生，但求同年同月同日死！",
+      "voice_source": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_刘咪_Qwen_v001.wav",
+      "reference_text": "二位壮咪，住爪。",
+      "performance": "共同盟誓，清楚有力，语义整齐，前句后短停；保持角色本人的音色。",
+      "seed": 2026101015,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 8,
+      "sample_rate": 24000,
+      "duration_seconds": 6.24,
+      "peak": 0.5980791449546814,
+      "rms": 0.10358171910047531,
+      "sha256": "477c904061f2282adb5d516467d6894a4749d37383fcb16c4764ea5e61a53f50",
+      "bytes": 299564,
+      "generation_seconds": 26.73,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG004",
+      "shot": "SHOT-EP002-024",
+      "role": "关咪",
+      "text": "同心协力，救困扶危！不求同年同月同日生，但求同年同月同日死！",
+      "voice_source": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_关咪_Qwen_v001.wav",
+      "reference_text": "磨盘是我搬的。你自己定的规矩，认不认？",
+      "performance": "共同盟誓，清楚有力，语义整齐，前句后短停；保持角色本人的音色。",
+      "seed": 2026101016,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 8,
+      "sample_rate": 24000,
+      "duration_seconds": 8.32,
+      "peak": 0.5215526223182678,
+      "rms": 0.07725869864225388,
+      "sha256": "9f49d46bc005b86ac5a7f93ec0ceb3da369b896f5cae7d9b275e52d097691cff",
+      "bytes": 399404,
+      "generation_seconds": 34.73,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG004",
+      "shot": "SHOT-EP002-024",
+      "role": "张咪",
+      "text": "同心协力，救困扶危！不求同年同月同日生，但求同年同月同日死！",
+      "voice_source": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_张咪_Qwen_v001.wav",
+      "reference_text": "先让我看看，你有多大本事！",
+      "performance": "共同盟誓，清楚有力，语义整齐，前句后短停；保持角色本人的音色。",
+      "seed": 2026101017,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 8,
+      "sample_rate": 24000,
+      "duration_seconds": 6.72,
+      "peak": 0.5201736092567444,
+      "rms": 0.08106759935617447,
+      "sha256": "1c8233caed581bede9e8def4695bac7a8379a17bb144e9e91879dad038d14c2b",
+      "bytes": 322604,
+      "generation_seconds": 26.44,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG004",
+      "shot": "SHOT-EP002-025",
+      "role": "关咪",
+      "text": "大哥！",
+      "voice_source": "公共素材/声音/关咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "e99adc548fe5576fbcee85dfdd58492433141c02656f1d7e28cd974daeeebef9",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-025_关咪_Qwen_v001.wav",
+      "reference_text": "磨盘是我搬的。你自己定的规矩，认不认？",
+      "performance": "合声喊大哥，亲切有力，短收。",
+      "seed": 2026101018,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 2,
+      "sample_rate": 24000,
+      "duration_seconds": 0.8,
+      "peak": 0.517673909664154,
+      "rms": 0.05317852273583412,
+      "sha256": "eeff2c6bc6c1a866048282727d02e1656d9eeeb59dc13f68e7ad61dfc442aa15",
+      "bytes": 38444,
+      "generation_seconds": 4.78,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG004",
+      "shot": "SHOT-EP002-025",
+      "role": "张咪",
+      "text": "大哥！",
+      "voice_source": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-025_张咪_Qwen_v001.wav",
+      "reference_text": "先让我看看，你有多大本事！",
+      "performance": "合声喊大哥，亲切有力，短收。",
+      "seed": 2026101019,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 2,
+      "sample_rate": 24000,
+      "duration_seconds": 0.88,
+      "peak": 0.47666075825691223,
+      "rms": 0.06557963788509369,
+      "sha256": "d07095ecfb383fb985a0f88ae96059f89621ab2263b651746e10ba04d17542c9",
+      "bytes": 42284,
+      "generation_seconds": 7.53,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG004",
+      "shot": "SHOT-EP002-026",
+      "role": "刘咪",
+      "text": "二弟，三弟！",
+      "voice_source": "公共素材/声音/刘咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0b4b057025ddd27926b371f6bad511b205ff1973a4d23142a617a7821c7bda34",
+      "status": "accepted",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-026_刘咪_Qwen_v001.wav",
+      "reference_text": "二位壮咪，住爪。",
+      "performance": "温和含笑回应，二弟三弟有自然分隔。",
+      "seed": 2026101020,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 2,
+      "sample_rate": 24000,
+      "duration_seconds": 1.76,
+      "peak": 0.6384957432746887,
+      "rms": 0.09419933706521988,
+      "sha256": "83f93b513803ebe4c5b8a315ac113eabb57f3e9d61e32568a8b849063ea143d4",
+      "bytes": 84524,
+      "generation_seconds": 7.99,
+      "technical_verification": "finite_non_silent_decodable_pcm16",
+      "performance_control": "Base reference voice reuse; no natural-language per-line instruction control claimed",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "segment": "SEG005",
+      "shot": "SHOT-EP002-032",
+      "role": "张咪",
+      "text": "干杯！",
+      "voice_source": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+      "voice_sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+      "status": "generated_pending_listening",
+      "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-032_张咪_Qwen_v002.wav",
+      "reference_text": "先让我看看，你有多大本事！",
+      "performance": "先收舌再举碗，喜气上来，爽快地说干杯。",
+      "seed": 2026101032,
+      "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+      "overwrite": false,
+      "shot_budget_seconds": 2,
+      "creator_accepted": false,
+      "sample_rate": 24000,
+      "duration_seconds": 1.12,
+      "sha256": "13898a8868cd396ac87b183bde92175f56ea118b218329319fbab98167bdb848",
+      "bytes": 53804,
+      "peak": 0.56280517578125,
+      "rms": 0.06312950700521469,
+      "revision_record": "剧集/EP002/制作成果/audio/配音/SEG005_干杯修订_20261010.json"
+    }
+  ],
+  "segment_references": {
+    "SEG001": [
+      {
+        "tag": "音频1",
+        "role": "张咪",
+        "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考音频/音频01_张咪_本段原句.wav",
+        "sha256": "36c7328553bfd53a14d75f95ac102c0c28d98f9901acacd9f007e0d42daba4ea",
+        "duration_seconds": 7.45,
+        "dialogue_duration_seconds": 7.45,
+        "source_files": [
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-001_张咪_Qwen_v001.wav",
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-007_张咪_Qwen_v001.wav"
+        ],
+        "source_entries": [
+          "SHOT-EP002-001",
+          "SHOT-EP002-007"
+        ],
+        "texts": [
+          "好身手！不打了。走，俺请二位喝羊奶！",
+          "我踏板质量很好。"
+        ],
+        "purpose": "同一角色本段原句的固定声线参考",
+        "may_control": [
+          "音色"
+        ],
+        "must_not_control": [
+          "台词",
+          "语气",
+          "情绪",
+          "背景声音"
+        ],
+        "status": "accepted_source_reference",
+        "creator_accepted": true,
+        "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+      },
+      {
+        "tag": "音频2",
+        "role": "关咪",
+        "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG001/参考音频/音频02_关咪_本段原句.wav",
+        "sha256": "cad2b0cb6ab1a3415243e0222d2536eabffeb2686360ae67580817eb23541e60",
+        "duration_seconds": 2.2,
+        "dialogue_duration_seconds": 0.72,
+        "source_files": [
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-002_关咪_Qwen_v001.wav"
+        ],
+        "source_entries": [
+          "SHOT-EP002-002"
+        ],
+        "texts": [
+          "请。"
+        ],
+        "purpose": "同一角色本段原句的固定声线参考",
+        "may_control": [
+          "音色"
+        ],
+        "must_not_control": [
+          "台词",
+          "语气",
+          "情绪",
+          "背景声音"
+        ],
+        "status": "accepted_source_reference",
+        "creator_accepted": true,
+        "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+      }
+    ],
+    "SEG002": [
+      {
+        "tag": "音频1",
+        "role": "张咪",
+        "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考音频/音频01_张咪_本段原句.wav",
+        "sha256": "fcfe2d08761a7b950361075be85e0328439d658d92408043aa77bc29a02238f9",
+        "duration_seconds": 2.2,
+        "dialogue_duration_seconds": 0.96,
+        "source_files": [
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_张咪_Qwen_v001.wav"
+        ],
+        "source_entries": [
+          "SHOT-EP002-009"
+        ],
+        "texts": [
+          "俺叫张咪！"
+        ],
+        "purpose": "同一角色本段原句的固定声线参考",
+        "may_control": [
+          "音色"
+        ],
+        "must_not_control": [
+          "台词",
+          "语气",
+          "情绪",
+          "背景声音"
+        ],
+        "status": "accepted_source_reference",
+        "creator_accepted": true,
+        "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+      },
+      {
+        "tag": "音频2",
+        "role": "刘咪",
+        "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考音频/音频02_刘咪_本段原句.wav",
+        "sha256": "be97509cb9d8599728efe8aa6e01247782cacc5f5e1666b3b091a8166babb2a1",
+        "duration_seconds": 4.01,
+        "dialogue_duration_seconds": 4.01,
+        "source_files": [
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_刘咪_Qwen_v001.wav",
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-013_刘咪_Qwen_v001.wav"
+        ],
+        "source_entries": [
+          "SHOT-EP002-009",
+          "SHOT-EP002-013"
+        ],
+        "texts": [
+          "在下刘咪。",
+          "方才好本事，为何在此卖豆？"
+        ],
+        "purpose": "同一角色本段原句的固定声线参考",
+        "may_control": [
+          "音色"
+        ],
+        "must_not_control": [
+          "台词",
+          "语气",
+          "情绪",
+          "背景声音"
+        ],
+        "status": "accepted_source_reference",
+        "creator_accepted": true,
+        "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+      },
+      {
+        "tag": "音频3",
+        "role": "关咪",
+        "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG002/参考音频/音频03_关咪_本段原句.wav",
+        "sha256": "35e26b88bbaa3ada6d557391ed883dbfe46ceab80155e66fbc828637a0d08198",
+        "duration_seconds": 5.85,
+        "dialogue_duration_seconds": 5.85,
+        "source_files": [
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-009_关咪_Qwen_v001.wav",
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-014_关咪_Qwen_v001.wav"
+        ],
+        "source_entries": [
+          "SHOT-EP002-009",
+          "SHOT-EP002-014"
+        ],
+        "texts": [
+          "关咪。",
+          "在家乡杀了欺压乡里的恶霸，只得四处漂泊。"
+        ],
+        "purpose": "同一角色本段原句的固定声线参考",
+        "may_control": [
+          "音色"
+        ],
+        "must_not_control": [
+          "台词",
+          "语气",
+          "情绪",
+          "背景声音"
+        ],
+        "status": "accepted_source_reference",
+        "creator_accepted": true,
+        "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+      }
+    ],
+    "SEG003": [
+      {
+        "tag": "音频1",
+        "role": "关咪",
+        "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考音频/音频01_关咪_本段原句.wav",
+        "sha256": "509cf7eecb7c32d0254547d38ab51619d6b8d7a3d25ddd075ef558f1d627528a",
+        "duration_seconds": 4.09,
+        "dialogue_duration_seconds": 4.09,
+        "source_files": [
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-015_关咪_Qwen_v001.wav",
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-018_关咪_Qwen_v001.wav"
+        ],
+        "source_entries": [
+          "SHOT-EP002-015",
+          "SHOT-EP002-018"
+        ],
+        "texts": [
+          "这身本领，总得有个用处。",
+          "我随你去。"
+        ],
+        "purpose": "同一角色本段原句的固定声线参考",
+        "may_control": [
+          "音色"
+        ],
+        "must_not_control": [
+          "台词",
+          "语气",
+          "情绪",
+          "背景声音"
+        ],
+        "status": "accepted_source_reference",
+        "creator_accepted": true,
+        "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+      },
+      {
+        "tag": "音频2",
+        "role": "刘咪",
+        "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考音频/音频02_刘咪_本段原句.wav",
+        "sha256": "dcd6cc5185a20817905b086121552f1911f95a49f885c82b071fc0e26f4e1638",
+        "duration_seconds": 9.93,
+        "dialogue_duration_seconds": 9.93,
+        "source_files": [
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-016_刘咪_Qwen_v001.wav",
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-020_刘咪_Qwen_v001.wav"
+        ],
+        "source_entries": [
+          "SHOT-EP002-016",
+          "SHOT-EP002-020"
+        ],
+        "texts": [
+          "如今乱世，我想召集乡勇，护众咪安生。只是缺钱，也缺帮手。",
+          "二位若不嫌弃，今日结为兄弟，如何？"
+        ],
+        "purpose": "同一角色本段原句的固定声线参考",
+        "may_control": [
+          "音色"
+        ],
+        "must_not_control": [
+          "台词",
+          "语气",
+          "情绪",
+          "背景声音"
+        ],
+        "status": "accepted_source_reference",
+        "creator_accepted": true,
+        "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+      },
+      {
+        "tag": "音频3",
+        "role": "张咪",
+        "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考音频/音频03_张咪_本段原句.wav",
+        "sha256": "e2dde424b5b788909bdd7f3433a6971b7d6818d3c0341bcdf947ca4abb3c48a0",
+        "duration_seconds": 3.12,
+        "dialogue_duration_seconds": 3.12,
+        "source_files": [
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-017_张咪_Qwen_v001.wav"
+        ],
+        "source_entries": [
+          "SHOT-EP002-017"
+        ],
+        "texts": [
+          "钱，俺出！你说怎么干！"
+        ],
+        "purpose": "同一角色本段原句的固定声线参考",
+        "may_control": [
+          "音色"
+        ],
+        "must_not_control": [
+          "台词",
+          "语气",
+          "情绪",
+          "背景声音"
+        ],
+        "status": "accepted_source_reference",
+        "creator_accepted": true,
+        "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+      }
+    ],
+    "SEG004": [
+      {
+        "tag": "音频1",
+        "role": "关咪",
+        "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考音频/音频01_关咪_本段原句.wav",
+        "sha256": "8510d48fa6bf79ae0090849fe224e3ae63ab0e6346aaff9addd212ae53e29c3b",
+        "duration_seconds": 13.38,
+        "dialogue_duration_seconds": 13.38,
+        "source_files": [
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-021_关咪_Qwen_v001.wav",
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_关咪_Qwen_v001.wav",
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-025_关咪_Qwen_v001.wav"
+        ],
+        "source_entries": [
+          "SHOT-EP002-021",
+          "SHOT-EP002-024",
+          "SHOT-EP002-025"
+        ],
+        "texts": [
+          "愿与兄患难同当，生死相随。",
+          "同心协力，救困扶危！不求同年同月同日生，但求同年同月同日死！",
+          "大哥！"
+        ],
+        "purpose": "同一角色本段原句的固定声线参考",
+        "may_control": [
+          "音色"
+        ],
+        "must_not_control": [
+          "台词",
+          "语气",
+          "情绪",
+          "背景声音"
+        ],
+        "status": "accepted_source_reference",
+        "creator_accepted": true,
+        "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+      },
+      {
+        "tag": "音频2",
+        "role": "张咪",
+        "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考音频/音频02_张咪_本段原句.wav",
+        "sha256": "4956088f5cd9226855d7bbff4e1b5e5aae7ca180d69ae0df3f4004e62107e9c7",
+        "duration_seconds": 9.46,
+        "dialogue_duration_seconds": 9.46,
+        "source_files": [
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-022_张咪_Qwen_v001.wav",
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_张咪_Qwen_v001.wav",
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-025_张咪_Qwen_v001.wav"
+        ],
+        "source_entries": [
+          "SHOT-EP002-022",
+          "SHOT-EP002-024",
+          "SHOT-EP002-025"
+        ],
+        "texts": [
+          "俺也一样！",
+          "同心协力，救困扶危！不求同年同月同日生，但求同年同月同日死！",
+          "大哥！"
+        ],
+        "purpose": "同一角色本段原句的固定声线参考",
+        "may_control": [
+          "音色"
+        ],
+        "must_not_control": [
+          "台词",
+          "语气",
+          "情绪",
+          "背景声音"
+        ],
+        "status": "accepted_source_reference",
+        "creator_accepted": true,
+        "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+      },
+      {
+        "tag": "音频3",
+        "role": "刘咪",
+        "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG004/参考音频/音频03_刘咪_本段原句.wav",
+        "sha256": "b55ebb0d6abc27ed315ee7757adf6f5f455c28c7b797cba246b385ab448d3168",
+        "duration_seconds": 8.25,
+        "dialogue_duration_seconds": 8.25,
+        "source_files": [
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-024_刘咪_Qwen_v001.wav",
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-026_刘咪_Qwen_v001.wav"
+        ],
+        "source_entries": [
+          "SHOT-EP002-024",
+          "SHOT-EP002-026"
+        ],
+        "texts": [
+          "同心协力，救困扶危！不求同年同月同日生，但求同年同月同日死！",
+          "二弟，三弟！"
+        ],
+        "purpose": "同一角色本段原句的固定声线参考",
+        "may_control": [
+          "音色"
+        ],
+        "must_not_control": [
+          "台词",
+          "语气",
+          "情绪",
+          "背景声音"
+        ],
+        "status": "accepted_source_reference",
+        "creator_accepted": true,
+        "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+      }
+    ],
+    "SEG005": [
+      {
+        "tag": "音频1",
+        "role": "张咪",
+        "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考音频/音频01_张咪_干杯_本段原句_v002.wav",
+        "sha256": "466ccba5cce6731669949f811619ae4a33880c58dbe6e290171d9b3a55109d79",
+        "duration_seconds": 2.2,
+        "dialogue_duration_seconds": 1.12,
+        "source_files": [
+          "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-032_张咪_Qwen_v002.wav"
+        ],
+        "source_entries": [
+          "SHOT-EP002-032"
+        ],
+        "texts": [
+          "干杯！"
+        ],
+        "purpose": "同一角色本段原句的固定声线参考",
+        "may_control": [
+          "音色"
+        ],
+        "must_not_control": [
+          "台词",
+          "语气",
+          "情绪",
+          "背景声音"
+        ],
+        "status": "generated_pending_listening",
+        "creator_accepted": false,
+        "revision_record": "剧集/EP002/制作成果/audio/配音/SEG005_干杯修订_20261010.json"
+      }
+    ]
+  },
+  "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json",
+  "acceptance_scope_note": "既有采用记录仅覆盖旧版原句；本轮干杯新音频未自动采用。"
+}

@@ -1,0 +1,63 @@
+{
+  "authorization": "用户明确要求换成干杯；同步本地固定声线原句参考",
+  "paid_external_api": false,
+  "method": "既有本地Qwen Base固定声线复用",
+  "job": {
+    "segment": "SEG005",
+    "shot": "SHOT-EP002-032",
+    "role": "张咪",
+    "text": "干杯！",
+    "voice_source": "公共素材/声音/张咪_独立声线_定稿_v001.wav",
+    "voice_sha256": "0600d9fe896308fe36a3fde8dd9fbf4ff0adf205f2e6e1cbdd2128f4ebf51b02",
+    "status": "prepared",
+    "output": "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-032_张咪_Qwen_v002.wav",
+    "reference_text": "先让我看看，你有多大本事！",
+    "performance": "先收舌再举碗，喜气上来，爽快地说干杯。",
+    "seed": 2026101032,
+    "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+    "model_local": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+    "overwrite": false,
+    "shot_budget_seconds": 2
+  },
+  "status": "generated_pending_listening",
+  "creator_accepted": false,
+  "duration_seconds": 1.12,
+  "sample_rate": 24000,
+  "sha256": "13898a8868cd396ac87b183bde92175f56ea118b218329319fbab98167bdb848",
+  "generation_seconds": 14.08,
+  "performance_control": "Base无独立自然语言情绪控制；表演需回听",
+  "clip_samples": 0,
+  "asr_auxiliary_text": "乾杯",
+  "upload_reference": {
+    "tag": "音频1",
+    "role": "张咪",
+    "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/参考音频/音频01_张咪_干杯_本段原句_v002.wav",
+    "sha256": "466ccba5cce6731669949f811619ae4a33880c58dbe6e290171d9b3a55109d79",
+    "duration_seconds": 2.2,
+    "dialogue_duration_seconds": 1.12,
+    "source_files": [
+      "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-032_张咪_Qwen_v002.wav"
+    ],
+    "source_entries": [
+      "SHOT-EP002-032"
+    ],
+    "texts": [
+      "干杯！"
+    ],
+    "purpose": "同一角色本段原句的固定声线参考",
+    "may_control": [
+      "音色"
+    ],
+    "must_not_control": [
+      "台词",
+      "语气",
+      "情绪",
+      "背景声音"
+    ],
+    "status": "generated_pending_listening",
+    "creator_accepted": false,
+    "revision_record": "剧集/EP002/制作成果/audio/配音/SEG005_干杯修订_20261010.json"
+  },
+  "binding_status": "complete",
+  "previous_dialogue_preserved_as_history": true
+}

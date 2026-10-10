@@ -1,0 +1,243 @@
+{
+  "segment_id": "SEG003",
+  "name": "共同志向出资与提议结拜",
+  "source": "剧集/EP002/视频提示词.md",
+  "model": "Seedance 2.5",
+  "task_type": "extend",
+  "duration_seconds": 24,
+  "duration_meaning": "新增片段",
+  "aspect_ratio": "adaptive",
+  "resolution": "480P；继承前段实际480×854",
+  "status": "local_repair_completed_pending_creator_review",
+  "video_submitted": true,
+  "images": [
+    {
+      "tag": "图片1",
+      "source": "剧集/EP002/制作成果/续接参考/SEG002_v002/SEG002_v002_真实尾帧.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片01_SEG002_v002_真实尾帧.png",
+      "purpose": "采用版第二段真实尾帧；关咪前景垂眼，张咪在炉后持夹，三咪已卸枪",
+      "sha256": "bf5e011fefd03381faecbe76e7ef5225b8103ff33a948a85abc18450398b3328"
+    },
+    {
+      "tag": "图片2",
+      "source": "公共素材/视觉参考/刘关张_小巧可爱_风格母版_定稿.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片02_刘关张_小巧可爱_风格母版_定稿.png",
+      "purpose": "身份与比例；不继承持枪",
+      "sha256": "9e099bdd43ad54b006476d3195998a6ff58da8cba8c75362791e75428fc0c75e"
+    },
+    {
+      "tag": "图片3",
+      "source": "剧集/EP002/制作成果/images/IMG-EP002-006_桃园烧烤处布置板_v002.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片03_IMG-EP002-006_桃园烧烤处布置板_v002.png",
+      "purpose": "桌炉地理",
+      "sha256": "3aa7b61dd8bb1d153df45acac0e4721fb70821aa8dadd16bfc318b9fe3a74f2b"
+    },
+    {
+      "tag": "图片4",
+      "source": "剧集/EP002/制作成果/images/IMG-EP002-008_独立烤炉与供气组件板_v002.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片04_IMG-EP002-008_独立烤炉与供气组件板_v002.png",
+      "purpose": "炉罐外形及旋钮",
+      "sha256": "79fc54faa903c2bd891802d786d0c5edbdeb946c4f4650fe72433c0ce97aec0c"
+    },
+    {
+      "tag": "图片5",
+      "source": "剧集/EP002/制作成果/images/IMG-EP002-009_虾与夹盘状态板_v001.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片05_IMG-EP002-009_虾与夹盘状态板_v001.png",
+      "purpose": "虾、夹、盘外形，不继承多格状态",
+      "sha256": "8c0c3f148a030c27f190e40816ce54f1cd2409a67b3ce7861a1ab82cef55d88a"
+    },
+    {
+      "tag": "图片6",
+      "source": "剧集/EP002/制作成果/images/SHOT-EP002-020_起始帧_v003.png",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考图片/图片06_SHOT-EP002-020_起始帧_v003.png",
+      "purpose": "三咪站像前、关咪张咪看刘咪",
+      "sha256": "0169a69d2afb2bd167f5a3c71b6b4852e8ea63928e4083d214855635cfea64d3"
+    }
+  ],
+  "audio": [
+    {
+      "tag": "音频1",
+      "role": "关咪",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考音频/音频01_关咪_本段原句.wav",
+      "sha256": "509cf7eecb7c32d0254547d38ab51619d6b8d7a3d25ddd075ef558f1d627528a",
+      "duration_seconds": 4.09,
+      "dialogue_duration_seconds": 4.09,
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-015_关咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-018_关咪_Qwen_v001.wav"
+      ],
+      "source_entries": [
+        "SHOT-EP002-015",
+        "SHOT-EP002-018"
+      ],
+      "texts": [
+        "这身本领，总得有个用处。",
+        "我随你去。"
+      ],
+      "purpose": "同一角色本段原句的固定声线参考",
+      "may_control": [
+        "音色"
+      ],
+      "must_not_control": [
+        "台词",
+        "语气",
+        "情绪",
+        "背景声音"
+      ],
+      "status": "accepted_source_reference",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "tag": "音频2",
+      "role": "刘咪",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考音频/音频02_刘咪_本段原句.wav",
+      "sha256": "dcd6cc5185a20817905b086121552f1911f95a49f885c82b071fc0e26f4e1638",
+      "duration_seconds": 9.93,
+      "dialogue_duration_seconds": 9.93,
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-016_刘咪_Qwen_v001.wav",
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-020_刘咪_Qwen_v001.wav"
+      ],
+      "source_entries": [
+        "SHOT-EP002-016",
+        "SHOT-EP002-020"
+      ],
+      "texts": [
+        "如今乱世，我想召集乡勇，护众咪安生。只是缺钱，也缺帮手。",
+        "二位若不嫌弃，今日结为兄弟，如何？"
+      ],
+      "purpose": "同一角色本段原句的固定声线参考",
+      "may_control": [
+        "音色"
+      ],
+      "must_not_control": [
+        "台词",
+        "语气",
+        "情绪",
+        "背景声音"
+      ],
+      "status": "accepted_source_reference",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    },
+    {
+      "tag": "音频3",
+      "role": "张咪",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考音频/音频03_张咪_本段原句.wav",
+      "sha256": "e2dde424b5b788909bdd7f3433a6971b7d6818d3c0341bcdf947ca4abb3c48a0",
+      "duration_seconds": 3.12,
+      "dialogue_duration_seconds": 3.12,
+      "source_files": [
+        "剧集/EP002/制作成果/audio/配音/对白/SHOT-EP002-017_张咪_Qwen_v001.wav"
+      ],
+      "source_entries": [
+        "SHOT-EP002-017"
+      ],
+      "texts": [
+        "钱，俺出！你说怎么干！"
+      ],
+      "purpose": "同一角色本段原句的固定声线参考",
+      "may_control": [
+        "音色"
+      ],
+      "must_not_control": [
+        "台词",
+        "语气",
+        "情绪",
+        "背景声音"
+      ],
+      "status": "accepted_source_reference",
+      "creator_accepted": true,
+      "acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json"
+    }
+  ],
+  "video": [
+    {
+      "tag": "视频1",
+      "source": "剧集/EP002/制作成果/续接参考/SEG002_v002/SEG002_v002_无音轨.mp4",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/参考视频/视频01_SEG002_v002_无音轨.mp4",
+      "sha256": "c605f51837b0988a4079aae6f55100c065e19c73b65f1b1add1313878a4d7e9a",
+      "audio_stream_count": 0,
+      "purpose": "上一段实际已采用视频的无音轨副本，仅控制画面续接"
+    }
+  ],
+  "missing_inputs": [],
+  "members": [
+    {
+      "shot": "SHOT-EP002-015",
+      "motion": "MOTION-EP002-015",
+      "start_seconds": 0,
+      "end_seconds": 3,
+      "duration_seconds": 3
+    },
+    {
+      "shot": "SHOT-EP002-016",
+      "motion": "MOTION-EP002-016",
+      "start_seconds": 3,
+      "end_seconds": 11,
+      "duration_seconds": 8
+    },
+    {
+      "shot": "SHOT-EP002-017",
+      "motion": "MOTION-EP002-017",
+      "start_seconds": 11,
+      "end_seconds": 14,
+      "duration_seconds": 3
+    },
+    {
+      "shot": "SHOT-EP002-018",
+      "motion": "MOTION-EP002-018",
+      "start_seconds": 14,
+      "end_seconds": 16,
+      "duration_seconds": 2
+    },
+    {
+      "shot": "SHOT-EP002-019",
+      "motion": "MOTION-EP002-019",
+      "start_seconds": 16,
+      "end_seconds": 19,
+      "duration_seconds": 3
+    },
+    {
+      "shot": "SHOT-EP002-020",
+      "motion": "MOTION-EP002-020",
+      "start_seconds": 19,
+      "end_seconds": 24,
+      "duration_seconds": 5
+    }
+  ],
+  "prompt_file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/SEG003_提示词.txt",
+  "prompt_sha256": "660856c5c4d751f6ee99b79e567fbc439fa236950d8a59b1a162efac22a7f2c8",
+  "download_target": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG003_v002.mp4",
+  "actual_output": {
+    "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG003_v002.mp4",
+    "sha256": "d9deca1bceef229d057ba93caa984e40c4ea24b470b4c5346050a85abd51feb6",
+    "duration_seconds": 24.064,
+    "resolution": [
+      480,
+      854
+    ],
+    "decoded_video_frames": 577,
+    "tail_frame": "剧集/EP002/制作成果/续接参考/SEG003_v002/SEG003_v002_真实尾帧.png",
+    "tail_sha256": "ac4d718e4a333d619ca8eb3dab52f552fec851f0201ad32524ec5bf4a26473ae",
+    "silent_video": "剧集/EP002/制作成果/续接参考/SEG003_v002/SEG003_v002_无音轨.mp4",
+    "silent_sha256": "558daa905a35efd7f66e9c5b03e3759856b89bfd65ada16d52b711c922327bae",
+    "creator_feedback": "用户同意先尝试修复末镜刘咪腰侧枪柄，并明确离开烤炉时关咪背枪不用处理。修复版已完成，待审阅。",
+    "creator_accepted": false
+  },
+  "source_sha256": "190ccd1ca300f9fa55772ad6823183e9e2ae5dedd75d90eb8a19c9d0b6db7049",
+  "audio_status": "accepted",
+  "audio_acceptance_record": "剧集/EP002/制作成果/audio/配音/音频采用记录_20261010.json",
+  "download_naming_note": "用户要求以v002区分第二集，本集分段视频命名为SEGxxx_v002.mp4。",
+  "previous_segment_creator_accepted": true,
+  "previous_segment_acceptance_record": "剧集/EP002/制作成果/SEG002_视频采用记录_20261010.json",
+  "continuation_export_record": "剧集/EP002/制作成果/续接参考/SEG002_v002/SEG002_v002_续接记录.json",
+  "repair_output": {
+    "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG003_v002_局部修复.mp4",
+    "sha256": "e6361c9645a3db82f44c5ecd028a0d99859d44c6c4bfd289d36932dcb31c9d1d",
+    "duration_seconds": 24.064,
+    "creator_accepted": false,
+    "record": "剧集/EP002/制作成果/SEG003_局部修复记录_20261010.json"
+  }
+}

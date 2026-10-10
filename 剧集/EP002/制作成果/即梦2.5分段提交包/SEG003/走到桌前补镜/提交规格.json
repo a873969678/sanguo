@@ -1,0 +1,61 @@
+{
+  "id": "SEG003-BRIDGE",
+  "source": "剧集/EP002/视频提示词.md",
+  "source_entry": "MOTION-EP002-016B",
+  "model": "Seedance 2.5",
+  "ui_mode": "首尾帧",
+  "task_type": "reference",
+  "duration_seconds": 4,
+  "aspect_ratio": "9:16",
+  "resolution": "480P",
+  "status": "creator_accepted_integrated",
+  "video_submitted": true,
+  "images": [
+    {
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/走到桌前补镜/首尾帧/01_首帧_张咪仍在烤炉边.png",
+      "role": "first_frame",
+      "sha256": "c289828bf32565e999850f773c488a1ae9350a6eba2efe616e64293912343a4c",
+      "source": "剧集/EP002/制作成果/成片/EP002_配乐与舞蹈口令_v002.mp4",
+      "source_frame_zero_based": 1456,
+      "source_time_seconds": 60.666666666666664
+    },
+    {
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/走到桌前补镜/首尾帧/02_尾帧_张咪已到桌旁.png",
+      "role": "last_frame",
+      "sha256": "55dedf361c0132751867479fcf49d5714ddd57c94339497403eef6ec10c47ac4",
+      "source": "剧集/EP002/制作成果/成片/EP002_配乐与舞蹈口令_v002.mp4",
+      "source_frame_zero_based": 1457,
+      "source_time_seconds": 60.708333333333336
+    }
+  ],
+  "video": [],
+  "audio": [],
+  "prompt_file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG003/走到桌前补镜/SEG003_走到桌前_提示词.txt",
+  "prompt_sha256": "e40fd63a1fa36f9d933f9e38721672154fc815c781b0c339652baed95db57e48",
+  "download_target": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG003_BRIDGE_v002.mp4",
+  "editing_plan": {
+    "base": "剧集/EP002/制作成果/成片/EP002_撤回反应镜_待补转场_v005.mp4",
+    "insert_before_frame": 1397,
+    "insert_time_seconds": 58.208333333333336,
+    "insert_after_dialogue": "刘咪：只是缺钱，也缺帮手。",
+    "resume_dialogue": "张咪：钱，俺出！你说怎么干！",
+    "dialogue_source": "原片，不重新生成",
+    "duration_after_bridge_expected": 121.625,
+    "music": "插入后按新时间线重新编排，不能使对白重叠；舞蹈口令随画面后移",
+    "keep_corrections": [
+      "第一段删除2.5秒无对白尾镜",
+      "关火镜头裁切避开错误枪堆"
+    ]
+  },
+  "creator_accepted": true,
+  "source_sha256": "190ccd1ca300f9fa55772ad6823183e9e2ae5dedd75d90eb8a19c9d0b6db7049",
+  "actual_output": {
+    "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG003_BRIDGE_v002.mp4",
+    "sha256": "db1576940657df4d48ee38d482b88b3ef5cdf79b901fcc545d726d2845cbc77f",
+    "duration_seconds": 4.016667,
+    "used_seconds": 4,
+    "creator_feedback": "SEG003_BRIDGE_v002 可以了"
+  },
+  "integrated_delivery": "剧集/EP002/制作成果/成片/EP002_补入走位_配乐口令_v006.mp4",
+  "integration_record": "剧集/EP002/制作成果/成片/EP002_补入走位记录_v006.json"
+}

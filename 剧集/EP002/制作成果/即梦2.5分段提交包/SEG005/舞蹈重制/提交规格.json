@@ -1,0 +1,145 @@
+{
+  "segment_id": "SEG005-DANCE",
+  "source": "剧集/EP002/视频提示词.md",
+  "source_entries": [
+    "MOTION-EP002-034",
+    "MOTION-EP002-035"
+  ],
+  "model": "Seedance 2.5",
+  "task_type": "reference",
+  "duration_seconds": 14,
+  "aspect_ratio": "4:3",
+  "resolution": "480P",
+  "status": "completed_creator_accepted_final",
+  "video_submitted": true,
+  "audio": [],
+  "images": [
+    {
+      "tag": "图片1",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/舞蹈重制/参考图片/图片01_三咪空爪站立_实际第292帧.png",
+      "sha256": "3f61244e452901518ff55f50b568518e41161be98124a201ff6090703e3bb61c",
+      "source": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG005_v002.mp4",
+      "source_frame_zero_based": 291,
+      "source_time_seconds": 12.125,
+      "purpose": "实际空爪站姿、角色身份、服装与场景；不承担舞步参考"
+    }
+  ],
+  "video": [
+    {
+      "tag": "视频1",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/舞蹈重制/参考视频/视频01_闪身步_动作参考_无声_720P.mp4",
+      "source": "输入/动作参考/EP002/教学合集_BV1hWh26wE3f_无声.mp4",
+      "source_url": "https://www.bilibili.com/video/BV1hWh26wE3f/",
+      "source_in_seconds": 3,
+      "source_out_seconds": 9.5,
+      "duration_seconds": 6.5,
+      "sha256": "716d05cb64d764ff766abf0986ed796ddfcba1112c62107a6c670dc05cb0ab2a",
+      "audio_stream_count": 0,
+      "purpose": "只控制镜头8的并脚—侧开步—倾身闪转—回正，不能控制人物、衣服、背景、字幕或镜头",
+      "role": "reference_video_motion_only",
+      "width": 960,
+      "height": 720,
+      "frames": 195,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "sample_aspect_ratio": "1:1",
+      "upload_conversion": "原参考480×360上传报分辨率不支持，改为960×720等比例编码；平台重新上传待验证。"
+    },
+    {
+      "tag": "视频2",
+      "file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/舞蹈重制/参考视频/视频02_狗熊哆嗦毛_动作参考_无声_720P.mp4",
+      "source": "输入/动作参考/EP002/教学合集_BV1hWh26wE3f_无声.mp4",
+      "source_url": "https://www.bilibili.com/video/BV1hWh26wE3f/",
+      "source_in_seconds": 25.8,
+      "source_out_seconds": 32.6,
+      "duration_seconds": 6.8,
+      "sha256": "48d2fa9fb3f7af273acc34f1182f167239073a92b8f5528bfdb00118e54be3ac",
+      "audio_stream_count": 0,
+      "purpose": "只控制镜头9腰身倾摆、肩臂展开上绕与脚下交替；不继承教师外貌、蓝墙、字幕或切镜",
+      "role": "reference_video_motion_only",
+      "width": 960,
+      "height": 720,
+      "frames": 204,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "sample_aspect_ratio": "1:1",
+      "upload_conversion": "原参考480×360上传报分辨率不支持，改为960×720等比例编码；平台重新上传待验证。"
+    }
+  ],
+  "prompt_file": "剧集/EP002/制作成果/即梦2.5分段提交包/SEG005/舞蹈重制/SEG005_舞蹈重制_提示词.txt",
+  "prompt_sha256": "c7a60c9ab45863e7033f79d3485d69c8d9810a982a5f1839289ee146bedd259d",
+  "download_target": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG005_DANCE_v002.mp4",
+  "actual_output": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG005_DANCE_v002.mp4",
+  "replacement_plan": {
+    "preserve_original_flash": true,
+    "source_used_seconds": [
+      0,
+      7
+    ],
+    "base": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_含封面_v007.mp4",
+    "replace_old_range_seconds": [
+      115.79166666666667,
+      123.125
+    ],
+    "new_output_range_seconds": [
+      115.79166666666667,
+      122.79166666666667
+    ],
+    "new_duration_seconds": 7,
+    "expected_episode_seconds": 122.79166666666667,
+    "completed_delivery": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_高清修复_v008.mp4"
+  },
+  "limitations": "单一参考图在参考模式中控制开场身份、场景和构图，不能保证首帧逐像素一致；利用原片既有放碗后切口接入。舞步贴合度须实际新片验收。",
+  "latest_user_request": "新片前七秒替换狗熊哆嗦毛，原闪身步不替换；整集画质统一修复",
+  "postproduction": {
+    "preserve_prefix_seconds": 12.125,
+    "dance_timeline_start": 109.25,
+    "music_and_callouts": "保留已有配乐及两句口令时间，116.125秒进入狗熊口令；尾部追加0.8秒淡出",
+    "current_delivery_retained": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_含封面_v007.mp4",
+    "new_output": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG005_DANCE_v002.mp4",
+    "edit_record_to_preserve": "剧集/EP002/制作成果/成片/EP002_衔接修复记录_v003.json",
+    "reframe_record_to_preserve": "剧集/EP002/制作成果/成片/EP002_枪堆避让记录_v004.json",
+    "requires_bridge_before_final_music_alignment": false,
+    "bridge_integrated_record": "剧集/EP002/制作成果/成片/EP002_补入走位记录_v006.json",
+    "body_delivery": "剧集/EP002/制作成果/成片/EP002_补入走位_配乐口令_v006.mp4",
+    "cover_duration_seconds": 1.5,
+    "cover_record_to_preserve": "剧集/EP002/制作成果/成片/EP002_封面合入记录_v007.json",
+    "current_delivery": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_高清修复_v008.mp4",
+    "dance_replacement_complete": true,
+    "full_episode_resolution": [
+      1080,
+      1920
+    ],
+    "actual_bear_start_seconds": 115.79166666666667,
+    "edit_record": "剧集/EP002/制作成果/成片/EP002_舞蹈替换与画质处理记录_v008.json"
+  },
+  "reference_verification": "2026-10-10重新查看实际第292帧及两组参考0.5秒间隔关键相位；两段720P动作参考各195/204帧、无音轨。",
+  "source_sha256": "190ccd1ca300f9fa55772ad6823183e9e2ae5dedd75d90eb8a19c9d0b6db7049",
+  "historical_replacement_plan": {
+    "source": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG005_v002.mp4",
+    "source_sha256": "73bf01d0f409aa5e081cad57281f3b7a579206becea6b6a980585f9968bf0b4f",
+    "preserve_frames": [
+      0,
+      290
+    ],
+    "preserve_end_exclusive_seconds": 12.125,
+    "replace_old_range_seconds": [
+      12.125,
+      26.0
+    ],
+    "new_duration_seconds": 14,
+    "expected_segment_seconds": 26.125,
+    "expected_episode_seconds": 123.25,
+    "existing_video_not_overwritten": true
+  },
+  "actual_source_sha256": "dcec4eb9d50ad380e3a26d1bbcada4ebae7f5d6bb6828599281dde5e0d72a761",
+  "selected_range_seconds": [
+    0,
+    7
+  ],
+  "selected_range_creator_accepted": true,
+  "selection_evidence": "用户：前七秒的替换狗熊哆嗦毛，闪身步不用替换了",
+  "final_delivery": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_高清修复_v008.mp4",
+  "cleanup_record": "剧集/EP002/制作成果/定稿清理记录_20261010.json",
+  "historical_upload_media_removed": true
+}

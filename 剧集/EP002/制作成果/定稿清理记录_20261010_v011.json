@@ -1,0 +1,361 @@
+{
+  "status": "complete_recycled",
+  "user_authorization": "成品可以了，现在删除多余的视频和脚本等无用文件",
+  "accepted_delivery": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\三国群萌传_EP002_桃园结义_2K超分修复_v011.mp4",
+  "method": "Windows Recycle Bin, do not empty",
+  "allowed_roots": [
+    "D:\\git\\sanguo\\剧集\\EP002",
+    "D:\\git\\.sanguo-runtime\\scripts",
+    "D:\\git\\.sanguo-runtime\\music",
+    "D:\\git\\.sanguo-runtime\\tmp",
+    "D:\\git\\.sanguo-runtime\\tools\\realesrgan"
+  ],
+  "protected": [
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\三国群萌传_EP002_桃园结义_2K超分修复_v011.mp4",
+      "sha256": "7135b88b76410fe7dfe180f80342ee913db7621bb5569624db644e6e5fe5ea1d"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\发布\\三国群萌传_EP002_桃园结义_封面_v001.png",
+      "sha256": "120c8e4a268267162a306d6385469ca8c3b038aa267a16190b958c965c3c9c38"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\EP002_民乐替换完整混音_v010.wav",
+      "sha256": "a6f116303ab0d98e95323ed4a47cddf336c7c004de7d780ff039826afc5cab93"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\EP002_民乐背景声轨_v010.wav",
+      "sha256": "e66b92e9f7b22d3715d27fe73ebd0da838949fb51945f53332c4a3f5ee4d90ed"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG001_v002.mp4",
+      "sha256": "5237236404c509181359a9307ff01c2cb8a0fa4146e4393d6f49840f64cfb0db"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG002_v002.mp4",
+      "sha256": "193c483b158481b5d52550990b4c21ceec0c40d4a050d4e269edf88af6205c3f"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG002_v002_局部修复_无损母版.mp4",
+      "sha256": "e96a4e7b7bc5dd316fac4d4db25088856096406854e58cb48195b008b6899ed6"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG003_BRIDGE_v002.mp4",
+      "sha256": "db1576940657df4d48ee38d482b88b3ef5cdf79b901fcc545d726d2845cbc77f"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG003_v002_局部修复.mp4",
+      "sha256": "e6361c9645a3db82f44c5ecd028a0d99859d44c6c4bfd289d36932dcb31c9d1d"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG003_v002_局部修复_无损母版.mp4",
+      "sha256": "e7dfe283d4a28a99620f630e07040622f40b2d1c92c56be2e9ee897890b10060"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG004_v002.mp4",
+      "sha256": "cc06625a2fb78c945fe45eb1f0a97c0222dba2c0f673330350ba585df1bcb55c"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG005_DANCE_v002.mp4",
+      "sha256": "dcec4eb9d50ad380e3a26d1bbcada4ebae7f5d6bb6828599281dde5e0d72a761"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG005_v002.mp4",
+      "sha256": "73bf01d0f409aa5e081cad57281f3b7a579206becea6b6a980585f9968bf0b4f"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\BGM-EP002-01_同行_v001.wav",
+      "sha256": "27bfe0b36e043459ec1405b2f19c1d629bce205da67283041f4e100f5773bf85"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\BGM-EP002-02_桃园叙谈_v001.wav",
+      "sha256": "63e367554b6755ba615dcb6974483483984f4ccb01b81ed5f8f5d7d2fe527784"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\BGM-EP002-03_结义誓言_v001.wav",
+      "sha256": "38f76b4299c94aa7c59dedddc7c6d8aae99a08b8d441845cea67ce1601870960"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\口令_狗熊哆嗦毛_参考原声_v001.wav",
+      "sha256": "fd8154d54dee1d835c29bd8aed95fb2131ae50ffd1645c2bb804d0aee0801b1d"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\口令_闪身步_参考原声_v001.wav",
+      "sha256": "901b8570f39822d6ce75a6248243c4e8d3a12c595c79262ca2d1f9feb96f1aad"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tools\\realesrgan\\bundle\\models\\realesr-animevideov3-x2.bin",
+      "sha256": "548a36f9c3f4ab8da56cd3b13badf23968bee207b396dad14d04b830e5f2ab2d"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tools\\realesrgan\\realesrgan-ncnn-vulkan-v0.2.0-windows\\realesrgan-ncnn-vulkan.exe",
+      "sha256": "07e49f7cbb4ede01ae4dd4c399d3a7e5846e3d2085c3128eff881e55cb7b1a0c"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\export_continuation.py",
+      "sha256": "31b731b89f1006e6195f131f70a360230fffe1b989c4f3af97831c555d79e6c2"
+    }
+  ],
+  "files": [
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\三国群萌传_EP002_桃园结义_高清修复_v008.mp4",
+      "reason": "被用户已接受的v011取代的旧成片",
+      "bytes": 91284586,
+      "sha256": "3f0cfd3c075bdcfdedf3e7536c232956f3d4432d7fd4edbd39bbb07d1ce75752",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\三国群萌传_EP002_桃园结义_去水印_v009.mp4",
+      "reason": "被用户已接受的v011取代的旧成片",
+      "bytes": 106759950,
+      "sha256": "f7d1e1143031635ff581849b6fbbe8e1f6012857a1dfa644a82482910ec82889",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\三国群萌传_EP002_桃园结义_民乐新版_v010.mp4",
+      "reason": "被用户已接受的v011取代的旧成片",
+      "bytes": 107629956,
+      "sha256": "92ec20e2330bc64b428cf5d1b74e9b7449543887a9aea58d76817f4d4cf005d0",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\画质对比_v011\\compare_0180.jpg",
+      "reason": "已审阅的画质预览/对比",
+      "bytes": 325642,
+      "sha256": "a72bab4d24be820b19827464ff0cf5728fc903d461f4a3c10163044b049cdd7f",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\画质对比_v011\\compare_0744.jpg",
+      "reason": "已审阅的画质预览/对比",
+      "bytes": 355104,
+      "sha256": "69b5592d9456cd15888fa1a0071658b6a55968820f4760c4effcc37712a4aa78",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\画质对比_v011\\compare_1344.jpg",
+      "reason": "已审阅的画质预览/对比",
+      "bytes": 317566,
+      "sha256": "02b9538cce4f8b3e68d49d6cf39934fbe769997e7bcc565492b90f5ba8d9f9a2",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\画质对比_v011\\compare_2064.jpg",
+      "reason": "已审阅的画质预览/对比",
+      "bytes": 443699,
+      "sha256": "866316b5d939bcf29747757f34f62a2755d1666df21a449bbd4fb4fd4dcd920e",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\画质对比_v011\\compare_2640.jpg",
+      "reason": "已审阅的画质预览/对比",
+      "bytes": 290354,
+      "sha256": "9fa4993608523c64f47d95249d5ff220dcbb0e8d89f7199dddf491aab30e37b2",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\画质对比_v011\\compare_2856.jpg",
+      "reason": "已审阅的画质预览/对比",
+      "bytes": 276137,
+      "sha256": "03b9c19ff308453f6489344650f4a8adbca4f35421984154fb6e10d8d8e9b789",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\画质对比_v011\\动态局部对比_左旧右新.mp4",
+      "reason": "已审阅的画质预览/对比",
+      "bytes": 2052484,
+      "sha256": "f3e04128bd7e366c527f06b1063a7a2ce558e957488d8baeaea805254acf65d5",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\结拜段_新配乐试听_v010.wav",
+      "reason": "已被新版完整混音替代的试听/旧混音",
+      "bytes": 7488044,
+      "sha256": "6d2d72c4312d96baff6f4efc2cd0ec0b5638ddf5433a590c6906bcb3a3c44d60",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\EP002_狗熊替换后完整混音_v004.wav",
+      "reason": "已被新版完整混音替代的试听/旧混音",
+      "bytes": 35364044,
+      "sha256": "d7ecfda872ad3a1efde3f470a4a67efa84b67590ae2a11d080706934f343666a",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_sr_preview.py",
+      "reason": "已完成本集超分的一次性脚本",
+      "bytes": 1458,
+      "sha256": "fc209700f62ef237516de749a2ce30dd41bf4bd732b6f159ad1dd0835d5b245e",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_superres_v011.py",
+      "reason": "已完成本集超分的一次性脚本",
+      "bytes": 4283,
+      "sha256": "aef8076ad97dbeb694141cb5e626c00e403402d153836aa7d37eb3c263ed8dc8",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_verify_sr_v011.py",
+      "reason": "已完成本集超分的一次性脚本",
+      "bytes": 1474,
+      "sha256": "3f8956eb496f657da46f8bd93467917e93c1e617064352326c267977c750bcb9",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\music\\check_ep002_score.py",
+      "reason": "本集临时音乐脚本或重复运行输入；准确参数已存本集记录",
+      "bytes": 1423,
+      "sha256": "e6ac980790cc1d99583c809bde37f1fe68c161f75bf9ebb03c653602205b1b1b",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\music\\generate_ep002_score.py",
+      "reason": "本集临时音乐脚本或重复运行输入；准确参数已存本集记录",
+      "bytes": 2157,
+      "sha256": "52726878c4b8b83c27ffab0c5a12f5bbe13346d3ea765a6a1875725985307406",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\music\\mix_ep002_score_v010.py",
+      "reason": "本集临时音乐脚本或重复运行输入；准确参数已存本集记录",
+      "bytes": 4079,
+      "sha256": "8a8fdc158f714be8e59cfc999d190d4db8a83761bccf26355823b844389ee1bd",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\music\\prepare_ep002_audio.py",
+      "reason": "本集临时音乐脚本或重复运行输入；准确参数已存本集记录",
+      "bytes": 2170,
+      "sha256": "a760f59c0d9964ce2fc258f808b217f94d2423777a74bda302cdd71dc256e9f4",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\music\\verify_ep002_v010.py",
+      "reason": "本集临时音乐脚本或重复运行输入；准确参数已存本集记录",
+      "bytes": 2243,
+      "sha256": "f014e7aa3bed88304a97d4f7a07d0ca735700f38f23c795fa7ee07fcd42fb4e9",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\music\\ep002_generation.log",
+      "reason": "本集临时音乐脚本或重复运行输入；准确参数已存本集记录",
+      "bytes": 27343,
+      "sha256": "29193b2eca05f4039145a8f972ed1f64e2c7012f6f0906e798f8c3e2837d9428",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\music\\ep002_score_v010.json",
+      "reason": "本集临时音乐脚本或重复运行输入；准确参数已存本集记录",
+      "bytes": 1888,
+      "sha256": "1bfbd560c48f551d6a06dc4e98e713ea9c653ed27241c86488027a6eb8a4980b",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_music_v010\\64732692-07f3-c332-5698-bc682128995e.wav",
+      "reason": "重复生成源文件或临时混音中间文件",
+      "bytes": 6912044,
+      "sha256": "63e367554b6755ba615dcb6974483483984f4ccb01b81ed5f8f5d7d2fe527784",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_music_v010\\88c543d4-9fed-31ce-8c83-2efba2895218.wav",
+      "reason": "重复生成源文件或临时混音中间文件",
+      "bytes": 8832044,
+      "sha256": "27bfe0b36e043459ec1405b2f19c1d629bce205da67283041f4e100f5773bf85",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_music_v010\\f076097b-55d1-e8eb-5e94-5a00327034f9.wav",
+      "reason": "重复生成源文件或临时混音中间文件",
+      "bytes": 5760044,
+      "sha256": "38f76b4299c94aa7c59dedddc7c6d8aae99a08b8d441845cea67ce1601870960",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_music_v010\\limited.wav",
+      "reason": "重复生成源文件或临时混音中间文件",
+      "bytes": 41952092,
+      "sha256": "ea66397da894b3373af7e1354317ae871c98e5d582a5d178a85f38b6aaeb90f4",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_music_v010\\native_analysis.json",
+      "reason": "重复生成源文件或临时混音中间文件",
+      "bytes": 3624,
+      "sha256": "838df8b73f8781aa373a2d1aaf258256313521f370a5a4e8932293e9a6ff1617",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_music_v010\\native_timeline.wav",
+      "reason": "重复生成源文件或临时混音中间文件",
+      "bytes": 47152088,
+      "sha256": "d1ace3628e697ad8c41f956dcff39fb2e7c4fe5835a5c09270cc464210863e06",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_music_v010\\premix.wav",
+      "reason": "重复生成源文件或临时混音中间文件",
+      "bytes": 41952088,
+      "sha256": "c16d3e23cf0e0bab7bc96b1cebe28df8b88574e58f6344fdacbe1ff257044ace",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ace_manifest.json",
+      "reason": "已完成检查的临时元数据/预览",
+      "bytes": 8610,
+      "sha256": "c7196da98dbd07c8f662c2c1b1adea06ab0f6e9465a648853296fe60834385ab",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_names_frame.png",
+      "reason": "已完成检查的临时元数据/预览",
+      "bytes": 479845,
+      "sha256": "d8b4c7275028e94241882a408295affd9f8806f95009b51ee17e3754c5b3b8d6",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_names_gl.jpg",
+      "reason": "已完成检查的临时元数据/预览",
+      "bytes": 264663,
+      "sha256": "a681fddb57164671c7325cebb08a24fbb220bb44eb2f3df32be471b0fdefd787",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_opening_names.jpg",
+      "reason": "已完成检查的临时元数据/预览",
+      "bytes": 648856,
+      "sha256": "d055229f4e9ac69974c0baa25a0ad7c491336e4db965ff5db4ede9cf462592e3",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg005_aspect_check.png",
+      "reason": "已完成检查的临时元数据/预览",
+      "bytes": 647022,
+      "sha256": "605a3a0105e2b9b94ca17d12b2911feb79b6de24640da6a3576d7786dcccadeb",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tools\\realesrgan\\models-package.zip",
+      "reason": "已成功解压并使用的重复安装压缩包",
+      "bytes": 45474481,
+      "sha256": "abc02804e17982a3be33675e4d471e91ea374e65b70167abc09e31acb412802d",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tools\\realesrgan\\package.zip",
+      "reason": "已成功解压并使用的重复安装压缩包",
+      "bytes": 2159606,
+      "sha256": "1bbbdb12d470af80b035c773682e144c6c2f6ece9210832a289af0a48ce3fa9a",
+      "status": "recycled"
+    }
+  ],
+  "file_count": 36,
+  "total_bytes": 554883191,
+  "verification": {
+    "all_36_targets_absent": true,
+    "protected_sha256_unchanged": 21,
+    "recycle_bin_emptied": false
+  },
+  "historical_markdown_links_converted": 1
+}

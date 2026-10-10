@@ -1,0 +1,22 @@
+{
+  "created_at": "2026-10-10T13:13:45.271125+08:00",
+  "source": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG003_v002_局部修复.mp4",
+  "source_sha256": "e6361c9645a3db82f44c5ecd028a0d99859d44c6c4bfd289d36932dcb31c9d1d",
+  "source_duration_seconds": 24.064,
+  "video_dimensions": [
+    480,
+    854
+  ],
+  "decoded_frames": 577,
+  "tail_frame_index_zero_based": 576,
+  "tail_timestamp_seconds": "24.000000",
+  "silent_video": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\续接参考\\SEG003_v002_局部修复\\SEG003_v002_局部修复_无音轨.mp4",
+  "silent_sha256": "3316993b57e455efd1c4034be728bd042e26f6aeeeef4f8a07d00123270b7761",
+  "silent_audio_stream_count": 0,
+  "tail_image": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\续接参考\\SEG003_v002_局部修复\\SEG003_v002_局部修复_真实尾帧.png",
+  "tail_sha256": "2a591b25a17889c8335731606afcf480086459123318fb5fcebef824dced7618",
+  "all_decoded_video_frames_identical": true,
+  "source_preserved": true,
+  "creator_acceptance": "not_inferred_by_tool",
+  "ffmpeg_version": "ffmpeg version 9.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers"
+}

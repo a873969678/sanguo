@@ -1,0 +1,1 @@
+[0:v]split=4[a][b][c][d];[a]trim=start_frame=0:end_frame=541,setpts=PTS-STARTPTS[v0];[b]trim=start_frame=601:end_frame=1450,setpts=PTS-STARTPTS[v1];[c]trim=start_frame=1263:end_frame=1283,setpts=PTS-STARTPTS[v2];[d]trim=start_frame=1470:end_frame=2883,setpts=PTS-STARTPTS[v3];[v0][v1][v2][v3]concat=n=4:v=1:a=0[v]

@@ -1,0 +1,17 @@
+{
+  "segment_id": "SEG005",
+  "creator_accepted": true,
+  "creator_feedback": "第五段可以了",
+  "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG005_v002.mp4",
+  "sha256": "73bf01d0f409aa5e081cad57281f3b7a579206becea6b6a980585f9968bf0b4f",
+  "duration_seconds": 26.0,
+  "video_duration_seconds": 26.0,
+  "decoded_frames": 624,
+  "resolution": [
+    748,
+    562
+  ],
+  "fps": "24/1",
+  "audio_stream_count": 1,
+  "note": "依据用户明确反馈登记视频采用；技术核对不代替人工逐帧与声音审查。"
+}

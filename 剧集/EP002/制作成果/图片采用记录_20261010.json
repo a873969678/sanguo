@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-10",
+  "evidence": "用户在图片审阅之后回复：确认了",
+  "scope": "当前17项资产与14个起始帧绑定（30张不同PNG）",
+  "does_not_authorize": "自动生成视频、声音或发布",
+  "images": [
+    {
+      "source_entry": "IMG-EP002-001",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-001_三轮摩托结构板_v004.png",
+      "sha256": "5104078273aa0530bda1b0fbe4c99f2dcac291436d47232cfe0b950c6170aa35"
+    },
+    {
+      "source_entry": "IMG-EP002-002",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-002_三咪驾乘接触板_v005.png",
+      "sha256": "4f6846da2bd6e0e015cf0e1f08e22428d8a07c85d4d65d0a38ccb45806889e18"
+    },
+    {
+      "source_entry": "IMG-EP002-003",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-003_右脚刹三状态接触板_v007.png",
+      "sha256": "21c0b32a4957493ab0a2bd9bd90d845fd7ebf59900f76c8f1fc66fa1745eae8d"
+    },
+    {
+      "source_entry": "IMG-EP002-004",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-004_后斗放枪有枪空位板_v003.png",
+      "sha256": "28753ed9c42a6a63f1e60432335c2a69b149359d7254075c75033db64203c513"
+    },
+    {
+      "source_entry": "IMG-EP002-005",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-005_桃园地理基底板_v002.png",
+      "sha256": "5e8fb6cd437246dfdf818aed5cb266a5b3a56fc0b827a4e60f187784f4e52ea8"
+    },
+    {
+      "source_entry": "IMG-EP002-006",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-006_桃园烧烤处布置板_v002.png",
+      "sha256": "3aa7b61dd8bb1d153df45acac0e4721fb70821aa8dadd16bfc318b9fe3a74f2b"
+    },
+    {
+      "source_entry": "IMG-EP002-007",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-007_矮木桌凳结构板_v001.png",
+      "sha256": "4b7d1cbb50376ebabf32afd031e761e405971de263f1015c2980d187fd10ebd4"
+    },
+    {
+      "source_entry": "IMG-EP002-008",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-008_独立烤炉与供气组件板_v002.png",
+      "sha256": "79fc54faa903c2bd891802d786d0c5edbdeb946c4f4650fe72433c0ce97aec0c"
+    },
+    {
+      "source_entry": "IMG-EP002-009",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-009_虾与夹盘状态板_v001.png",
+      "sha256": "8c0c3f148a030c27f190e40816ce54f1cd2409a67b3ce7861a1ab82cef55d88a"
+    },
+    {
+      "source_entry": "IMG-EP002-010",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-010_张咪翻虾接触板_v003.png",
+      "sha256": "89015553cfd7745d90f2e8539b1574d4c9b37a5745fbf2bdae1fe50844bbeb60"
+    },
+    {
+      "source_entry": "IMG-EP002-011",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-011_传统关公像头胸参考板_v001.png",
+      "sha256": "b45676993d38e585aa30a2dfc4c9ed9f9d4638f7a22b06885d1868eaafe8c92f"
+    },
+    {
+      "source_entry": "IMG-EP002-012",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-012_三咪拜关公空间接触板_v002.png",
+      "sha256": "aae4c979f625b67861f42967a4e2f9ce12d56e7d48d94687d944fbf88ad931c2"
+    },
+    {
+      "source_entry": "IMG-EP002-013",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-013_三只奶碗有奶空碗板_v001.png",
+      "sha256": "d4c2ba274bf4df9701962845dc49bec05d7c284914099d41d6ec37d6ebaf24ef"
+    },
+    {
+      "source_entry": "IMG-EP002-014",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-014_刘咪捧碗舔奶接触板_v003.png",
+      "sha256": "75e4904832d3c7d1656d5d509218923f0a12bcaa2149106be7ed8416c3555fdb"
+    },
+    {
+      "source_entry": "IMG-EP002-015",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-015_关咪捧碗舔奶接触板_v001.png",
+      "sha256": "d73553449169d8bff3a4be532d03d54c967c3fb2305ca1d451915b5da0640833"
+    },
+    {
+      "source_entry": "IMG-EP002-016",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-016_张咪捧碗舔奶接触板_v001.png",
+      "sha256": "cddbfcab0c8fc0804c715b34d0228d427705f8728630a76dbc970076e0db072a"
+    },
+    {
+      "source_entry": "IMG-EP002-017",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-017_三咪共同捧碗舔奶组合_v002.png",
+      "sha256": "2045f1289bea5d65706dc09074ad7bd00ac6037f6aa8a6f62a2a7cdcb4e721b6"
+    },
+    {
+      "source_entry": "SHOT-EP002-005",
+      "output": "剧集/EP002/制作成果/images/SHOT-EP002-005_起始帧_v001.png",
+      "sha256": "f31b81331f01254a9407f863e6744d096a2e8e162dd435455c3705d6ca7b68d0"
+    },
+    {
+      "source_entry": "SHOT-EP002-006",
+      "output": "剧集/EP002/制作成果/images/SHOT-EP002-006_起始帧_v001.png",
+      "sha256": "98725f4974c4146fffc5466746ce831692751af722635f026a60fea4661206f5"
+    },
+    {
+      "source_entry": "SHOT-EP002-010",
+      "output": "剧集/EP002/制作成果/images/SHOT-EP002-010_起始帧_v001.png",
+      "sha256": "ba7fc29db1d713f1e12045121324b1973e8f29f749d1e64678d0b656aeef2b3d"
+    },
+    {
+      "source_entry": "SHOT-EP002-011",
+      "output": "剧集/EP002/制作成果/images/SHOT-EP002-011_起始帧_v003.png",
+      "sha256": "aff748436603c738fed25d3153fcc5ad8c338020ad85644f2562ca7c63085a6a"
+    },
+    {
+      "source_entry": "SHOT-EP002-012",
+      "output": "剧集/EP002/制作成果/images/SHOT-EP002-012_起始帧_v002.png",
+      "sha256": "38dbf50ca706fd6cbe831925ed727c5d9545573e833cc4a2902c80f28ee92d15"
+    },
+    {
+      "source_entry": "SHOT-EP002-020",
+      "output": "剧集/EP002/制作成果/images/SHOT-EP002-020_起始帧_v003.png",
+      "sha256": "0169a69d2afb2bd167f5a3c71b6b4852e8ea63928e4083d214855635cfea64d3"
+    },
+    {
+      "source_entry": "SHOT-EP002-027",
+      "output": "剧集/EP002/制作成果/images/SHOT-EP002-027_起始帧_v002.png",
+      "sha256": "58136d32eda05532d1ac6f2f1ff1824be1dd6e1b75a56e4d249528da3595923f"
+    },
+    {
+      "source_entry": "SHOT-EP002-028",
+      "output": "剧集/EP002/制作成果/images/SHOT-EP002-028_起始帧_v001.png",
+      "sha256": "0cab6bc30196eca6678deed252c9b6e8cc6435e29558a6d2c2df01eeea6ddab2"
+    },
+    {
+      "source_entry": "SHOT-EP002-029",
+      "output": "剧集/EP002/制作成果/images/SHOT-EP002-029_起始帧_v001.png",
+      "sha256": "66ae4b7ea631340e325d24349bb0e4d6e61c75f16727be4c89007192a567efbd"
+    },
+    {
+      "source_entry": "SHOT-EP002-030",
+      "output": "剧集/EP002/制作成果/images/SHOT-EP002-030_起始帧_v002.png",
+      "sha256": "5fb24850c7fc15257ce7c8b4b35b8a34048a31e0de891345d58214381fbce459"
+    },
+    {
+      "source_entry": "SHOT-EP002-031",
+      "output": "剧集/EP002/制作成果/images/SHOT-EP002-031_起始帧_v001.png",
+      "sha256": "94323142251c22408962d568bc0b60e93f160774160e43b9e2467d79be73ea89"
+    },
+    {
+      "source_entry": "SHOT-EP002-034",
+      "output": "剧集/EP002/制作成果/images/SHOT-EP002-034_起始帧_v001.png",
+      "sha256": "fe24c638a3bd87ee334445d9ed51d6681a3acb314acb5a3525dca9501a53c0d5"
+    },
+    {
+      "source_entry": "SHOT-EP002-035",
+      "output": "剧集/EP002/制作成果/images/SHOT-EP002-035_起始帧_v001.png",
+      "sha256": "4834e3f6159441d89f2bc299108b27c0885e3cb0a5c6137d086671d4d9c96c29"
+    },
+    {
+      "source_entry": "SHOT-EP002-024",
+      "output": "剧集/EP002/制作成果/images/IMG-EP002-012_三咪拜关公空间接触板_v002.png",
+      "sha256": "aae4c979f625b67861f42967a4e2f9ce12d56e7d48d94687d944fbf88ad931c2"
+    }
+  ]
+}

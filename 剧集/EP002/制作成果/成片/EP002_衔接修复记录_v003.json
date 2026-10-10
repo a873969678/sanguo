@@ -1,0 +1,63 @@
+{
+  "status": "rendered_technical_checks_passed_pending_review",
+  "base": "剧集/EP002/制作成果/成片/EP002_配乐与舞蹈口令_v002.mp4",
+  "base_sha256": "92a9bff790b6e35346487ff10b98b51f1b915f97d4203a7f2b29f486bfd3a0fc",
+  "output": "剧集/EP002/制作成果/成片/EP002_衔接修复_配乐口令_v003.mp4",
+  "creator_accepted": false,
+  "edits": [
+    {
+      "issue": "第一、二段同角度拉远后跳近，造成卡顿感",
+      "action": "删除无对白的第一段尾部，从张咪驾驶近景直接切到第二段车斗对坐",
+      "remove_source_frames_half_open": [
+        541,
+        601
+      ],
+      "remove_source_seconds": [
+        22.541666666666668,
+        25.041666666666668
+      ],
+      "duration_removed": 2.5
+    },
+    {
+      "issue": "张咪从烤炉突然出现在桌前，缺少空间过渡",
+      "action": "用已有的关咪收声反应近景盖住原跳切；原来的刘咪尾句和张咪起句保留",
+      "replace_source_frames_half_open": [
+        1450,
+        1470
+      ],
+      "replace_source_seconds": [
+        60.416666666666664,
+        61.25
+      ],
+      "insert_from_base_frames_half_open": [
+        1263,
+        1283
+      ],
+      "insert_source_seconds": [
+        52.625,
+        53.458333333333336
+      ],
+      "duration": 0.8333333333333334,
+      "limitation": "这是反应镜头形成的剪辑省略，没有补生成张咪走路。"
+    }
+  ],
+  "duration_seconds": 117.625,
+  "expected_frames": 2823,
+  "music_and_callouts": "现有完整混音同步剪去2.5秒无对白区间，其余保持；口令同步前移2.5秒。",
+  "dance_regeneration_pending": true,
+  "output_sha256": "f582906aaef109cbd6c69b60458cd9c6c2b4f75939626f5753364086b853aa5d",
+  "audio_file": "剧集/EP002/制作成果/audio/配乐/EP002_衔接修复混音_v002.wav",
+  "verification": {
+    "decoded_frames": 2823,
+    "video_seconds": 117.625,
+    "integrated_lufs": "-15.94",
+    "true_peak_dbtp": "-1.39",
+    "decode_errors": 0
+  },
+  "timeline_mapping": {
+    "base_time_before_22.541667": "unchanged",
+    "base_time_22.541667_to_25.041667": "removed",
+    "base_time_at_or_after_25.041667": "subtract 2.5 seconds",
+    "new_dance_start_seconds": 103.75
+  }
+}

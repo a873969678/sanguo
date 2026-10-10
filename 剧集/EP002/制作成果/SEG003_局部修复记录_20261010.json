@@ -1,0 +1,34 @@
+{
+  "source": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG003_v002.mp4",
+  "source_sha256": "d9deca1bceef229d057ba93caa984e40c4ea24b470b4c5346050a85abd51feb6",
+  "output": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG003_v002_局部修复.mp4",
+  "output_sha256": "e6361c9645a3db82f44c5ecd028a0d99859d44c6c4bfd289d36932dcb31c9d1d",
+  "master": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG003_v002_局部修复_无损母版.mp4",
+  "master_sha256": "e7dfe283d4a28a99620f630e07040622f40b2d1c92c56be2e9ee897890b10060",
+  "clean_plate": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\局部修复\\SEG003\\刘咪腰侧_修补底图.png",
+  "clean_plate_sha256": "999dc705a2e1a0d11453e821772e2fb2d8cb6d326b617d7ee47131cf83cd6357",
+  "method": "imagegen clean still plate, small overlap cleanup, original paw protection, localized dense optical-flow compositing; no video regeneration",
+  "edited_interval_seconds": [
+    19,
+    24.0416667
+  ],
+  "frames": 577,
+  "dimensions": [
+    480,
+    854
+  ],
+  "fps": 24,
+  "master_all_unedited_frames_pixel_identical": true,
+  "master_outside_mask_yuv_samples_unchanged": true,
+  "master_all_frame_hashes_verified": true,
+  "playback_encode": "H264 yuv420p CRF14, visually checked; not pixel-lossless",
+  "original_audio_payload_identical": true,
+  "audio_sha256": "SHA256=19dea8db3043301864eb011e69cffdc50a0d257434b93377fcde49fef75963c6",
+  "source_preserved": true,
+  "creator_review_status": "pending",
+  "scope": "仅末镜刘咪腰侧；用户明确离开烤炉时关咪背枪不用处理，前19秒原画保持。",
+  "edited_frame_range_inclusive": [
+    456,
+    576
+  ]
+}

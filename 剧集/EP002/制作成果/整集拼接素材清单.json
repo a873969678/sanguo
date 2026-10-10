@@ -1,0 +1,101 @@
+{
+  "status": "creator_accepted_final_cleaned",
+  "segments": [
+    {
+      "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG001_v002.mp4",
+      "sha256": "5237236404c509181359a9307ff01c2cb8a0fa4146e4393d6f49840f64cfb0db",
+      "duration_seconds": 25.056,
+      "video_duration_seconds": 25.041667,
+      "decoded_frames": 601,
+      "resolution": [
+        480,
+        854
+      ],
+      "fps": "24/1",
+      "audio_stream_count": 1
+    },
+    {
+      "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG002_v002.mp4",
+      "sha256": "193c483b158481b5d52550990b4c21ceec0c40d4a050d4e269edf88af6205c3f",
+      "duration_seconds": 25.056,
+      "video_duration_seconds": 25.041667,
+      "decoded_frames": 601,
+      "resolution": [
+        480,
+        854
+      ],
+      "fps": "24/1",
+      "audio_stream_count": 1
+    },
+    {
+      "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG003_v002_局部修复.mp4",
+      "sha256": "e6361c9645a3db82f44c5ecd028a0d99859d44c6c4bfd289d36932dcb31c9d1d",
+      "duration_seconds": 24.064,
+      "video_duration_seconds": 24.041667,
+      "decoded_frames": 577,
+      "resolution": [
+        480,
+        854
+      ],
+      "fps": "24/1",
+      "audio_stream_count": 1
+    },
+    {
+      "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+      "sha256": "cc06625a2fb78c945fe45eb1f0a97c0222dba2c0f673330350ba585df1bcb55c",
+      "duration_seconds": 20.0,
+      "video_duration_seconds": 20.0,
+      "decoded_frames": 480,
+      "resolution": [
+        480,
+        854
+      ],
+      "fps": "24/1",
+      "audio_stream_count": 1
+    },
+    {
+      "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG005_v002.mp4",
+      "sha256": "73bf01d0f409aa5e081cad57281f3b7a579206becea6b6a980585f9968bf0b4f",
+      "duration_seconds": 26.0,
+      "video_duration_seconds": 26.0,
+      "decoded_frames": 624,
+      "resolution": [
+        748,
+        562
+      ],
+      "fps": "24/1",
+      "audio_stream_count": 1
+    }
+  ],
+  "total_video_seconds": 120.125001,
+  "note": "当前唯一成品v011，1440×2560、24fps、122.791667秒；新民乐与两句舞蹈口令已接受。历史旧成片路径保留追溯，旧文件已回收。",
+  "aspect_ratio_preparation": {
+    "finding": "SEG005为748×562横屏，前四段480×854竖屏；20秒抽帧显示三咪横向并排，直接居中裁成竖屏会切掉两侧角色。",
+    "working_default": "保留第五段完整横向画面，按比例置于竖屏画布中，上下用同画面柔化背景填充；这是待预览的后期工作方案，不是用户已采用的画幅处理。",
+    "rendered": true
+  },
+  "current_output": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_2K超分修复_v011.mp4",
+  "current_delivery": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_2K超分修复_v011.mp4",
+  "latest_user_choice": "v011 2K版定稿；已清理旧成片、试听、旧混音与本集一次性脚本",
+  "pending_revision": null,
+  "postproduction_edit_record": "剧集/EP002/制作成果/成片/EP002_衔接修复记录_v003.json",
+  "current_duration_seconds": 122.79166666666667,
+  "latest_reframe_record": "剧集/EP002/制作成果/成片/EP002_枪堆避让记录_v004.json",
+  "bridge_integration_record": "剧集/EP002/制作成果/成片/EP002_补入走位记录_v006.json",
+  "cover_intro_record": "剧集/EP002/制作成果/成片/EP002_封面合入记录_v007.json",
+  "body_delivery": null,
+  "current_resolution": [
+    1080,
+    1920
+  ],
+  "dance_and_quality_record": "剧集/EP002/制作成果/成片/EP002_舞蹈替换与画质处理记录_v008.json",
+  "creator_accepted": false,
+  "creator_acceptance_evidence": "用户确认：成品可以了，现在删除多余的视频和脚本等无用文件",
+  "cleanup_record": "剧集/EP002/制作成果/定稿清理记录_20261010_v011.json",
+  "historical_body_delivery": "剧集/EP002/制作成果/成片/EP002_补入走位_配乐口令_v006.mp4",
+  "accepted_delivery": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_2K超分修复_v011.mp4",
+  "watermark_removal_record": "剧集/EP002/制作成果/成片/EP002_水印局部处理记录_v009.json",
+  "music_revision_record": "剧集/EP002/制作成果/audio/配乐/EP002_民乐替换混音记录_v010.json",
+  "super_resolution_record": "剧集/EP002/制作成果/成片/EP002_2K超分修复记录_v011.json",
+  "creator_accepted_final": true
+}

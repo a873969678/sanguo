@@ -1,0 +1,42 @@
+{
+  "status": "files_verified_pending_creator_image_review",
+  "new_frames": 4,
+  "new_frame_review": "制作成果/开场图审阅.md",
+  "approved_audio_unchanged": true,
+  "segment_materials": [
+    {
+      "segment": "SEG001",
+      "images": 9,
+      "audio": 2,
+      "status": "prepared_pending_opening_image_review"
+    },
+    {
+      "segment": "SEG002",
+      "images": 8,
+      "audio": 3,
+      "status": "draft_missing_inputs_not_submittable"
+    },
+    {
+      "segment": "SEG003",
+      "images": 5,
+      "audio": 3,
+      "status": "draft_missing_inputs_not_submittable"
+    },
+    {
+      "segment": "SEG004",
+      "images": 4,
+      "audio": 3,
+      "status": "draft_missing_inputs_not_submittable"
+    },
+    {
+      "segment": "SEG005",
+      "images": 7,
+      "audio": 1,
+      "status": "draft_missing_inputs_not_submittable"
+    }
+  ],
+  "SEG001_prompt_exact_export": true,
+  "SEG001_images_tags": "1-9",
+  "SEG001_audio_tags": "1-2",
+  "videos_submitted": 0
+}

@@ -1,0 +1,1490 @@
+{
+  "status": "complete_recycled",
+  "user_authorization": "成品可以了，现在删除多余的视频和脚本等无用文件",
+  "scope": "EP002项目产物与D盘本项目第二集临时工作文件；不删除EP001、公共资产、模型、通用工具、用户下载目录",
+  "allowed_roots": [
+    "D:\\git\\sanguo\\剧集\\EP002",
+    "D:\\git\\.sanguo-runtime\\scripts",
+    "D:\\git\\.sanguo-runtime\\tmp"
+  ],
+  "protected": [
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\三国群萌传_EP002_桃园结义_高清修复_v008.mp4",
+      "sha256": "3f0cfd3c075bdcfdedf3e7536c232956f3d4432d7fd4edbd39bbb07d1ce75752"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\发布\\三国群萌传_EP002_桃园结义_封面_v001.png",
+      "sha256": "120c8e4a268267162a306d6385469ca8c3b038aa267a16190b958c965c3c9c38"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\EP002_狗熊替换后完整混音_v004.wav",
+      "sha256": "d7ecfda872ad3a1efde3f470a4a67efa84b67590ae2a11d080706934f343666a"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG001_v002.mp4",
+      "sha256": "5237236404c509181359a9307ff01c2cb8a0fa4146e4393d6f49840f64cfb0db"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG002_v002.mp4",
+      "sha256": "193c483b158481b5d52550990b4c21ceec0c40d4a050d4e269edf88af6205c3f"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG002_v002_局部修复_无损母版.mp4",
+      "sha256": "e96a4e7b7bc5dd316fac4d4db25088856096406854e58cb48195b008b6899ed6"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG003_BRIDGE_v002.mp4",
+      "sha256": "db1576940657df4d48ee38d482b88b3ef5cdf79b901fcc545d726d2845cbc77f"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG003_v002_局部修复.mp4",
+      "sha256": "e6361c9645a3db82f44c5ecd028a0d99859d44c6c4bfd289d36932dcb31c9d1d"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG003_v002_局部修复_无损母版.mp4",
+      "sha256": "e7dfe283d4a28a99620f630e07040622f40b2d1c92c56be2e9ee897890b10060"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG004_v002.mp4",
+      "sha256": "cc06625a2fb78c945fe45eb1f0a97c0222dba2c0f673330350ba585df1bcb55c"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG005_DANCE_v002.mp4",
+      "sha256": "dcec4eb9d50ad380e3a26d1bbcada4ebae7f5d6bb6828599281dde5e0d72a761"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG005_v002.mp4",
+      "sha256": "73bf01d0f409aa5e081cad57281f3b7a579206becea6b6a980585f9968bf0b4f"
+    }
+  ],
+  "temporary_directories": [
+    "D:\\git\\.sanguo-runtime\\tmp\\dance_reference",
+    "D:\\git\\.sanguo-runtime\\tmp\\ep002_assemble_v001",
+    "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_hd_v008",
+    "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_replace",
+    "D:\\git\\.sanguo-runtime\\tmp\\ep002_bridge_integrate",
+    "D:\\git\\.sanguo-runtime\\tmp\\ep002_cover_intro",
+    "D:\\git\\.sanguo-runtime\\tmp\\ep002_dance_revision",
+    "D:\\git\\.sanguo-runtime\\tmp\\ep002_music",
+    "D:\\git\\.sanguo-runtime\\tmp\\ep002_seg001_review",
+    "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-build-tracker-uemxtnre",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-ephem-wheel-cache-zwmf5cv0",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-install-z_tselpq",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-0tofixjx",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-1j8cicuu",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-6lkwua7z",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-8oalffbu",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-dc9tz2zs",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-i4htsn1s",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-l3l6puvv",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-so1see0w",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-yozgjyqy",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-ypblm9rg",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-06dpx2hq",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-11a__p6v",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-3eh8u8e5",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-4ehv_4zg",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-5ywdf5uq",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-c5efzmt0",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-gg212ke0",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-i1n935l2",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-mx6l7eam",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-ywip6h7o",
+    "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-zlgk3dm9",
+    "D:\\git\\.sanguo-runtime\\tmp\\seg002_repair",
+    "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair",
+    "D:\\git\\.sanguo-runtime\\tmp\\seg004_review"
+  ],
+  "files": [
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_add_cover_v007.py",
+      "bytes": 6293,
+      "sha256": "710d5d187768e926c3e33c5e60cda0389b9fc6768d674fd65b22b064bb6265e1",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_assemble_v001.py",
+      "bytes": 7510,
+      "sha256": "aa2e3749959ffb31ccc19258fbdfc136477606bf55052ea33afc8d46e0c8e683",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_bear_hd_v008.py",
+      "bytes": 7296,
+      "sha256": "51762d77d72642c85f39a57737999e59a58f1a68f66275ff5fabfff259a63eae",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_bind_audio.py",
+      "bytes": 9512,
+      "sha256": "4d4693cc4ba69eb1cad02469bfd4e4da441ada3f7653a39c2c8873b2231b1218",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_bind_ganbei.py",
+      "bytes": 5402,
+      "sha256": "cb4414f0692f885432235800e4e5d10be32a59e9ce2b568f7a271d14027cdd52",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_bind_seg003_repair.py",
+      "bytes": 6395,
+      "sha256": "bc5d1b528a03f25fa6bb736818e1df145754cf8a344255e5b52aa219789ce10a",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_check_audio.py",
+      "bytes": 2687,
+      "sha256": "bdc4cc0c209f1e054781e2404a374428f8b110cf8507a24559e02a6c32e87243",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_dance_contacts.py",
+      "bytes": 1309,
+      "sha256": "ed46e5da17f5a8ad58678973b1237937253341b18f0d7da46041c1b163487580",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_download_qwen.py",
+      "bytes": 1419,
+      "sha256": "2e837759abfcd5f3e0191199d738cb85a344341132a7cdd334051077641abcaf",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_fetch_callouts.py",
+      "bytes": 2036,
+      "sha256": "6b5b29f2619a92ec1bfde966adf98688f173e9c42787eda524fec5c5337c2058",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_finish_bear_hd_v008.py",
+      "bytes": 3033,
+      "sha256": "7b739f4b2901daee30a17d057b5db1a63caf94fcc999cbf750507efc2ceba56d",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_finish_opening.py",
+      "bytes": 12300,
+      "sha256": "7fafe72d0e9db0530bb6446cb31ee93297c1819c624f12037c3b835d040950f7",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_fix_motion_resolution.py",
+      "bytes": 4595,
+      "sha256": "caa001dbf83f736584f81b3380ba7f3dc54acaf91cfbd1318497d180eaada4a5",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_fix_seg004_orientation.py",
+      "bytes": 9897,
+      "sha256": "11b689316f2e879e73f0586cb9a093ad20e721f85a15f3a53a71af62b92f0d85",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_fix_two_edits_v003.py",
+      "bytes": 6981,
+      "sha256": "cc29825951b78303bf23d682653c3745b7155c316e209c5abb7dad0ffd513b00",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_ganbei.py",
+      "bytes": 4009,
+      "sha256": "cebaccb498aaca1c0cc5696516facd355b9013024b8413e94e5c37cd77d1a428",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_generate_voices.py",
+      "bytes": 3840,
+      "sha256": "1cc2c3e16d486970812e4c78bfae9f937b542f4e72e8087aa52ff35c78f02a90",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_hide_wrong_ground_guns.py",
+      "bytes": 4703,
+      "sha256": "8b6b158893b30cb3e49acf615f4ca91320c34ec72d61052a4e818f6979718075",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_inspect_bear_v008.py",
+      "bytes": 1032,
+      "sha256": "12ee91d2d815469a4f7dfee1336505dee0bf5d6ce4f1d586b42a2a46472f4379",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_inspect_two_jumps.py",
+      "bytes": 1301,
+      "sha256": "8b40ce500cc4253d6b2eebc485d496f7c0f18eecd0511bd8d800457a22cd55bd",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_integrate_bridge_v006.py",
+      "bytes": 7767,
+      "sha256": "d864924e34d80d9c02eef79f4cd6b59201317846a4eb384b97bd10abc9e7d569",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_jump_audio_frames.py",
+      "bytes": 1554,
+      "sha256": "ee31d036b13486cbc67a7ed0f612d20d2b13a28d212b10bfb38e1de951633359",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_music_mix_v001.py",
+      "bytes": 8552,
+      "sha256": "38371724765091aea638172419a6c0541e0cc7b4b0ef0085d205142662aacfcf",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_prepare_dance_revision.py",
+      "bytes": 12916,
+      "sha256": "50d6dffb1b5eca338e9d2fc86274fa4c0c98658d73ec3148f881f07b64ffbb02",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_prepare_full_vertical_regen.py",
+      "bytes": 11881,
+      "sha256": "b1dad1464b5f83c53e44f54d3f6b92f4f2fc542d931cbaaa9b163373aeb6ca7b",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_prepare_grill_bridge.py",
+      "bytes": 11532,
+      "sha256": "8898828ddd14441630753114bbb3f07f1b6ce9d11ab4ebd77ac856e81641958f",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_prepare_horizontal_dance_current.py",
+      "bytes": 15694,
+      "sha256": "8372dc76d3bcb717897241ba4ebc0c00a28b5263c2057adc07e1ccb1be8a74cf",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_prepare_seg002.py",
+      "bytes": 7958,
+      "sha256": "4788396d4ca086f3087f8afa4b153c4252e83cac8458c0182def72f4b49e4757",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_prepare_seg003.py",
+      "bytes": 9515,
+      "sha256": "dd3b06179e5104fcee7aa27e2f6f445d8f190007742428f9f71f67ff877c2571",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_prepare_seg004.py",
+      "bytes": 8320,
+      "sha256": "9733dba757262eb4aa5c0223f7677ad960efaa052f165e52a48e3af88085afc8",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_prepare_seg005.py",
+      "bytes": 14584,
+      "sha256": "4f096bd8f6e1da1c145ce0e474ea677202ada01982d47bb03ca994199990a49c",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_publish_bear_hd_v008.py",
+      "bytes": 5163,
+      "sha256": "75627e0d7c08c76eaabeee09d9952a8dfe9772e0ef6546aadb7e56ee90c3df8d",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_restore_choice_and_verify_music.py",
+      "bytes": 8281,
+      "sha256": "c0ce9e5cdbcaa7a43e62c5402f22d8cfe6819e3bd44ef4210c9a93657a143823",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_simplify_seg005_prompt.py",
+      "bytes": 6401,
+      "sha256": "4b5c76043c8a32d58a168a7149b96c9ce4e8a69503e12d7c8e040ff4e46adda4",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_verify_assembly_v001.py",
+      "bytes": 2995,
+      "sha256": "2a0771556bd0fc21827846ed1479bb1a4403e6932e9581ff191609ee9f1a6461",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\ep002_verify_delivery.py",
+      "bytes": 2514,
+      "sha256": "007ed179306805deb634eb7ace9434db612a544bb7901ec3b0f998f334f8bccf",
+      "reason": "第二集已完成的一次性准备、修复、剪辑及检查脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\repair_seg002_backhead.py",
+      "bytes": 5752,
+      "sha256": "8324592f0c8ed1f3bd20519a9b275b161faac921b53c24dd7d11c0dca993bce1",
+      "reason": "第二集局部修复已完成的一次性脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\scripts\\repair_seg003_waist.py",
+      "bytes": 6122,
+      "sha256": "23312ad43edde626d22b7b62d95ecd05868079250812850af8ba2d4f5f161e87",
+      "reason": "第二集局部修复已完成的一次性脚本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\dance_reference\\bear.png",
+      "bytes": 1562245,
+      "sha256": "3867d52e773073f95f47762313f5f66df2953d45a863d4d82407175179d6a324",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\dance_reference\\flash.png",
+      "bytes": 1470002,
+      "sha256": "97deefb64d0ae7c6a5a85b264e667770f1bdb742a0a3eea59b7f565acd7cd700",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\dance_reference\\images.png",
+      "bytes": 1577655,
+      "sha256": "92ea1a37dac44c46c398487926f75092b91a8a5fc0268777708e628d503129d7",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\dance_reference\\overview.png",
+      "bytes": 1300404,
+      "sha256": "586ae2bf9509028a2e69fe74f4e2b1c6c1ef0e120381efdb292c018a629b051b",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\dance_reference\\teaching.m4s",
+      "bytes": 348524,
+      "sha256": "44fe87fac9ff0050c07ebd77a974645391bdac94e4e622e3bf59998b109ed59b",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\dance_reference\\teaching_audio.wav",
+      "bytes": 1475010,
+      "sha256": "ec7b066ed09cba43de56a678c3d1d9182c9779a4e3e4c17274b05328bfc52a85",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_assemble_v001\\cuts.jpg",
+      "bytes": 230739,
+      "sha256": "3049cb0418625b0df2bc07f69f54beba151e2c7fd65c2ae8b76cd3ca1438c0bf",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_assemble_v001\\filter.txt",
+      "bytes": 1415,
+      "sha256": "b0eb69d74390b011101b9decb0a14da789e36c2faf22e672359d4ed55745e921",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_assemble_v001\\namecards_and_framing.jpg",
+      "bytes": 239754,
+      "sha256": "29c437c0a3ede3ba5b7467d8b0e3b7906f91f6a31f274ad8751ec50a53cc4120",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_assemble_v001\\names.ass",
+      "bytes": 1112,
+      "sha256": "8d66023fea4c8013259e0f738be47ec07bcd27870b16d3ce7b3ab0c1977e125e",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_assemble_v001\\render.log",
+      "bytes": 11173,
+      "sha256": "c065b78a93c8c6b13db55d7878d121a00eccec499e08a6f34f854ef8fe9763ad",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_hd_v008\\delivery_audio.wav",
+      "bytes": 47152092,
+      "sha256": "da258115b9db9c1316985e05fa958b8e2fbc73ff58c01f583575398538406295",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_hd_v008\\delivery_contact.jpg",
+      "bytes": 463214,
+      "sha256": "e2e0eaa4938a1d7ca38154781d5552c2416ee22ddc0cd2d6b5c78e4dfbac63b2",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_hd_v008\\filter.txt",
+      "bytes": 672,
+      "sha256": "40cc54fe44c4b8c39418dc9ea13ca8951c070e88a389653cb7e52f0dc90378d3",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_hd_v008\\progress.txt",
+      "bytes": 68227,
+      "sha256": "73c7997d1436db0d41c0ef274a5fd941982625994815b195ba1cdd83f955d78d",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_hd_v008\\quality_comparison.jpg",
+      "bytes": 366822,
+      "sha256": "f9d6d21d8956f3dba06a2639fbf0d1919a3081acffa79e271440a79e681b5272",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_hd_v008\\quick_check.jpg",
+      "bytes": 350264,
+      "sha256": "5273f25c6c368159ce1b78a3e88adfdbece2ac9b0a17c4c3c5560944be940718",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_hd_v008\\render.log",
+      "bytes": 45706,
+      "sha256": "e981a83612612f513b9796fc33f4b52d978539c6f86c1f095bbcea3e1c9f6c6e",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_replace\\exact_cut.jpg",
+      "bytes": 357039,
+      "sha256": "cd0a1a981a0a8d6fc17ce17b77236b3fade4832cb351b0df5f4ae3cd258661ef",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_replace\\new_first7.jpg",
+      "bytes": 447864,
+      "sha256": "4bd08d44d08feb1f221986f91d38fe55658d5d0d975b0fd6b98fded4d9462adc",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bear_replace\\old_cut.jpg",
+      "bytes": 119723,
+      "sha256": "65056884049338be76a316de49b8ba568a99ead6579d2218478c31e02929e042",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bridge_integrate\\base.wav",
+      "bytes": 45168092,
+      "sha256": "c6f4c8c0e0aaad9271de378b32321303d80c8961f6749820481a1f412ec954e9",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bridge_integrate\\bridge.wav",
+      "bytes": 1573010,
+      "sha256": "74e85c01d34930d26c694534314f5c93dafbf69c14e75f235b503a27b1f4e58a",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_bridge_integrate\\junctions.jpg",
+      "bytes": 171008,
+      "sha256": "716756e7a7afb1be3cee76a31a7749efa1c84f8ffda2f8eac81aeb07365fca63",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_cover_intro\\base.wav",
+      "bytes": 46704092,
+      "sha256": "16d5f9fda11e439f89e58c9db96172c0692c63904e12b2fa4ab2cc914ef9b2c9",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_cover_intro\\body_video.mp4",
+      "bytes": 18243826,
+      "sha256": "c9b9f64b67334fde313db4fe28507f56f029e458d9325cdc917a05933b1f5279",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_cover_intro\\concat.txt",
+      "bytes": 137,
+      "sha256": "d9243b08e7db9b27a05347cedc43bc28dfee6d96ae4d87bafbeb0b723bc745f0",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_cover_intro\\cover_video.mp4",
+      "bytes": 203184,
+      "sha256": "77a1fc407bdb6cddf2b782bf21710d8811549b4f678af2bd88a0a88fbdc22934",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_cover_intro\\joined_audio.wav",
+      "bytes": 35460044,
+      "sha256": "7c4574426e4651c4bae7a9dba71c8c3bf7efd9e955b24d0cadc904b3dd9258a7",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_cover_intro\\joined_video.mp4",
+      "bytes": 18447419,
+      "sha256": "bc71e765e02b484d75ea14bedd7564266ddfd55fb83eed9c3f715f5e2a8100fa",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_dance_revision\\actual.jpg",
+      "bytes": 1141377,
+      "sha256": "c0337218f518accdafb52677f03fd229ab3aa7e7c33aae7fc75809e724b75ac4",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_dance_revision\\bear.jpg",
+      "bytes": 189732,
+      "sha256": "ddccee34a623e7f50ed7f398bfb826d0561d77898caf4c91ebed14bedca97055",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_dance_revision\\bear_source.jpg",
+      "bytes": 252959,
+      "sha256": "aae36d198c5d77202b33fe1efce0bb30d50fa3faca19532536dfc95718ad11e5",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_dance_revision\\flash.jpg",
+      "bytes": 182615,
+      "sha256": "86dbaa309440a649fb9db2d14c5cfdba54f368072e02ea3dee97737ba8c4f98b",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_dance_revision\\start.png",
+      "bytes": 612915,
+      "sha256": "3f61244e452901518ff55f50b568518e41161be98124a201ff6090703e3bb61c",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_music\\mix_float.wav",
+      "bytes": 46128088,
+      "sha256": "860091ba29d2ed320b7393dedb71d8b868c475c43796d63c5e6905f2a5dc7020",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_music\\native.wav",
+      "bytes": 46128092,
+      "sha256": "20fcb030db5f3af1b390b9528eac19c64969cce8b205935ca476bdbb55d31c19",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_music\\reference.wav",
+      "bytes": 17699276,
+      "sha256": "f27852463ffd7e04c969143e00b68c005711f16b596eafcd507686db4a8179bd",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_seg001_review\\asr.json",
+      "bytes": 422,
+      "sha256": "98a2d02f36a33019bd940b41d10095ba878c7b21bc066d74bbd2d489214d8720",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_seg001_review\\audio.wav",
+      "bytes": 801870,
+      "sha256": "28c806206838b1d8296cbb7c02d57ba99d5c4aed7a7122807d811dd9109d6019",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_seg001_review\\brake.png",
+      "bytes": 1920646,
+      "sha256": "0b6306b6bec22150e9367d9828d7f0dd7a708ab344e78e07ab68da8737afb5c7",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_seg001_review\\overview.png",
+      "bytes": 3961954,
+      "sha256": "4cf00620ea34c983760bd54fa85e53907f16f935558c1136c1c8d8d143ed08d2",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\23s.jpg",
+      "bytes": 475396,
+      "sha256": "6828e9c793d95585dc01dfadac0a513049390c71a67c70ba5b4dcc50206ce365",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\62s.jpg",
+      "bytes": 342796,
+      "sha256": "6a44dc6ecbb819dce4eb8597729b3f760ee1c354b9abd0fd494c8a71dab123ed",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\asr_19_28.json",
+      "bytes": 1198,
+      "sha256": "a013c1c1d45c6bff956ee5ad1208624f673e342160f1fbdb8756878d1e9b5799",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\asr_54_66.json",
+      "bytes": 2782,
+      "sha256": "24d9c91cd980e803dda3ee6b481b5a31f7cc9e51cee73bf53dfd4a9ea5f76328",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\audio_19_28.wav",
+      "bytes": 288078,
+      "sha256": "d9a58e5b9a3f73f93bc40e446acbacfdeb057b313b298a6ca294a2fca18ffe3f",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\audio_54_66.wav",
+      "bytes": 384078,
+      "sha256": "cb62c1861f2a7e5332e50381992a5dc5a0e9b5483d1a1a6d4718039e6f495f53",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\bridge_audio16.wav",
+      "bytes": 131196,
+      "sha256": "4a3918278627ccbb3d29e1f36b027872fd03484fc39fd4f81409379222f37e2b",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\bridge_review.jpg",
+      "bytes": 379307,
+      "sha256": "ae026f1a607b9da23cac29a990759d386126490667d7859f5189b947fda1cf47",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\cut_candidates.jpg",
+      "bytes": 546505,
+      "sha256": "0e7e866acb3eadb256a03bf3f7f8b97a6f503e9a9a99dabd9bb524e414bb074a",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\fixed_contacts.jpg",
+      "bytes": 332311,
+      "sha256": "cdbce67dd832a0c090891a44a7c441a8e8fb3c1cd39307b943869955ba58f509",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\frame_diffs.json",
+      "bytes": 11852,
+      "sha256": "ab239efdfefc77db08620aafad1465ea954d9fd81d49f2be17ae43dab205b8e5",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\guan_reaction_start.png",
+      "bytes": 599299,
+      "sha256": "f394aaca84213ab14a495f6186451cebf040eb75ca1e301110dd2b7bcca1ee75",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\guns_63.5.png",
+      "bytes": 613481,
+      "sha256": "40ebf86ca00def38153baac9e6662e06e752d988f263af40cf9069dd4fc57b44",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\guns_64.5.png",
+      "bytes": 587817,
+      "sha256": "dd94b4cc6dfbf3e3fecbe0c676f1688de757edb55d95a32892c139bab4ab0c22",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\guns_65.5.png",
+      "bytes": 616252,
+      "sha256": "3c5365c6a5569f1a470aef46c549ec2c94d28cab662501ac29a84a1240ca7911",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\guns_crop_check.jpg",
+      "bytes": 201720,
+      "sha256": "b04e50882d8dbf72716ac03086fdf8b3fedb19bf15f4e4c486a37145490bd2fe",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\ep002_two_jumps\\reactions.jpg",
+      "bytes": 615136,
+      "sha256": "9a49690eee9c4e9f811314861737fc8ad2f0c253498bfba02019d1004fb8d8c9",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-0tofixjx\\METADATA",
+      "bytes": 8630,
+      "sha256": "44b66ea444b9c0d19ae94815d356bf047ae6b680c19268b5c265687cd6a81406",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-1j8cicuu\\METADATA",
+      "bytes": 10561,
+      "sha256": "88b1657585de14e3bb82aa5278aa9595b30aa4ca74ead073d8950615c808099d",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-6lkwua7z\\METADATA",
+      "bytes": 12816,
+      "sha256": "b756c2fbfd5be05ac5bdb0ebca61f55618f30f633ed92d88a5687429313a7595",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-8oalffbu\\METADATA",
+      "bytes": 2028,
+      "sha256": "2d80f43bd905689145c00b3133bc95895d654ced70a96a1802e9237e0d66599f",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-dc9tz2zs\\METADATA",
+      "bytes": 6783,
+      "sha256": "aca5d94a97d1f70f301d033addb635f6e66be8973a00aba4127637eed2ef316a",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-i4htsn1s\\METADATA",
+      "bytes": 3310,
+      "sha256": "b05084ca1d50879865178d9fff9fabeab61bdfb1f361bfbde95421ffc8f9be46",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-l3l6puvv\\METADATA",
+      "bytes": 38589,
+      "sha256": "7014c95c3f1064f93f903ff11c3aa2df4af6d08d2ec910c30dff2415bad1c53d",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-so1see0w\\METADATA",
+      "bytes": 6599,
+      "sha256": "4444a6b549a8ebb02e1739f4375af7756c841f96f0c31077a183273c7462bd10",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-yozgjyqy\\METADATA",
+      "bytes": 2764,
+      "sha256": "f0ae5dbb09d50fb5f7632c3d53f0220995ef76019e5892e0a545740136a4e3cb",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-metadata-ypblm9rg\\METADATA",
+      "bytes": 2871,
+      "sha256": "68c5548fb67c4132a13898d9b31ec50c6bea2abdd915d921f214355c3a6499c8",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-06dpx2hq\\markupsafe-3.0.3-cp312-cp312-win_amd64.whl.metadata",
+      "bytes": 2764,
+      "sha256": "f0ae5dbb09d50fb5f7632c3d53f0220995ef76019e5892e0a545740136a4e3cb",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-11a__p6v\\fsspec-2026.7.0-py3-none-any.whl.metadata",
+      "bytes": 10561,
+      "sha256": "88b1657585de14e3bb82aa5278aa9595b30aa4ca74ead073d8950615c808099d",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-3eh8u8e5\\jinja2-3.1.6-py3-none-any.whl.metadata",
+      "bytes": 2871,
+      "sha256": "68c5548fb67c4132a13898d9b31ec50c6bea2abdd915d921f214355c3a6499c8",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-4ehv_4zg\\sympy-1.14.0-py3-none-any.whl.metadata",
+      "bytes": 12816,
+      "sha256": "b756c2fbfd5be05ac5bdb0ebca61f55618f30f633ed92d88a5687429313a7595",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-5ywdf5uq\\torch-2.14.1+cpu-cp312-cp312-win_amd64.whl",
+      "bytes": 67895296,
+      "sha256": "8156810cba70677ddbddbecfc01a09454871247d60eea80c74a56c01d0e13734",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-c5efzmt0\\networkx-3.6.1-py3-none-any.whl.metadata",
+      "bytes": 6783,
+      "sha256": "aca5d94a97d1f70f301d033addb635f6e66be8973a00aba4127637eed2ef316a",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-gg212ke0\\mpmath-1.3.0-py3-none-any.whl.metadata",
+      "bytes": 8630,
+      "sha256": "44b66ea444b9c0d19ae94815d356bf047ae6b680c19268b5c265687cd6a81406",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-i1n935l2\\setuptools-78.1.0-py3-none-any.whl.metadata",
+      "bytes": 6599,
+      "sha256": "4444a6b549a8ebb02e1739f4375af7756c841f96f0c31077a183273c7462bd10",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-mx6l7eam\\filelock-3.32.3-py3-none-any.whl.metadata",
+      "bytes": 2028,
+      "sha256": "2d80f43bd905689145c00b3133bc95895d654ced70a96a1802e9237e0d66599f",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-ywip6h7o\\typing_extensions-4.16.0-py3-none-any.whl.metadata",
+      "bytes": 3310,
+      "sha256": "b05084ca1d50879865178d9fff9fabeab61bdfb1f361bfbde95421ffc8f9be46",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\pip-unpack-zlgk3dm9\\torch-2.14.1+cpu-cp312-cp312-win_amd64.whl.metadata",
+      "bytes": 38589,
+      "sha256": "7014c95c3f1064f93f903ff11c3aa2df4af6d08d2ec910c30dff2415bad1c53d",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg002_repair\\comparison.png",
+      "bytes": 1208505,
+      "sha256": "caeead39718f6adbbac6eb1616f73f076f1e7041df7d8af7c4efc91a644dfc6f",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg002_repair\\frame_01.png",
+      "bytes": 457145,
+      "sha256": "dbce03bc94bb017f87e3a64da205ea2fd0e1cba7f58c9dd927f99e13b655aa5a",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg002_repair\\frame_02.png",
+      "bytes": 487209,
+      "sha256": "de04d664491977cfc71915f0b86e59f475650431b7c84aa7e218d5962c664e3f",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg002_repair\\frame_03.png",
+      "bytes": 491580,
+      "sha256": "1a28534022e31bdb9242f40efec6d5c8eeb49f939853470ede837bc3fb619a26",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg002_repair\\mouth_all.png",
+      "bytes": 1714845,
+      "sha256": "38d43975f81bffd67094b3712276bc0c263b1286096f5c2a24b72f305cb325e5",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg002_repair\\opening.png",
+      "bytes": 3983224,
+      "sha256": "f2fe26b7cabdfa53ecc868f32fea7060148fe4577fde5689203b826df288cbc5",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg002_repair\\overview.png",
+      "bytes": 3068441,
+      "sha256": "db58ad38edb13a697b9f7ef8ed95cf8e959f17e00a56f10ed1798239b1e13af5",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg002_repair\\repair_record.json",
+      "bytes": 1253,
+      "sha256": "0c9eaf5e8702e88683f9dd41dfd6814f4587f7325745a46f2eded730033cadbd",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg002_repair\\repaired_contact.png",
+      "bytes": 1696947,
+      "sha256": "248407b545475fba9701cf58dd6c6590ca8234d9c8e97405fce106a94a0e9b03",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg002_repair\\repaired_full.png",
+      "bytes": 605914,
+      "sha256": "4b3045a3809d68ba93273491e6b7a9d98cb6d7e344d99c1d6113f1970a6bf78f",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg002_repair\\tracking.json",
+      "bytes": 16605,
+      "sha256": "34eaecba359767dc3e967cf613a063c9b65e29fc113823b4ab91d33cf6a3cecf",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg002_repair\\worst.png",
+      "bytes": 609789,
+      "sha256": "5d7e428e39b40ecd3a4a55779d2b95753ab3f733d29622e72b03743f93f9201a",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\f264.png",
+      "bytes": 599663,
+      "sha256": "d01135b9a9304fa4f9677586ad02a8282e61dff4bd5f0993b5ccd39d12e46b98",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\f288.png",
+      "bytes": 616726,
+      "sha256": "1c24c12aedb4feafe1ff7da162447b781a3b0618127d322c035d31f7859550a6",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\f312.png",
+      "bytes": 623102,
+      "sha256": "10a00c678252f4a099876bb93284629a0964894a493356585fceacadbe06f74e",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\f384.png",
+      "bytes": 610121,
+      "sha256": "8a4e90447f9551faaf9d942dcdb5fd38b8ce7ff058ccea079948f36c33551cc4",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\f420.png",
+      "bytes": 616787,
+      "sha256": "83f9694282eaf901bbec492ce4d829efb7df1306eba3f4740c1841b3fa0db52d",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\f432.png",
+      "bytes": 631745,
+      "sha256": "f50e845a9586ef2c5c22331a6f2ab338e0714fbeab9852860c9b7e63b9717ca4",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\f440.png",
+      "bytes": 637670,
+      "sha256": "fc821c9ded69bed8fbded01463a5c5b6378197147b392f84461b2db6e5f0deb6",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\f448.png",
+      "bytes": 643502,
+      "sha256": "aad54931315b60d3f9d0c02eb13dff6ceb90c75e17562b3c483afc968632374e",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\f455.png",
+      "bytes": 647515,
+      "sha256": "dab2879b0bf8f395f9f1cbd34598de0f8f6593adcf56c2006faa842c4ab97995",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\f456.png",
+      "bytes": 706119,
+      "sha256": "1a77130974313deb39d230d89c68152a80ebf79c1cef08bab211efaf04c77420",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\f480.png",
+      "bytes": 720084,
+      "sha256": "d9988d7fc8918ab9b0f4cceae5ae71a75109d8697c114eb4201ab8c029ae1838",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\f576.png",
+      "bytes": 719698,
+      "sha256": "e54405429db9aa325a016821c750fa174c788fcdbb3cc87879dfdc71d49d6540",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\fixed456.png",
+      "bytes": 701583,
+      "sha256": "d8440e60a3ad828fd115d94ae4bb0f231c4a4dda57925f9f116d11e690466473",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\fixed480.png",
+      "bytes": 715584,
+      "sha256": "2aa70bfc217bb7de974533187b846b6e0570e5ec1425de5e23c606844199a4d3",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\fixed504.png",
+      "bytes": 717011,
+      "sha256": "8440227d25659a79bb1c41fcc84f315e3e26f0ee9db5484006892c321f732779",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\fixed528.png",
+      "bytes": 716876,
+      "sha256": "dc3195cb188ffe2c2981b9578ab284ec0d8c7dfffffb8323653be218ed25802a",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\fixed552.png",
+      "bytes": 714579,
+      "sha256": "4993ca5391f78f830da26a7f89d2b42ffd8f01ec7a126e0fbbc3a6f48b0fa86e",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\fixed576.png",
+      "bytes": 714784,
+      "sha256": "2dab66306e14588f539034f3285a3e220f8ecc13fd344c7928d6d49ceba2e167",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\full_comparison.png",
+      "bytes": 1429471,
+      "sha256": "7dbcd5448a8caff56cfeabf6686239cd45825b70d8932d3eb5c0d4a635bac2d5",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\inpaint_trial.png",
+      "bytes": 1401795,
+      "sha256": "ac6d9faac3eb4c4fd4cf8975a2a29bedb495f8225ef4a18583266171f8b55c3b",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\last.png",
+      "bytes": 1829911,
+      "sha256": "e19196b4e8096a9cb6ca3e69db56464ddb2543df4cf91f3435d2d09ef9e12f50",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\overview.png",
+      "bytes": 2862463,
+      "sha256": "4b4ec973188b9e7ce2c4fcf15a61421d543995ca15130018af4e8df56ab16f06",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg003_repair\\waist_comparison.png",
+      "bytes": 1095769,
+      "sha256": "e9221a40608e46559234e7567b0892d85bab9420b149aa5024b4598d406c3aff",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg004_review\\accepted_overview.png",
+      "bytes": 2549604,
+      "sha256": "a1ba5c63ae8db046c7a4f6c4d224060585ebdb7431956ba5bafdedc60588a2bb",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\.sanguo-runtime\\tmp\\seg004_review\\overview.png",
+      "bytes": 3692743,
+      "sha256": "10aeb06551b9980a19660c25fd79b3bf34b73deb0be7fb7ad046612e9c4b2b82",
+      "reason": "第二集渲染/检查临时文件或已结束安装的临时缓存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\EP002_完整混音_v001.wav",
+      "bytes": 34596102,
+      "sha256": "711b2a65d87a084be523734c671c5d525b04967b26962abb0856f0e1f3a126b2",
+      "reason": "已被最终混音替代的旧整段混音或中间音轨",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\EP002_舞蹈口令时间线_v001.wav",
+      "bytes": 34596044,
+      "sha256": "d8fc25fa06c14c24db5436e167712d489a441241644d8a514350f666075fc064",
+      "reason": "已被最终混音替代的旧整段混音或中间音轨",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\EP002_衔接修复混音_v002.wav",
+      "bytes": 33876044,
+      "sha256": "6e187c06ee81805b811a562e911fd934e3901786c6f6d40e018b17772474ea91",
+      "reason": "已被最终混音替代的旧整段混音或中间音轨",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\EP002_补镜后完整混音_v003.wav",
+      "bytes": 35028044,
+      "sha256": "b46cacef1f8fc98602c6a431d0fb9f5318dbfa148cdb8c7d88ab385f2e5392a4",
+      "reason": "已被最终混音替代的旧整段混音或中间音轨",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配乐\\EP002_配乐时间线_v001.wav",
+      "bytes": 34596044,
+      "sha256": "9851d2b08c4740ae75e0999577b2e013a67af38c7755e45f2c73f5fa507966aa",
+      "reason": "已被最终混音替代的旧整段混音或中间音轨",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配音\\对白\\SHOT-EP002-032_张咪_Qwen_v001.wav",
+      "bytes": 42284,
+      "sha256": "6f574673a03553c10586f1fb57d68faaa55b6a6eeda432d890977ad17e08d179",
+      "reason": "已被干杯台词v002替代的旧对白",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配音\\试听\\SEG001_逐角色串听_v001.wav",
+      "bytes": 437804,
+      "sha256": "fdafad9bd48fca3a29334b81b07be928c5705736338aab7c4d76f96220b75cc8",
+      "reason": "逐角色串听的重复拼接试听；单句正式配音保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配音\\试听\\SEG002_逐角色串听_v001.wav",
+      "bytes": 610604,
+      "sha256": "1031b1041c13d6eceed5a79f83fc052212d9ac5d12d516ac957409a588a15850",
+      "reason": "逐角色串听的重复拼接试听；单句正式配音保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配音\\试听\\SEG003_逐角色串听_v001.wav",
+      "bytes": 913964,
+      "sha256": "67ef1c96c890cda7e4a40a6f60e0b3dcc951994f9002432473ba67ee5e079189",
+      "reason": "逐角色串听的重复拼接试听；单句正式配音保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配音\\试听\\SEG004_逐角色串听_v001.wav",
+      "bytes": 1633964,
+      "sha256": "b10873aefb652b5350e5ece764e00f2f9d315385730ac1f3621934212f6235c9",
+      "reason": "逐角色串听的重复拼接试听；单句正式配音保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配音\\试听\\SEG005_逐角色串听_v001.wav",
+      "bytes": 42284,
+      "sha256": "6f574673a03553c10586f1fb57d68faaa55b6a6eeda432d890977ad17e08d179",
+      "reason": "逐角色串听的重复拼接试听；单句正式配音保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\audio\\配音\\试听\\SEG005_逐角色串听_v002.wav",
+      "bytes": 53804,
+      "sha256": "13898a8868cd396ac87b183bde92175f56ea118b218329319fbab98167bdb848",
+      "reason": "逐角色串听的重复拼接试听；单句正式配音保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\SEG002_修复前后对比.png",
+      "bytes": 1208505,
+      "sha256": "caeead39718f6adbbac6eb1616f73f076f1e7041df7d8af7c4efc91a644dfc6f",
+      "reason": "修复已采用，旧对比图不再交付",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\SEG003_v002.mp4",
+      "bytes": 9381557,
+      "sha256": "d9deca1bceef229d057ba93caa984e40c4ea24b470b4c5346050a85abd51feb6",
+      "reason": "第三段已由局部修复版替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\原始下载\\SEG002_v002_原始.mp4",
+      "bytes": 12547437,
+      "sha256": "c8a2a08a773f8fdbea07c9f27b8e17d0d359137205b5267a40217726e850811b",
+      "reason": "已修复或未采用的错误原片；采用片和无损修复母版保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\video\\Seedance2.5分段\\原始下载\\SEG004_v002_跪拜朝向错误_未采用.mp4",
+      "bytes": 9859525,
+      "sha256": "7ffb25e0126acd9069584c12f592d5f3d8b66237ae182e86259eef9fb68825d5",
+      "reason": "已修复或未采用的错误原片；采用片和无损修复母版保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\即梦2.5分段提交包\\SEG002\\参考视频\\视频01_SEG001_v002_无音轨.mp4",
+      "bytes": 10498588,
+      "sha256": "056f2e0fbb8123ab82a1b0cc6b923dc7eb57b0175620f8b2f0269dba211c26c7",
+      "reason": "已完成提交的重复上传视频副本；原分段和输入动作来源保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\即梦2.5分段提交包\\SEG003\\参考视频\\视频01_SEG002_v002_无音轨.mp4",
+      "bytes": 8552123,
+      "sha256": "c605f51837b0988a4079aae6f55100c065e19c73b65f1b1add1313878a4d7e9a",
+      "reason": "已完成提交的重复上传视频副本；原分段和输入动作来源保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\即梦2.5分段提交包\\SEG004\\参考视频\\视频01_SEG003_v002_无音轨.mp4",
+      "bytes": 6448434,
+      "sha256": "3316993b57e455efd1c4034be728bd042e26f6aeeeef4f8a07d00123270b7761",
+      "reason": "已完成提交的重复上传视频副本；原分段和输入动作来源保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\即梦2.5分段提交包\\SEG005\\参考视频\\视频01_闪身步_动作参考_无声_720P.mp4",
+      "bytes": 654645,
+      "sha256": "716d05cb64d764ff766abf0986ed796ddfcba1112c62107a6c670dc05cb0ab2a",
+      "reason": "已完成提交的重复上传视频副本；原分段和输入动作来源保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\即梦2.5分段提交包\\SEG005\\参考视频\\视频02_狗熊哆嗦毛_动作参考_无声_720P.mp4",
+      "bytes": 838509,
+      "sha256": "48d2fa9fb3f7af273acc34f1182f167239073a92b8f5528bfdb00118e54be3ac",
+      "reason": "已完成提交的重复上传视频副本；原分段和输入动作来源保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\即梦2.5分段提交包\\SEG005\\舞蹈重制\\参考视频\\视频01_闪身步_动作参考_无声_720P.mp4",
+      "bytes": 654645,
+      "sha256": "716d05cb64d764ff766abf0986ed796ddfcba1112c62107a6c670dc05cb0ab2a",
+      "reason": "已完成提交的重复上传视频副本；原分段和输入动作来源保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\即梦2.5分段提交包\\SEG005\\舞蹈重制\\参考视频\\视频02_狗熊哆嗦毛_动作参考_无声_720P.mp4",
+      "bytes": 838509,
+      "sha256": "48d2fa9fb3f7af273acc34f1182f167239073a92b8f5528bfdb00118e54be3ac",
+      "reason": "已完成提交的重复上传视频副本；原分段和输入动作来源保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\EP002_关火镜头_枪堆避让预览_v004.mp4",
+      "bytes": 1233094,
+      "sha256": "a065a34ad804b3d0f58cb1e9daa6c881750d316dfcabd7a0dd0f667069ed7cee",
+      "reason": "已被v008定稿替代的旧成片或重复预览",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\EP002_名字卡与画幅预览_v001.jpg",
+      "bytes": 239754,
+      "sha256": "29c437c0a3ede3ba5b7467d8b0e3b7906f91f6a31f274ad8751ec50a53cc4120",
+      "reason": "已确认样式的旧预览拼图",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\EP002_拼接_竖排名字卡_v001.mp4",
+      "bytes": 23473459,
+      "sha256": "17f9be31f56bf77d9ac0f22d891ab967d60e156d704dba5a613cd02c944509c4",
+      "reason": "已被v008定稿替代的旧成片或重复预览",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\EP002_撤回反应镜_待补转场_v005.mp4",
+      "bytes": 20661353,
+      "sha256": "63081bcb58aa90a957ba34d5b5fd4c932dde538ad526aea3b4d7d550cde8e28f",
+      "reason": "已被v008定稿替代的旧成片或重复预览",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\EP002_枪堆避让_配乐口令_v004.mp4",
+      "bytes": 21271724,
+      "sha256": "0deb959ee9928a91beb4582a148410089b15cd01729088729d2737311d41981e",
+      "reason": "已被v008定稿替代的旧成片或重复预览",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\EP002_烧烤到桌前_修复预览_v003.mp4",
+      "bytes": 1496722,
+      "sha256": "5958fc7614cc31a31db1a0edbfb20a89ee853a7cfc61304228ef8cb715adb215",
+      "reason": "已被v008定稿替代的旧成片或重复预览",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\EP002_结尾替换_高清预览_v008.mp4",
+      "bytes": 12499522,
+      "sha256": "c938018ea5c9daf159c1b0a2bb7b0c253a9000a8e7966f68e2514a557229a968",
+      "reason": "已被v008定稿替代的旧成片或重复预览",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\EP002_结尾舞蹈_配乐口令试听_v001.mp4",
+      "bytes": 3897773,
+      "sha256": "bd1ed0ffa30ed3fc63d0bb2d4608482b8417fbcf81d578affb177d6f149f15e7",
+      "reason": "已被v008定稿替代的旧成片或重复预览",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\EP002_衔接修复_配乐口令_v003.mp4",
+      "bytes": 21938403,
+      "sha256": "f582906aaef109cbd6c69b60458cd9c6c2b4f75939626f5753364086b853aa5d",
+      "reason": "已被v008定稿替代的旧成片或重复预览",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\EP002_补入走位_配乐口令_v006.mp4",
+      "bytes": 21319009,
+      "sha256": "4f2a26665795b984c7af9a8778cba661fe762e5f82802592b2b942ca01325421",
+      "reason": "已被v008定稿替代的旧成片或重复预览",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\EP002_走到桌前_接入预览_v006.mp4",
+      "bytes": 2604935,
+      "sha256": "8474b39ab78fd5c97b9a4ce8d96082971d7c4401a3e52102a01a301a3eb1219d",
+      "reason": "已被v008定稿替代的旧成片或重复预览",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\EP002_车段接缝_修复预览_v003.mp4",
+      "bytes": 1255792,
+      "sha256": "e8f5665363c9166135cebf79b9b3027944de5146280849dc3ddfba750552f3c8",
+      "reason": "已被v008定稿替代的旧成片或重复预览",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\EP002_配乐与舞蹈口令_v002.mp4",
+      "bytes": 23540997,
+      "sha256": "92a9bff790b6e35346487ff10b98b51f1b915f97d4203a7f2b29f486bfd3a0fc",
+      "reason": "已被v008定稿替代的旧成片或重复预览",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\成片\\三国群萌传_EP002_桃园结义_含封面_v007.mp4",
+      "bytes": 21561513,
+      "sha256": "ca2bf920af59db84248f91c25726017a9c435a34fede07c64629cde26f0b1cda",
+      "reason": "已被v008定稿替代的旧成片或重复预览",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\续接参考\\SEG001_v002\\SEG001_v002_无音轨.mp4",
+      "bytes": 10498588,
+      "sha256": "056f2e0fbb8123ab82a1b0cc6b923dc7eb57b0175620f8b2f0269dba211c26c7",
+      "reason": "已完成生成的可重建无音轨续接副本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\续接参考\\SEG002_v002\\SEG002_v002_无音轨.mp4",
+      "bytes": 8552123,
+      "sha256": "c605f51837b0988a4079aae6f55100c065e19c73b65f1b1add1313878a4d7e9a",
+      "reason": "已完成生成的可重建无音轨续接副本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\续接参考\\SEG003_v002\\SEG003_v002_无音轨.mp4",
+      "bytes": 8957662,
+      "sha256": "558daa905a35efd7f66e9c5b03e3759856b89bfd65ada16d52b711c922327bae",
+      "reason": "已完成生成的可重建无音轨续接副本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\续接参考\\SEG003_v002_局部修复\\SEG003_v002_局部修复_无音轨.mp4",
+      "bytes": 6448434,
+      "sha256": "3316993b57e455efd1c4034be728bd042e26f6aeeeef4f8a07d00123270b7761",
+      "reason": "已完成生成的可重建无音轨续接副本",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\sanguo\\剧集\\EP002\\制作成果\\续接参考\\SEG004_v002\\SEG004_v002_无音轨.mp4",
+      "bytes": 7127867,
+      "sha256": "228591dfc34f833be5b9e27955e87aae6e53369360a2b140f0b1b50ef946fc4c",
+      "reason": "已完成生成的可重建无音轨续接副本",
+      "status": "recycled"
+    }
+  ],
+  "planned_files": 197,
+  "planned_bytes": 914788416,
+  "recycled_files": 197,
+  "recycled_bytes": 914788416,
+  "recycled_empty_directories": [],
+  "protected_hashes_verified": true,
+  "deletion_method": "Windows Recycle Bin; permanent deletion rejected by automatic policy; recycle bin not purged",
+  "documentation_updated": true,
+  "retired_markdown_links": 19,
+  "creator_accepted_delivery": "剧集/EP002/制作成果/成片/三国群萌传_EP002_桃园结义_高清修复_v008.mp4"
+}

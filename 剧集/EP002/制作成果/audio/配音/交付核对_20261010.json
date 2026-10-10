@@ -1,0 +1,59 @@
+{
+  "status": "technical_checks_passed_listening_pending",
+  "single_wavs": 22,
+  "segment_voice_references": 12,
+  "audition_reels": 5,
+  "all_wav_files": 39,
+  "sample_rate": 24000,
+  "channels": 1,
+  "subtype": "PCM_16",
+  "source_text_check": "22 input texts match screenplay verbatim",
+  "voice_identity_check": "all reference hashes match public fixed WAVs",
+  "audio_content_boundary": "input text matching and auxiliary ASR do not replace listening",
+  "video_submitted": false,
+  "segments": [
+    {
+      "segment": "SEG001",
+      "audio_references": 2,
+      "pending": [
+        "据已恢复EP001实际末态整理的SHOT001—004开场图",
+        "新台词音频回听确认"
+      ]
+    },
+    {
+      "segment": "SEG002",
+      "audio_references": 3,
+      "pending": [
+        "SEG001实际采用视频的去音轨副本",
+        "同源实际尾帧",
+        "新台词音频回听确认"
+      ]
+    },
+    {
+      "segment": "SEG003",
+      "audio_references": 3,
+      "pending": [
+        "SEG002实际采用视频的去音轨副本",
+        "同源实际尾帧",
+        "新台词音频回听确认"
+      ]
+    },
+    {
+      "segment": "SEG004",
+      "audio_references": 3,
+      "pending": [
+        "SEG003实际采用视频的去音轨副本",
+        "同源实际尾帧",
+        "新台词音频回听确认"
+      ]
+    },
+    {
+      "segment": "SEG005",
+      "audio_references": 1,
+      "pending": [
+        "闪身步、狗熊哆嗦毛的逐帧动作核对",
+        "新台词音频回听确认"
+      ]
+    }
+  ]
+}

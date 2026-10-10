@@ -1,0 +1,18 @@
+{
+  "segment_id": "SEG004",
+  "creator_accepted": true,
+  "creator_feedback": "可以了，准备第五段",
+  "file": "剧集/EP002/制作成果/video/Seedance2.5分段/SEG004_v002.mp4",
+  "sha256": "cc06625a2fb78c945fe45eb1f0a97c0222dba2c0f673330350ba585df1bcb55c",
+  "duration_seconds": 20,
+  "decoded_frames": 480,
+  "resolution": [
+    480,
+    854
+  ],
+  "silent_video": "剧集/EP002/制作成果/续接参考/SEG004_v002/SEG004_v002_无音轨.mp4",
+  "silent_sha256": "228591dfc34f833be5b9e27955e87aae6e53369360a2b140f0b1b50ef946fc4c",
+  "tail_image": "剧集/EP002/制作成果/续接参考/SEG004_v002/SEG004_v002_真实尾帧.png",
+  "tail_sha256": "73d855f4600d0d87ba6c2a73ec2bbd283c2661e6e83eaced958e5998681dce54",
+  "note": "新版实际画面包含转身、相向跪拜；旧朝向错误结果不采用。"
+}
