@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-11",
+  "authorization": "还是用回这个有问题的视频，然后在第七秒的时候，你用脚本增加一个过度效果",
+  "source": "剧集\\EP003\\制作成果\\videos\\EP003_SEG001_原始_v001.mp4",
+  "source_sha256": "f9e5fb8ae8444ec7a5d7ca25f5f4590cb1b3840269a7290ee080bfb7cd1febe3",
+  "output": "剧集\\EP003\\制作成果\\videos\\EP003_SEG001_7秒转场_v002.mp4",
+  "output_sha256": "8a9d7141a46d425a40ee6d20ee07a28174b667cb39325aa836a45908d3753396",
+  "method": "保留原文件，以前后正常帧做横向模糊叠化；出错时段不播放；前后轻度变速保持总长",
+  "source_frames_before": [
+    0,
+    141
+  ],
+  "source_frames_after": [
+    192,
+    359
+  ],
+  "output_frames_before": [
+    0,
+    159
+  ],
+  "output_frames_transition": [
+    160,
+    175
+  ],
+  "output_frames_after": [
+    176,
+    359
+  ],
+  "output_frame_count": 360,
+  "fps": 24,
+  "duration_seconds": 15,
+  "width": 496,
+  "height": 864,
+  "audio_streams": 0,
+  "source_original_unchanged": true,
+  "tail_frame": "剧集/EP003/制作成果/videos/EP003_SEG001_7秒转场_v002_真实尾帧.png",
+  "tail_frame_source": "输出文件实际解码第359帧，14.958333秒",
+  "script": "D:/git/.sanguo-runtime/scripts/ep003_seg001_transition_v002.py",
+  "status": "accepted",
+  "limitation": "后期过渡遮接，不是对原三维船体做了语义重绘；不声称严格无转场一镜到底",
+  "visual_review": "已检查6.00、6.50、6.67、6.83、7.00、7.17、7.29、7.50、8.00、9.00、13.00、14.958秒输出帧；问题区间已由模糊过渡替换，前后人物清楚。未宣称原片三维重绘或严格一镜到底。",
+  "retiming": "前后逐帧最近邻采样轻度变速；不混合相邻清晰帧，避免变速重影。",
+  "accepted_on": "2026-10-11",
+  "acceptance": "可以，就用这个，删除旧的，然后提供第二段生成步骤",
+  "source_project_copy_status": "按用户要求清理；H盘用户原始附件保留",
+  "tail_frame_pixel_verified": true
+}

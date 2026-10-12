@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-11",
+  "output": "剧集/EP003/制作成果/成片/三国群萌传_EP003_封面旁白字幕_1080P_v002.mp4",
+  "sources": [
+    {
+      "file": "剧集/EP003/制作成果/videos/EP003_SEG001_7秒转场_v002.mp4",
+      "sha256": "8a9d7141a46d425a40ee6d20ee07a28174b667cb39325aa836a45908d3753396"
+    },
+    {
+      "file": "剧集/EP003/制作成果/videos/EP003_SEG002_原始_v001.mp4",
+      "sha256": "6d9b7810ea0f62892e70908c11c9f13d477f26289d65176ae27278e28e00242d"
+    },
+    {
+      "file": "剧集/EP003/制作成果/videos/EP003_SEG003_原始_v001.mp4",
+      "sha256": "4d4f6c20f93727f51a79d815055119e225b565b872934151278e73cf28600680"
+    }
+  ],
+  "frames_target": 1129,
+  "fps": 24,
+  "duration_target": 47.041666666666664,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "voices": [
+    {
+      "raw": "剧集/EP003/制作成果/audio/旁白/EP003_VO001_开场旁白_候选_v001.wav",
+      "prepared": "剧集/EP003/制作成果/audio/旁白/EP003_VO001_剪辑用_v001.wav",
+      "trim_leading_seconds": 0,
+      "timeline_start": 2.4,
+      "duration": 4.56
+    },
+    {
+      "raw": "剧集/EP003/制作成果/audio/旁白/EP003_VO002_结尾旁白_候选_v001.wav",
+      "prepared": "剧集/EP003/制作成果/audio/旁白/EP003_VO002_剪辑用_v001.wav",
+      "trim_leading_seconds": 1.38,
+      "timeline_start": 40.0,
+      "duration": 3.82
+    }
+  ],
+  "subtitles": [
+    [
+      2.458333,
+      3.875,
+      "董咪专权，"
+    ],
+    [
+      4.25,
+      6.875,
+      "十八路猪咪兴兵讨伐。"
+    ],
+    [
+      40.083333,
+      42.375,
+      "众猪咪推袁本喵为萌主，"
+    ],
+    [
+      42.75,
+      43.833333,
+      "共抗董咪。"
+    ]
+  ],
+  "namecards": [
+    [
+      10.0,
+      12.3,
+      "董咪",
+      "咪国大相",
+      860,
+      730
+    ],
+    [
+      16.0,
+      18.2,
+      "吕咪",
+      "中喵将",
+      870,
+      660
+    ],
+    [
+      44.0,
+      47.041666666666664,
+      "袁本喵",
+      "猪咪萌主",
+      870,
+      680
+    ]
+  ],
+  "upscale": "Lanczos aspect-preserving fit + centered padding + unsharp luma0.30; no generative detail reconstruction",
+  "mix": "seg2 original gain1; seg3 original gain0.18; narration loudnorm-18; narration side duck0.18; final two-pass target-16 LUFS TP-1.5; final AAC true peak correction -0.25dB from original PCM; measured loudness -17.31 LUFS, -1.66 dBTP",
+  "new_music": false,
+  "status": "superseded_output_deleted",
+  "script": "D:/git/.sanguo-runtime/scripts/ep003_cover_v002.py",
+  "output_sha256": "f3b5829848e976c228202ada78f434021c69f2f9481217e35168676772172c95",
+  "body_intermediate": "剧集/EP003/制作成果/成片/三国群萌传_EP003_旁白字幕_1080P_v001.mp4",
+  "cover": "剧集/EP003/制作成果/发布/三国群萌传_EP003_十八路猪咪讨董_封面_v001.png",
+  "cover_seconds": 2,
+  "cover_attachment_pixels_identical": true,
+  "cover_sha256": "b11f10ec7617f09654381e91cd1c701408849bbf7966a3d9f8f3bf1711000db8",
+  "verification": {
+    "full_decode": "passed_after_final_audio_adjustment",
+    "frames": 1129,
+    "fps": 24.0,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "body_copy_sample_checks": [
+      {
+        "final_frame": 48,
+        "body_frame": 0,
+        "identical": true
+      },
+      {
+        "final_frame": 49,
+        "body_frame": 1,
+        "identical": true
+      },
+      {
+        "final_frame": 407,
+        "body_frame": 359,
+        "identical": true
+      },
+      {
+        "final_frame": 408,
+        "body_frame": 360,
+        "identical": true
+      },
+      {
+        "final_frame": 768,
+        "body_frame": 720,
+        "identical": true
+      },
+      {
+        "final_frame": 1128,
+        "body_frame": 1080,
+        "identical": true
+      }
+    ],
+    "loudness": {
+      "input_i": "-17.31",
+      "input_tp": "-1.66",
+      "input_lra": "8.70",
+      "input_thresh": "-27.62",
+      "output_i": "-16.84",
+      "output_tp": "-1.50",
+      "output_lra": "8.40",
+      "output_thresh": "-26.96",
+      "normalization_type": "dynamic",
+      "target_offset": "0.84"
+    },
+    "visual_contact_sheet": "D:\\git\\.sanguo-runtime\\tmp\\ep003_final\\qa_cover_final.jpg",
+    "listening": "creator_review_pending",
+    "visual_check": "封面、接入正文、四条字幕、三张名卡抽帧核对；未作全片逐帧艺术验收。"
+  },
+  "additional_script": "D:/git/.sanguo-runtime/scripts/ep003_peak_check.py",
+  "cleanup_record": "剧集/EP003/制作成果/成片定稿与冗余清理记录_20261012.json"
+}

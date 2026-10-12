@@ -1,0 +1,98 @@
+{
+  "maps": [
+    {
+      "id": "IMG-EP003-INFANTRY-3D",
+      "old": "剧集/EP003/制作成果/images/刀盾兵_两军3D三角度_候选_v001.png",
+      "old_name": "刀盾兵_两军3D三角度_候选_v001",
+      "old_abs": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\images\\刀盾兵_两军3D三角度_候选_v001.png",
+      "new_name": "刀盾兵_两军3D三角度_定稿_v001",
+      "cache": "C:/Users/Administrator/.codex/generated_images/01a12b1c-84c7-7dd2-8278-157676b959a3/exec-b6705085-c3c1-44d8-be1e-13027bc47b9a.png",
+      "new_abs": "E:\\AIsanguo\\公共素材\\兵种\\刀盾兵\\刀盾兵_两军3D三角度_定稿_v001.png",
+      "sha256": "361D2DC92E0A5535FC8FE3344D8887AD564CD09B99AAB847631B69D73AF236A1",
+      "new": "公共素材/兵种/刀盾兵/刀盾兵_两军3D三角度_定稿_v001.png"
+    },
+    {
+      "id": "IMG-EP003-LULU-3D",
+      "old": "剧集/EP003/制作成果/images/水豚噜噜_两军3D持筒三角度_候选_v001.png",
+      "old_name": "水豚噜噜_两军3D持筒三角度_候选_v001",
+      "old_abs": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\images\\水豚噜噜_两军3D持筒三角度_候选_v001.png",
+      "new_name": "水豚噜噜_两军3D持筒三角度_定稿_v001",
+      "cache": "C:/Users/Administrator/.codex/generated_images/01a12b1c-84c7-7dd2-8278-157676b959a3/exec-a927e4d8-4a5e-4933-8de5-69e5bea3bcfc.png",
+      "new_abs": "E:\\AIsanguo\\公共素材\\兵种\\水豚噜噜\\水豚噜噜_两军3D持筒三角度_定稿_v001.png",
+      "sha256": "4B050769DD6AD58727155B109F9B9A3F0FA19A5A2680C33A3B3175B4F7DB0F5F",
+      "new": "公共素材/兵种/水豚噜噜/水豚噜噜_两军3D持筒三角度_定稿_v001.png"
+    },
+    {
+      "id": "IMG-EP003-NIULAI-3D",
+      "old": "剧集/EP003/制作成果/images/牛来_黑红直升机3D多视图_候选_v001.png",
+      "old_name": "牛来_黑红直升机3D多视图_候选_v001",
+      "old_abs": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\images\\牛来_黑红直升机3D多视图_候选_v001.png",
+      "new_name": "牛来_黑红直升机3D多视图_定稿_v001",
+      "cache": "C:/Users/Administrator/.codex/generated_images/01a12b1c-84c7-7dd2-8278-157676b959a3/exec-10e20bbb-30ab-4d97-a252-cc9804d568a0.png",
+      "new_abs": "E:\\AIsanguo\\公共素材\\载具\\牛来直升机\\牛来_黑红直升机3D多视图_定稿_v001.png",
+      "sha256": "555B7288B49BA9A5BACD8BAB726C7EEAC488075EA7E30C8229748F330526D7B5",
+      "new": "公共素材/载具/牛来直升机/牛来_黑红直升机3D多视图_定稿_v001.png"
+    },
+    {
+      "id": "IMG-EP003-DONG-DECK",
+      "old": "剧集/EP003/制作成果/images/董咪_巨轮甲板3D近景_候选_v001.png",
+      "old_name": "董咪_巨轮甲板3D近景_候选_v001",
+      "old_abs": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\images\\董咪_巨轮甲板3D近景_候选_v001.png",
+      "new_name": "董咪_巨轮甲板3D近景_定稿_v001",
+      "cache": "C:/Users/Administrator/.codex/generated_images/01a12b1c-84c7-7dd2-8278-157676b959a3/exec-e55395cd-c884-4c85-9f39-7a3a64baa6f7.png",
+      "new_abs": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\images\\董咪_巨轮甲板3D近景_定稿_v001.png",
+      "sha256": "A880E60B2E44623341384E4F6042A3888A9AE865738BDA9EAC7FA4D0587B8F8E",
+      "new": "剧集/EP003/制作成果/images/董咪_巨轮甲板3D近景_定稿_v001.png"
+    },
+    {
+      "id": "IMG-EP003-LU-FIELD",
+      "old": "剧集/EP003/制作成果/images/吕咪骑大狼狗_军阵3D近景_候选_v002.png",
+      "old_name": "吕咪骑大狼狗_军阵3D近景_候选_v002",
+      "old_abs": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\images\\吕咪骑大狼狗_军阵3D近景_候选_v002.png",
+      "new_name": "吕咪骑大狼狗_军阵3D近景_定稿_v002",
+      "cache": "C:/Users/Administrator/.codex/generated_images/01a12b1c-84c7-7dd2-8278-157676b959a3/exec-271e2ed2-d7f6-4b23-b83a-860e6a77eeef.png",
+      "new_abs": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\images\\吕咪骑大狼狗_军阵3D近景_定稿_v002.png",
+      "sha256": "118181C09323952E63E4C1157C95FC0F624B57D42D608E251CA37F705947E850",
+      "new": "剧集/EP003/制作成果/images/吕咪骑大狼狗_军阵3D近景_定稿_v002.png"
+    },
+    {
+      "id": "IMG-EP003-INFANTRY-FIRE",
+      "old": "剧集/EP003/制作成果/images/刀盾兵_双方交火3D细节_候选_v003.png",
+      "old_name": "刀盾兵_双方交火3D细节_候选_v003",
+      "old_abs": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\images\\刀盾兵_双方交火3D细节_候选_v003.png",
+      "new_name": "刀盾兵_双方交火3D细节_定稿_v003",
+      "cache": "C:/Users/Administrator/.codex/generated_images/01a12b1c-84c7-7dd2-8278-157676b959a3/exec-93f62c2b-c4f2-464e-bcf8-90e7655884c3.png",
+      "new_abs": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\images\\刀盾兵_双方交火3D细节_定稿_v003.png",
+      "sha256": "8482E706643B64A6E4EF656606E4F27C08D15E4D5D35A0C16607B62CC8B7BD0E",
+      "new": "剧集/EP003/制作成果/images/刀盾兵_双方交火3D细节_定稿_v003.png"
+    },
+    {
+      "id": "IMG-EP003-LULU-FIRE",
+      "old": "剧集/EP003/制作成果/images/水豚噜噜_一次发射3D细节_候选_v004.png",
+      "old_name": "水豚噜噜_一次发射3D细节_候选_v004",
+      "old_abs": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\images\\水豚噜噜_一次发射3D细节_候选_v004.png",
+      "new_name": "水豚噜噜_一次发射3D细节_定稿_v004",
+      "cache": "C:/Users/Administrator/.codex/generated_images/01a12b1c-84c7-7dd2-8278-157676b959a3/exec-d42893e0-145e-4b3c-b80d-ef760f21e5c6.png",
+      "new_abs": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\images\\水豚噜噜_一次发射3D细节_定稿_v004.png",
+      "sha256": "E0AE3B9DD9D4927400DCCCCA8C75E5EE4D1D5BDCDC5636352745E3150A14BD25",
+      "new": "剧集/EP003/制作成果/images/水豚噜噜_一次发射3D细节_定稿_v004.png"
+    },
+    {
+      "id": "IMG-EP003-HELI-FIRE",
+      "old": "剧集/EP003/制作成果/images/牛来_直升机扫射3D细节_候选_v003.png",
+      "old_name": "牛来_直升机扫射3D细节_候选_v003",
+      "old_abs": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\images\\牛来_直升机扫射3D细节_候选_v003.png",
+      "new_name": "牛来_直升机扫射3D细节_定稿_v003",
+      "cache": "C:/Users/Administrator/.codex/generated_images/01a12b1c-84c7-7dd2-8278-157676b959a3/exec-ea843d22-e675-436d-8b94-d9701815f3a6.png",
+      "new_abs": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\images\\牛来_直升机扫射3D细节_定稿_v003.png",
+      "sha256": "9BCD94A035C73B8E381912C679717DEAC843FFBF19BAD467BB6EBCFE1169F82F",
+      "new": "剧集/EP003/制作成果/images/牛来_直升机扫射3D细节_定稿_v003.png"
+    }
+  ],
+  "scope": "上一轮8张3D兵种与段内参考接受；公共兵种板归公共库，5张单集近景保留当集；只清理迁移后同字节副本和生成缓存，原公共定稿与用户原始附件保留",
+  "date": "2026-10-11",
+  "authorization": "可以了，删除无用的，下一步",
+  "status": "complete",
+  "removed_project_duplicate_count": 8,
+  "removed_generated_cache_count": 8
+}

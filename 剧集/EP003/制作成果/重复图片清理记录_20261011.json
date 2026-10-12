@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-11",
+  "authorization": "删除多余的图片，然后下一张",
+  "items": [
+    {
+      "deleted_file": "剧集/EP003/制作成果/images/董咪_紫金甲袍_角色定稿_v002.png",
+      "retained_file": "公共素材/人物/董卓/董咪_紫金甲袍_定稿.png",
+      "sha256": "4df7fda2d730cc32a8a264fd4490b6997bf58dee8a614ee388599717efdc0a08",
+      "reason": "用户要求删除多余图片；单集重复副本与公共定稿字节一致",
+      "status": "deleted"
+    },
+    {
+      "deleted_file": "剧集/EP003/制作成果/images/吕咪骑大狼狗_铠甲骑乘_定稿_v001.png",
+      "retained_file": "公共素材/人物/吕布/吕咪骑大狼狗_定稿.png",
+      "sha256": "90faf470d2d804b87211309f397f651cd38f92c4dd39944c91bd9b58b40b36d8",
+      "reason": "用户要求删除多余图片；单集重复副本与公共定稿字节一致",
+      "status": "deleted"
+    },
+    {
+      "deleted_file": "剧集/EP003/制作成果/images/袁本喵_银灰靛蓝铠甲_角色定稿_v001.png",
+      "retained_file": "公共素材/人物/袁绍/袁本喵_银灰靛蓝铠甲_定稿.png",
+      "sha256": "c58eb29a72e81509e3c19c55b671403974fb8701370f833939c8b96bf3fe0a60",
+      "reason": "用户要求删除多余图片；单集重复副本与公共定稿字节一致",
+      "status": "deleted"
+    },
+    {
+      "deleted_file": "剧集/EP003/制作成果/images/刀盾兵_两军枪盾_候选_v001.png",
+      "retained_file": "公共素材/兵种/刀盾兵/刀盾兵_两军枪盾_定稿.png",
+      "sha256": "aa1c8089c748f7d5431650fd73260d760499e7bdbd205f3dcaaadfe66009201e",
+      "reason": "用户要求删除多余图片；单集重复副本与公共定稿字节一致",
+      "status": "deleted"
+    },
+    {
+      "deleted_file": "剧集/EP003/制作成果/images/水豚噜噜_两军火箭筒兵_候选_v002.png",
+      "retained_file": "公共素材/兵种/水豚噜噜/水豚噜噜_两军火箭筒兵_定稿.png",
+      "sha256": "77589e6828931a17591536fd6f0cebed8a4fddb2fd40072059eafdd13d94cbb8",
+      "reason": "用户要求删除多余图片；单集重复副本与公共定稿字节一致",
+      "status": "deleted"
+    },
+    {
+      "deleted_file": "剧集/EP003/制作成果/images/牛来_直升机驾驶_候选_v001.png",
+      "retained_file": "公共素材/载具/牛来直升机/牛来_黑红直升机驾驶_定稿.png",
+      "sha256": "e28974c65527f8250964fdebb19682bd0ca7a98a1951b783bf941b8672672c3b",
+      "reason": "用户要求删除多余图片；单集重复副本与公共定稿字节一致",
+      "status": "deleted"
+    }
+  ],
+  "note": "用户原始附件、公共定稿、当前两张不同用途场景候选均保留；历史生产记录中的旧路径只做追溯，以此清理记录对应保留文件。"
+}

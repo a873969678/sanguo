@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-11",
+  "source_user_file": "H:/下载文件/be328f82-df95-4c80-8be1-5160e6602dbb.mp4",
+  "original_project_file": "剧集/EP003/制作成果/videos/EP003_SEG001_原始_v001.mp4",
+  "original_sha256": "f9e5fb8ae8444ec7a5d7ca25f5f4590cb1b3840269a7290ee080bfb7cd1febe3",
+  "original_video": {
+    "fps": 24,
+    "frame_count": 361,
+    "video_seconds": 15.041666666666666,
+    "container_seconds_reported": 15.1,
+    "width": 496,
+    "height": 864,
+    "has_aac_audio": true
+  },
+  "status": "needs_visual_repair_not_accepted_for_continuation",
+  "observed_issue": "7.000秒抽帧可见两套同等体量的主舰船体与甲板；转向段空间连续性错误",
+  "actual_user_submission_prompt_and_reference_bindings": "未提供，不把项目推荐提示词与挂图清单冒充实际提交快照",
+  "repair_input": "剧集/EP003/制作成果/videos/修复输入/EP003_SEG001_修复输入_15秒_无音轨_v001.mp4",
+  "repair_input_sha256": "2b174bc5a2e875b92211c72a36edbe73d2a6fa0ea26b9a5b512e58ea736cec15",
+  "repair_input_processing": {
+    "video_codec": "copy",
+    "kept_video_frames": 360,
+    "removed_audio_streams": true,
+    "decoded_frames_verified": 360,
+    "fps": 24.0,
+    "duration_seconds": 15.0
+  },
+  "repair_input_status": "仅供视频编辑，画面缺陷尚未修复，不是第二段已采用续接素材",
+  "review_method": "每秒抽帧至15秒并检查7秒原尺寸帧；不是逐帧完整运动或原音回听验收",
+  "repair_submission_status": "not_submitted_manual_jimeng",
+  "requested_output": "EP003_SEG001_修复_v002.mp4（建议文件名，尚不存在）",
+  "subsequent_user_decision": "2026-10-11用户报告编辑仍有问题，明确改用原始v001并在第7秒增加脚本转场；停止等待视频重绘。",
+  "current_transition_result": "剧集\\EP003\\制作成果\\videos\\EP003_SEG001_7秒转场_v002.mp4",
+  "current_status": "superseded_project_media_deleted",
+  "current_adopted": "剧集/EP003/制作成果/videos/EP003_SEG001_7秒转场_v002.mp4",
+  "cleanup_record": "SEG001_定稿与旧版清理记录_20261011.json"
+}

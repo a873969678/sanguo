@@ -41,7 +41,9 @@
         887
       ],
       "status": "accepted",
-      "public_file": "公共素材/人物/董卓/董咪_紫金甲袍_定稿.png"
+      "public_file": "公共素材/人物/董卓/董咪_紫金甲袍_定稿.png",
+      "storage_status": "duplicate_removed_public_copy_retained",
+      "retained_file": "公共素材/人物/董卓/董咪_紫金甲袍_定稿.png"
     },
     {
       "file": "剧集/EP003/制作成果/images/吕咪骑大狼狗_铠甲骑乘_定稿_v001.png",
@@ -51,7 +53,9 @@
         1536,
         1024
       ],
-      "status": "accepted"
+      "status": "accepted",
+      "storage_status": "duplicate_removed_public_copy_retained",
+      "retained_file": "公共素材/人物/吕布/吕咪骑大狼狗_定稿.png"
     },
     {
       "file": "剧集/EP003/制作成果/images/袁本喵_银灰靛蓝铠甲_角色定稿_v001.png",
@@ -62,7 +66,9 @@
         887
       ],
       "status": "accepted",
-      "public_file": "公共素材/人物/袁绍/袁本喵_银灰靛蓝铠甲_定稿.png"
+      "public_file": "公共素材/人物/袁绍/袁本喵_银灰靛蓝铠甲_定稿.png",
+      "storage_status": "duplicate_removed_public_copy_retained",
+      "retained_file": "公共素材/人物/袁绍/袁本喵_银灰靛蓝铠甲_定稿.png"
     }
   ],
   "accepted_lu_evidence": "用户上传原版并明确：吕布用回这张即可",

@@ -1,0 +1,15 @@
+{
+  "source": "EP003_SEG002_原始_v001.mp4",
+  "source_sha256": "6d9b7810ea0f62892e70908c11c9f13d477f26289d65176ae27278e28e00242d",
+  "reference_video": "EP003_SEG002_参考输入_无音轨_v001.mp4",
+  "reference_sha256": "e89f780e0bfc64790006410b5611cb4d1dfa69592ad30ec4942a38e14631b3b6",
+  "tail_frame": "EP003_SEG002_真实尾帧_v001.png",
+  "tail_frame_index": 359,
+  "tail_time_seconds": 14.958333333333334,
+  "frame_count": 360,
+  "fps": 24,
+  "width": 484,
+  "height": 844,
+  "audio_streams": 0,
+  "verification": "FFmpeg全片解码无错误；副本360帧与原片解码画面逐像素一致；尾帧取原片第359帧。"
+}

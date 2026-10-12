@@ -91,6 +91,45 @@
       ],
       "dialogue_replacement_status": "031新句已进入当前成片，实际源和入出点以剪辑单为准。",
       "dialogue_replacement_record": "剧集/EP001/制作成果/video/Seedance2.5分段/SEG004_031对白替换记录_v003.json"
+    },
+    "EP003": {
+      "source": "2026-10-11用户：第二段打斗可以让即梦自己生成战斗声音",
+      "scope": "SEG-EP003-002 / MOTION-EP003-002，全片15—30秒",
+      "generation": "即梦同次生成与画面同步的战斗音效，正常原声保留",
+      "allowed": [
+        "短枪错拍射击",
+        "火箭一次发射与一次墙面命中",
+        "盾牌、弹着、碎石和踩土反馈",
+        "靠近驾驶窗时旋翼声"
+      ],
+      "excluded": [
+        "对白",
+        "旁白",
+        "喵叫",
+        "喊杀",
+        "生成配乐",
+        "画面外新增爆炸",
+        "本段尚未发生的机载扫射声"
+      ],
+      "other_segments": "第一、三段仍按原静默设定，不自动扩大到全片或其他集",
+      "continuation_reference": "无论原声是否采用，送下一段的实际视频副本仍去除音频流；保留原片",
+      "source_of_details": "剧集/EP003/视频提示词.md",
+      "production_status": "2026-10-12用户明确保留原视频配乐；v003从同源原附件恢复第一段原声，完整保留第二、三段原声，旁白下轻度压低5dB，详见当前合成记录。",
+      "postproduction_narration": {
+        "voice_direction": "用户选择沉稳浑厚的成年男声，历史叙述感",
+        "method": "本地Qwen VoiceDesign开场设计 + Base复用同一生成声线",
+        "script_lines": [
+          "董咪专权，十八路猪咪兴兵讨伐。",
+          "众猪咪推袁本喵为萌主，共抗董咪。"
+        ],
+        "record": "剧集/EP003/制作成果/audio/旁白/旁白生成记录_v001.json",
+        "subtitles": "用户明确要求加入，逐字按剧本，实际波形对齐，长停顿分条",
+        "new_music": false,
+        "status": "accepted_as_part_of_ep003_final_v003_not_global_voice_lock",
+        "current_delivery": "剧集/EP003/制作成果/成片/三国群萌传_EP003_封面旁白字幕_保留原配乐_1080P_v003.mp4",
+        "cover_seconds": 2
+      },
+      "original_music_preservation": "用户授权保留三段原视频自带配乐及音效，覆盖早期第一/三段成片静默要求；续接参考副本仍需无音轨。"
     }
   },
   "postproduction_music": {
@@ -101,6 +140,6 @@
     "acceptance": "按用户明确授权生成和混音；技术成功与完整回听接受分开记录，不因生成文件自动标为创作者接受。",
     "EP001_current_mix": "剧集/EP001/制作成果/audio/配乐/EP001_完整配乐混音记录_v001.json"
   },
-  "state_updated_at": "2026-10-10",
+  "state_updated_at": "2026-10-11",
   "episode_status_source": "剧集/EP001/README.md"
 }

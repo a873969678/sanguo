@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-11",
+  "source": "H:\\下载文件\\ae95c8c9-722a-481e-9dc7-740ed08753ca.mp4",
+  "project_copy": "剧集/EP003/制作成果/videos/EP003_SEG002_原始_v001.mp4",
+  "sha256": "6d9b7810ea0f62892e70908c11c9f13d477f26289d65176ae27278e28e00242d",
+  "frame_count_decoded": 360,
+  "fps": 24,
+  "width": 484,
+  "height": 844,
+  "video_duration_seconds": 15,
+  "status": "accepted_with_known_helmet_defect",
+  "user_report": "刀盾转身时，头盔不见了，可以脚本修复吗",
+  "visual_observation": "每秒抽帧检查完整15秒，并查看3秒与5秒原尺寸帧；约3—6秒前排多名刀盾兵侧脸露头且无头盔，后排仍有黑红头盔。未逐帧确定缺陷边界。",
+  "script_assessment": "简单2D贴片不能可靠处理多人头部角度、缩放和相互遮挡；未生成或声称完成补盔修复，也未擅自剪掉交火段。",
+  "audio": "原文件字节复制保留；本轮未回听，不宣称声音验收通过。",
+  "next_segment": "第三段reference独立15秒；已准备无音轨副本与同源真实尾帧。",
+  "acceptance": "那不修复了，就按这个，现在给第三段，用参考生成把",
+  "accepted_on": "2026-10-11",
+  "subsequent_request": "用户要求重新提供第二段参考生成步骤并加入刀盾兵人物图，重点保持头盔；候选v002尚未生成，v001保留。"
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-11",
+  "maps": [
+    {
+      "old": "剧集/EP003/制作成果/images/董咪_3D四角度_候选_v001.png",
+      "new": "公共素材/人物/董卓/董咪_3D四角度_定稿_v001.png",
+      "action": "promote",
+      "old_sha256": "31D0850A243A0A8B88C41DA26844633B428CD2AAEDA798B15978AF911D7A2B3A",
+      "new_sha256": "31D0850A243A0A8B88C41DA26844633B428CD2AAEDA798B15978AF911D7A2B3A",
+      "old_file_status": "deleted_after_reference_update_and_hash_verification"
+    },
+    {
+      "old": "公共素材/人物/董卓/董咪_紫金甲袍_定稿.png",
+      "new": "公共素材/人物/董卓/董咪_3D四角度_定稿_v001.png",
+      "action": "replace_old",
+      "old_sha256": "4DF7FDA2D730CC32A8A264FD4490B6997BF58DEE8A614EE388599717EFDC0A08",
+      "new_sha256": "31D0850A243A0A8B88C41DA26844633B428CD2AAEDA798B15978AF911D7A2B3A",
+      "old_file_status": "deleted_after_reference_update_and_hash_verification"
+    },
+    {
+      "old": "剧集/EP003/制作成果/images/吕咪骑大狼狗_3D四角度_候选_v001.png",
+      "new": "公共素材/人物/吕布/吕咪骑大狼狗_3D四角度_定稿_v001.png",
+      "action": "promote",
+      "old_sha256": "215B6AE3E1DCC0EFA17A2E12354D468E64773691604F38CED2148D3D679FE468",
+      "new_sha256": "215B6AE3E1DCC0EFA17A2E12354D468E64773691604F38CED2148D3D679FE468",
+      "old_file_status": "deleted_after_reference_update_and_hash_verification"
+    },
+    {
+      "old": "公共素材/人物/吕布/吕咪骑大狼狗_定稿.png",
+      "new": "公共素材/人物/吕布/吕咪骑大狼狗_3D四角度_定稿_v001.png",
+      "action": "replace_old",
+      "old_sha256": "90FAF470D2D804B87211309F397F651CD38F92C4DD39944C91BD9B58B40B36D8",
+      "new_sha256": "215B6AE3E1DCC0EFA17A2E12354D468E64773691604F38CED2148D3D679FE468",
+      "old_file_status": "deleted_after_reference_update_and_hash_verification"
+    },
+    {
+      "old": "剧集/EP003/制作成果/images/袁本喵_3D四角度_候选_v001.png",
+      "new": "公共素材/人物/袁绍/袁本喵_3D四角度_定稿_v001.png",
+      "action": "promote",
+      "old_sha256": "AC67B852AFC3D07191215DE5FE789FD0FBD2D40FE92E8D974FE8B202EC69176E",
+      "new_sha256": "AC67B852AFC3D07191215DE5FE789FD0FBD2D40FE92E8D974FE8B202EC69176E",
+      "old_file_status": "deleted_after_reference_update_and_hash_verification"
+    },
+    {
+      "old": "公共素材/人物/袁绍/袁本喵_银灰靛蓝铠甲_定稿.png",
+      "new": "公共素材/人物/袁绍/袁本喵_3D四角度_定稿_v001.png",
+      "action": "replace_old",
+      "old_sha256": "C58EB29A72E81509E3C19C55B671403974FB8701370F833939C8B96BF3FE0A60",
+      "new_sha256": "AC67B852AFC3D07191215DE5FE789FD0FBD2D40FE92E8D974FE8B202EC69176E",
+      "old_file_status": "deleted_after_reference_update_and_hash_verification"
+    },
+    {
+      "old": "公共素材/兵种/刀盾兵/刀盾兵_两军枪盾_定稿.png",
+      "new": "公共素材/兵种/刀盾兵/刀盾兵_两军3D三角度_定稿_v001.png",
+      "action": "replace_old",
+      "old_sha256": "AA1C8089C748F7D5431650FD73260D760499E7BDBD205F3DCAAADFE66009201E",
+      "new_sha256": "361D2DC92E0A5535FC8FE3344D8887AD564CD09B99AAB847631B69D73AF236A1",
+      "old_file_status": "deleted_after_reference_update_and_hash_verification"
+    },
+    {
+      "old": "公共素材/兵种/水豚噜噜/水豚噜噜_两军火箭筒兵_定稿.png",
+      "new": "公共素材/兵种/水豚噜噜/水豚噜噜_两军3D持筒三角度_定稿_v001.png",
+      "action": "replace_old",
+      "old_sha256": "77589E6828931A17591536FD6F0CEBED8A4FDDB2FD40072059EAFDD13D94CBB8",
+      "new_sha256": "4B050769DD6AD58727155B109F9B9A3F0FA19A5A2680C33A3B3175B4F7DB0F5F",
+      "old_file_status": "deleted_after_reference_update_and_hash_verification"
+    },
+    {
+      "old": "公共素材/载具/牛来直升机/牛来_黑红直升机驾驶_定稿.png",
+      "new": "公共素材/载具/牛来直升机/牛来_黑红直升机3D多视图_定稿_v001.png",
+      "action": "replace_old",
+      "old_sha256": "E28974C65527F8250964FDEBB19682BD0CA7A98A1951B783BF941B8672672C3B",
+      "new_sha256": "555B7288B49BA9A5BACD8BAB726C7EEAC488075EA7E30C8229748F330526D7B5",
+      "old_file_status": "deleted_after_reference_update_and_hash_verification"
+    }
+  ],
+  "status": "completed",
+  "note": "三位主角3D板已接受为公共素材，旧三主角和旧三兵种驾驶板由新版替代；刘关张既有定稿及用户原始附件保留",
+  "authorization": "人物图要作为公共素材，同时删除旧的",
+  "deleted_project_file_count": 9
+}

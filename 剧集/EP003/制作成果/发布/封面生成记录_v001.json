@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-11",
+  "status": "generated_creator_review_pending",
+  "engine": "built-in image_gen",
+  "authorization": "用户要求：参考一二集封面，先出第三集封面；项目图片直接生成后审阅授权继续有效。",
+  "file": "剧集/EP003/制作成果/发布/三国群萌传_EP003_十八路猪咪讨董_封面_v001.png",
+  "sha256": "b11f10ec7617f09654381e91cd1c701408849bbf7966a3d9f8f3bf1711000db8",
+  "text": [
+    "三国群萌传",
+    "十八路猪咪讨董",
+    "第3集",
+    "共抗董咪"
+  ],
+  "title_status": "沿用本集现有暂定名，待用户审阅",
+  "references": [
+    "E:/AIsanguo/剧集/EP001/制作成果/发布/三国群萌传_EP001_关张初遇_封面_v001.png",
+    "E:/AIsanguo/剧集/EP002/制作成果/发布/三国群萌传_EP002_桃园结义_封面_v001.png",
+    "E:/AIsanguo/公共素材/人物/董卓/董咪_3D四角度_定稿_v001.png",
+    "E:/AIsanguo/公共素材/人物/吕布/吕咪骑大狼狗_3D四角度_定稿_v001.png",
+    "E:/AIsanguo/公共素材/人物/袁绍/袁本喵_3D四角度_定稿_v001.png"
+  ],
+  "selected_generated_source": "C:/Users/Administrator/.codex/generated_images/01a12b68-b623-7d60-91e6-16e36f061e7c/exec-839de5c7-ab96-4688-b40e-fb9095797721.png",
+  "prompt_file": "剧集/EP003/制作成果/发布/封面提示词_v001.txt",
+  "generation_attempts": 1,
+  "visual_check": [
+    "四组主文字正确",
+    "延续前两集标题版式与竖屏构图",
+    "三名角色身份与甲服配色可辨",
+    "吕咪骑大狼狗造型可辨，3D毛发及甲片层次明确"
+  ],
+  "limitations": [
+    "宣传蒙太奇，不作为剧情同场、巨轮材质或分镜空间参考"
+  ],
+  "creator_accepted_image": false,
+  "inserted_into_video": false,
+  "published": false
+}

@@ -48,7 +48,9 @@
         1672,
         941
       ],
-      "status": "pending_user_review"
+      "status": "pending_user_review",
+      "storage_status": "duplicate_removed_public_copy_retained",
+      "retained_file": "公共素材/兵种/刀盾兵/刀盾兵_两军枪盾_定稿.png"
     },
     {
       "source_entry": "IMG-EP003-LULU",
@@ -58,7 +60,9 @@
         1536,
         1024
       ],
-      "status": "pending_user_review"
+      "status": "pending_user_review",
+      "storage_status": "duplicate_removed_public_copy_retained",
+      "retained_file": "公共素材/兵种/水豚噜噜/水豚噜噜_两军火箭筒兵_定稿.png"
     },
     {
       "source_entry": "IMG-EP003-NIULAI-HELI",
@@ -68,7 +72,9 @@
         1774,
         887
       ],
-      "status": "pending_user_review"
+      "status": "pending_user_review",
+      "storage_status": "duplicate_removed_public_copy_retained",
+      "retained_file": "公共素材/载具/牛来直升机/牛来_黑红直升机驾驶_定稿.png"
     }
   ],
   "replaced_images": [
@@ -82,5 +88,20 @@
     "刀盾实际开火需保持枪口无遮挡",
     "噜噜动态持筒接触仍须视频核对",
     "直升机左侧旋翼尖裁切，候选不证明完整翼展"
-  ]
+  ],
+  "subsequent_acceptance": {
+    "date": "2026-10-11",
+    "user_statement": "作为公共素材，然后更新项目设定.md，并下一步",
+    "scope": [
+      "刀盾兵两军枪盾",
+      "水豚噜噜两军火箭筒兵",
+      "牛来黑红直升机驾驶"
+    ],
+    "public_files": [
+      "公共素材/兵种/刀盾兵/刀盾兵_两军枪盾_定稿.png",
+      "公共素材/兵种/水豚噜噜/水豚噜噜_两军火箭筒兵_定稿.png",
+      "公共素材/载具/牛来直升机/牛来_黑红直升机驾驶_定稿.png"
+    ],
+    "note": "原outputs状态保留生成当时历史；当前接受以此补充和项目设定为准。蓝色直升机已取消。"
+  }
 }

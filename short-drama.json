@@ -1,7 +1,10 @@
 {
   "created_at": "2026-10-08T02:10:11.420759Z",
   "creator_authority": {
-    "constraints": [],
+    "constraints": [
+      "2026-10-11用户要求：单次生成或续接新增内容最长15秒；按完整动作边界分段。EP003为15＋15＋15秒，模型原生时长能力不变。",
+      "2026-10-11用户最新决定：EP003第二段原始v001接受且头盔缺陷不修；第三段也使用reference独立生成15秒，绑定第二段无音轨副本与同源真实尾帧。原extend方案停用。"
+    ],
     "decisions_artifact": "创作者决策/",
     "delivery_surface": {
       "aspect": null,

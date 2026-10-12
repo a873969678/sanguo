@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-11",
+  "authorization": "用户明确要求生成旁白音频，并选择沉稳浑厚的成年男声，历史叙述感",
+  "source": "剧集/EP003/剧本.md",
+  "source_entries": [
+    "EP003-SC001",
+    "EP003-SC005"
+  ],
+  "instruct": "沉稳浑厚的成年男性普通话声音，中低音，有历史纪录片叙述感，厚实而清楚，庄重克制。语速适中偏慢，吐字清晰，逗号短停，句尾利落收束，不拖腔、不吼叫、不唱歌、不念成角色对白。“咪”读第一声mī，“喵”读第一声miāo，“萌主”按萌芽的萌读méng。只朗读正文，不加语气词、笑声或其他话。",
+  "paid_external_api": false,
+  "runtime": "existing_local_qwen_cpu",
+  "new_cache_root": "D:/git/.sanguo-runtime",
+  "actor_reference_used": false,
+  "status": "generated_technical_checks_passed_listening_pending",
+  "outputs": [
+    {
+      "text": "董咪专权，十八路猪咪兴兵讨伐。",
+      "file": "剧集/EP003/制作成果/audio/旁白/EP003_VO001_开场旁白_候选_v001.wav",
+      "method": "VoiceDesign independent narrator identity",
+      "sample_rate": 24000,
+      "duration_seconds": 4.56,
+      "peak": 0.5666570663452148,
+      "rms": 0.07600774616003036,
+      "generation_seconds": 58.66,
+      "sha256": "96f3a27837d695a028a87fd78bd1b0afcd5f318a78a79cddf20d40d84834b692",
+      "status": "candidate_pending_listening"
+    },
+    {
+      "text": "众猪咪推袁本喵为萌主，共抗董咪。",
+      "file": "剧集/EP003/制作成果/audio/旁白/EP003_VO002_结尾旁白_候选_v001.wav",
+      "method": "Base reuse of generated opening narrator; no actor voice",
+      "sample_rate": 24000,
+      "duration_seconds": 5.2,
+      "peak": 0.6873535513877869,
+      "rms": 0.07982988655567169,
+      "generation_seconds": 43.21,
+      "sha256": "f7d0b73a9c54da621cc158dac3d44082be2590119822347c4fa9cda9c0b6b02f",
+      "status": "candidate_pending_listening"
+    }
+  ],
+  "used_in_delivery": "剧集/EP003/制作成果/成片/三国群萌传_EP003_封面旁白字幕_1080P_v002.mp4"
+}

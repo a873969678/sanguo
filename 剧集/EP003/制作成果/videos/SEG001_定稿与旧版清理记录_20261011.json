@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-11",
+  "authorization": "可以，就用这个，删除旧的，然后提供第二段生成步骤",
+  "adopted": "剧集/EP003/制作成果/videos/EP003_SEG001_7秒转场_v002.mp4",
+  "tail_frame": "剧集/EP003/制作成果/videos/EP003_SEG001_7秒转场_v002_真实尾帧.png",
+  "external_original_preserved": "H:/下载文件/be328f82-df95-4c80-8be1-5160e6602dbb.mp4",
+  "status": "completed",
+  "files": [
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\EP003_SEG001_原始_v001.mp4",
+      "bytes": 9268784,
+      "sha256": "f9e5fb8ae8444ec7a5d7ca25f5f4590cb1b3840269a7290ee080bfb7cd1febe3",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\修复输入\\EP003_SEG001_修复输入_15秒_无音轨_v001.mp4",
+      "bytes": 8990074,
+      "sha256": "2b174bc5a2e875b92211c72a36edbe73d2a6fa0ea26b9a5b512e58ea736cec15",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0000.jpg",
+      "bytes": 235118,
+      "sha256": "4297957562eab2b566c92a23993152977bfc3441100d42e550e118d8b16801f6",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0024.jpg",
+      "bytes": 207941,
+      "sha256": "e3105968da7beb90288a83844a57bbe3e904ea7b6eafb85d0f9a3db693fdaf38",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0048.jpg",
+      "bytes": 195753,
+      "sha256": "e2c0a8627c37f655552a1e3f2bfb3354ef7e3d94cfdd6afa23adda2314cc6cff",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0072.jpg",
+      "bytes": 179608,
+      "sha256": "ac1258ef5ada331dcb568e4621eef6a1894b7cce007f2556b4a50408033d6fbd",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0096.jpg",
+      "bytes": 162792,
+      "sha256": "089ff0eeec50b1278780ac095dc99ed0f46cf66afe370f7de1c39d60992da22b",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0120.jpg",
+      "bytes": 135520,
+      "sha256": "ceb5e54040269aeab0d9446a03f9ae94d226ffe3492baa0e0915e263ad99c70c",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0144.jpg",
+      "bytes": 113594,
+      "sha256": "9167d061467dae29fc21cb06b51b57abee1c503303ce277e5d869e984f2e3e36",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0168.jpg",
+      "bytes": 113456,
+      "sha256": "4820aaf1e68d4c5dcbef6726535dc90cc7dff7b8d6cbd55967cf3609167d19ac",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0192.jpg",
+      "bytes": 136656,
+      "sha256": "58d933e0ba228e16d17fb00ad7d01426fb838064f637317cba649c23939cb544",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0216.jpg",
+      "bytes": 152541,
+      "sha256": "4f18568c5973ac2683447fe20321f08065b17bf276185edcd27d782b08e4bcd1",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0240.jpg",
+      "bytes": 165765,
+      "sha256": "d885082540bc46b1d151433b08c25ace0924a94d705a2b84efd2be646374672c",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0264.jpg",
+      "bytes": 152976,
+      "sha256": "49460e44b5f03a0dc18470b23fb05c5b83d48f1a13e1613d7ce191260e6616aa",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0288.jpg",
+      "bytes": 137085,
+      "sha256": "198461fff1e17129d69fca313fc7eada6389c0ef9bb611ed425897270c8c303e",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0312.jpg",
+      "bytes": 151381,
+      "sha256": "ac7829081fa73bc395783a6718c764e59c3fe3a4b6060462f8d0d028149edc9c",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0336.jpg",
+      "bytes": 170067,
+      "sha256": "3de16af69dc1b5baecf661349696eeb7e21597d2f1d42fd06aebf225d59f894d",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\frame_0360.jpg",
+      "bytes": 184075,
+      "sha256": "2fcf7cd3b4fa91a696ffae615a7a10d6d0584eee6cf415854587cc88b1e773fe",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\overview.jpg",
+      "bytes": 947474,
+      "sha256": "84ecb8af1ef7cc19b8db6bb495a70d0082fee6bef2b75d6fb4676568a55b94bc",
+      "status": "deleted"
+    },
+    {
+      "path": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\SEG001_v001检查\\转场范围检查.jpg",
+      "bytes": 454539,
+      "sha256": "212d594c03f81bb1f27d194a7ae38a87df8fe792a2a372de6ad1be4adc8ef0e9",
+      "status": "deleted"
+    }
+  ]
+}

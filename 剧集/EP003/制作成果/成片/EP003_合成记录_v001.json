@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-11",
+  "output": "剧集/EP003/制作成果/成片/三国群萌传_EP003_旁白字幕_1080P_v001.mp4",
+  "sources": [
+    {
+      "file": "剧集/EP003/制作成果/videos/EP003_SEG001_7秒转场_v002.mp4",
+      "sha256": "8a9d7141a46d425a40ee6d20ee07a28174b667cb39325aa836a45908d3753396"
+    },
+    {
+      "file": "剧集/EP003/制作成果/videos/EP003_SEG002_原始_v001.mp4",
+      "sha256": "6d9b7810ea0f62892e70908c11c9f13d477f26289d65176ae27278e28e00242d"
+    },
+    {
+      "file": "剧集/EP003/制作成果/videos/EP003_SEG003_原始_v001.mp4",
+      "sha256": "4d4f6c20f93727f51a79d815055119e225b565b872934151278e73cf28600680"
+    }
+  ],
+  "frames_target": 1081,
+  "fps": 24,
+  "duration_target": 45.041666666666664,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "voices": [
+    {
+      "raw": "剧集/EP003/制作成果/audio/旁白/EP003_VO001_开场旁白_候选_v001.wav",
+      "prepared": "剧集/EP003/制作成果/audio/旁白/EP003_VO001_剪辑用_v001.wav",
+      "trim_leading_seconds": 0,
+      "timeline_start": 0.4,
+      "duration": 4.56
+    },
+    {
+      "raw": "剧集/EP003/制作成果/audio/旁白/EP003_VO002_结尾旁白_候选_v001.wav",
+      "prepared": "剧集/EP003/制作成果/audio/旁白/EP003_VO002_剪辑用_v001.wav",
+      "trim_leading_seconds": 1.38,
+      "timeline_start": 38.0,
+      "duration": 3.82
+    }
+  ],
+  "subtitles": [
+    [
+      0.458333,
+      1.875,
+      "董咪专权，"
+    ],
+    [
+      2.25,
+      4.875,
+      "十八路猪咪兴兵讨伐。"
+    ],
+    [
+      38.083333,
+      40.375,
+      "众猪咪推袁本喵为萌主，"
+    ],
+    [
+      40.75,
+      41.833333,
+      "共抗董咪。"
+    ]
+  ],
+  "namecards": [
+    [
+      8.0,
+      10.3,
+      "董咪",
+      "咪国大相",
+      860,
+      730
+    ],
+    [
+      14.0,
+      16.2,
+      "吕咪",
+      "中喵将",
+      870,
+      660
+    ],
+    [
+      42.0,
+      45.041666666666664,
+      "袁本喵",
+      "猪咪萌主",
+      870,
+      680
+    ]
+  ],
+  "upscale": "Lanczos aspect-preserving fit + centered padding + unsharp luma0.30; no generative detail reconstruction",
+  "mix": "seg2 original gain1; seg3 original gain0.18; narration loudnorm-18; narration side duck0.18; final two-pass target-16 LUFS TP-1.5",
+  "new_music": false,
+  "status": "superseded_output_deleted",
+  "script": "D:/git/.sanguo-runtime/scripts/ep003_final_v001.py",
+  "output_sha256": "e3a7023123afb4181f3469b068dfb638aa0a82503a1411961253168eea6b507c",
+  "cleanup_record": "剧集/EP003/制作成果/成片定稿与冗余清理记录_20261012.json"
+}

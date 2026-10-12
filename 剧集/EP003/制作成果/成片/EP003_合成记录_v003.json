@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-12",
+  "output": "剧集/EP003/制作成果/成片/三国群萌传_EP003_封面旁白字幕_保留原配乐_1080P_v003.mp4",
+  "sources": [
+    {
+      "file": "剧集/EP003/制作成果/videos/EP003_SEG001_7秒转场_v002.mp4",
+      "sha256": "8a9d7141a46d425a40ee6d20ee07a28174b667cb39325aa836a45908d3753396"
+    },
+    {
+      "file": "剧集/EP003/制作成果/videos/EP003_SEG002_原始_v001.mp4",
+      "sha256": "6d9b7810ea0f62892e70908c11c9f13d477f26289d65176ae27278e28e00242d"
+    },
+    {
+      "file": "剧集/EP003/制作成果/videos/EP003_SEG003_原始_v001.mp4",
+      "sha256": "4d4f6c20f93727f51a79d815055119e225b565b872934151278e73cf28600680"
+    }
+  ],
+  "frames_target": 1129,
+  "fps": 24,
+  "duration_target": 47.041666666666664,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "voices": [
+    {
+      "raw": "剧集/EP003/制作成果/audio/旁白/EP003_VO001_开场旁白_候选_v001.wav",
+      "prepared": "剧集/EP003/制作成果/audio/旁白/EP003_VO001_剪辑用_v001.wav",
+      "trim_leading_seconds": 0,
+      "timeline_start": 2.4,
+      "duration": 4.56
+    },
+    {
+      "raw": "剧集/EP003/制作成果/audio/旁白/EP003_VO002_结尾旁白_候选_v001.wav",
+      "prepared": "剧集/EP003/制作成果/audio/旁白/EP003_VO002_剪辑用_v001.wav",
+      "trim_leading_seconds": 1.38,
+      "timeline_start": 40.0,
+      "duration": 3.82
+    }
+  ],
+  "subtitles": [
+    [
+      2.458333,
+      3.875,
+      "董咪专权，"
+    ],
+    [
+      4.25,
+      6.875,
+      "十八路猪咪兴兵讨伐。"
+    ],
+    [
+      40.083333,
+      42.375,
+      "众猪咪推袁本喵为萌主，"
+    ],
+    [
+      42.75,
+      43.833333,
+      "共抗董咪。"
+    ]
+  ],
+  "namecards": [
+    [
+      10.0,
+      12.3,
+      "董咪",
+      "咪国大相",
+      860,
+      730
+    ],
+    [
+      16.0,
+      18.2,
+      "吕咪",
+      "中喵将",
+      870,
+      660
+    ],
+    [
+      44.0,
+      47.041666666666664,
+      "袁本喵",
+      "猪咪萌主",
+      870,
+      680
+    ]
+  ],
+  "upscale": "Lanczos aspect-preserving fit + centered padding + unsharp luma0.30; no generative detail reconstruction",
+  "mix": "原视频三段完整音轨逐段响度平衡到-21LUFS；旁白剪辑用WAV提升2dB；旁白区原声压低5dB；整片两遍响度归一化。",
+  "new_music": false,
+  "status": "accepted_final",
+  "script": "D:/git/.sanguo-runtime/scripts/ep003_music_v003.py",
+  "output_sha256": "60daa922acce86fb92097159cf2c0fdbce10a780d97a6229bc339d13f113298e",
+  "body_intermediate": "剧集/EP003/制作成果/成片/三国群萌传_EP003_旁白字幕_1080P_v001.mp4",
+  "cover": "剧集/EP003/制作成果/发布/三国群萌传_EP003_十八路猪咪讨董_封面_v001.png",
+  "cover_seconds": 2,
+  "cover_attachment_pixels_identical": true,
+  "cover_sha256": "b11f10ec7617f09654381e91cd1c701408849bbf7966a3d9f8f3bf1711000db8",
+  "verification": {
+    "full_decode": "passed",
+    "video_packet_hash_unchanged": true,
+    "video_packet_sha256": "SHA256=e9f31c83206d9f9809293f3535caa414114c92ad2350c70ad439ff9249a8cf2a",
+    "inherited_frames": 1129,
+    "inherited_fps": 24,
+    "inherited_resolution": [
+      1080,
+      1920
+    ],
+    "loudness": {
+      "input_i": "-16.58",
+      "input_tp": "-1.85",
+      "input_lra": "5.70",
+      "input_thresh": "-26.62",
+      "output_i": "-16.01",
+      "output_tp": "-2.00",
+      "output_lra": "5.60",
+      "output_thresh": "-26.05",
+      "normalization_type": "dynamic",
+      "target_offset": "0.01"
+    },
+    "listening": "creator_review_pending"
+  },
+  "original_audio_tracks": [
+    {
+      "source": "H:\\下载文件\\be328f82-df95-4c80-8be1-5160e6602dbb.mp4",
+      "sha256": "f9e5fb8ae8444ec7a5d7ca25f5f4590cb1b3840269a7290ee080bfb7cd1febe3",
+      "timeline_start": 2,
+      "duration": 15,
+      "normalized_target_lufs": -21
+    },
+    {
+      "source": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\EP003_SEG002_原始_v001.mp4",
+      "sha256": "6d9b7810ea0f62892e70908c11c9f13d477f26289d65176ae27278e28e00242d",
+      "timeline_start": 17,
+      "duration": 15,
+      "normalized_target_lufs": -21
+    },
+    {
+      "source": "E:\\AIsanguo\\剧集\\EP003\\制作成果\\videos\\EP003_SEG003_原始_v001.mp4",
+      "sha256": "4d4f6c20f93727f51a79d815055119e225b565b872934151278e73cf28600680",
+      "timeline_start": 32,
+      "duration": 15.041666666666666,
+      "normalized_target_lufs": -21
+    }
+  ],
+  "restored_seg001_audio": "剧集/EP003/制作成果/audio/原视频音轨/EP003_SEG001_原视频完整音轨.wav",
+  "accepted_on": "2026-10-12",
+  "acceptance": "不用了，就按这个为成片，删除多余的文件，然后提交git",
+  "publication_status": "not_reported",
+  "superseded_intermediates": "v001/v002旧成片已按用户要求清理，历史处理记录保留；当前v003来源文件和SHA256仍可追溯。"
+}

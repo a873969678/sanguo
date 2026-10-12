@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-11",
+  "source": "H:\\下载文件\\471bfe73-a57b-4f1f-9c97-c0a49bc733d2.mp4",
+  "saved": "剧集/EP003/制作成果/videos/EP003_SEG003_原始_v001.mp4",
+  "bytes": 6256448,
+  "sha256": "4d4f6c20f93727f51a79d815055119e225b565b872934151278e73cf28600680",
+  "status": "accepted",
+  "acceptance": "第三段的视频可以了，保存",
+  "fps": 24.0,
+  "width": 496,
+  "height": 864,
+  "frames": 361,
+  "video_duration_seconds": 15.041666666666666,
+  "contains_audio_stream": true,
+  "verification": "源文件与项目副本SHA256一致；FFmpeg完整解码成功；OpenCV逐帧解码计数。",
+  "scope": "按用户接受保存原文件，不裁切、不转码、不删除原始附件；未执行独立画面及声音质量审查，未拼接整集。",
+  "generation_input_provenance": "未独立核实实际提交时所用第二段版本；现有操作卡绑定第二段v001。第二段新候选仍未收到，不能声称使用了v002。"
+}
